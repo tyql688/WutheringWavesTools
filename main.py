@@ -3,8 +3,8 @@ import app.enhance
 
 
 def main():
-    app.api.download()
-    # app.enhance.enhance()
+    # app.api.download()
+    app.enhance.enhance()
 
 
 if __name__ == '__main__':
