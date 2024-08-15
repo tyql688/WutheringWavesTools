@@ -52,8 +52,15 @@ def enhance():
         json.dump(old, f, ensure_ascii=False, indent=2)
 
 
-def enhance_role_detail():
+def enhance_role_skill():
     from . import api
     with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
         all_character = json.load(f)
     api.download_skill_pic(all_character)
+
+
+def enhance_role_chain():
+    from . import api
+    with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
+        all_character = json.load(f)
+    api.download_chain_pic(all_character)

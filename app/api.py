@@ -117,6 +117,30 @@ def download_skill_pic(all_character: Dict, is_force: bool = False):
     print(f'{len(all_character)} skill downloaded')
 
 
+def download_chain_pic(all_character: Dict, is_force: bool = False):
+    for resource_id, _ in all_character.items():
+        _dir = ROLE_DETAIL_CHAINS_PATH / resource_id
+        _dir.mkdir(parents=True, exist_ok=True)
+
+        with open(f"{RAW_RESOURCE_PATH}/{resource_id}.json", 'r', encoding='utf-8') as f:
+            role_detail = json.load(f)
+
+        chains = role_detail['Chains']
+        for chain_id, chain in chains.items():
+            name = f'chain_{chain_id}.png'
+            path = _dir / name
+            if not is_force and path.exists():
+                continue
+            resource_path = chain['Icon'].split('.')[0].replace('/Game/Aki/', '')
+            url = f'https://api.hakush.in/ww/{resource_path}.webp'
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+
+    print(f'{len(all_character)} chain downloaded')
+
+
 def download():
     all_character = download_all_character()
     download_all_detail('character', all_character.keys())

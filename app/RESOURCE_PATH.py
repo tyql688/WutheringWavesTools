@@ -3,14 +3,13 @@ from pathlib import Path
 MAIN_PATH = Path(__file__).parents[1] / 'resource'
 
 ROLE = MAIN_PATH / 'role'
-ROLE_DETAIL_PATH = ROLE / 'role_detail'
-ROLE_DETAIL_SKILL_PATH = ROLE_DETAIL_PATH / 'skill'
-ROLE_DETAIL_CHAINS_PATH = ROLE_DETAIL_PATH / 'chains'
 
 PIC = MAIN_PATH / 'pic'
 WEAPON = PIC / 'weapon'
 AVATAR = PIC / 'avatar'
 ROLE_PILE = PIC / 'role_pile'
+ROLE_DETAIL_SKILL_PATH = PIC / 'skill'
+ROLE_DETAIL_CHAINS_PATH = PIC / 'chains'
 CHARACTER_MAP_PATH = MAIN_PATH / 'resource.json'
 CHAR_ID_PATH = MAIN_PATH / 'CharId2Data.json'
 CHAR_ALIAS_PATH = MAIN_PATH / 'char_alias.json'
@@ -28,7 +27,6 @@ def init_dir():
     for i in [
         MAIN_PATH,
         ROLE,
-        ROLE_DETAIL_PATH,
         ROLE_DETAIL_SKILL_PATH,
         ROLE_DETAIL_CHAINS_PATH,
         PIC,
