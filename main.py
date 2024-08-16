@@ -10,5 +10,11 @@ def main():
     app.enhance.enhance_weapon()
 
 
+def new_version():
+    app.api.download()
+    app.enhance.enhance()
+    app.enhance.enhance_weapon()
+
+
 if __name__ == '__main__':
     main()
