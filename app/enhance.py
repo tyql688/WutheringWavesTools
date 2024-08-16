@@ -64,3 +64,61 @@ def enhance_role_chain():
     with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
         all_character = json.load(f)
     api.download_chain_pic(all_character)
+
+
+class WeaponData:
+    def __int__(self):
+        self.name = None
+        self.starLevel = None
+        self.type = None
+        self.stats = None
+        self.effect = None
+        self.effectName = None
+        self.param = None
+
+    def toDict(self):
+        return {
+            "name": self.name,
+            "starLevel": self.starLevel,
+            "type": self.type,
+            "stats": self.stats,
+            "effect": self.effect,
+            "effectName": self.effectName,
+            "param": self.param,
+        }
+
+
+def enhance_weapon():
+    def lower_first_letter(data):
+        if isinstance(data, dict):
+            new_dict = {}
+            for key, value in data.items():
+                new_key = key[0].lower() + key[1:]
+                new_dict[new_key] = lower_first_letter(value)
+            return new_dict
+        elif isinstance(data, list):
+            return [lower_first_letter(item) for item in data]
+        else:
+            return data
+
+    with open(RAW_WEAPON_PATH, 'r', encoding='utf-8') as f:
+        all_weapon = json.load(f)
+
+    weapon_map = {}
+    for weapon_id in all_weapon.keys():
+        with open(f"{RAW_RESOURCE_PATH}/{weapon_id}.json", 'r', encoding='utf-8') as f:
+            weapon_detail = json.load(f)
+
+        weapon = WeaponData()
+        weapon.name = weapon_detail['Name']
+        weapon.starLevel = weapon_detail['Rarity']
+        weapon.type = weapon_detail['Type']
+        # weapon.stats = weapon_detail['Stats']
+        weapon.stats = lower_first_letter(weapon_detail['Stats'])
+        weapon.effect = weapon_detail['Effect']
+        weapon.effectName = weapon_detail['EffectName']
+        weapon.param = weapon_detail['Param']
+        weapon_map[weapon_id] = weapon.toDict()
+
+    with open(WEAPON_PATH, 'w', encoding='utf-8') as f:
+        json.dump(weapon_map, f, ensure_ascii=False)
