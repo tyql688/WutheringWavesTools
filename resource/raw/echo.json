@@ -195,6 +195,24 @@
         "zh-Hans": "绿熔蜥（稚形）",
         "ja": "熔解トカゲ（幼体）"
     },
+    "6000060": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.T_IconMonsterHead_350_UI",
+        "code": "X78-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            7
+        ],
+        "en": "Fallacy of No Return",
+        "intensity": 3,
+        "ko": "돌아갈 곳이 없는 오류",
+        "zh-Hans": "无归的谬误",
+        "ja": "フェイタルエラー"
+    },
     "6000053": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
         "code": "H81-",
@@ -229,6 +247,7 @@
         ],
         "en": "Gulpuff",
         "intensity": 0,
+        "child": 391070076,
         "ko": "꾹꾹복어",
         "zh-Hans": "咕咕河豚",
         "ja": "グルッポ"
@@ -1038,6 +1057,7 @@
         ],
         "en": "Lumiscale Construct",
         "intensity": 1,
+        "child": 6010057,
         "ko": "용비늘의 기축",
         "zh-Hans": "游鳞机枢",
         "ja": "浮遊鱗機（ふゆうりんき）"

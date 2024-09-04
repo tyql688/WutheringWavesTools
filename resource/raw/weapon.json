@@ -119,6 +119,16 @@
         "zh-Hans": "戍关臂铠·拔山",
         "ja": "辺守手甲・造設"
     },
+    "21010084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010084_UI.T_IconWeapon21010084_UI",
+        "rank": 4,
+        "type": 1,
+        "en": "Waning Redshift",
+        "desc": "A prototype weapon designed by the Black Shores for elite combatants. This broadblade takes its name from the fate of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+        "ko": "죽음의 주파수",
+        "zh-Hans": "凋亡频移",
+        "ja": "破滅に迫る赤方偏移"
+    },
     "21010044": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010044_UI.T_IconWeapon21010044_UI",
         "rank": 4,
@@ -239,6 +249,16 @@
         "zh-Hans": "袍泽之固",
         "ja": "金鉄の志"
     },
+    "21050036": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050027_UI.T_IconWeapon21050027_UI",
+        "rank": 5,
+        "type": 5,
+        "en": "Stellar Symphony",
+        "desc": "An energy core that simulates the cycle of stellar evolution. Infinity originates from the singularity, scattering the stars it pulls in. However, echoes always return even in the silence of finality—greetings from the birth of new stars.",
+        "ko": "뭇별의 교향곡",
+        "zh-Hans": "星序协响",
+        "ja": "星々のコンチェルト"
+    },
     "21030011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030011_UI.T_IconWeapon21030011_UI",
         "rank": 1,
@@ -268,6 +288,16 @@
         "ko": "기묘한 울림",
         "zh-Hans": "异响空灵",
         "ja": "霊感ディスコード"
+    },
+    "21020084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020084_UI.T_IconWeapon21020084_UI",
+        "rank": 4,
+        "type": 2,
+        "en": "Endless Collapse",
+        "desc": "A prototype weapon designed by the Black Shores for elite combatants. This sword takes its name from the heart of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+        "ko": "영원의 붕괴",
+        "zh-Hans": "永续坍缩",
+        "ja": "永遠を砕く重力崩壊"
     },
     "21050015": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.T_IconWeapon21050015_UI",
@@ -449,6 +479,16 @@
         "zh-Hans": "东落",
         "ja": "逆行の星"
     },
+    "21040084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040084_UI.T_IconWeapon21040084_UI",
+        "rank": 4,
+        "type": 4,
+        "en": "Celestial Spiral",
+        "desc": "A prototype weapon designed by the Black Shores for elite combatants. These gauntlets take their name from the tragic demise of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+        "ko": "천상의 나선",
+        "zh-Hans": "尘云旋臂",
+        "ja": "星屑が捩れる渦巻腕"
+    },
     "21010074": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010074_UI.T_IconWeapon21010074_UI",
         "rank": 4,
@@ -468,6 +508,16 @@
         "ko": "태초의 권총",
         "zh-Hans": "原初佩枪·穿林",
         "ja": "原初の拳銃・深森"
+    },
+    "21030084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030084_UI.T_IconWeapon21030084_UI",
+        "rank": 4,
+        "type": 3,
+        "en": "Relativistic Jet",
+        "desc": "A prototype weapon designed by the Black Shores for elite combatants. These pistols take their name from the incessant course of destruction of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+        "ko": "역설의 격류",
+        "zh-Hans": "悖论喷流",
+        "ja": "悖理を説く宇宙ジェット"
     },
     "21010043": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010043_UI.T_IconWeapon21010043_UI",
@@ -558,6 +608,16 @@
         "ko": "41형 대검 · 무거운 책임",
         "zh-Hans": "重破刃-41型",
         "ja": "重破刃＃41"
+    },
+    "21050084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050084_UI.T_IconWeapon21050084_UI",
+        "rank": 4,
+        "type": 5,
+        "en": "Fusion Accretion",
+        "desc": "A prototype weapon designed by the Black Shores for elite combatants. This rectifier takes its name from the devastating might of a blazar—a galactic nucleus whose blinding radiance pierces the cosmos, shining unmistakably across billions of light years.",
+        "ko": "융합의 원반",
+        "zh-Hans": "核熔星盘",
+        "ja": "コアが溶融する降着円盤"
     },
     "21050023": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050023_UI.T_IconWeapon21050023_UI",
