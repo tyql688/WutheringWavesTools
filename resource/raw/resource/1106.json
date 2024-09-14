@@ -1674,7 +1674,7 @@
             ],
             "Skill": {
                 "Name": "匣中问祯",
-                "Desc": "釉瑚掷出匣子，造成<color=Ice>冷凝伤害</color>，回复附近队伍中所有角色的生命值，并进行一次<color=Highlight>问祯</color>。\n<size=10> </size>\n<size=40><color=Title>问祯</color></size>\n进行<color=Highlight>问祯</color>后，有概率获得不同的<color=Highlight>祯祥</color>。\n拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。\n拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。\n<size=10> </size>\n<size=40><color=Title>奇珍赏</color></size>\n·<color=Highlight>编钟</color>：使用编钟进行攻击，造成<color=Ice>冷凝伤害</color>。编钟削减怪物共振度的能力较高。\n·<color=Highlight>如意</color>：使用如意对前方进行挥打，造成<color=Ice>冷凝伤害</color>。如意的倍率较高。\n·<color=Highlight>鼎</color>：跳上鼎往前位移撞击敌人，造成<color=Ice>冷凝伤害</color>。鼎的打断能力较高。\n·<color=Highlight>面具</color>：丢出面具对前方敌人进行攻击，造成<color=Ice>冷凝伤害</color>。面具可牵引飞行路径上的目标。",
+                "Desc": "釉瑚掷出匣子，造成<color=Ice>冷凝伤害</color>，回复附近队伍中所有角色的生命值，并进行一次<color=Highlight>问祯</color>。\n<size=10> </size>\n<size=40><color=Title>问祯</color></size>\n进行<color=Highlight>问祯</color>后，有概率获得不同的<color=Highlight>祯祥</color>。\n拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。\n拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。\n<size=10> </size>\n<size=40><color=Title>奇珍赏</color></size>\n·<color=Highlight>编钟</color>：使用编钟进行攻击，造成<color=Ice>冷凝伤害</color>。编钟削减怪物共振度的能力较强。\n·<color=Highlight>如意</color>：使用如意对前方进行挥打，造成<color=Ice>冷凝伤害</color>。如意的伤害倍率较高。\n·<color=Highlight>鼎</color>：跳上鼎往前位移撞击敌人，造成<color=Ice>冷凝伤害</color>。鼎的打断能力较强。\n·<color=Highlight>面具</color>：丢出面具对前方敌人进行攻击，造成<color=Ice>冷凝伤害</color>。面具可牵引飞行路径上的目标。",
                 "Param": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuB4.SP_IconYouhuB4",
                 "Type": "共鸣技能",
@@ -2651,6 +2651,34 @@
                         "Format": "{0}秒"
                     },
                     "3": {
+                        "Name": "消耗共鸣能量",
+                        "Param": [
+                            [
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100",
+                                "100"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "4": {
                         "Name": "回复协奏能量",
                         "Param": [
                             [
@@ -4171,7 +4199,7 @@
         },
         "3": {
             "Name": "火中噩魇",
-            "Desc": "釉瑚的攻击提高{0}。",
+            "Desc": "釉瑚的攻击提升{0}。",
             "Param": [
                 "20%"
             ],

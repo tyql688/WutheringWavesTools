@@ -14,6 +14,7 @@ CHARACTER_MAP_PATH = MAIN_PATH / 'resource.json'
 CHAR_ID_PATH = MAIN_PATH / 'CharId2Data.json'
 CHAR_ALIAS_PATH = MAIN_PATH / 'char_alias.json'
 WEAPON_PATH = MAIN_PATH / 'weaponData.json'
+WEAPON_ALIAS_PATH = MAIN_PATH / 'weapon_alias.json'
 
 ID_NAME_PATH = MAIN_PATH / 'id2name.json'
 

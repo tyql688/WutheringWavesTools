@@ -51,6 +51,16 @@ def enhance():
     with open(CHAR_ALIAS_PATH, 'w', encoding='utf-8') as f:
         json.dump(old, f, ensure_ascii=False, indent=2)
 
+    _weapon = {_id: detail['zh-Hans'] for _id, detail in all_weapon.items() if detail['rank'] >= 4}
+    with open(WEAPON_ALIAS_PATH, 'r', encoding='utf-8') as f:
+        old_weapon = json.load(f)
+        for i in _weapon.values():
+            if i not in old_weapon:
+                old_weapon[i] = [i]
+
+    with open(WEAPON_ALIAS_PATH, 'w', encoding='utf-8') as f:
+        json.dump(old_weapon, f, ensure_ascii=False, indent=2)
+
 
 def enhance_role_skill():
     from . import api

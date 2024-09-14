@@ -667,3 +667,5 @@ FodyWeavers.xsd
 ### CI ###
 result.txt
 upload_file.py
+
+.DS_Store
