@@ -1956,7 +1956,7 @@
                     "1103200002": {
                         "Element": 0,
                         "RelatedProperty": "生命",
-                        "Type": 0,
+                        "Type": 4,
                         "RateLv": [
                             290,
                             314,
