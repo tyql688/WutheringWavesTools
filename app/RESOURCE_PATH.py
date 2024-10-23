@@ -13,7 +13,11 @@ ROLE_DETAIL_CHAINS_PATH = PIC / 'chains'
 CHARACTER_MAP_PATH = MAIN_PATH / 'resource.json'
 CHAR_ID_PATH = MAIN_PATH / 'CharId2Data.json'
 CHAR_ALIAS_PATH = MAIN_PATH / 'char_alias.json'
-WEAPON_PATH = MAIN_PATH / 'weaponData.json'
+# CHAR_PATH = MAIN_PATH / 'charData.json'
+# WEAPON_PATH = MAIN_PATH / 'weaponData.json'
+CHAR_PATH = MAIN_PATH / 'detail_json/char'
+WEAPON_PATH = MAIN_PATH / 'detail_json/weapon'
+
 WEAPON_ALIAS_PATH = MAIN_PATH / 'weapon_alias.json'
 
 ID_NAME_PATH = MAIN_PATH / 'id2name.json'

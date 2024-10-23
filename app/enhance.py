@@ -98,6 +98,20 @@ class WeaponData:
         }
 
 
+class CharData:
+    def __int__(self):
+        self.name = None
+        self.starLevel = None
+        self.stats = None
+
+    def toDict(self):
+        return {
+            "name": self.name,
+            "starLevel": self.starLevel,
+            "stats": self.stats,
+        }
+
+
 def enhance_weapon():
     def lower_first_letter(data):
         if isinstance(data, dict):
@@ -130,5 +144,41 @@ def enhance_weapon():
         weapon.param = weapon_detail['Param']
         weapon_map[weapon_id] = weapon.toDict()
 
-    with open(WEAPON_PATH, 'w', encoding='utf-8') as f:
-        json.dump(weapon_map, f, ensure_ascii=False)
+    # with open(WEAPON_PATH, 'w', encoding='utf-8') as f:
+    #     json.dump(weapon_map, f, ensure_ascii=False)
+
+    for weapon_id in weapon_map.keys():
+        with open(WEAPON_PATH / f'{weapon_id}.json', 'w', encoding='utf-8') as f:
+            json.dump(weapon_map[weapon_id], f, ensure_ascii=False)
+
+
+def enhance_char():
+    def lower_first_letter(data):
+        if isinstance(data, dict):
+            new_dict = {}
+            for key, value in data.items():
+                new_key = key[0].lower() + key[1:]
+                new_dict[new_key] = lower_first_letter(value)
+            return new_dict
+        elif isinstance(data, list):
+            return [lower_first_letter(item) for item in data]
+        else:
+            return data
+
+    with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
+        all_char = json.load(f)
+
+    char_map = {}
+    for char_id in all_char.keys():
+        with open(f"{RAW_RESOURCE_PATH}/{char_id}.json", 'r', encoding='utf-8') as f:
+            char_detail = json.load(f)
+
+        _char = CharData()
+        _char.name = char_detail['Name']
+        _char.starLevel = char_detail['Rarity']
+        _char.stats = lower_first_letter(char_detail['Stats'])
+        char_map[char_id] = _char.toDict()
+
+    for char_id in char_map.keys():
+        with open(CHAR_PATH / f'{char_id}.json', 'w', encoding='utf-8') as f:
+            json.dump(char_map[char_id], f, ensure_ascii=False)
