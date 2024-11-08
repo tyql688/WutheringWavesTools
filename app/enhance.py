@@ -78,19 +78,20 @@ def enhance_role_chain():
     api.download_chain_pic(all_character)
 
 
-def enhance_weapon():
-    def lower_first_letter(data):
-        if isinstance(data, dict):
-            new_dict = {}
-            for key, value in data.items():
-                new_key = key[0].lower() + key[1:]
-                new_dict[new_key] = lower_first_letter(value)
-            return new_dict
-        elif isinstance(data, list):
-            return [lower_first_letter(item) for item in data]
-        else:
-            return data
+def lower_first_letter(data):
+    if isinstance(data, dict):
+        new_dict = {}
+        for key, value in data.items():
+            new_key = key[0].lower() + key[1:]
+            new_dict[new_key] = lower_first_letter(value)
+        return new_dict
+    elif isinstance(data, list):
+        return [lower_first_letter(item) for item in data]
+    else:
+        return data
 
+
+def enhance_weapon():
     with open(RAW_WEAPON_PATH, 'r', encoding='utf-8') as f:
         all_weapon = json.load(f)
 
@@ -109,18 +110,6 @@ def enhance_weapon():
 
 
 def enhance_char():
-    def lower_first_letter(data):
-        if isinstance(data, dict):
-            new_dict = {}
-            for key, value in data.items():
-                new_key = key[0].lower() + key[1:]
-                new_dict[new_key] = lower_first_letter(value)
-            return new_dict
-        elif isinstance(data, list):
-            return [lower_first_letter(item) for item in data]
-        else:
-            return data
-
     with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
         all_char = json.load(f)
 
