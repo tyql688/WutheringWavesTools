@@ -1,6 +1,7 @@
 import json
 
 from .RESOURCE_PATH import *
+from .char_model import CharModel
 
 special_character = {
     "1604": "漂泊者·湮灭·女",
@@ -98,20 +99,6 @@ class WeaponData:
         }
 
 
-class CharData:
-    def __int__(self):
-        self.name = None
-        self.starLevel = None
-        self.stats = None
-
-    def toDict(self):
-        return {
-            "name": self.name,
-            "starLevel": self.starLevel,
-            "stats": self.stats,
-        }
-
-
 def enhance_weapon():
     def lower_first_letter(data):
         if isinstance(data, dict):
@@ -173,12 +160,10 @@ def enhance_char():
         with open(f"{RAW_RESOURCE_PATH}/{char_id}.json", 'r', encoding='utf-8') as f:
             char_detail = json.load(f)
 
-        _char = CharData()
-        _char.name = char_detail['Name']
-        _char.starLevel = char_detail['Rarity']
-        _char.stats = lower_first_letter(char_detail['Stats'])
-        char_map[char_id] = _char.toDict()
+        char_model = CharModel.parse_obj(char_detail)
+        char_map[char_id] = lower_first_letter(char_model.dict(exclude_none=True))
+        print(char_map[char_id])
 
     for char_id in char_map.keys():
         with open(CHAR_PATH / f'{char_id}.json', 'w', encoding='utf-8') as f:
-            json.dump(char_map[char_id], f, ensure_ascii=False)
+            json.dump(char_map[char_id], f, ensure_ascii=False, indent=2)

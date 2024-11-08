@@ -11,9 +11,9 @@ def main():
 
 
 def new_version():
-    app.api.download()
-    app.enhance.enhance()
-    app.enhance.enhance_weapon()
+    # app.api.download()
+    # app.enhance.enhance()
+    # app.enhance.enhance_weapon()
     app.enhance.enhance_char()
 
 
