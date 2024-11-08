@@ -2,6 +2,7 @@ import json
 
 from .RESOURCE_PATH import *
 from .char_model import CharModel
+from .weapon_model import WeaponModel
 
 special_character = {
     "1604": "漂泊者·湮灭·女",
@@ -77,28 +78,6 @@ def enhance_role_chain():
     api.download_chain_pic(all_character)
 
 
-class WeaponData:
-    def __int__(self):
-        self.name = None
-        self.starLevel = None
-        self.type = None
-        self.stats = None
-        self.effect = None
-        self.effectName = None
-        self.param = None
-
-    def toDict(self):
-        return {
-            "name": self.name,
-            "starLevel": self.starLevel,
-            "type": self.type,
-            "stats": self.stats,
-            "effect": self.effect,
-            "effectName": self.effectName,
-            "param": self.param,
-        }
-
-
 def enhance_weapon():
     def lower_first_letter(data):
         if isinstance(data, dict):
@@ -120,23 +99,13 @@ def enhance_weapon():
         with open(f"{RAW_RESOURCE_PATH}/{weapon_id}.json", 'r', encoding='utf-8') as f:
             weapon_detail = json.load(f)
 
-        weapon = WeaponData()
-        weapon.name = weapon_detail['Name']
-        weapon.starLevel = weapon_detail['Rarity']
-        weapon.type = weapon_detail['Type']
-        # weapon.stats = weapon_detail['Stats']
-        weapon.stats = lower_first_letter(weapon_detail['Stats'])
-        weapon.effect = weapon_detail['Effect']
-        weapon.effectName = weapon_detail['EffectName']
-        weapon.param = weapon_detail['Param']
-        weapon_map[weapon_id] = weapon.toDict()
-
-    # with open(WEAPON_PATH, 'w', encoding='utf-8') as f:
-    #     json.dump(weapon_map, f, ensure_ascii=False)
+        weapon_model = WeaponModel.parse_obj(weapon_detail)
+        weapon_map[weapon_id] = lower_first_letter(weapon_model.dict(exclude_none=True))
+        print(weapon_map[weapon_id])
 
     for weapon_id in weapon_map.keys():
         with open(WEAPON_PATH / f'{weapon_id}.json', 'w', encoding='utf-8') as f:
-            json.dump(weapon_map[weapon_id], f, ensure_ascii=False)
+            json.dump(weapon_map[weapon_id], f, ensure_ascii=False, indent=2)
 
 
 def enhance_char():
