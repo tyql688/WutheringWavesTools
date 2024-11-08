@@ -13,11 +13,6 @@ def remove_text_inside_brackets(text: str) -> str:
     return text
 
 
-class ConsumeItem(BaseModel):
-    Key: int
-    Value: int
-
-
 class SkillLevelDetail(BaseModel):
     Name: str
     Param: List[List[str]]
@@ -27,7 +22,6 @@ class SkillLevel(RootModel):
     root: SkillLevelDetail
 
 
-# 定义技能的模型
 class SkillDetail(BaseModel):
     Name: str
     Desc: str
@@ -40,9 +34,7 @@ class SkillDetail(BaseModel):
         return remove_text_inside_brackets(v)
 
 
-# 定义节点的模型
 class SkillNode(BaseModel):
-    Consume: List[ConsumeItem]
     Skill: SkillDetail
 
 
@@ -60,6 +52,20 @@ class Stats(RootModel):
     root: Dict[str, CharacterStats]
 
 
+class ChainDetail(BaseModel):
+    Name: str
+    Desc: str
+    Param: List[str]
+
+    @field_validator('Desc', mode='before')
+    def clean_name(cls, v):
+        return remove_text_inside_brackets(v)
+
+
+class Chains(RootModel):
+    root: Dict[str, ChainDetail]
+
+
 # 定义模型
 class CharModel(BaseModel):
     name: str = Field(alias="Name")
@@ -67,3 +73,4 @@ class CharModel(BaseModel):
     stats: Stats = Field(alias="Stats")
     levelExp: List[int] = Field(alias="LevelEXP")
     skillTree: Dict[str, SkillNode] = Field(alias="SkillTrees")
+    chains: Chains = Field(alias="Chains")
