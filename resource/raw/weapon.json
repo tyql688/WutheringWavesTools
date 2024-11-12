@@ -9,6 +9,16 @@
         "zh-Hans": "异度",
         "ja": "変化の星"
     },
+    "21040063": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040053_UI.T_IconWeapon21040053_UI",
+        "rank": 3,
+        "type": 4,
+        "en": "Guardian Gauntlets",
+        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "ko": "수호자의 권갑 · 강력",
+        "zh-Hans": "戍关臂铠·拔山",
+        "ja": "辺守手甲・造設"
+    },
     "21020023": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020023_UI.T_IconWeapon21020023_UI",
         "rank": 3,
@@ -189,6 +199,16 @@
         "zh-Hans": "戍关音感仪·留光",
         "ja": "辺守増幅器・伝承"
     },
+    "21050063": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050053_UI.T_IconWeapon21050053_UI",
+        "rank": 3,
+        "type": 5,
+        "en": "Guardian Rectifier",
+        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "ko": "수호자의 증폭기 · 모략",
+        "zh-Hans": "戍关音感仪·留光",
+        "ja": "辺守増幅器・伝承"
+    },
     "21030053": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.T_IconWeapon21030053_UI",
         "rank": 3,
@@ -254,7 +274,7 @@
         "rank": 5,
         "type": 5,
         "en": "Stellar Symphony",
-        "desc": "An energy core that simulates the cycle of stellar evolution. Infinity originates from the singularity, scattering the stars it pulls in. However, echoes always return even in the silence of finality—greetings from the birth of new stars.",
+        "desc": "A rectifier bearing an energy core that simulates the lifecycle of stars—an infinite loop that originates from a singularity and ends in explosive demise. The celestial debris collides in thunderous rumbles, heralding the birth of a new star.",
         "ko": "뭇별의 교향곡",
         "zh-Hans": "星序协响",
         "ja": "星々のコンチェルト"
@@ -288,6 +308,16 @@
         "ko": "기묘한 울림",
         "zh-Hans": "异响空灵",
         "ja": "霊感ディスコード"
+    },
+    "21030063": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.T_IconWeapon21030053_UI",
+        "rank": 3,
+        "type": 3,
+        "en": "",
+        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
+        "ko": "",
+        "zh-Hans": "",
+        "ja": ""
     },
     "21020084": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020084_UI.T_IconWeapon21020084_UI",
@@ -429,6 +459,16 @@
         "zh-Hans": "鸣动仪-25型",
         "ja": "鳴動機＃25"
     },
+    "21010073": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.T_IconWeapon21010053_UI",
+        "rank": 3,
+        "type": 1,
+        "en": "",
+        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone in the development of new weapons.",
+        "ko": "",
+        "zh-Hans": "",
+        "ja": ""
+    },
     "21030023": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030023_UI.T_IconWeapon21030023_UI",
         "rank": 3,
@@ -468,6 +508,16 @@
         "ko": "팔방의 천추",
         "zh-Hans": "诸方玄枢",
         "ja": "万端の枢機"
+    },
+    "21020026": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020017_UI.T_IconWeapon21020017_UI",
+        "rank": 5,
+        "type": 2,
+        "en": "Red Spring",
+        "desc": "A camellia bud silently unfurls. As promised, she holds this infinite world in bloom in her palms, where fine crimson vines twine around her fingertips.\nThe dull ache, like sand scratching against the heart, is proof of your fateful encounter.",
+        "ko": "날카로운 봄",
+        "zh-Hans": "裁春",
+        "ja": "春裁ち"
     },
     "21010064": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010064_UI.T_IconWeapon21010064_UI",
@@ -599,6 +649,16 @@
         "zh-Hans": "暗夜矩阵·暝光",
         "ja": "暗夜の増幅器・冥光"
     },
+    "21020017": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020019_UI.T_IconWeapon21020019_UI",
+        "rank": 4,
+        "type": 2,
+        "en": "Somnoire Anchor",
+        "desc": "An anchor once used by Ivory Gatekeeper to stablize the Somnoire.\nHowever, it now looks different ever since Ivory Gatekeeper transformed into a white cat...",
+        "ko": "마음의 닻",
+        "zh-Hans": "心之锚",
+        "ja": "心の錨"
+    },
     "21010034": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010034_UI.T_IconWeapon21010034_UI",
         "rank": 4,
@@ -718,6 +778,16 @@
         "ko": "26형 권총 · 맹렬한 돌격",
         "zh-Hans": "穿击枪-26型",
         "ja": "穿撃銃＃26"
+    },
+    "21020063": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020053_UI.T_IconWeapon21020053_UI",
+        "rank": 3,
+        "type": 2,
+        "en": "",
+        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone for the development of new weapons.",
+        "ko": "",
+        "zh-Hans": "",
+        "ja": ""
     },
     "21020015": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.T_IconWeapon21020015_UI",

@@ -208,7 +208,7 @@
             7
         ],
         "en": "Fallacy of No Return",
-        "intensity": 3,
+        "intensity": 2,
         "ko": "돌아갈 곳이 없는 오류",
         "zh-Hans": "无归的谬误",
         "ja": "フェイタルエラー"
@@ -806,6 +806,7 @@
         ],
         "en": "Inferno Rider",
         "intensity": 2,
+        "child": 391080007,
         "ko": "지옥불 기사",
         "zh-Hans": "燎照之骑",
         "ja": "燎原の炎騎"

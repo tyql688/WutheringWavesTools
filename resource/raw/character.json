@@ -54,7 +54,7 @@
         "element": 5,
         "en": "Shorekeeper",
         "nickname": "Shorekeeper",
-        "desc": "Changli",
+        "desc": "The Shorekeeper, guardian of the Black Shores—this title alone once defined her. \nBut desires, bonds, and emotions… She only began to understand these things after meeting you.",
         "ko": "파수인",
         "zh-Hans": "守岸人",
         "ja": "ショアキーパー"
@@ -102,7 +102,7 @@
         "element": 2,
         "en": "Encore",
         "nickname": "Wooly-Counting Game",
-        "desc": "A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination.",
+        "desc": "A girl accompanied by one black and one white Wooly. Encore, consultant from the Black Shores, dreams of creating happy stories with candies, fairy tales, and her imagination.",
         "ko": "앙코",
         "zh-Hans": "安可",
         "ja": "アンコ"
@@ -162,7 +162,7 @@
         "element": 1,
         "en": "Youhu",
         "nickname": "Youhu",
-        "desc": "An artist for hire trying to make a living. Reserved and timid, she is not good with words but speaks volumes through her art, where her creations come to life with impossible authenticity.",
+        "desc": "A voluble and whimsical antique appraiser.\nKnown for creating limericks on the spot, she presents her appraisals with flair and precision. She sets up a stall on the street, ensuring antiques find their way to those who truly cherish them.",
         "ko": "유호",
         "zh-Hans": "釉瑚",
         "ja": "釉瑚"
@@ -174,7 +174,7 @@
         "element": 2,
         "en": "Chixia",
         "nickname": "Gallant Blaze",
-        "desc": "Chixia is a spirited young Patroller who lights up the streets of Jinzhou. She’s always ready to be the hero someone needs.",
+        "desc": "Chixia is a spirited young Patroller who lights up the streets of Jinzhou. She's always ready to be the hero someone needs.",
         "ko": "치샤",
         "zh-Hans": "炽霞",
         "ja": "熾霞"
@@ -210,7 +210,7 @@
         "element": 3,
         "en": "Calcharo",
         "nickname": "Calcharo",
-        "desc": "Leader of the \"Ghost Hounds\", an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.",
+        "desc": "Leader of the \"Ghost Hounds,\" an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.",
         "ko": "카카루",
         "zh-Hans": "卡卡罗",
         "ja": "カカロ"
@@ -274,6 +274,30 @@
         "ko": "모르테피",
         "zh-Hans": "莫特斐",
         "ja": "モルトフィー"
+    },
+    "1504": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.T_IconRoleHead256_30_UI",
+        "rank": 4,
+        "weapon": 1,
+        "element": 3,
+        "en": "Lumi",
+        "nickname": "Lumi",
+        "desc": "Navigator at Lollo Logistics and leader of a transport squad team.\nBorn in a mountain village in Yuezhou, Lumi's sincere and caring nature brings warmth to everyone around her.",
+        "ko": "루미",
+        "zh-Hans": "灯灯",
+        "ja": "灯灯"
+    },
+    "1603": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.T_IconRoleHead256_29_UI",
+        "rank": 5,
+        "weapon": 2,
+        "element": 6,
+        "en": "Camellya",
+        "nickname": "Camellya",
+        "desc": "A Bloom Bearer of the Black Shores, Camellya is free-spirited and dangerously charming.\nShe roams Solaris in search of talent, immersing herself in the present and relishing its pleasures, all while remaining true to herself, unburdened by thoughts of the past or future.",
+        "ko": "카멜리아",
+        "zh-Hans": "椿",
+        "ja": "ツバキ"
     },
     "1501": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.T_IconRoleHead256_4_UI",
