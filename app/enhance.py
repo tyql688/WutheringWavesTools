@@ -2,6 +2,7 @@ import json
 
 from .RESOURCE_PATH import *
 from .char_model import CharModel
+from .utils import lower_first_letter
 from .weapon_model import WeaponModel
 
 special_character = {
@@ -76,19 +77,6 @@ def enhance_role_chain():
     with open(RAW_CHARACTER_PATH, 'r', encoding='utf-8') as f:
         all_character = json.load(f)
     api.download_chain_pic(all_character)
-
-
-def lower_first_letter(data):
-    if isinstance(data, dict):
-        new_dict = {}
-        for key, value in data.items():
-            new_key = key[0].lower() + key[1:]
-            new_dict[new_key] = lower_first_letter(value)
-        return new_dict
-    elif isinstance(data, list):
-        return [lower_first_letter(item) for item in data]
-    else:
-        return data
 
 
 def enhance_weapon():

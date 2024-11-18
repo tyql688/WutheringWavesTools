@@ -28,6 +28,8 @@ RAW_CHARACTER_PATH = RAW_DATA_PATH / 'character.json'
 RAW_WEAPON_PATH = RAW_DATA_PATH / 'weapon.json'
 RAW_ECHO_PATH = RAW_DATA_PATH / 'echo.json'
 
+APP_PATH = Path(__file__).parents[1] / 'app'
+
 
 def init_dir():
     for i in [

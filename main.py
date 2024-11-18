@@ -17,5 +17,12 @@ def new_version():
     app.enhance.enhance_char()
 
 
+def generate():
+    import app.generate
+    app.generate.generate_weapon()
+    app.generate.generate_echo()
+    app.generate.generate_char()
+
+
 if __name__ == '__main__':
-    new_version()
+    generate()
