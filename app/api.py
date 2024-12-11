@@ -83,12 +83,15 @@ def download_all_weapon_pic(all_weapon: Dict, is_force: bool = False):
         path = WEAPON / name
         if not is_force and path.exists():
             continue
-        resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
-        url = f'https://api.hakush.in/ww/{resource_path}.webp'
-        res = _session.get(url)
-        res.raise_for_status()
-        with open(path, 'wb') as f:
-            f.write(res.content)
+        try:
+            resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
+            url = f'https://api.hakush.in/ww/{resource_path}.webp'
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except:
+            continue
 
     print(f'{len(all_weapon)} weapons downloaded')
 
