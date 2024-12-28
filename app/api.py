@@ -144,9 +144,9 @@ def download_chain_pic(all_character: Dict, is_force: bool = False):
     print(f'{len(all_character)} chain downloaded')
 
 
-def download_url(url_list):
+def download_url(url_list, self_path=SELF_PATH):
     for name, url in url_list.items():
-        path = SELF_PATH / name
+        path = self_path / name
         res = _session.get(url)
         res.raise_for_status()
         with open(path, 'wb') as f:
