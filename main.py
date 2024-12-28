@@ -1,6 +1,10 @@
 import app.api
 import app.enhance
 
+url_list = {
+    "1304.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.webp"
+}
+
 
 def main():
     # app.api.download()
@@ -25,4 +29,6 @@ def generate():
 
 
 if __name__ == '__main__':
-    generate()
+    # new_version()
+    # generate()
+    app.api.download_url(url_list)

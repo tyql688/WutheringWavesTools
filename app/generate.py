@@ -24,6 +24,9 @@ def generate_weapon():
             with open(f"{RAW_RESOURCE_PATH}/{weapon_id}.json", 'r', encoding='utf-8') as f:
                 weapon_detail = json.load(f)
 
+            if weapon_detail.get('Skin'):
+                continue
+
             weapon_detail = WeaponModel.parse_obj(weapon_detail)
             weapon_map[weapon_id] = lower_first_letter(weapon_detail.dict(exclude_none=True))
 
