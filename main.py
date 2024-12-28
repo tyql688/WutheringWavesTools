@@ -1,8 +1,10 @@
 import app.api
 import app.enhance
 
+prex = "self_"
 url_list = {
-    "1304.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.webp"
+    f"{prex}role_head_1304.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.webp",
+    f"{prex}role_pile_1304.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.webp"
 }
 
 
