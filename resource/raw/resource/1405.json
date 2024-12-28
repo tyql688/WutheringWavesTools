@@ -74,287 +74,344 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "你身手很好，如有机会，我们切磋一番如何？我喜欢挑战，你这样的强者，不比试比试我不甘心！"
+            "Content": "你身手很好，如有机会，我们切磋一番如何？我喜欢挑战，你这样的强者，不比试比试我不甘心！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_to_player01.play_favor_word_jianxin_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "我其实很好奇为何你会懂得如此多的事情，我也山下游历过，但似乎还差得多。如果有不会的事情，我以后可以问你吗？不过我理解起来会有点慢，希望你不会嫌我麻烦……"
+            "Content": "我其实很好奇为何你会懂得如此多的事情，我也山下游历过，但似乎还差得多。如果有不会的事情，我以后可以问你吗？不过我理解起来会有点慢，希望你不会嫌我麻烦……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_to_player02.play_favor_word_jianxin_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "小道所在道馆在山顶之上，僻静清幽，寻常人上去还是要花些力气的，不过如果是你，应该会很轻松。你好奇的话，我可以带你上山去看看。我早就想请你去做客啦！"
+            "Content": "小道所在道馆在山顶之上，僻静清幽，寻常人上去还是要花些力气的，不过如果是你，应该会很轻松。你好奇的话，我可以带你上山去看看。我早就想请你去做客啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_to_player03.play_favor_word_jianxin_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "我自幼心钝，钻研拳法是唯一的人生之事，但是我很佩服聪颖正直、智勇兼备之人。你武功高强、心怀大道，除了师长之外，你是小道最敬佩的人了。"
+            "Content": "我自幼心钝，钻研拳法是唯一的人生之事，但是我很佩服聪颖正直、智勇兼备之人。你武功高强、心怀大道，除了师长之外，你是小道最敬佩的人了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_to_player04.play_favor_word_jianxin_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "我喜欢融入自然，与天地合一，鸟鸣叶落、万色霞光，芬芳清新的气息伴着微风在身边流动，生命之美无处不在，一切都恰到好处的舒适，和你相处，也是同样的感受。"
+            "Content": "我喜欢融入自然，与天地合一，鸟鸣叶落、万色霞光，芬芳清新的气息伴着微风在身边流动，生命之美无处不在，一切都恰到好处的舒适，和你相处，也是同样的感受。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_to_player05.play_favor_word_jianxin_to_player05"
         },
         {
             "Type": 1,
             "Title": "鉴心的喜好",
-            "Content": "修习拳术，走向极致是我一生所求。当然啦，无论是在溪流间、山尖上，闹市中……世间方寸都是修习的好地方，我喜欢身处各地静静感受自然与万物的气息与能量，以此寻求新的突破。"
+            "Content": "修习拳术，走向极致是我一生所求。当然啦，无论是在溪流间、山尖上，闹市中……世间方寸都是修习的好地方，我喜欢身处各地静静感受自然与万物的气息与能量，以此寻求新的突破。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_taste.play_favor_word_jianxin_taste"
         },
         {
             "Type": 1,
             "Title": "鉴心的烦恼",
-            "Content": "值得尊敬的对手总是很难寻找，挑战可以助我精进，不过，我倒是也没那么执着于此，离欲心静，自然成长也好。"
+            "Content": "值得尊敬的对手总是很难寻找，挑战可以助我精进，不过，我倒是也没那么执着于此，离欲心静，自然成长也好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_worry.play_favor_word_jianxin_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "锅盔，这是小时候在道馆最常吃的食物了！师父们总是会把大部分烤饼分给年龄小的我们。十陵师父还说，我当时是被他包袱里的锅盔引上山的，我也不知道这句话是真是假，十陵师父有时候就是喜欢逗我们。"
+            "Content": "锅盔，这是小时候在道馆最常吃的食物了！师父们总是会把大部分烤饼分给年龄小的我们。十陵师父还说，我当时是被他包袱里的锅盔引上山的，我也不知道这句话是真是假，十陵师父有时候就是喜欢逗我们。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_food_favor.play_favor_word_jianxin_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "我没有什么很讨厌的食物，也无口腹之欲，人们将各种食材相互搭配，多为强体、疗疾、保健，而不同材料丰富的口味与特点都是万物自化的结果，各有所用，各有善向。"
+            "Content": "我没有什么很讨厌的食物，也无口腹之欲，人们将各种食材相互搭配，多为强体、疗疾、保健，而不同材料丰富的口味与特点都是万物自化的结果，各有所用，各有善向。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_food_hate.play_favor_word_jianxin_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "内外合修，净尽无余，自得玄妙，造道之极。"
+            "Content": "内外合修，净尽无余，自得玄妙，造道之极。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_dream.play_favor_word_jianxin_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "云纹离邪镜是小时候十陵师父给我的，它的寓意很丰富，师父们想让我修道持恒、律己修身、完善发展。我带着它不仅仅是因为铭记教诲，更是觉得它是师父们对我呵护关怀的凝练之物。"
+            "Content": "云纹离邪镜是小时候十陵师父给我的，它的寓意很丰富，师父们想让我修道持恒、律己修身、完善发展。我带着它不仅仅是因为铭记教诲，更是觉得它是师父们对我呵护关怀的凝练之物。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_story_obj.play_favor_word_jianxin_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "十陵师父说我第一次上山的时候，比他更早走过古神道登上了山顶。他说我小时候像个小动物一样，灵敏好动却不通人事，我完全不记得这些事情，最早的记忆……似乎就是在道馆里练功修习了呢。"
+            "Content": "十陵师父说我第一次上山的时候，比他更早走过古神道登上了山顶。他说我小时候像个小动物一样，灵敏好动却不通人事，我完全不记得这些事情，最早的记忆……似乎就是在道馆里练功修习了呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_story_exp.play_favor_word_jianxin_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "炽霞喜欢来找我比武，她的枪法很厉害，每次对战我都会有新的收获。我喜欢她心里想要锻炼自己身手的执着，也喜欢她真诚单纯的态度。以武会友，是一件乐事。"
+            "Content": "炽霞喜欢来找我比武，她的枪法很厉害，每次对战我都会有新的收获。我喜欢她心里想要锻炼自己身手的执着，也喜欢她真诚单纯的态度。以武会友，是一件乐事。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_about_chixia.play_favor_word_jianxin_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于渊武",
-            "Content": "我在山下游历时曾经去渊武拳馆踢馆，打败了那位大叔老板，后来回到山上十陵师父才告诉我，拳馆老板渊武师叔祖上与我们有武学渊源。渊武师叔年轻时经历坎坷丰富，但他本人好像不太喜欢提起过去的事情，还是不聊这个啦。"
+            "Content": "我在山下游历时曾经去渊武拳馆踢馆，打败了那位大叔老板，后来回到山上十陵师父才告诉我，拳馆老板渊武师叔祖上与我们有武学渊源。渊武师叔年轻时经历坎坷丰富，但他本人好像不太喜欢提起过去的事情，还是不聊这个啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_about_yuanwu.play_favor_word_jianxin_about_yuanwu"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "之前我只给同门和师父们祝寿过，每次我们都会做寿桃送给寿星。所以……看，这是我自己蒸的寿桃，送给你！生日快乐！祝你健康长寿，幸福吉祥!"
+            "Content": "之前我只给同门和师父们祝寿过，每次我们都会做寿桃送给寿星。所以……看，这是我自己蒸的寿桃，送给你！生日快乐！祝你健康长寿，幸福吉祥!",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_birthcele.play_favor_word_jianxin_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "哦？"
+            "Content": "哦？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_idle01.play_favor_word_jianxin_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "自知者明……嗯？"
+            "Content": "自知者明……嗯？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_idle02.play_favor_word_jianxin_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "怎么用来着……唔……啊！呼……"
+            "Content": "怎么用来着……唔……啊！呼……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_idle03.play_favor_word_jianxin_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "风仪拳传人鉴心，多有叨扰。不知可否与你切磋武艺？"
+            "Content": "风仪拳传人鉴心，多有叨扰。不知可否与你切磋武艺？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_introduction.play_favor_word_jianxin_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "遣其欲而心自静，澄其心而神自清。"
+            "Content": "遣其欲而心自静，澄其心而神自清。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_get_card.play_favor_word_jianxin_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "强敌？小道静候。"
+            "Content": "强敌？小道静候。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_join_team_01.play_favor_word_jianxin_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "不吝赐教。"
+            "Content": "不吝赐教。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_join_team_02.play_favor_word_jianxin_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "小道自会全力以赴！"
+            "Content": "小道自会全力以赴！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_join_team_03.play_favor_word_jianxin_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "虽然方法不同，但是和师父所教的坐道修炼有相似的感受。具体该怎么描述呢……让我好好想想。"
+            "Content": "虽然方法不同，但是和师父所教的坐道修炼有相似的感受。具体该怎么描述呢……让我好好想想。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_rankup01.play_favor_word_jianxin_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "我已融会贯通，这次异常顺利，多谢！"
+            "Content": "我已融会贯通，这次异常顺利，多谢！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_rankup02.play_favor_word_jianxin_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "仿佛置身万千山巅，云天雾地之间，自我即是潺潺溪流，生灵涌动……是这种感觉！我终于想到怎么说了。"
+            "Content": "仿佛置身万千山巅，云天雾地之间，自我即是潺潺溪流，生灵涌动……是这种感觉！我终于想到怎么说了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_rankup03.play_favor_word_jianxin_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "身心清明，焕然一新，就连对于周围环境的感受都更细致敏感了，气场似乎……啊！对不起！对不起！你没受伤吧？！果然这一次有些难控制，接下来我会慢慢静心归化。谢谢你助我离目标又近了一步！"
+            "Content": "身心清明，焕然一新，就连对于周围环境的感受都更细致敏感了，气场似乎……啊！对不起！对不起！你没受伤吧？！果然这一次有些难控制，接下来我会慢慢静心归化。谢谢你助我离目标又近了一步！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_rankup04.play_favor_word_jianxin_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "啊，竟然……谢谢你为我付出如此心血。除师父外，你是这世上最厚爱小道之人，此恩甚重，难报难量。小道心中想了很久的话，此时说出或许正好。除向武求极，小道如今已有了第二个人生所向：我愿助你得偿所愿，不遗余力，不死不终。"
+            "Content": "啊，竟然……谢谢你为我付出如此心血。除师父外，你是这世上最厚爱小道之人，此恩甚重，难报难量。小道心中想了很久的话，此时说出或许正好。除向武求极，小道如今已有了第二个人生所向：我愿助你得偿所愿，不遗余力，不死不终。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_rankup05.play_favor_word_jianxin_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "风起。"
+            "Content": "风起。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_skill_01.play_favor_word_jianxin_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "气静。"
+            "Content": "气静。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_skill_02.play_favor_word_jianxin_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "道明。"
+            "Content": "道明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_skill_03.play_favor_word_jianxin_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "意炁长存！"
+            "Content": "意炁长存！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_burst_skill_01.play_favor_word_jianxin_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "天地归心！"
+            "Content": "天地归心！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_burst_skill_02.play_favor_word_jianxin_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "万物合一！"
+            "Content": "万物合一！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_burst_skill_03.play_favor_word_jianxin_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "逆势回击",
-            "Content": "万变犹定！"
+            "Content": "万变犹定！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_evasion_parry_attack.play_favor_word_jianxin_evasion_parry_attack"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_behit_fly_01.play_favor_word_jianxin_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "慎行。"
+            "Content": "慎行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_behit_fly_02.play_favor_word_jianxin_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "小心应变。"
+            "Content": "小心应变。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_behit_fly_03.play_favor_word_jianxin_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hp70.play_favor_word_jianxin_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "不小的挑战。"
+            "Content": "不小的挑战。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hp50.play_favor_word_jianxin_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "好对手！"
+            "Content": "好对手！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hp30.play_favor_word_jianxin_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "生命常新……"
+            "Content": "生命常新……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_die_01.play_favor_word_jianxin_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "道无生死……"
+            "Content": "道无生死……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_die_02.play_favor_word_jianxin_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "归根复命……"
+            "Content": "归根复命……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_die_03.play_favor_word_jianxin_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "去。"
+            "Content": "去。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hx_summon.play_favor_word_jianxin_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "这样用吗？"
+            "Content": "这样用吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hx_change.play_favor_word_jianxin_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能·一",
-            "Content": "秽炁分散！"
+            "Content": "秽炁分散！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_qte_01.play_favor_word_jianxin_qte_01"
         },
         {
             "Type": 2,
             "Title": "变奏技能·二",
-            "Content": "灾咎豁除！"
+            "Content": "灾咎豁除！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_qte_02.play_favor_word_jianxin_qte_02"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "有变，当心。"
+            "Content": "有变，当心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_enter_battle.play_favor_word_jianxin_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "这样快多了！"
+            "Content": "这样快多了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_fly.play_favor_word_jianxin_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_hook.play_favor_word_jianxin_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "那是……什么东西？"
+            "Content": "那是……什么东西？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_scan.play_favor_word_jianxin_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_dash.play_favor_word_jianxin_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_fast_run.play_favor_word_jianxin_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "知足知止，可以长久。"
+            "Content": "知足知止，可以长久。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_chest_01.play_favor_word_jianxin_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "这次是什么？"
+            "Content": "这次是什么？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_chest_02.play_favor_word_jianxin_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "取之有道。"
+            "Content": "取之有道。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jianxin_chest_03.play_favor_word_jianxin_chest_03"
         }
     ],
     "Goods": [
@@ -4203,5 +4260,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001405": {
+            "Id": 81001405,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "鉴心",
+            "TitleName": "气贯风仪",
+            "SubDecName": "鉴心-初始服饰",
+            "BgDescription": "道馆里分发的练功服，鉴心穿着它总能记得师父的教导，一步一动神影无踪，一呼一吸绵厚悠长。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI"
+        }
     }
 }

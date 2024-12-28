@@ -56,402 +56,482 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "别看我块头小，我的力气可是很大的，任何体力活都不在话下！如果你有什么需要帮忙的，不要犹豫，告诉我就对啦，我很乐意效劳！"
+            "Content": "别看我块头小，我的力气可是很大的，任何体力活都不在话下！如果你有什么需要帮忙的，不要犹豫，告诉我就对啦，我很乐意效劳！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_to_player01.play_favor_word_lingyang_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "身上的这些绷带，大多是练舞时受的伤，有些也是野外战斗时留下的。只要习惯了，就一点也不痛啦。倒是你手腕上的这个绷带……也是战斗时留下的伤吗？如果能让我和你同行就好了……比起我自己，我更不希望看到他人受伤。"
+            "Content": "身上的这些绷带，大多是练舞时受的伤，有些也是野外战斗时留下的。只要习惯了，就一点也不痛啦。倒是你手腕上的这个绷带……也是战斗时留下的伤吗？如果能让我和你同行就好了……比起我自己，我更不希望看到他人受伤。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_to_player02.play_favor_word_lingyang_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "我始终相信，言语是有力量的。瑝珑有句成语叫“一语成谶”，如果戏谑的玩笑可能会偶然成真，那些美好的祝愿，也一定会在不经意间实现。所以祝福的话，一定要毫不吝惜地大声说出来，无论说多少遍都不为过。如果神明真的存在，这样，他们才能更好地接收到我们的心愿。这大抵，就是我喜欢讲“吉祥话”的原因吧。"
+            "Content": "我始终相信，言语是有力量的。瑝珑有句成语叫“一语成谶”，如果戏谑的玩笑可能会偶然成真，那些美好的祝愿，也一定会在不经意间实现。所以祝福的话，一定要毫不吝惜地大声说出来，无论说多少遍都不为过。如果神明真的存在，这样，他们才能更好地接收到我们的心愿。这大抵，就是我喜欢讲“吉祥话”的原因吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_to_player03.play_favor_word_lingyang_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "我也很想带你回我的“故乡”转转，但那里已经没什么值得欣赏的风景了——它已经成为了一片无音区，连生灵的哀嚎都听不到，只剩下一片死寂……相比之下，我还是更喜欢热闹的鼓声。如果有一天，我们能够战胜悲鸣，待到万物复苏，我一定会带你去看高高的古树，飞舞的流萤，还有林间的星河……嗯，一定会的，一定……"
+            "Content": "我也很想带你回我的“故乡”转转，但那里已经没什么值得欣赏的风景了——它已经成为了一片无音区，连生灵的哀嚎都听不到，只剩下一片死寂……相比之下，我还是更喜欢热闹的鼓声。如果有一天，我们能够战胜悲鸣，待到万物复苏，我一定会带你去看高高的古树，飞舞的流萤，还有林间的星河……嗯，一定会的，一定……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_to_player04.play_favor_word_lingyang_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "虽然现在我已经不再害怕以这副样貌去示人了，但无论怎么看，我和人类，果然还是有很多不同吧。并不是所有人都可以坦然接受这副异类的样貌。很多时候，即使向人伸出了援手，对方也会将其误认为“利爪”……你的心里是怎么想的呢？这样的我，会让你感到害怕吗？"
+            "Content": "虽然现在我已经不再害怕以这副样貌去示人了，但无论怎么看，我和人类，果然还是有很多不同吧。并不是所有人都可以坦然接受这副异类的样貌。很多时候，即使向人伸出了援手，对方也会将其误认为“利爪”……你的心里是怎么想的呢？这样的我，会让你感到害怕吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_to_player05.play_favor_word_lingyang_to_player05"
         },
         {
             "Type": 1,
             "Title": "凌阳的喜好",
-            "Content": "我喜欢观察人类，想认识每个前来观看狮子舞的观众，了解他们的故事。狮子舞的观众们来自四面八方，每个人的经历，个性和气质都截然不同，就像……树叶一样？我从来没有找到过两片完全相同的树叶，想来，人类也是这样的吧——每个人都是独一无二的存在。在我面前的你更是如此，你身上的一切都让我感到好奇……所以，能不能让我也再多了解你一点呢？"
+            "Content": "我喜欢观察人类，想认识每个前来观看狮子舞的观众，了解他们的故事。狮子舞的观众们来自四面八方，每个人的经历，个性和气质都截然不同，就像……树叶一样？我从来没有找到过两片完全相同的树叶，想来，人类也是这样的吧——每个人都是独一无二的存在。在我面前的你更是如此，你身上的一切都让我感到好奇……所以，能不能让我也再多了解你一点呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_taste.play_favor_word_lingyang_taste"
         },
         {
             "Type": 1,
             "Title": "凌阳的烦恼",
-            "Content": "正所谓“擂什么鼓，舞什么狮”，狮子舞没有固定的曲牌，舞与乐的配合尤为重要。瑞狮团的成员都需要兼修五方先生的舞狮课和七星先生的鼓乐课……这也是我最烦恼的事情。鼓乐的话， 我总是掌握不好鼓点的节拍，舞狮我倒是更加擅长，可我又老是因为舞得太过忘我而忽略了鼓乐的指引……虽说最后还是能顺利完成演出，但都是多亏了我的师兄弟们，他们往往都会改变鼓点来跟上我的节奏。用师父的话来说，我这属于“偏科”的典型案例了。"
+            "Content": "正所谓“擂什么鼓，舞什么狮”，狮子舞没有固定的曲牌，舞与乐的配合尤为重要。瑞狮团的成员都需要兼修五方先生的舞狮课和七星先生的鼓乐课……这也是我最烦恼的事情。鼓乐的话， 我总是掌握不好鼓点的节拍，舞狮我倒是更加擅长，可我又老是因为舞得太过忘我而忽略了鼓乐的指引……虽说最后还是能顺利完成演出，但都是多亏了我的师兄弟们，他们往往都会改变鼓点来跟上我的节奏。用师父的话来说，我这属于“偏科”的典型案例了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_worry.play_favor_word_lingyang_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "尝试过“五分熟”的烤肉吗？香中带嫩，嫩中带滑，再辅以秘制的小香料……嘿，悄悄告诉你吧，今州城最近大火的“五分熟”烤串，就是我发明的哦！"
+            "Content": "尝试过“五分熟”的烤肉吗？香中带嫩，嫩中带滑，再辅以秘制的小香料……嘿，悄悄告诉你吧，今州城最近大火的“五分熟”烤串，就是我发明的哦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_food_favor.play_favor_word_lingyang_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "唔……你倒是提醒了我，也不知道那些我不爱吃的蔬菜，能不能被“烧烤”拯救回来呀？"
+            "Content": "唔……你倒是提醒了我，也不知道那些我不爱吃的蔬菜，能不能被“烧烤”拯救回来呀？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_food_hate.play_favor_word_lingyang_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "“辟邪求吉，扫除恐惧，守护繁荣”，我希望我能将狮舞的意义传递下去。师父教给过我，“毋要好高骛远，眼高手低”。我也明白，自己的修习还远远不够，但就和“登高采青”一样，只要一步一步，踩好每一个梅花桩，不管多“高”的地方，总会登上。"
+            "Content": "“辟邪求吉，扫除恐惧，守护繁荣”，我希望我能将狮舞的意义传递下去。师父教给过我，“毋要好高骛远，眼高手低”。我也明白，自己的修习还远远不够，但就和“登高采青”一样，只要一步一步，踩好每一个梅花桩，不管多“高”的地方，总会登上。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_dream.play_favor_word_lingyang_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "为什么会随身带着这个狮头啊？其实，刚来到今州城的时候，我是很害怕将狮头摘下的，因为那样……会暴露我最原本的样子。只要躲在“狮头”里面，我就能暂时地将自己隐藏起来，避免引起他人奇怪的目光，然后……只需要心无旁骛地去舞动就好了。或许那时的我是觉得，只有呆在狮头里的时候，才能够安心地做自己吧。"
+            "Content": "为什么会随身带着这个狮头啊？其实，刚来到今州城的时候，我是很害怕将狮头摘下的，因为那样……会暴露我最原本的样子。只要躲在“狮头”里面，我就能暂时地将自己隐藏起来，避免引起他人奇怪的目光，然后……只需要心无旁骛地去舞动就好了。或许那时的我是觉得，只有呆在狮头里的时候，才能够安心地做自己吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_story_obj.play_favor_word_lingyang_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "不知道为什么，大家好像都对我的尾巴特别感兴趣。 师兄们也经常偷偷跟在我的身后击打小鼓，为尾巴的一举一动配上鼓点……我其实也没法很好地控制尾巴的动作，那更像是某种……条件反射？如果感到开心的话——比方说现在，尾巴好像趁我一不注意，就摇起来了。"
+            "Content": "不知道为什么，大家好像都对我的尾巴特别感兴趣。 师兄们也经常偷偷跟在我的身后击打小鼓，为尾巴的一举一动配上鼓点……我其实也没法很好地控制尾巴的动作，那更像是某种……条件反射？如果感到开心的话——比方说现在，尾巴好像趁我一不注意，就摇起来了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_story_exp.play_favor_word_lingyang_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "在今州，狮子舞发源于庆祝凯旋的战舞，后来逐渐被赋予了“旗开得胜”的寓意，人们以此来祝福每一次出征都是凯旋，鼓舞士气。因为这个原因，瑞狮团经常会奔走在各个区域的军事营地之间，为将士们做阵前演出。我记得，我第一次在阵前演出担任“狮首”时，出了不少错误。那位大将军却给了我许多鼓励。其实他私下里，并不像表面看起来一样严肃吧？也难怪士兵们会如此爱戴那位将军了……真是一位强大而又温柔的人啊。"
+            "Content": "在今州，狮子舞发源于庆祝凯旋的战舞，后来逐渐被赋予了“旗开得胜”的寓意，人们以此来祝福每一次出征都是凯旋，鼓舞士气。因为这个原因，瑞狮团经常会奔走在各个区域的军事营地之间，为将士们做阵前演出。我记得，我第一次在阵前演出担任“狮首”时，出了不少错误。那位大将军却给了我许多鼓励。其实他私下里，并不像表面看起来一样严肃吧？也难怪士兵们会如此爱戴那位将军了……真是一位强大而又温柔的人啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_jiyan.play_favor_word_lingyang_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于鉴心",
-            "Content": "狮子舞“寓武于舞”，其步法与架势多以瑝珑传统的拳法与武术为基础，讲究一个大开大合，狂放外露。那位道长的拳法，跟狮子舞的气质则完全相反，可我却亲眼见识过她一拳击倒七名壮汉的场面。以静制动，以柔克刚，风仪拳法，果然名不虚传。"
+            "Content": "狮子舞“寓武于舞”，其步法与架势多以瑝珑传统的拳法与武术为基础，讲究一个大开大合，狂放外露。那位道长的拳法，跟狮子舞的气质则完全相反，可我却亲眼见识过她一拳击倒七名壮汉的场面。以静制动，以柔克刚，风仪拳法，果然名不虚传。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_jianxin.play_favor_word_lingyang_about_jianxin"
         },
         {
             "Type": 1,
             "Title": "关于桃祈",
-            "Content": "都说七星鼓的鼓声通天，连恶鬼凶兽都能吓跑，要在七星鼓的鼓声中悠然安睡，只是想想都觉得不可能。那位粉色头发的姐姐倒真是令我开了眼界……我后来才知道，原来她就是天工的事务长。转头再看看今州城周围各类坚固的防御工事……或许她平时真的是太累了吧？希望今后的夜里，她都能拥有安然的好梦。"
+            "Content": "都说七星鼓的鼓声通天，连恶鬼凶兽都能吓跑，要在七星鼓的鼓声中悠然安睡，只是想想都觉得不可能。那位粉色头发的姐姐倒真是令我开了眼界……我后来才知道，原来她就是天工的事务长。转头再看看今州城周围各类坚固的防御工事……或许她平时真的是太累了吧？希望今后的夜里，她都能拥有安然的好梦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_taoqi.play_favor_word_lingyang_about_taoqi"
         },
         {
             "Type": 1,
             "Title": "关于渊武",
-            "Content": "渊武叔的拳馆收留了很多流浪猫，我经常会带着自己抓到的群彩过去，作为和它们“切磋”的报酬。不知它们是否也跟着渊武叔学到了一些“雷煌拳”的门道呢？我想试着在它们身上找些灵感。不过渊武叔做的小鱼干的确很好吃就是啦！"
+            "Content": "渊武叔的拳馆收留了很多流浪猫，我经常会带着自己抓到的群彩过去，作为和它们“切磋”的报酬。不知它们是否也跟着渊武叔学到了一些“雷煌拳”的门道呢？我想试着在它们身上找些灵感。不过渊武叔做的小鱼干的确很好吃就是啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_yuanwu.play_favor_word_lingyang_about_yuanwu"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "莫特斐先生总是把一副“生人勿近”的样子摆在脸上，很多人都是因此才不敢接近他，认为他是个不怎么好说话的人。大部分人不知道的是，莫特斐先生给今州城的小孩子们发明了许许多多的玩具，之前还帮助我们设计过瑞狮团的周边呢。在我看来，他也是一位非常富有童心的人呐。总之不用怕啦！只要礼貌地和他讲清楚你的想法，他就一定会想办法帮你实现的。"
+            "Content": "莫特斐先生总是把一副“生人勿近”的样子摆在脸上，很多人都是因此才不敢接近他，认为他是个不怎么好说话的人。大部分人不知道的是，莫特斐先生给今州城的小孩子们发明了许许多多的玩具，之前还帮助我们设计过瑞狮团的周边呢。在我看来，他也是一位非常富有童心的人呐。总之不用怕啦！只要礼貌地和他讲清楚你的想法，他就一定会想办法帮你实现的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_motefei.play_favor_word_lingyang_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "你说炽霞啊，哼哼，她可是我的竞争对手呢。下次，我可绝对不会再输给她了……什么比赛？当然是比——谁帮助的人更多啦。"
+            "Content": "你说炽霞啊，哼哼，她可是我的竞争对手呢。下次，我可绝对不会再输给她了……什么比赛？当然是比——谁帮助的人更多啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_chixia.play_favor_word_lingyang_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "秧秧的歌声真的很好听呀。之前我三番五次地想介绍她来剧院兼职驻唱，但是都被她拒绝了。她总是说“在那么多人面前演唱很不好意思”……要我说呢，这种事就和舞狮一样，只要有了迈出第一步的勇气，之后的事就都不成问题啦！"
+            "Content": "秧秧的歌声真的很好听呀。之前我三番五次地想介绍她来剧院兼职驻唱，但是都被她拒绝了。她总是说“在那么多人面前演唱很不好意思”……要我说呢，这种事就和舞狮一样，只要有了迈出第一步的勇气，之后的事就都不成问题啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_yangyang.play_favor_word_lingyang_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "白芷身边那只奇特的回音生物……我记得，是叫忧昙吧？我曾把它当做了和我一样的存在，还以为自己找到了同类。可惜……只是一场误会罢了。"
+            "Content": "白芷身边那只奇特的回音生物……我记得，是叫忧昙吧？我曾把它当做了和我一样的存在，还以为自己找到了同类。可惜……只是一场误会罢了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_about_baizhi.play_favor_word_lingyang_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "生日快乐！一岁一礼，一寸欢喜。祝你岁岁皆如意，年年定称心。万喜万般宜，万事皆可期！嘿嘿，我还为你设计了一套专属狮舞，把我对你的祝福都融合了进去。我想把它跳给你看。可以的话，能为我多留出一点时间吗？因为……这一舞，可能会有点长喔。"
+            "Content": "生日快乐！一岁一礼，一寸欢喜。祝你岁岁皆如意，年年定称心。万喜万般宜，万事皆可期！嘿嘿，我还为你设计了一套专属狮舞，把我对你的祝福都融合了进去。我想把它跳给你看。可以的话，能为我多留出一点时间吗？因为……这一舞，可能会有点长喔。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_birthcele.play_favor_word_lingyang_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "嗷呜——起狮！今年的采青比赛也不能输啊！"
+            "Content": "嗷呜——起狮！今年的采青比赛也不能输啊！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_idle01.play_favor_word_lingyang_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "热身结束，随时可以上场！"
+            "Content": "热身结束，随时可以上场！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_idle02.play_favor_word_lingyang_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "嗯？……是幻听吗？没有鼓声，好不习惯……"
+            "Content": "嗯？……是幻听吗？没有鼓声，好不习惯……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_idle03.play_favor_word_lingyang_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我叫凌阳，比起我摘下狮头后的这幅模样，可能大家更习惯的，还是那位梅花桩上的“狮首”吧？希望相处之后，你能记住这个原原本本的我呀。"
+            "Content": "我叫凌阳，比起我摘下狮头后的这幅模样，可能大家更习惯的，还是那位梅花桩上的“狮首”吧？希望相处之后，你能记住这个原原本本的我呀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_introduction.play_favor_word_lingyang_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "开场见礼——诸邪避散，岁岁平安！"
+            "Content": "开场见礼——诸邪避散，岁岁平安！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_get_card.play_favor_word_lingyang_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "嗯？有什么新鲜事吗，带上我吧！"
+            "Content": "嗯？有什么新鲜事吗，带上我吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_join_team_01.play_favor_word_lingyang_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "嘘……我是瞒着师父偷偷跑出来的……"
+            "Content": "嘘……我是瞒着师父偷偷跑出来的……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_join_team_02.play_favor_word_lingyang_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "每个人都要平平安安。"
+            "Content": "每个人都要平平安安。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_join_team_03.play_favor_word_lingyang_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "哈，又学会了新的招式！"
+            "Content": "哈，又学会了新的招式！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_rankup01.play_favor_word_lingyang_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "有了你的帮助……我就更不能松懈了！一定要更加勤奋练习才行。"
+            "Content": "有了你的帮助……我就更不能松懈了！一定要更加勤奋练习才行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_rankup02.play_favor_word_lingyang_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "“过了山，眼界就开阔了”……原来是这个意思。谢谢你将我带到这里。这次，让我试试挑战再高一点的梅花桩吧。"
+            "Content": "“过了山，眼界就开阔了”……原来是这个意思。谢谢你将我带到这里。这次，让我试试挑战再高一点的梅花桩吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_rankup03.play_favor_word_lingyang_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "师父说过，即使能力再强，也不可失去对“最高桩”的敬畏之心——人外有人，天外有天，常怀敬畏，方明谦卑。修行永无止境，我会怀着这种敬畏之心，继续磨砺。更何况，我的面前，现在就有一位仍需追逐的人呢。"
+            "Content": "师父说过，即使能力再强，也不可失去对“最高桩”的敬畏之心——人外有人，天外有天，常怀敬畏，方明谦卑。修行永无止境，我会怀着这种敬畏之心，继续磨砺。更何况，我的面前，现在就有一位仍需追逐的人呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_rankup04.play_favor_word_lingyang_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "相传，狮子舞的步伐，是古代真人仰观天象，以斗宿魁罡为源创造而来。步伐臻至大成，则如有神助，可从天地之间汲取力量，体内自成宇宙。呼……这一境界，我终于窥到了。虽说还有些距离，但至少，现在的我，可以更好地保护你了吧。"
+            "Content": "相传，狮子舞的步伐，是古代真人仰观天象，以斗宿魁罡为源创造而来。步伐臻至大成，则如有神助，可从天地之间汲取力量，体内自成宇宙。呼……这一境界，我终于窥到了。虽说还有些距离，但至少，现在的我，可以更好地保护你了吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_rankup05.play_favor_word_lingyang_rankup05"
         },
         {
             "Type": 2,
             "Title": "常态攻击·一",
-            "Content": "别怕痛哦。"
+            "Content": "别怕痛哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk01.play_favor_word_lingyang_atk01"
         },
         {
             "Type": 2,
             "Title": "常态攻击·二",
-            "Content": "接好了！"
+            "Content": "接好了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk02.play_favor_word_lingyang_atk02"
         },
         {
             "Type": 2,
             "Title": "常态攻击·三",
-            "Content": "喝啊——！"
+            "Content": "喝啊——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk03.play_favor_word_lingyang_atk03"
         },
         {
             "Type": 2,
             "Title": "常态攻击·四",
-            "Content": "步踏天罡！"
+            "Content": "步踏天罡！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk04.play_favor_word_lingyang_atk04"
         },
         {
             "Type": 2,
             "Title": "常态攻击·五",
-            "Content": "旋纲蹑星！"
+            "Content": "旋纲蹑星！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk05.play_favor_word_lingyang_atk05"
         },
         {
             "Type": 2,
             "Title": "常态攻击·六",
-            "Content": "擂鼓，起狮！"
+            "Content": "擂鼓，起狮！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_atk06.play_favor_word_lingyang_atk06"
         },
         {
             "Type": 2,
             "Title": "空中攻击·一",
-            "Content": "小心了！"
+            "Content": "小心了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_airatk02_01.play_favor_word_lingyang_airatk02_01"
         },
         {
             "Type": 2,
             "Title": "空中攻击·二",
-            "Content": "接这一招！"
+            "Content": "接这一招！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_airatk02_02.play_favor_word_lingyang_airatk02_02"
         },
         {
             "Type": 2,
             "Title": "空中攻击·三",
-            "Content": "喝——哈！"
+            "Content": "喝——哈！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_airatk02_03.play_favor_word_lingyang_airatk02_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "聚气凝神！"
+            "Content": "聚气凝神！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_skill_01.play_favor_word_lingyang_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "破煞！"
+            "Content": "破煞！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_skill_02.play_favor_word_lingyang_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "试试这一式！"
+            "Content": "试试这一式！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_skill_03.play_favor_word_lingyang_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "演出……该谢幕了！"
+            "Content": "演出……该谢幕了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_burst_skill_01.play_favor_word_lingyang_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "狮鼓长鸣，祸殃不侵！"
+            "Content": "狮鼓长鸣，祸殃不侵！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_burst_skill_02.play_favor_word_lingyang_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "行狮伏妖，魑魅见惊！"
+            "Content": "行狮伏妖，魑魅见惊！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_burst_skill_03.play_favor_word_lingyang_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "成功闪避·一",
-            "Content": "差一点喔。"
+            "Content": "差一点喔。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_success_01.play_favor_word_lingyang_evasion_success_01"
         },
         {
             "Type": 2,
             "Title": "成功闪避·二",
-            "Content": "信步回旋。"
+            "Content": "信步回旋。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_success_02.play_favor_word_lingyang_evasion_success_02"
         },
         {
             "Type": 2,
             "Title": "成功闪避·三",
-            "Content": "从容不迫。"
+            "Content": "从容不迫。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_success_03.play_favor_word_lingyang_evasion_success_03"
         },
         {
             "Type": 2,
             "Title": "逆势回击·一",
-            "Content": "不赖嘛。"
+            "Content": "不赖嘛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_parry_attack_01.play_favor_word_lingyang_evasion_parry_attack_01"
         },
         {
             "Type": 2,
             "Title": "逆势回击·二",
-            "Content": "接住咯。"
+            "Content": "接住咯。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_parry_attack_02.play_favor_word_lingyang_evasion_parry_attack_02"
         },
         {
             "Type": 2,
             "Title": "逆势回击·三",
-            "Content": "还差得远呢。"
+            "Content": "还差得远呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_evasion_parry_attack_03.play_favor_word_lingyang_evasion_parry_attack_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "……不痛。"
+            "Content": "……不痛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_01.play_favor_word_lingyang_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_02.play_favor_word_lingyang_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_03.play_favor_word_lingyang_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "受击·四",
-            "Content": "要摔了！"
+            "Content": "要摔了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_04.play_favor_word_lingyang_behit_fly_04"
         },
         {
             "Type": 2,
             "Title": "受击·五",
-            "Content": "大意了！"
+            "Content": "大意了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_05.play_favor_word_lingyang_behit_fly_05"
         },
         {
             "Type": 2,
             "Title": "受击·六",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_behit_fly_06.play_favor_word_lingyang_behit_fly_06"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "该认真起来了。"
+            "Content": "该认真起来了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hp70.play_favor_word_lingyang_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "要把节奏找回来……"
+            "Content": "要把节奏找回来……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hp50.play_favor_word_lingyang_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "绝不认输……"
+            "Content": "绝不认输……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hp30.play_favor_word_lingyang_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "鼓声，还没有停……"
+            "Content": "鼓声，还没有停……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_die_01.play_favor_word_lingyang_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "双脚……好沉……"
+            "Content": "双脚……好沉……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_die_02.play_favor_word_lingyang_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "演出……结束了吗……"
+            "Content": "演出……结束了吗……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_die_03.play_favor_word_lingyang_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "嗷呜！"
+            "Content": "嗷呜！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hx_summon.play_favor_word_lingyang_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "我藏起来啦。"
+            "Content": "我藏起来啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hx_change.play_favor_word_lingyang_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能·一",
-            "Content": "该我上场了！"
+            "Content": "该我上场了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_qte_01.play_favor_word_lingyang_qte_01"
         },
         {
             "Type": 2,
             "Title": "变奏技能·二",
-            "Content": "别怕，交给我吧！"
+            "Content": "别怕，交给我吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_qte_02.play_favor_word_lingyang_qte_02"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "危险的气息……"
+            "Content": "危险的气息……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_enter_battle.play_favor_word_lingyang_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "越高越好啊。"
+            "Content": "越高越好啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_fly.play_favor_word_lingyang_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_hook.play_favor_word_lingyang_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "找到你啦。"
+            "Content": "找到你啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_scan.play_favor_word_lingyang_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "行如风。"
+            "Content": "行如风。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_dash.play_favor_word_lingyang_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "动如雨。"
+            "Content": "动如雨。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_fast_run.play_favor_word_lingyang_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "八方来财，值得庆祝！"
+            "Content": "八方来财，值得庆祝！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_chest_01.play_favor_word_lingyang_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "都归你啦。"
+            "Content": "都归你啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_chest_02.play_favor_word_lingyang_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "好运来临，可是挡不住的喔。"
+            "Content": "好运来临，可是挡不住的喔。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_lingyang_chest_03.play_favor_word_lingyang_chest_03"
         }
     ],
     "Goods": [
@@ -4193,5 +4273,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001104": {
+            "Id": 81001104,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "凌阳",
+            "TitleName": "瑞狮呈祥",
+            "SubDecName": "凌阳-初始服饰",
+            "BgDescription": "瑞狮团精神干练的演出用服，祥纹如狮鬃般热烈奋起，似少年不变的初心。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI"
+        }
     }
 }

@@ -42,8 +42,8 @@
         "2": {
             "Id": 2,
             "Name": "熔山裂谷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementFire1.T_IconElementFire1",
-            "Color": "F0744EFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFire.T_IconElementAttriFire",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "热熔伤害提升10%",
@@ -62,8 +62,8 @@
         "3": {
             "Id": 3,
             "Name": "彻空冥雷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementThunder1.T_IconElementThunder1",
-            "Color": "B46BFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriThunder.T_IconElementAttriThunder",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "导电伤害提升10%",
@@ -83,8 +83,8 @@
         "5": {
             "Id": 5,
             "Name": "浮星祛暗",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementLight1.T_IconElementLight1",
-            "Color": "F8E56CFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLight.T_IconElementAttriLight",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "衍射伤害提升10%",

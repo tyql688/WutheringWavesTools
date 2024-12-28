@@ -62,347 +62,416 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "大部分人都对我们存在一些误解，暴力对我们而言永远只是一种手段。大部分情况下，我们都会寻求正规合作……但背叛，却是博弈中再常见不过的另一种策略。所以，有些手段，是不可或缺的。保证合作顺利的必要条件，就是让对方觉得，背叛我们毫无利益可言——带剑的契约，往往更具效力。"
+            "Content": "大部分人都对我们存在一些误解，暴力对我们而言永远只是一种手段。大部分情况下，我们都会寻求正规合作……但背叛，却是博弈中再常见不过的另一种策略。所以，有些手段，是不可或缺的。保证合作顺利的必要条件，就是让对方觉得，背叛我们毫无利益可言——带剑的契约，往往更具效力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_to_player01.play_favor_word_kakaluo_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "你的实力不错，但孤身一人在这个世界上很难存活下去。想想吧，一条猎犬或许并不可怕，但如果，你遇到的是一群猎犬……在那一刻，你所恐惧的是进退路穷，是腹背受敌。无论面对哪个方向，你的背后总会暴露出来……爪牙成群，骨肉在望。"
+            "Content": "你的实力不错，但孤身一人在这个世界上很难存活下去。想想吧，一条猎犬或许并不可怕，但如果，你遇到的是一群猎犬……在那一刻，你所恐惧的是进退路穷，是腹背受敌。无论面对哪个方向，你的背后总会暴露出来……爪牙成群，骨肉在望。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_to_player02.play_favor_word_kakaluo_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "成为领袖，意味着你要学会欺骗，学会佯装镇定，学会伪造希望……你的每一个抉择都有可能改变无数人的轨迹。若有一天，你可以操控他人乃至整个世界，那时的你，会做出何种选择？是担负起他人的命运，还是让自己的意志凌驾于他人之上……"
+            "Content": "成为领袖，意味着你要学会欺骗，学会佯装镇定，学会伪造希望……你的每一个抉择都有可能改变无数人的轨迹。若有一天，你可以操控他人乃至整个世界，那时的你，会做出何种选择？是担负起他人的命运，还是让自己的意志凌驾于他人之上……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_to_player03.play_favor_word_kakaluo_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "你已经知晓了我们的底细。不错，没有我们不敢接受的委托，也没有我们不能接受的委托……一切只取决于报酬高低。只要混乱与战争存在，幽灵猎犬就会存在，我们屹立于此，总有人趋之若鹜。依你之见，该如何评价我们？我们从不在乎外界的声音……但你的想法，我会听。"
+            "Content": "你已经知晓了我们的底细。不错，没有我们不敢接受的委托，也没有我们不能接受的委托……一切只取决于报酬高低。只要混乱与战争存在，幽灵猎犬就会存在，我们屹立于此，总有人趋之若鹜。依你之见，该如何评价我们？我们从不在乎外界的声音……但你的想法，我会听。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_to_player04.play_favor_word_kakaluo_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "他日，我或许也会需要你的帮助。也许我会带领佣兵团步入黑暗，走上一条万劫不复的道路。到时，记得来纠正，或是了结我的过错……在此之前，还是先享受我们当下的合作关系吧。"
+            "Content": "他日，我或许也会需要你的帮助。也许我会带领佣兵团步入黑暗，走上一条万劫不复的道路。到时，记得来纠正，或是了结我的过错……在此之前，还是先享受我们当下的合作关系吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_to_player05.play_favor_word_kakaluo_to_player05"
         },
         {
             "Type": 1,
             "Title": "卡卡罗的喜好",
-            "Content": "搜救、运输、侦查、集群作战……无论从哪种角度来看，狗都是非常忠诚善战的生物……我？我不养狗，我的身边……太危险了。"
+            "Content": "搜救、运输、侦查、集群作战……无论从哪种角度来看，狗都是非常忠诚善战的生物……我？我不养狗，我的身边……太危险了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_taste.play_favor_word_kakaluo_taste"
         },
         {
             "Type": 1,
             "Title": "卡卡罗的烦恼",
-            "Content": "我不在的时候……佣兵团的孩子们没闯什么祸吧。"
+            "Content": "我不在的时候……佣兵团的孩子们没闯什么祸吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_worry.play_favor_word_kakaluo_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "瑝珑生产的应急罐头，比其他地方生产的要好吃一些。"
+            "Content": "瑝珑生产的应急罐头，比其他地方生产的要好吃一些。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_food_favor.play_favor_word_kakaluo_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "……在野外，一切只分为能吃和不能吃两种。"
+            "Content": "……在野外，一切只分为能吃和不能吃两种。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_food_hate.play_favor_word_kakaluo_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "人也好，残象也罢，无论是谁，只要威胁到了佣兵团……我都会将他们全部斩断。保护好佣兵团，为他们寻得片刻安宁之所，是我现在唯一要做的事情。"
+            "Content": "人也好，残象也罢，无论是谁，只要威胁到了佣兵团……我都会将他们全部斩断。保护好佣兵团，为他们寻得片刻安宁之所，是我现在唯一要做的事情。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_dream.play_favor_word_kakaluo_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "像我们这种人，就算某天突然消失了也丝毫不奇怪，这反而更像是我们的宿命……就像一粒沙，飘散在风中。佣兵团的成员们，会用徽记来铭记彼此……这个徽记，记录了我们的身份与过去，是我们曾经活过的证明。"
+            "Content": "像我们这种人，就算某天突然消失了也丝毫不奇怪，这反而更像是我们的宿命……就像一粒沙，飘散在风中。佣兵团的成员们，会用徽记来铭记彼此……这个徽记，记录了我们的身份与过去，是我们曾经活过的证明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_story_obj.play_favor_word_kakaluo_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "小鱼必须成为大鱼，否则连虾米都吃不上；大鱼必须吞并小鱼，否则就会被瓜分蚕食……这就是“地下世界”运转的底层逻辑。弱肉强食的世界，我们必须要站到最顶端，才能不被他人利用，不被他人左右。"
+            "Content": "小鱼必须成为大鱼，否则连虾米都吃不上；大鱼必须吞并小鱼，否则就会被瓜分蚕食……这就是“地下世界”运转的底层逻辑。弱肉强食的世界，我们必须要站到最顶端，才能不被他人利用，不被他人左右。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_story_exp.play_favor_word_kakaluo_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "出色的领袖。他曾向我推荐瑝珑古时流传下来的兵法，若能早点接触，我也不需要走那么多弯路了。至于我和他的交易……不过是各取所需罢了。"
+            "Content": "出色的领袖。他曾向我推荐瑝珑古时流传下来的兵法，若能早点接触，我也不需要走那么多弯路了。至于我和他的交易……不过是各取所需罢了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_about_jiyan.play_favor_word_kakaluo_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "讲究，做作，目中无人……很符合我对新联邦富家子弟们的刻板印象。但我也必须承认，在设计黑石武器这方面，他的确有足够的实力。若是他有这方面的意愿，我可以把他介绍给与我们合作的军火商。"
+            "Content": "讲究，做作，目中无人……很符合我对新联邦富家子弟们的刻板印象。但我也必须承认，在设计黑石武器这方面，他的确有足够的实力。若是他有这方面的意愿，我可以把他介绍给与我们合作的军火商。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_about_motefei.play_favor_word_kakaluo_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于秋水",
-            "Content": "想找秋水？这是他的联络方式……报我的名字，可以打八折。"
+            "Content": "想找秋水？这是他的联络方式……报我的名字，可以打八折。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_about_qiushui.play_favor_word_kakaluo_about_qiushui"
         },
         {
             "Type": 1,
             "Title": "关于吟霖",
-            "Content": "你说的，是那位卧底吧……呵，放心吧，我并没有为难她。各为其主的道理，我还是明白的。"
+            "Content": "你说的，是那位卧底吧……呵，放心吧，我并没有为难她。各为其主的道理，我还是明白的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_about_yinlin.play_favor_word_kakaluo_about_yinlin"
         },
         {
             "Type": 1,
             "Title": "关于维里奈",
-            "Content": "一面之缘。小小年纪，却精通养花之道……心性难得。"
+            "Content": "一面之缘。小小年纪，却精通养花之道……心性难得。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_about_weilinai.play_favor_word_kakaluo_about_weilinai"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "特殊的日子……生日快乐。有什么烦心的人或事吗？今天我都可以以优惠价，帮你……“解决\"。"
+            "Content": "特殊的日子……生日快乐。有什么烦心的人或事吗？今天我都可以以优惠价，帮你……“解决\"。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_birthcele.play_favor_word_kakaluo_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "时刻保持獠牙的锋锐。"
+            "Content": "时刻保持獠牙的锋锐。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_idle01.play_favor_word_kakaluo_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_idle02.play_favor_word_kakaluo_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "……我看见我的路。"
+            "Content": "……我看见我的路。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_idle03.play_favor_word_kakaluo_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "“幽灵猎犬”佣兵团团长，卡卡罗。听说过我们所做的那些生意？不用害怕。在委托完成之前，我会保证雇主的安全。"
+            "Content": "“幽灵猎犬”佣兵团团长，卡卡罗。听说过我们所做的那些生意？不用害怕。在委托完成之前，我会保证雇主的安全。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_introduction.play_favor_word_kakaluo_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "你的委托，我一人足够。"
+            "Content": "你的委托，我一人足够。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_get_card.play_favor_word_kakaluo_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "你应该已经准备好了相应的酬劳。"
+            "Content": "你应该已经准备好了相应的酬劳。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_join_team_01.play_favor_word_kakaluo_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "竟然要我亲自出马……"
+            "Content": "竟然要我亲自出马……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_join_team_02.play_favor_word_kakaluo_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "希望回报能与风险相称。"
+            "Content": "希望回报能与风险相称。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_join_team_03.play_favor_word_kakaluo_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "给我力量……？你一直都是这么容易信任别人的吗？"
+            "Content": "给我力量……？你一直都是这么容易信任别人的吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_rankup01.play_favor_word_kakaluo_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "……受人恩惠，自当效力。"
+            "Content": "……受人恩惠，自当效力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_rankup02.play_favor_word_kakaluo_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "守好规矩，同仇敌忾。只要我还活着，“幽灵猎犬”的名号，便足以允许你横行大陆。"
+            "Content": "守好规矩，同仇敌忾。只要我还活着，“幽灵猎犬”的名号，便足以允许你横行大陆。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_rankup03.play_favor_word_kakaluo_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "呵呵……好，你的野心，比我想象中还要庞大。你给出了令我无法拒绝的筹码……那么，我也会回报给你，绝对的忠诚。"
+            "Content": "呵呵……好，你的野心，比我想象中还要庞大。你给出了令我无法拒绝的筹码……那么，我也会回报给你，绝对的忠诚。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_rankup04.play_favor_word_kakaluo_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "这可不是一份容易还清的价码。佣兵团有着属于自己的立场，我无权替其他成员定夺。但我愿意以个人的名义，接受这份……“契约”。只要你开口，我会无条件地，为你完成任何委托。"
+            "Content": "这可不是一份容易还清的价码。佣兵团有着属于自己的立场，我无权替其他成员定夺。但我愿意以个人的名义，接受这份……“契约”。只要你开口，我会无条件地，为你完成任何委托。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_rankup05.play_favor_word_kakaluo_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "斩。"
+            "Content": "斩。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_skill_01.play_favor_word_kakaluo_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "闪。"
+            "Content": "闪。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_skill_02.play_favor_word_kakaluo_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "破。"
+            "Content": "破。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_skill_03.play_favor_word_kakaluo_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "放下怜悯。"
+            "Content": "放下怜悯。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_burst_skill_01.play_favor_word_kakaluo_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "苦痛，如影随形。"
+            "Content": "苦痛，如影随形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_burst_skill_02.play_favor_word_kakaluo_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "雷鸣，獠牙尽显。"
+            "Content": "雷鸣，獠牙尽显。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_burst_skill_03.play_favor_word_kakaluo_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·变奏技能",
-            "Content": "歼灭执行。"
+            "Content": "歼灭执行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_qte_sp.play_favor_word_kakaluo_qte_sp"
         },
         {
             "Type": 2,
             "Title": "成功闪避",
-            "Content": "看穿了。"
+            "Content": "看穿了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_success.play_favor_word_kakaluo_evasion_success"
         },
         {
             "Type": 2,
             "Title": "逆势反击·一",
-            "Content": "孱弱无力。"
+            "Content": "孱弱无力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_parry_success_01.play_favor_word_kakaluo_parry_success_01"
         },
         {
             "Type": 2,
             "Title": "逆势反击·二",
-            "Content": "再试试。"
+            "Content": "再试试。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_parry_success_02.play_favor_word_kakaluo_parry_success_02"
         },
         {
             "Type": 2,
             "Title": "逆势反击·三",
-            "Content": "无谓的挣扎。"
+            "Content": "无谓的挣扎。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_parry_success_03.play_favor_word_kakaluo_parry_success_03"
         },
         {
             "Type": 2,
             "Title": "闪避反击·一",
-            "Content": "抓住了。"
+            "Content": "抓住了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_attack_01.play_favor_word_kakaluo_evasion_parry_attack_01"
         },
         {
             "Type": 2,
             "Title": "闪避反击·二",
-            "Content": "太慢了。"
+            "Content": "太慢了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_attack_02.play_favor_word_kakaluo_evasion_parry_attack_02"
         },
         {
             "Type": 2,
             "Title": "闪避反击·三",
-            "Content": "就是现在。"
+            "Content": "就是现在。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_attack_03.play_favor_word_kakaluo_evasion_parry_attack_03"
         },
         {
             "Type": 2,
             "Title": "闪避反击·四",
-            "Content": "绞杀。"
+            "Content": "绞杀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_burst_attack_01.play_favor_word_kakaluo_evasion_parry_burst_attack_01"
         },
         {
             "Type": 2,
             "Title": "闪避反击·五",
-            "Content": "撕裂吧。"
+            "Content": "撕裂吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_burst_attack_02.play_favor_word_kakaluo_evasion_parry_burst_attack_02"
         },
         {
             "Type": 2,
             "Title": "闪避反击·六",
-            "Content": "无处可逃。"
+            "Content": "无处可逃。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_evasion_parry_burst_attack_03.play_favor_word_kakaluo_evasion_parry_burst_attack_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "切忌愚鲁。"
+            "Content": "切忌愚鲁。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_behit_fly_01.play_favor_word_kakaluo_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "小心行事。"
+            "Content": "小心行事。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_behit_fly_02.play_favor_word_kakaluo_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_behit_fly_03.play_favor_word_kakaluo_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "保持冷静。"
+            "Content": "保持冷静。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hp70.play_favor_word_kakaluo_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "骰子已然掷出。"
+            "Content": "骰子已然掷出。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hp50.play_favor_word_kakaluo_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "其他人，撤退。"
+            "Content": "其他人，撤退。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hp30.play_favor_word_kakaluo_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "活下去……"
+            "Content": "活下去……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_die_01.play_favor_word_kakaluo_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "这天……终会到来……"
+            "Content": "这天……终会到来……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_die_02.play_favor_word_kakaluo_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "我听见了……呼唤……"
+            "Content": "我听见了……呼唤……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_die_03.play_favor_word_kakaluo_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "为我所用。"
+            "Content": "为我所用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hx_summon.play_favor_word_kakaluo_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "兵不厌诈。"
+            "Content": "兵不厌诈。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hx_change.play_favor_word_kakaluo_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "目标已确认。"
+            "Content": "目标已确认。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_qte.play_favor_word_kakaluo_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "现在……谁是猎物？"
+            "Content": "现在……谁是猎物？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_enter_battle.play_favor_word_kakaluo_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "注意周围。"
+            "Content": "注意周围。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_fly.play_favor_word_kakaluo_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_hook.play_favor_word_kakaluo_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "无所遁形。"
+            "Content": "无所遁形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_scan.play_favor_word_kakaluo_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_dash.play_favor_word_kakaluo_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_fast_run.play_favor_word_kakaluo_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "酬劳之外的收获，归你。"
+            "Content": "酬劳之外的收获，归你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_chest_01.play_favor_word_kakaluo_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "物尽其用。"
+            "Content": "物尽其用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_chest_02.play_favor_word_kakaluo_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "有机会派上用场。"
+            "Content": "有机会派上用场。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_kakaluo_chest_03.play_favor_word_kakaluo_chest_03"
         }
     ],
     "Goods": [
@@ -5651,5 +5720,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001301": {
+            "Id": 81001301,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "卡卡罗",
+            "TitleName": "潜珑猎影",
+            "SubDecName": "卡卡罗-初始服饰",
+            "BgDescription": "为方便在瑝珑境内行动，卡卡罗所定制的瑝珑风格的作战服。应其要求，没有添加繁杂的饰物，以轻便耐用，易于隐匿的功能性为主。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI"
+        }
     }
 }

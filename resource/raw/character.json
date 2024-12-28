@@ -191,6 +191,18 @@
         "zh-Hans": "维里奈",
         "ja": "ヴェリーナ"
     },
+    "1606": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.T_IconRoleHead256_33_UI",
+        "rank": 5,
+        "weapon": 4,
+        "element": 6,
+        "en": "Roccia",
+        "nickname": "Roccia",
+        "desc": "",
+        "ko": "로코코",
+        "zh-Hans": "洛可可",
+        "ja": "ロココ"
+    },
     "1102": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.T_IconRoleHead256_7_UI",
         "rank": 4,
@@ -274,6 +286,18 @@
         "ko": "모르테피",
         "zh-Hans": "莫特斐",
         "ja": "モルトフィー"
+    },
+    "1107": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.T_IconRoleHead256_32_UI",
+        "rank": 5,
+        "weapon": 3,
+        "element": 1,
+        "en": "Carlotta",
+        "nickname": "Carlotta",
+        "desc": "",
+        "ko": "카를로타",
+        "zh-Hans": "珂莱塔",
+        "ja": "カルロッタ"
     },
     "1504": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.T_IconRoleHead256_30_UI",

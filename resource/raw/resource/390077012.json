@@ -37,8 +37,8 @@
         "1": {
             "Id": 1,
             "Name": "凝夜白霜",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementIce1.T_IconElementIce1",
-            "Color": "41AEFBFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIce.T_IconElementAttriIce",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "冷凝伤害提升10%",
@@ -58,8 +58,8 @@
         "2": {
             "Id": 2,
             "Name": "熔山裂谷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementFire1.T_IconElementFire1",
-            "Color": "F0744EFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFire.T_IconElementAttriFire",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "热熔伤害提升10%",
@@ -78,8 +78,8 @@
         "9": {
             "Id": 9,
             "Name": "不绝余音",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyattacktag_UI.T_Iconpropertyattacktag_UI",
-            "Color": "C72C25FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriAttack.T_IconElementAttriAttack",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "攻击提升10%",

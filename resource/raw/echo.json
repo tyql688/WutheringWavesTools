@@ -1,4 +1,23 @@
 {
+    "6000075": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32024_UI.T_IconMonsterHead_32024_UI",
+        "code": "W66-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            13
+        ],
+        "en": "Nocturnus Knight",
+        "intensity": 1,
+        "ko": "심야 기사",
+        "zh-Hans": "暗夜骑士",
+        "ja": "闇夜の騎士"
+    },
     "390070075": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_261_UI.T_IconMonsterGoods_261_UI",
         "code": "H08-",
@@ -18,6 +37,44 @@
         "ko": "쇄아멧돼지",
         "zh-Hans": "碎獠猪",
         "ja": "砕牙イノシシ"
+    },
+    "6000062": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31038_UI.T_IconMonsterHead_31038_UI",
+        "code": "H24-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            13
+        ],
+        "en": "Voltscourge Stalker",
+        "intensity": 0,
+        "ko": "갈기늑대 · 천둥",
+        "zh-Hans": "雷鬃狼",
+        "ja": "雷鬣狼"
+    },
+    "6000077": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32026_UI.T_IconMonsterHead_32026_UI",
+        "code": "W68-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            14
+        ],
+        "en": "Abyssal Gladius",
+        "intensity": 1,
+        "ko": "글라디우스 귀족",
+        "zh-Hans": "持刃贵族",
+        "ja": "アビサル・グラディウス"
     },
     "390070071": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_231_UI.T_IconMonsterGoods_231_UI",
@@ -58,6 +115,43 @@
         "zh-Hans": "湮灭棱镜",
         "ja": "消滅のプリズム"
     },
+    "6000086": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33014_UI.T_IconMonsterHead_YZ_33014_UI",
+        "code": "H71-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            4
+        ],
+        "en": "Nightmare: Feilian Beringal",
+        "intensity": 2,
+        "ko": "악몽 · 폭주의 고릴라",
+        "zh-Hans": "梦魇·飞廉之猩",
+        "ja": "ナイトメア・飛廉の大猿"
+    },
+    "6000074": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32023_UI.T_IconMonsterHead_32023_UI",
+        "code": "W65-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            14
+        ],
+        "en": "Diurnus Knight",
+        "intensity": 1,
+        "ko": "대낮 기사",
+        "zh-Hans": "幻昼骑士",
+        "ja": "炎昼の騎士"
+    },
     "390077012": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_151_UI.T_IconMonsterGoods_151_UI",
         "code": "N12-",
@@ -97,6 +191,24 @@
         "zh-Hans": "冥渊守卫",
         "ja": "冥淵の守り手"
     },
+    "6000092": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33020_UI.T_IconMonsterHead_YZ_33020_UI",
+        "code": "H73-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11
+        ],
+        "en": "Nightmare: Mourning Aix",
+        "intensity": 2,
+        "ko": "악몽 · 애곡하는 아익스",
+        "zh-Hans": "梦魇·哀声鸷",
+        "ja": "ナイトメア・哀切の凶鳥"
+    },
     "390077028": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_291_UI.T_IconMonsterGoods_291_UI",
         "code": "H46-",
@@ -134,6 +246,28 @@
         "ko": "갈기늑대 · 눈꽃",
         "zh-Hans": "雪鬃狼",
         "ja": "雪鬣狼"
+    },
+    "6000081": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_121_UI.T_IconMonsterGoods_121_UI",
+        "code": "R42-",
+        "rank": [
+            2,
+            3,
+            4,
+            5,
+            2
+        ],
+        "group": [
+            2,
+            3,
+            10,
+            12
+        ],
+        "en": "Cuddle Wuddle",
+        "intensity": 1,
+        "ko": "거대 인형",
+        "zh-Hans": "巨布偶",
+        "ja": "ビッグベア"
     },
     "390070052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_021_UI.T_IconMonsterGoods_021_UI",
@@ -213,6 +347,24 @@
         "zh-Hans": "无归的谬误",
         "ja": "フェイタルエラー"
     },
+    "6000087": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33015_UI.T_IconMonsterHead_YZ_33015_UI",
+        "code": "H72-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12
+        ],
+        "en": "Nightmare: Impermanence Heron",
+        "intensity": 2,
+        "ko": "악몽 · 음험한 백로",
+        "zh-Hans": "梦魇·无常凶鹭",
+        "ja": "ナイトメア・無情のサギ"
+    },
     "6000053": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
         "code": "H81-",
@@ -252,6 +404,44 @@
         "zh-Hans": "咕咕河豚",
         "ja": "グルッポ"
     },
+    "6000073": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32022_UI.T_IconMonsterHead_32022_UI",
+        "code": "W64-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            12
+        ],
+        "en": "Questless Knight",
+        "intensity": 1,
+        "child": 6010073,
+        "ko": "순찰 기사",
+        "zh-Hans": "巡游骑士",
+        "ja": "回歴の騎士"
+    },
+    "6000090": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33018_UI.T_IconMonsterHead_YZ_33018_UI",
+        "code": "H80-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            6
+        ],
+        "en": "Nightmare: Crownless",
+        "intensity": 2,
+        "ko": "악몽 · 크라운리스",
+        "zh-Hans": "梦魇·无冠者",
+        "ja": "ナイトメア・無冠者"
+    },
     "390070070": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_101_UI.T_IconMonsterGoods_101_UI",
         "code": "W26-",
@@ -270,6 +460,85 @@
         "ko": "상강의 사냥꾼",
         "zh-Hans": "破霜猎手",
         "ja": "破霜の狩人"
+    },
+    "6000082": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33011_UI.T_IconMonsterHead_33011_UI",
+        "code": "W83-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12
+        ],
+        "en": "Lorelei",
+        "intensity": 2,
+        "ko": "로렐라이",
+        "zh-Hans": "罗蕾莱",
+        "ja": "ローレライ"
+    },
+    "6000065": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31041_UI.T_IconMonsterHead_31041_UI",
+        "code": "R02-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            14
+        ],
+        "en": "Chop Chop: Leftless",
+        "intensity": 0,
+        "ko": "유령 인형 · 레프",
+        "zh-Hans": "浮灵偶·蕾弗",
+        "ja": "フロートアルマ・レフト"
+    },
+    "6000061": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31037_UI.T_IconMonsterHead_31037_UI",
+        "code": "H23-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            13
+        ],
+        "en": "Galescourge Stalker",
+        "intensity": 0,
+        "ko": "갈기늑대 · 바람",
+        "zh-Hans": "风鬃狼",
+        "ja": "風鬣狼"
+    },
+    "6000070": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_071_UI.T_IconMonsterGoods_071_UI",
+        "code": "R07-",
+        "rank": [
+            2,
+            3,
+            4,
+            5,
+            2
+        ],
+        "group": [
+            5,
+            8,
+            9,
+            10,
+            14
+        ],
+        "en": "Lottie Lost",
+        "intensity": 0,
+        "ko": "쓸쓸한 아가씨",
+        "zh-Hans": "寂寞小姐",
+        "ja": "ミス・ロンリー"
     },
     "390077004": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_121_UI.T_IconMonsterGoods_121_UI",
@@ -548,6 +817,42 @@
         "zh-Hans": "异相·哀声鸷",
         "ja": "異相・哀切の凶鳥"
     },
+    "6000088": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33016_UI.T_IconMonsterHead_YZ_33016_UI",
+        "code": "W76-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            3
+        ],
+        "en": "Nightmare: Thundering Mephis",
+        "intensity": 2,
+        "ko": "악몽 · 뇌운의 비늘",
+        "zh-Hans": "梦魇·云闪之鳞",
+        "ja": "ナイトメア・雲閃のウロコ"
+    },
+    "6000085": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34010_1_UI.T_IconMonsterHead_34010_1_UI",
+        "code": "W93-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            13
+        ],
+        "en": "Hecate",
+        "intensity": 3,
+        "ko": "헤카테",
+        "zh-Hans": "赫卡忒",
+        "ja": "ヘカテー"
+    },
     "6000048": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
         "code": "R56-",
@@ -642,6 +947,25 @@
         "zh-Hans": "鸣钟之龟",
         "ja": "鳴鐘の亀"
     },
+    "6000069": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31045_UI.T_IconMonsterHead_31045_UI",
+        "code": "R06-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            13
+        ],
+        "en": "Hocus Pocus",
+        "intensity": 0,
+        "ko": "미스터 매직",
+        "zh-Hans": "魔术先生",
+        "ja": "ミスター<word>・マギア</word>"
+    },
     "6000058": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_328_UI.T_IconMonsterHead_328_UI",
         "code": "H54-",
@@ -660,6 +984,26 @@
         "ko": "흑월의 야수",
         "zh-Hans": "踏光兽",
         "ja": "光踏獣（こうとうじゅう）"
+    },
+    "6000080": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32029_UI.T_IconMonsterHead_32029_UI",
+        "code": "W70-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            13
+        ],
+        "en": "Vitreum Dancer",
+        "intensity": 1,
+        "child": 6010080,
+        "ko": "블레이드 댄서",
+        "zh-Hans": "琉璃刀伶",
+        "ja": "ヴィトルムダンサー"
     },
     "6000041": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_987_UI.T_IconMonsterGoods_987_UI",
@@ -792,6 +1136,63 @@
         "zh-Hans": "融火虫",
         "ja": "溶岩虫"
     },
+    "6000076": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32025_UI.T_IconMonsterHead_32025_UI",
+        "code": "W67-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            13
+        ],
+        "en": "Abyssal Patricius",
+        "intensity": 1,
+        "ko": "베나터 귀족",
+        "zh-Hans": "毒冠贵族",
+        "ja": "アビサル・パトリシウス"
+    },
+    "6000089": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33017_UI.T_IconMonsterHead_YZ_33017_UI",
+        "code": "W75-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            3,
+            13
+        ],
+        "en": "Nightmare: Tempest Mephis",
+        "intensity": 2,
+        "ko": "악몽 · 천둥의 비늘",
+        "zh-Hans": "梦魇·朔雷之鳞",
+        "ja": "ナイトメア・雷刹のウロコ"
+    },
+    "6000067": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31043_UI.T_IconMonsterHead_31043_UI",
+        "code": "R04-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            12
+        ],
+        "en": "Fae Ignis",
+        "intensity": 0,
+        "ko": "페이 이그니스",
+        "zh-Hans": "幽翎火",
+        "ja": "フェイイグニス"
+    },
     "390080007": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_321_UI.T_IconMonsterGoods_321_UI",
         "code": "W77-",
@@ -810,6 +1211,25 @@
         "ko": "지옥불 기사",
         "zh-Hans": "燎照之骑",
         "ja": "燎原の炎騎"
+    },
+    "6000083": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33012_UI.T_IconMonsterHead_33012_UI",
+        "code": "W84-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10
+        ],
+        "en": "Sentry Construct",
+        "intensity": 2,
+        "child": 6010083,
+        "ko": "특조 무장",
+        "zh-Hans": "异构武装",
+        "ja": "ゼノコロッサス"
     },
     "390070079": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_301_UI.T_IconMonsterGoods_301_UI",
@@ -869,6 +1289,24 @@
         "zh-Hans": "呜咔咔",
         "ja": "ウカカ"
     },
+    "6000091": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33019_UI.T_IconMonsterHead_YZ_33019_UI",
+        "code": "W77-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            2
+        ],
+        "en": "Nightmare: Inferno Rider",
+        "intensity": 2,
+        "ko": "악몽 · 지옥불 기사",
+        "zh-Hans": "梦魇·燎照之骑",
+        "ja": "ナイトメア・燎原の炎騎"
+    },
     "6000046": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_970_UI.T_IconMonsterGoods_970_UI",
         "code": "R55-",
@@ -905,6 +1343,25 @@
         "ko": "크라운리스",
         "zh-Hans": "无冠者",
         "ja": "無冠者"
+    },
+    "6000078": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32027_UI.T_IconMonsterHead_32027_UI",
+        "code": "W69-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            11
+        ],
+        "en": "Abyssal Mercator",
+        "intensity": 1,
+        "ko": "메르카토르 귀족",
+        "zh-Hans": "凝水贵族",
+        "ja": "アビサル・メルカトル"
     },
     "390077016": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_161_UI.T_IconMonsterGoods_161_UI",
@@ -946,6 +1403,45 @@
         "zh-Hans": "咔嚓嚓",
         "ja": "カチャチャ"
     },
+    "6000064": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31040_UI.T_IconMonsterHead_31040_UI",
+        "code": "R01-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            14
+        ],
+        "en": "Chop Chop: Headless",
+        "intensity": 0,
+        "ko": "유령 인형 · 헤드",
+        "zh-Hans": "浮灵偶·海德",
+        "ja": "フロートアルマ・ヘッド"
+    },
+    "6000071": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31047_UI.T_IconMonsterHead_31047_UI",
+        "code": "R08-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            14
+        ],
+        "en": "Diggy Duggy",
+        "intensity": 0,
+        "child": 6010071,
+        "ko": "근무 인형",
+        "zh-Hans": "工头布偶",
+        "ja": "サクサクベア"
+    },
     "6000047": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_971_UI.T_IconMonsterGoods_971_UI",
         "code": "H02-",
@@ -983,6 +1479,44 @@
         "ko": "뇌운의 비늘",
         "zh-Hans": "云闪之鳞",
         "ja": "雲閃のウロコ"
+    },
+    "6000063": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31039_UI.T_IconMonsterHead_31039_UI",
+        "code": "H25-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            12
+        ],
+        "en": "Frostscourge Stalker",
+        "intensity": 0,
+        "ko": "갈기늑대 · 서리",
+        "zh-Hans": "霜鬃狼",
+        "ja": "霜鬣狼"
+    },
+    "6000068": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31044_UI.T_IconMonsterHead_31044_UI",
+        "code": "R05-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            13
+        ],
+        "en": "Nimbus Wraith",
+        "intensity": 0,
+        "ko": "구름 바다 요정",
+        "zh-Hans": "云海妖精",
+        "ja": "雲の妖精"
     },
     "390070064": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_041_UI.T_IconMonsterGoods_041_UI",
@@ -1022,6 +1556,24 @@
         "ko": "경칩의 사냥꾼",
         "zh-Hans": "惊蛰猎手",
         "ja": "春雷の狩人"
+    },
+    "6000084": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33013_UI.T_IconMonsterHead_33013_UI",
+        "code": "H82-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            14
+        ],
+        "en": "Dragon of Dirge",
+        "intensity": 2,
+        "ko": "탄식의 고룡",
+        "zh-Hans": "叹息古龙",
+        "ja": "嘆きのドレイク"
     },
     "390070105": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_969_UI.T_IconMonsterGoods_969_UI",
@@ -1159,6 +1711,45 @@
         "zh-Hans": "振铎乐师",
         "ja": "金鈴の楽手"
     },
+    "6000066": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31042_UI.T_IconMonsterHead_31042_UI",
+        "code": "R03-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            14
+        ],
+        "en": "Chop Chop: Rightless",
+        "intensity": 0,
+        "ko": "유령 인형 · 라잇",
+        "zh-Hans": "浮灵偶·莱特",
+        "ja": "フロートアルマ・ライト"
+    },
+    "6000072": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31048_UI.T_IconMonsterHead_31048_UI",
+        "code": "R09-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            12,
+            13
+        ],
+        "en": "Chest Mimic",
+        "intensity": 0,
+        "ko": "거짓 보물상자",
+        "zh-Hans": "欺诈奇藏",
+        "ja": "秘蔵ミミック"
+    },
     "6000059": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_327_UI.T_IconMonsterHead_327_UI",
         "code": "Z01-",
@@ -1250,5 +1841,24 @@
         "ko": "마접의 악사",
         "zh-Hans": "奏谕乐师",
         "ja": "宣諭の楽手"
+    },
+    "6000079": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32028_UI.T_IconMonsterHead_32028_UI",
+        "code": "R41-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            13,
+            14
+        ],
+        "en": "Chop Chop",
+        "intensity": 1,
+        "ko": "유령 인형",
+        "zh-Hans": "浮灵偶",
+        "ja": "フロートアルマ"
     }
 }

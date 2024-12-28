@@ -62,372 +62,446 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "欢迎来到今州，远道而来的贵客。事务繁忙，招待不周之处还请见谅。若有什么要紧事，可以直接来边庭找我。"
+            "Content": "欢迎来到今州，远道而来的贵客。事务繁忙，招待不周之处还请见谅。若有什么要紧事，可以直接来边庭找我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_to_player01.play_favor_word_jinxi_sys_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "今州是由每一束生长于此的花，每一片伫立于此的瓦，每一个居住于此的人构成的。草长莺飞、川流不息……每一个踏进城门的人都会为这座城市增添新气象。而你，无疑是最特别的那个……不，这不单单是岁主的判断，更是我的。"
+            "Content": "今州是由每一束生长于此的花，每一片伫立于此的瓦，每一个居住于此的人构成的。草长莺飞、川流不息……每一个踏进城门的人都会为这座城市增添新气象。而你，无疑是最特别的那个……不，这不单单是岁主的判断，更是我的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_to_player02.play_favor_word_jinxi_sys_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "今州有句俗语：惊才现世，海沸山摇。也就是说，惊才如你，或许会为今州带来新的浪潮……届时，狂风会席卷树干上的虫豸、骤雨会洗刷白墙上的泥点，今州的天空定将更加澄澈。"
+            "Content": "今州有句俗语：惊才现世，海沸山摇。也就是说，惊才如你，或许会为今州带来新的浪潮……届时，狂风会席卷树干上的虫豸、骤雨会洗刷白墙上的泥点，今州的天空定将更加澄澈。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_to_player03.play_favor_word_jinxi_sys_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "刚开始我也好奇过你的来历，但现在我明白了，一个人的来历并没有他的行为那么重要。毕竟，来历构筑了“过去的你”，而行为才代表“现在的你”。你为今州做的一切我都看在眼里，有些事看似是不可思议的巧合，细细想来，却又一环扣一环，精妙无比……或许，你出现在今州，自有某种深意。"
+            "Content": "刚开始我也好奇过你的来历，但现在我明白了，一个人的来历并没有他的行为那么重要。毕竟，来历构筑了“过去的你”，而行为才代表“现在的你”。你为今州做的一切我都看在眼里，有些事看似是不可思议的巧合，细细想来，却又一环扣一环，精妙无比……或许，你出现在今州，自有某种深意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_to_player04.play_favor_word_jinxi_sys_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "一个人走虽然更快，一群人才能走得更远。未来的路，我会和大家，会和你一起走下去。"
+            "Content": "一个人走虽然更快，一群人才能走得更远。未来的路，我会和大家，会和你一起走下去。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_to_player05.play_favor_word_jinxi_sys_to_player05"
         },
         {
             "Type": 1,
             "Title": "今汐的喜好",
-            "Content": "你去今州剧院看过吗？每次上演大团圆的戏，大家看了心里满足，就会由衷地笑出来。我喜欢大家笑起来的样子，所以，我想让大家的结局都能圆满。"
+            "Content": "你去今州剧院看过吗？每次上演大团圆的戏，大家看了心里满足，就会由衷地笑出来。我喜欢大家笑起来的样子，所以，我想让大家的结局都能圆满。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_taste.play_favor_word_jinxi_sys_taste"
         },
         {
             "Type": 1,
             "Title": "今汐的烦恼",
-            "Content": "嗯……对于我来说，无论当下看起来多么困难的事情，比起“烦恼”，更多的是想方设法完成它的目标感。\r“烦恼”这种心情，已经很久没有过了。"
+            "Content": "嗯……对于我来说，无论当下看起来多么困难的事情，比起“烦恼”，更多的是想方设法完成它的目标感。\r“烦恼”这种心情，已经很久没有过了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_worry.play_favor_word_jinxi_sys_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "你逛过今州的早市吗？早点摊的摊主会捏一屉白白嫩嫩的小龙包，点缀上红枣，放进蒸笼那么一蒸——一股烟气袅袅升起，空气中都是甜甜的味道。"
+            "Content": "你逛过今州的早市吗？早点摊的摊主会捏一屉白白嫩嫩的小龙包，点缀上红枣，放进蒸笼那么一蒸——一股烟气袅袅升起，空气中都是甜甜的味道。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_foodlike.play_favor_word_jinxi_sys_foodlike"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "悲鸣之后，今州曾经遭遇过一段粮食紧缺的年岁。只要经历过那种年代就会明白，每一份食物都来之不易。好好品尝每一份食物，是对耕种之人的感谢，也是对天地馈赠的感激……我没有特别讨厌的食物，为了博眼球或者卖高价，存心糟蹋粮食的那种除外。"
+            "Content": "悲鸣之后，今州曾经遭遇过一段粮食紧缺的年岁。只要经历过那种年代就会明白，每一份食物都来之不易。好好品尝每一份食物，是对耕种之人的感谢，也是对天地馈赠的感激……我没有特别讨厌的食物，为了博眼球或者卖高价，存心糟蹋粮食的那种除外。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_foodhate.play_favor_word_jinxi_sys_foodhate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "人们向岁主祈愿并不是懦弱，只是找不到出路。我要走到前面去，带领大家找到属于人类自己的道路。"
+            "Content": "人们向岁主祈愿并不是懦弱，只是找不到出路。我要走到前面去，带领大家找到属于人类自己的道路。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_dream.play_favor_word_jinxi_sys_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "很小的时候，我总是会做很多梦。梦魇的感觉就像是在海里游泳，游着游着突然被海草扯住了脚脖子，被卷进海浪之中，渐渐沉向海底。我努力挣扎，抓住一片浮木，随着逆向的汐流漂回岸边。后来我醒了，手里确实抓着什么东西……嗯，就是这片闪闪发光的龙鳞。"
+            "Content": "很小的时候，我总是会做很多梦。梦魇的感觉就像是在海里游泳，游着游着突然被海草扯住了脚脖子，被卷进海浪之中，渐渐沉向海底。我努力挣扎，抓住一片浮木，随着逆向的汐流漂回岸边。后来我醒了，手里确实抓着什么东西……嗯，就是这片闪闪发光的龙鳞。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_story_obj.play_favor_word_jinxi_sys_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "你见过乘霄山的雪吗？我隐隐记得，那里的雪自顾自地下着，一会儿悬停在空中，一会儿又忽然飘起来，裹在凌空的枝条上……不一会儿，万物银装素裹，寂静无声。今州就很不一样，雪簌簌而落，落到来往行人的头顶和肩膀上。人们会互相拂去肩头薄薄的积雪，会一同堆起小小的雪人……无论哪种雪景，我都想好好守护。"
+            "Content": "你见过乘霄山的雪吗？我隐隐记得，那里的雪自顾自地下着，一会儿悬停在空中，一会儿又忽然飘起来，裹在凌空的枝条上……不一会儿，万物银装素裹，寂静无声。今州就很不一样，雪簌簌而落，落到来往行人的头顶和肩膀上。人们会互相拂去肩头薄薄的积雪，会一同堆起小小的雪人……无论哪种雪景，我都想好好守护。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_story_exp.play_favor_word_jinxi_sys_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于长离",
-            "Content": "在长离老师的指导下，我逐渐明白了很多事情……但是，我却始终看不透她笑起来的眼睛。"
+            "Content": "在长离老师的指导下，我逐渐明白了很多事情……但是，我却始终看不透她笑起来的眼睛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_about_changli.play_favor_word_jinxi_sys_about_changli"
         },
         {
             "Type": 1,
             "Title": "关于散华",
-            "Content": "有时候忙起来，肚子饿了都不知道……等我忙完，又已经过了饭点。这时候，就算不用我说，散华也会端来一盘刚热好的小龙包，还每次都正好是我想吃的那种馅……她究竟是怎么做到的？"
+            "Content": "有时候忙起来，肚子饿了都不知道……等我忙完，又已经过了饭点。这时候，就算不用我说，散华也会端来一盘刚热好的小龙包，还每次都正好是我想吃的那种馅……她究竟是怎么做到的？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_about_sanhua.play_favor_word_jinxi_sys_about_sanhua"
         },
         {
             "Type": 1,
             "Title": "关于桃祈",
-            "Content": "桃祈呀，她总是一边打着哈欠，一边飞速处理完一大堆工作……那种效率，连我都自叹不如。"
+            "Content": "桃祈呀，她总是一边打着哈欠，一边飞速处理完一大堆工作……那种效率，连我都自叹不如。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_about_taoqi.play_favor_word_jinxi_sys_about_taoqi"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "“青龙旗起，残象潮退”这是今州城里的孩子们都会传唱的歌谣。我相信，有忌炎在，残象永远都无法突破今州的边境。"
+            "Content": "“青龙旗起，残象潮退”这是今州城里的孩子们都会传唱的歌谣。我相信，有忌炎在，残象永远都无法突破今州的边境。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_about_jiyan.play_favor_word_jinxi_sys_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于漂泊者",
-            "Content": "我能隐隐约约感觉到，你和我一样，都有想要守护的东西……是那种，一步都不能退让，用尽一切办法都要守护的东西。"
+            "Content": "我能隐隐约约感觉到，你和我一样，都有想要守护的东西……是那种，一步都不能退让，用尽一切办法都要守护的东西。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_about_zhujue.play_favor_word_jinxi_sys_about_zhujue"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "我思来想去，总觉得比起现成的华贵之物，亲手做的礼物更能表达情谊。自从知道了你的生日，我就每天挤出一点时间，从选材开始亲手做一盏龙灯……幸好赶上了。等你有空了就来边庭找我，咱们一起放龙灯吧。按照今州的习俗，在生日这天对着高高升起的龙灯许愿，岁主就会保佑你来年心想事成哦。"
+            "Content": "我思来想去，总觉得比起现成的华贵之物，亲手做的礼物更能表达情谊。自从知道了你的生日，我就每天挤出一点时间，从选材开始亲手做一盏龙灯……幸好赶上了。等你有空了就来边庭找我，咱们一起放龙灯吧。按照今州的习俗，在生日这天对着高高升起的龙灯许愿，岁主就会保佑你来年心想事成哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_birthcele.play_favor_word_jinxi_sys_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_idle01.play_favor_word_jinxi_com_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_idle02.play_favor_word_jinxi_com_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "有什么想祈福的吗，我可以为你代劳……嗯，你的心愿会实现的。"
+            "Content": "有什么想祈福的吗，我可以为你代劳……嗯，你的心愿会实现的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_idle03.play_favor_word_jinxi_com_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "今令尹，今汐。令尹二字意味着至高无上的职权，也意味着沉重如山的责任。我会尽我所能，让今州的每一个人过好当下的每一天。"
+            "Content": "今令尹，今汐。令尹二字意味着至高无上的职权，也意味着沉重如山的责任。我会尽我所能，让今州的每一个人过好当下的每一天。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_introduction.play_favor_word_jinxi_sys_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "正如岁主所说，你我会在此相遇。"
+            "Content": "正如岁主所说，你我会在此相遇。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_gacha.play_favor_word_jinxi_sys_gacha"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "大家一起吧。"
+            "Content": "大家一起吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_jointeam_01.play_favor_word_jinxi_sys_jointeam_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "多走多看。"
+            "Content": "多走多看。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_jointeam_02.play_favor_word_jinxi_sys_jointeam_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "亲力亲为。"
+            "Content": "亲力亲为。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_jointeam_03.play_favor_word_jinxi_sys_jointeam_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "没有什么天生如此。身为今令尹，必须不断精进自己。"
+            "Content": "没有什么天生如此。身为今令尹，必须不断精进自己。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_rankup01.play_favor_word_jinxi_sys_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "刚当上令尹时，我偶尔也会担心自己的力量还不足以保护今州的大家。后来我想明白了，有时间浪费在这种自我怀疑的小心思上，还不如赶紧行动起来，加紧练习。练着练着，力量自然就会增长。"
+            "Content": "刚当上令尹时，我偶尔也会担心自己的力量还不足以保护今州的大家。后来我想明白了，有时间浪费在这种自我怀疑的小心思上，还不如赶紧行动起来，加紧练习。练着练着，力量自然就会增长。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_rankup02.play_favor_word_jinxi_sys_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "多谢你的指导，最近我明显感觉到，不止是武力上的提升，就连处理今州事务都更加游刃有余了。或许你教我的，不仅是增强力量之法，还有立身处世之道。"
+            "Content": "多谢你的指导，最近我明显感觉到，不止是武力上的提升，就连处理今州事务都更加游刃有余了。或许你教我的，不仅是增强力量之法，还有立身处世之道。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_rankup03.play_favor_word_jinxi_sys_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "我自知频率特殊，与我如此相谐的频率，还是头一回遇到……或许，你与岁主也有着说不清的渊源呢。如果真是这样就好了，这样一来，我会感觉……离你又近了一些。"
+            "Content": "我自知频率特殊，与我如此相谐的频率，还是头一回遇到……或许，你与岁主也有着说不清的渊源呢。如果真是这样就好了，这样一来，我会感觉……离你又近了一些。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_rankup04.play_favor_word_jinxi_sys_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "离你越近，就越能发现我们的相似之处。我们频率相近，力量相像，就连使命都互相交叠。守护今州本是我的职责，种种迹象却表明你也与今州有着千丝万缕的联系……遇见你之前，我一向相信事在人为、人定胜天。但现在我觉得，偶尔相信一次命运也不错。"
+            "Content": "离你越近，就越能发现我们的相似之处。我们频率相近，力量相像，就连使命都互相交叠。守护今州本是我的职责，种种迹象却表明你也与今州有着千丝万缕的联系……遇见你之前，我一向相信事在人为、人定胜天。但现在我觉得，偶尔相信一次命运也不错。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_rankup05.play_favor_word_jinxi_sys_rankup05"
         },
         {
             "Type": 2,
             "Title": "重击·一",
-            "Content": "时济春舒。"
+            "Content": "时济春舒。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hvatk_01.play_favor_word_jinxi_bat_hvatk_01"
         },
         {
             "Type": 2,
             "Title": "重击·二",
-            "Content": "斗转霞祈。"
+            "Content": "斗转霞祈。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hvatk_02.play_favor_word_jinxi_bat_hvatk_02"
         },
         {
             "Type": 2,
             "Title": "重击·三",
-            "Content": "正当节令。"
+            "Content": "正当节令。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hvatksp_01.play_favor_word_jinxi_bat_hvatksp_01"
         },
         {
             "Type": 2,
             "Title": "重击·四",
-            "Content": "蚩龙化形。"
+            "Content": "蚩龙化形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hvatksp_02.play_favor_word_jinxi_bat_hvatksp_02"
         },
         {
             "Type": 2,
             "Title": "空中攻击·一",
-            "Content": "坠星。"
+            "Content": "坠星。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_airatk_01.play_favor_word_jinxi_bat_airatk_01"
         },
         {
             "Type": 2,
             "Title": "空中攻击·二",
-            "Content": "掣光。"
+            "Content": "掣光。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_airatksp_01.play_favor_word_jinxi_bat_airatksp_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "惊蛰一瞬。"
+            "Content": "惊蛰一瞬。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01a_01.play_favor_word_jinxi_bat_skill01a_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "春芒懈寒。"
+            "Content": "春芒懈寒。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01a_02.play_favor_word_jinxi_bat_skill01a_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "万物流转。"
+            "Content": "万物流转。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01a_03.play_favor_word_jinxi_bat_skill01a_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "翥光踏虹。"
+            "Content": "翥光踏虹。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01b_01.play_favor_word_jinxi_bat_skill01b_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "旋霓并影。"
+            "Content": "旋霓并影。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01b_02.play_favor_word_jinxi_bat_skill01b_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "朝月辰夕。"
+            "Content": "朝月辰夕。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill01b_03.play_favor_word_jinxi_bat_skill01b_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·七",
-            "Content": "龙游曲沼！"
+            "Content": "龙游曲沼！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skillair_01.play_favor_word_jinxi_bat_skillair_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·八",
-            "Content": "御龙凌霄！"
+            "Content": "御龙凌霄！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skillair_02.play_favor_word_jinxi_bat_skillair_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·九",
-            "Content": "云螭鳞闪！"
+            "Content": "云螭鳞闪！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skillair_03.play_favor_word_jinxi_bat_skillair_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十",
-            "Content": "时节有终！"
+            "Content": "时节有终！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill02_01.play_favor_word_jinxi_bat_skill02_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十一",
-            "Content": "化煞无形！"
+            "Content": "化煞无形！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill02_02.play_favor_word_jinxi_bat_skill02_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十二",
-            "Content": "天宿庭光！"
+            "Content": "天宿庭光！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_skill02_03.play_favor_word_jinxi_bat_skill02_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "矆睒行令！"
+            "Content": "矆睒行令！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_burst_01.play_favor_word_jinxi_bat_burst_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "天怜苍生、诸邪皆除！"
+            "Content": "天怜苍生、诸邪皆除！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_burst_02.play_favor_word_jinxi_bat_burst_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "回应……清平之愿！"
+            "Content": "回应……清平之愿！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_burst_03.play_favor_word_jinxi_bat_burst_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "无礼。"
+            "Content": "无礼。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_behitfly_02.play_favor_word_jinxi_com_behitfly_02"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "疏忽了……"
+            "Content": "疏忽了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_behitfly_03.play_favor_word_jinxi_com_behitfly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "没事的。"
+            "Content": "没事的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_hpdown01.play_favor_word_jinxi_com_hpdown01"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "别担心。"
+            "Content": "别担心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_hpdown02.play_favor_word_jinxi_com_hpdown02"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "尚有……未竟之事……"
+            "Content": "尚有……未竟之事……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_die_02.play_favor_word_jinxi_com_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "我还不能……"
+            "Content": "我还不能……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_die_03.play_favor_word_jinxi_com_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "映现吧。"
+            "Content": "映现吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hxsummon.play_favor_word_jinxi_bat_hxsummon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "万象共我。"
+            "Content": "万象共我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_hxchange.play_favor_word_jinxi_bat_hxchange"
         },
         {
             "Type": 2,
             "Title": "变奏技能·一",
-            "Content": "携手。"
+            "Content": "携手。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_qte01.play_favor_word_jinxi_bat_qte01"
         },
         {
             "Type": 2,
             "Title": "变奏技能·二",
-            "Content": "同心！"
+            "Content": "同心！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_bat_qte02.play_favor_word_jinxi_bat_qte02"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "我来开道。"
+            "Content": "我来开道。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_engage.play_favor_word_jinxi_com_engage"
         },
         {
             "Type": 2,
             "Title": "滑翔·一",
-            "Content": "看得更远。"
+            "Content": "看得更远。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_fly_01.play_favor_word_jinxi_com_fly_01"
         },
         {
             "Type": 2,
             "Title": "滑翔·二",
-            "Content": "迎风而行。"
+            "Content": "迎风而行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_fly_02.play_favor_word_jinxi_com_fly_02"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "瞬息之间。"
+            "Content": "瞬息之间。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_hook_01.play_favor_word_jinxi_com_hook_01"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "吉光片羽。"
+            "Content": "吉光片羽。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_scan.play_favor_word_jinxi_com_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "嗯，前进吧。"
+            "Content": "嗯，前进吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_dash_01.play_favor_word_jinxi_com_dash_01"
         },
         {
             "Type": 2,
             "Title": "纵跑·一",
-            "Content": "另辟蹊径。"
+            "Content": "另辟蹊径。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_fastclimb_01.play_favor_word_jinxi_com_fastclimb_01"
         },
         {
             "Type": 2,
             "Title": "纵跑·二",
-            "Content": "八面通达。"
+            "Content": "八面通达。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_fastclimb_02.play_favor_word_jinxi_com_fastclimb_02"
         },
         {
             "Type": 2,
             "Title": "跨越障碍",
-            "Content": "失态了。"
+            "Content": "失态了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_jump_01.play_favor_word_jinxi_com_jump_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "有什么能用上的吗？"
+            "Content": "有什么能用上的吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_openbox_01.play_favor_word_jinxi_com_openbox_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "今州地大物博，好东西不少呢。"
+            "Content": "今州地大物博，好东西不少呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_openbox_02.play_favor_word_jinxi_com_openbox_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "这些够用吗？要是还缺什么，跟我说。"
+            "Content": "这些够用吗？要是还缺什么，跟我说。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_openbox_03.play_favor_word_jinxi_com_openbox_03"
         }
     ],
     "Goods": [
@@ -5285,5 +5359,27 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81011304": {
+            "Id": 81011304,
+            "SuitWeaponSkinId": 80080007,
+            "QualityId": 5,
+            "Name": "今汐",
+            "TitleName": "桃夭灼灼",
+            "SubDecName": "今汐-典藏套装",
+            "BgDescription": "花前月下，清歌曼舞。为典仪，更为——\n纪念你们最初的相会，同途的相知，以及共济风雪的相伴。\n“春回岁往谁与共，桃夭灼灼牵丝动。”",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.T_IconRole_Pile_jinxi2_UI"
+        },
+        "81001304": {
+            "Id": 81001304,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "今汐",
+            "TitleName": "洄天溯海",
+            "SubDecName": "今汐-初始服饰",
+            "BgDescription": "两片薄如水纹的裁剪微微泛蓝，温柔地包裹着纯白的少女。正如逆流的潮汐将她推回岸边，而她平静地捧起整个今州。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI"
+        }
     }
 }

@@ -68,297 +68,362 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "你知道吗，你身边的那束小花很喜欢你哦，我都听到了。植物的语言安静但真诚，我可以把它们说的话讲给你听。"
+            "Content": "你知道吗，你身边的那束小花很喜欢你哦，我都听到了。植物的语言安静但真诚，我可以把它们说的话讲给你听。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_to_player01.play_favor_word_weilinai_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "上次深夜在无光之森周围遇到了我？不好意思，我都没注意到，当时应该在等待一朵夜息香盛开吧。对于花朵来说，绽放的瞬间花了它们一生的努力，要是有人记下来，也许它们也会感到开心呢？"
+            "Content": "上次深夜在无光之森周围遇到了我？不好意思，我都没注意到，当时应该在等待一朵夜息香盛开吧。对于花朵来说，绽放的瞬间花了它们一生的努力，要是有人记下来，也许它们也会感到开心呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_to_player02.play_favor_word_weilinai_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "当、当然可以不说植物相关的话题，我也不是什么时候都呆在花房里。嗯、嗯......你喜欢吃森栖锅吗，里面的菌菇种类……啊、诶？这、菌菇可不算植物，是真菌哦！"
+            "Content": "当、当然可以不说植物相关的话题，我也不是什么时候都呆在花房里。嗯、嗯......你喜欢吃森栖锅吗，里面的菌菇种类……啊、诶？这、菌菇可不算植物，是真菌哦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_to_player03.play_favor_word_weilinai_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "不忙的时候，要不要一起出去转转？不带任何目的乱转的话，也许世界都会不一样了呢。要试试吗？"
+            "Content": "不忙的时候，要不要一起出去转转？不带任何目的乱转的话，也许世界都会不一样了呢。要试试吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_to_player04.play_favor_word_weilinai_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "说起来，我们两个就像被风吹向天空的蒲公英种子，可能会经历水土不服、风吹雨淋，也有可能在某个雨后彩虹的日子落地发芽。漂泊者，同为异乡人，希望你无论何时，身处何地，都对下一秒抱有期待。我想这就是生命的意义吧。"
+            "Content": "说起来，我们两个就像被风吹向天空的蒲公英种子，可能会经历水土不服、风吹雨淋，也有可能在某个雨后彩虹的日子落地发芽。漂泊者，同为异乡人，希望你无论何时，身处何地，都对下一秒抱有期待。我想这就是生命的意义吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_to_player05.play_favor_word_weilinai_to_player05"
         },
         {
             "Type": 1,
             "Title": "维里奈的喜好",
-            "Content": "没事的时候，我会喜欢一个人到处走走。今州城里的每一片砖瓦都有些不同，有些缝隙里还生着一些坚强的小花。小巷里的摊点总是人很多，热腾腾上升的蒸汽让大家都很开心。看着这些，我就觉得这里有种、有种……“烟火气”？是这样说吗？"
+            "Content": "没事的时候，我会喜欢一个人到处走走。今州城里的每一片砖瓦都有些不同，有些缝隙里还生着一些坚强的小花。小巷里的摊点总是人很多，热腾腾上升的蒸汽让大家都很开心。看着这些，我就觉得这里有种、有种……“烟火气”？是这样说吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_taste.play_favor_word_weilinai_taste"
         },
         {
             "Type": 1,
             "Title": "维里奈的烦恼",
-            "Content": "总有人拿终端生成的图片，说这是新发现的植物……虽然大家想看到新鲜东西的想法是好的，但这样总会误导别人吧。科普工作容不得半点马虎的，我总想着帮大家分辨这些，可是……还是不够，要怎么做呢……"
+            "Content": "总有人拿终端生成的图片，说这是新发现的植物……虽然大家想看到新鲜东西的想法是好的，但这样总会误导别人吧。科普工作容不得半点马虎的，我总想着帮大家分辨这些，可是……还是不够，要怎么做呢……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_worry.play_favor_word_weilinai_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "妈妈说过，喝牛奶能让人长高，就像花草也要喝营养液一样？不过牛奶喝起来让人暖乎乎的，大概就是幸福的感觉吧。"
+            "Content": "妈妈说过，喝牛奶能让人长高，就像花草也要喝营养液一样？不过牛奶喝起来让人暖乎乎的，大概就是幸福的感觉吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_food_favor.play_favor_word_weilinai_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "我不太喜欢吃太大份太多油的食物，比如说牛排之类的……倒不是说这些不好吃，只是吃不完的话，会很浪费，那样可不好……"
+            "Content": "我不太喜欢吃太大份太多油的食物，比如说牛排之类的……倒不是说这些不好吃，只是吃不完的话，会很浪费，那样可不好……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_food_hate.play_favor_word_weilinai_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "植物的生态里，平衡和制约是一门难解的学问。要是能培育出可以安抚那些凶暴残象的花朵，前线战士们的辛苦会不会少一点呢？"
+            "Content": "植物的生态里，平衡和制约是一门难解的学问。要是能培育出可以安抚那些凶暴残象的花朵，前线战士们的辛苦会不会少一点呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_dream.play_favor_word_weilinai_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "这本探险笔记里，记载的不仅仅是那些植物呢，我翻给你看。有个老奶奶用一生去等一株花绽放，有个冒险家拼尽全力为一株草留念。这些故事缠绕在这些叶片里，开出一朵朵美丽的花。记住他们吧，当时的维里奈就是这样想的。"
+            "Content": "这本探险笔记里，记载的不仅仅是那些植物呢，我翻给你看。有个老奶奶用一生去等一株花绽放，有个冒险家拼尽全力为一株草留念。这些故事缠绕在这些叶片里，开出一朵朵美丽的花。记住他们吧，当时的维里奈就是这样想的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_story_obj.play_favor_word_weilinai_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "小时候，我总以为让人看见这些花就好了，大家喜欢上这些花，自然就会去保护它们。但其实，人们看见美丽的花会想摘下，获得昂贵的花会想炫耀。沉静下来、沉静下来，我对自己说：维里奈，你要记得植物生命的含义，要记得爸爸妈妈的嘱托。"
+            "Content": "小时候，我总以为让人看见这些花就好了，大家喜欢上这些花，自然就会去保护它们。但其实，人们看见美丽的花会想摘下，获得昂贵的花会想炫耀。沉静下来、沉静下来，我对自己说：维里奈，你要记得植物生命的含义，要记得爸爸妈妈的嘱托。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_story_exp.play_favor_word_weilinai_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "先前秧秧姐姐问了我很多关于植物培育的知识。她很耐心地听我说了很久很久，和她呆在一起，像微风吹过……呼。"
+            "Content": "先前秧秧姐姐问了我很多关于植物培育的知识。她很耐心地听我说了很久很久，和她呆在一起，像微风吹过……呼。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_yangyang.play_favor_word_weilinai_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "炽霞姐姐给我吃过一勺冠军辣酱……居、居然有这么辣的品种，到底是什么，现在想想都……啊，维里奈冒烟了。"
+            "Content": "炽霞姐姐给我吃过一勺冠军辣酱……居、居然有这么辣的品种，到底是什么，现在想想都……啊，维里奈冒烟了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_chixia.play_favor_word_weilinai_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "白芷白芷，其实就是清芬草吧……人们可能总觉得白芷姐姐冷漠，但其实，清芬草在很冷的时候也能开出最美的花，内心一定是非常温暖的吧。"
+            "Content": "白芷白芷，其实就是清芬草吧……人们可能总觉得白芷姐姐冷漠，但其实，清芬草在很冷的时候也能开出最美的花，内心一定是非常温暖的吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_baizhi.play_favor_word_weilinai_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "莫特斐先生在科学研究上非常认真，认真到让人担心了……毕竟，再怎样都该好好睡觉吧，可我半夜出门观察植物的时候，远远还能看见他的研究室亮着灯呢。"
+            "Content": "莫特斐先生在科学研究上非常认真，认真到让人担心了……毕竟，再怎样都该好好睡觉吧，可我半夜出门观察植物的时候，远远还能看见他的研究室亮着灯呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_motefei.play_favor_word_weilinai_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于安可",
-            "Content": "安可宝宝有好多乖乖点子呢，还总抓着我问很多奇怪的问题，嗯……得找到答案告诉她才行。为什么叫安可宝宝？因为我们在玩扮演游戏。"
+            "Content": "安可宝宝有好多乖乖点子呢，还总抓着我问很多奇怪的问题，嗯……得找到答案告诉她才行。为什么叫安可宝宝？因为我们在玩扮演游戏。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_anke.play_favor_word_weilinai_about_anke"
         },
         {
             "Type": 1,
             "Title": "关于卡卡罗",
-            "Content": "之前去野外收集数据的时候遇到了他，看上去实在是不太能亲近……但他送了我一些花种，都是非常珍稀的品种，真厉害啊。"
+            "Content": "之前去野外收集数据的时候遇到了他，看上去实在是不太能亲近……但他送了我一些花种，都是非常珍稀的品种，真厉害啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_about_kakaluo.play_favor_word_weilinai_about_kakaluo"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "这、这株星星花送给你，花语是……奇迹和希望，祝、祝你生日快乐！我很少直接送人礼物所以……总之，要幸福哦。"
+            "Content": "这、这株星星花送给你，花语是……奇迹和希望，祝、祝你生日快乐！我很少直接送人礼物所以……总之，要幸福哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_birthcele.play_favor_word_weilinai_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "让我看看……嗯，今天也有好好生长呢。"
+            "Content": "让我看看……嗯，今天也有好好生长呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_idle01.play_favor_word_weilinai_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_idle02.play_favor_word_weilinai_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "嘘……有听到吗，这是抽芽的声音呢。"
+            "Content": "嘘……有听到吗，这是抽芽的声音呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_idle03.play_favor_word_weilinai_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我是维里奈，要是你看到了什么感兴趣的植物，一定要告诉我。欸？要我加入你的野外调研队？当、当然可以，我很开心！不过野外可是很危险的，千万小心，跟紧我哦。"
+            "Content": "我是维里奈，要是你看到了什么感兴趣的植物，一定要告诉我。欸？要我加入你的野外调研队？当、当然可以，我很开心！不过野外可是很危险的，千万小心，跟紧我哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_introduction.play_favor_word_weilinai_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "……这朵花送给你，要开心呀。"
+            "Content": "……这朵花送给你，要开心呀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_get_card.play_favor_word_weilinai_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "野外调研？维里奈明白了。"
+            "Content": "野外调研？维里奈明白了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_join_team_01.play_favor_word_weilinai_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "希望能有新发现。"
+            "Content": "希望能有新发现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_join_team_02.play_favor_word_weilinai_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "要一起去看看风景吗？"
+            "Content": "要一起去看看风景吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_join_team_03.play_favor_word_weilinai_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "萌芽，这是生命的起点，从这一刻起，就可以期待一个奇迹。"
+            "Content": "萌芽，这是生命的起点，从这一刻起，就可以期待一个奇迹。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_rankup01.play_favor_word_weilinai_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "生长，这时候呼吸都变得轻盈……"
+            "Content": "生长，这时候呼吸都变得轻盈……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_rankup02.play_favor_word_weilinai_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "盛放——呼……感觉自己都有些紧张，真漂亮呢！"
+            "Content": "盛放——呼……感觉自己都有些紧张，真漂亮呢！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_rankup03.play_favor_word_weilinai_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "你看，结出了小小的果子！又是一个小小的奇迹呢，但生命不会只停留在这里哦。"
+            "Content": "你看，结出了小小的果子！又是一个小小的奇迹呢，但生命不会只停留在这里哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_rankup04.play_favor_word_weilinai_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "最近我总在想，生命究竟是以何种形式生长呢？有树木扎根在大地，也有飞鸟翱翔于天空……生命太过多姿多彩，看到你的时候，我也总有些新的发现……要听听吗？"
+            "Content": "最近我总在想，生命究竟是以何种形式生长呢？有树木扎根在大地，也有飞鸟翱翔于天空……生命太过多姿多彩，看到你的时候，我也总有些新的发现……要听听吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_rankup05.play_favor_word_weilinai_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "生长吧！"
+            "Content": "生长吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_skill_01.play_favor_word_weilinai_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "看看脚下。"
+            "Content": "看看脚下。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_skill_02.play_favor_word_weilinai_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "光合转换。"
+            "Content": "光合转换。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_skill_03.play_favor_word_weilinai_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "万物有灵。"
+            "Content": "万物有灵。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_burst_skill_01.play_favor_word_weilinai_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "不痛不痛了。"
+            "Content": "不痛不痛了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_burst_skill_02.play_favor_word_weilinai_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "晒足太阳吧！"
+            "Content": "晒足太阳吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_burst_skill_03.play_favor_word_weilinai_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "没关系的。"
+            "Content": "没关系的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_behit_fly_01.play_favor_word_weilinai_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "小心一点。"
+            "Content": "小心一点。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_behit_fly_02.play_favor_word_weilinai_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "呜……"
+            "Content": "呜……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_behit_fly_03.play_favor_word_weilinai_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "你还好吗？"
+            "Content": "你还好吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hp70.play_favor_word_weilinai_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "注意安全。"
+            "Content": "注意安全。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hp50.play_favor_word_weilinai_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "我、我没事……"
+            "Content": "我、我没事……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hp30.play_favor_word_weilinai_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "进入休眠期……"
+            "Content": "进入休眠期……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_die_01.play_favor_word_weilinai_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "凋零……是自然规律。"
+            "Content": "凋零……是自然规律。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_die_02.play_favor_word_weilinai_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "没关系，只是睡一觉……"
+            "Content": "没关系，只是睡一觉……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_die_03.play_favor_word_weilinai_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "演化规律！"
+            "Content": "演化规律！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hx_summon.play_favor_word_weilinai_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "模仿行为！"
+            "Content": "模仿行为！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hx_change.play_favor_word_weilinai_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能·一",
-            "Content": "绽放吧！"
+            "Content": "绽放吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_qte_01.play_favor_word_weilinai_qte_01"
         },
         {
             "Type": 2,
             "Title": "变奏技能·二",
-            "Content": "就交给我吧。"
+            "Content": "就交给我吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_qte_02.play_favor_word_weilinai_qte_02"
+        },
+        {
+            "Type": 2,
+            "Title": "进战提醒",
+            "Content": "不许伤害大家。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_enter_battle.play_favor_word_weilinai_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "好像蒲公英啊。"
+            "Content": "好像蒲公英啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_fly.play_favor_word_weilinai_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "咦呀——！"
+            "Content": "咦呀——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_hook.play_favor_word_weilinai_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "少见的收获。"
+            "Content": "少见的收获。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_scan.play_favor_word_weilinai_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "迎风生长吧。"
+            "Content": "迎风生长吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_dash.play_favor_word_weilinai_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "加速——！"
+            "Content": "加速——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_fast_run.play_favor_word_weilinai_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "不错的收获。"
+            "Content": "不错的收获。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_chest_01.play_favor_word_weilinai_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "箱子里也长着小花呀。"
+            "Content": "箱子里也长着小花呀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_chest_02.play_favor_word_weilinai_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "大自然的馈赠，好好收藏哦。"
+            "Content": "大自然的馈赠，好好收藏哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_weilinai_chest_03.play_favor_word_weilinai_chest_03"
         }
     ],
     "Goods": [
@@ -4121,5 +4186,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001503": {
+            "Id": 81001503,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "维里奈",
+            "TitleName": "新绿致意",
+            "SubDecName": "维里奈-初始服饰",
+            "BgDescription": "维里奈科学考察时常穿的装束。所有抽芽生长的新蕊说的话，她都记在心里。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI"
+        }
     }
 }

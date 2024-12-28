@@ -42,8 +42,8 @@
         "1": {
             "Id": 1,
             "Name": "凝夜白霜",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementIce1.T_IconElementIce1",
-            "Color": "41AEFBFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIce.T_IconElementAttriIce",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "冷凝伤害提升10%",
@@ -63,8 +63,8 @@
         "3": {
             "Id": 3,
             "Name": "彻空冥雷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementThunder1.T_IconElementThunder1",
-            "Color": "B46BFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriThunder.T_IconElementAttriThunder",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "导电伤害提升10%",

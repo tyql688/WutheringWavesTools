@@ -80,327 +80,392 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "可能你自己都没有注意到，我发现你的身边好像总是会聚集起一些并不寻常的人，真不知道说是幸运还是不幸。但这也让我省了不少事……呵呵，因为我要找的人，多半也是这样异常的家伙。"
+            "Content": "可能你自己都没有注意到，我发现你的身边好像总是会聚集起一些并不寻常的人，真不知道说是幸运还是不幸。但这也让我省了不少事……呵呵，因为我要找的人，多半也是这样异常的家伙。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_to_player01.play_favor_word_yinlin_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "也许与你的认知不一致，其实世界上的多数罪行，都源自于爱与责任。很滑稽吧……爱与责任是构成人类社会的基石，但同样，爱会使人盲目，责任会令人偏执，也是罪行诞生的温床。"
+            "Content": "也许与你的认知不一致，其实世界上的多数罪行，都源自于爱与责任。很滑稽吧……爱与责任是构成人类社会的基石，但同样，爱会使人盲目，责任会令人偏执，也是罪行诞生的温床。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_to_player02.play_favor_word_yinlin_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "虽然我见识过你的本事，不担心你会倒在堂堂正正的战斗之中……但是，这个世界上除了我之外，还有很多不按常理出牌的人，记得要小心不要在阴沟里翻船哦~"
+            "Content": "虽然我见识过你的本事，不担心你会倒在堂堂正正的战斗之中……但是，这个世界上除了我之外，还有很多不按常理出牌的人，记得要小心不要在阴沟里翻船哦~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_to_player03.play_favor_word_yinlin_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "残星会，你应该认识他们的吧？不知道从何诞生，也不知道他们的目的是什么。但根据我的经验，这些目的不明的罪犯才最为危险，你说不定会再次遇到他们，到时候切记不要犹豫不要大意。"
+            "Content": "残星会，你应该认识他们的吧？不知道从何诞生，也不知道他们的目的是什么。但根据我的经验，这些目的不明的罪犯才最为危险，你说不定会再次遇到他们，到时候切记不要犹豫不要大意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_to_player04.play_favor_word_yinlin_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "作为巡尉的潜入调查员，我必须有无数的身份，在必要的时候我可以舍弃任何一个“我”，以完全不同的身份活下去。但可能对于你来说我就只是“吟霖”，独一无二的“吟霖”……不过，能这样一直存在于你的记忆之中，似乎也不错。"
+            "Content": "作为巡尉的潜入调查员，我必须有无数的身份，在必要的时候我可以舍弃任何一个“我”，以完全不同的身份活下去。但可能对于你来说我就只是“吟霖”，独一无二的“吟霖”……不过，能这样一直存在于你的记忆之中，似乎也不错。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_to_player05.play_favor_word_yinlin_to_player05"
         },
         {
             "Type": 1,
             "Title": "吟霖的喜好",
-            "Content": "人偶戏啊，也算是一种瑝珑的传统演出吧，只是在今州没这么流行而已……我曾经跟偃师学习过这门手艺，用来练习操纵人偶的技巧。但更重要的是，可以很自然地融入到闹市人群之中，你也想学一下吗？"
+            "Content": "人偶戏啊，也算是一种瑝珑的传统演出吧，只是在今州没这么流行而已……我曾经跟偃师学习过这门手艺，用来练习操纵人偶的技巧。但更重要的是，可以很自然地融入到闹市人群之中，你也想学一下吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_taste.play_favor_word_yinlin_taste"
         },
         {
             "Type": 1,
             "Title": "吟霖的烦恼",
-            "Content": "最近“偶遇”你的情况是不是变多了？我应该说过我的身份是需要保密的，被人看到我频繁与你这样被各方盯紧的家伙碰面，很容易就会招来注意的吧……唉，不是让你别来找我，我的意思是，你需要再“注意”一点。"
+            "Content": "最近“偶遇”你的情况是不是变多了？我应该说过我的身份是需要保密的，被人看到我频繁与你这样被各方盯紧的家伙碰面，很容易就会招来注意的吧……唉，不是让你别来找我，我的意思是，你需要再“注意”一点。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_worry.play_favor_word_yinlin_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "因为潜入调查的缘故，我品尝过不少所谓的珍馐菜肴，但唯一让我觉得能够称得上回味无穷的反而是一道简单的碎金饭。比起材料的贵贱，还是制作者的手艺更加能够赋予菜肴灵魂。"
+            "Content": "因为潜入调查的缘故，我品尝过不少所谓的珍馐菜肴，但唯一让我觉得能够称得上回味无穷的反而是一道简单的碎金饭。比起材料的贵贱，还是制作者的手艺更加能够赋予菜肴灵魂。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_food_favor.play_favor_word_yinlin_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "和调查目标一同进餐的话，必须要投其所好，就算吃到最令人厌恶的食物也必须露出微笑品尝，所以与其说有什么讨厌的食物的话……还不如说我有不想一同进餐的讨厌家伙，但如果是和你的话，吃什么都无所谓哦。"
+            "Content": "和调查目标一同进餐的话，必须要投其所好，就算吃到最令人厌恶的食物也必须露出微笑品尝，所以与其说有什么讨厌的食物的话……还不如说我有不想一同进餐的讨厌家伙，但如果是和你的话，吃什么都无所谓哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_food_hate.play_favor_word_yinlin_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "“根绝一切罪恶阴霾的世界……”就算想想都知道这不过是不切实际的幻想，所以才需要我们这些肮脏的背叛者，代替大多数人去挖出这些看不见摸不着的背后黑影。"
+            "Content": "“根绝一切罪恶阴霾的世界……”就算想想都知道这不过是不切实际的幻想，所以才需要我们这些肮脏的背叛者，代替大多数人去挖出这些看不见摸不着的背后黑影。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_dream.play_favor_word_yinlin_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "这个人偶叫做悬丝，虽然本身其实是人偶制作师练习制作时候用的大路货，但被我改造成适合战斗的样子。虽然已经很旧了，但却是用得最顺手的。"
+            "Content": "这个人偶叫做悬丝，虽然本身其实是人偶制作师练习制作时候用的大路货，但被我改造成适合战斗的样子。虽然已经很旧了，但却是用得最顺手的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_story_obj.play_favor_word_yinlin_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "归魂互助会里面那帮人，是被偃师所引诱参加到互助会里面来的，虽然本身没有犯下什么大罪，但也不能说完全清白……我只希望他们也能明白，即使再痛苦也不要成为被过去束缚的人偶，能够靠自己一个人奋力走下去。"
+            "Content": "归魂互助会里面那帮人，是被偃师所引诱参加到互助会里面来的，虽然本身没有犯下什么大罪，但也不能说完全清白……我只希望他们也能明白，即使再痛苦也不要成为被过去束缚的人偶，能够靠自己一个人奋力走下去。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_story_exp.play_favor_word_yinlin_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "严格来说，炽霞她算是我的后辈吧，她是个比我更适合当巡尉的家伙，只要有足够的经验，她一定会成为一名优秀的巡尉吧。"
+            "Content": "严格来说，炽霞她算是我的后辈吧，她是个比我更适合当巡尉的家伙，只要有足够的经验，她一定会成为一名优秀的巡尉吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_about_chixia.play_favor_word_yinlin_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于漂泊者",
-            "Content": "很多优秀的巡尉也未必能够成为优秀的潜入调查员，反倒是你，我觉得还挺适合的，有没有兴趣去治安署报名应征？呵呵，我开玩笑的。"
+            "Content": "很多优秀的巡尉也未必能够成为优秀的潜入调查员，反倒是你，我觉得还挺适合的，有没有兴趣去治安署报名应征？呵呵，我开玩笑的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_about_zhujue.play_favor_word_yinlin_about_zhujue"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "生日快乐……瞧你一副怀疑的样子，你以为我又在骗你？放心吧，今天真的是你生日，起码在今天我不会对你说一句假话。总之我也猜到你大概什么都没准备的了，那么，能把你今天的时间全部交给我吗？"
+            "Content": "生日快乐……瞧你一副怀疑的样子，你以为我又在骗你？放心吧，今天真的是你生日，起码在今天我不会对你说一句假话。总之我也猜到你大概什么都没准备的了，那么，能把你今天的时间全部交给我吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_birthcele.play_favor_word_yinlin_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "呵……"
+            "Content": "呵……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_idle01.play_favor_word_yinlin_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "不用急，总有按捺不住的敌人会送上门。"
+            "Content": "不用急，总有按捺不住的敌人会送上门。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_idle02.play_favor_word_yinlin_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "哼……看够了吗？"
+            "Content": "哼……看够了吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_idle03.play_favor_word_yinlin_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "吟霖，我的身份……嘘，可不能随便暴露哦。"
+            "Content": "吟霖，我的身份……嘘，可不能随便暴露哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_introduction.play_favor_word_yinlin_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "嗬……见到我有这么惊讶吗？"
+            "Content": "嗬……见到我有这么惊讶吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_get_card.play_favor_word_yinlin_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "有想要解决的麻烦？"
+            "Content": "有想要解决的麻烦？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_join_team_01.play_favor_word_yinlin_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "组队？也可以，虽然我习惯了单打独斗。"
+            "Content": "组队？也可以，虽然我习惯了单打独斗。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_join_team_02.play_favor_word_yinlin_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "该我出场了吗。"
+            "Content": "该我出场了吗。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_join_team_03.play_favor_word_yinlin_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "不错，让我变强了……是不是该想想怎么答谢你呢？"
+            "Content": "不错，让我变强了……是不是该想想怎么答谢你呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_rankup01.play_favor_word_yinlin_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "对于潜入调查员来说，力量只是完成任务的基础，重要的是强韧的精神。"
+            "Content": "对于潜入调查员来说，力量只是完成任务的基础，重要的是强韧的精神。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_rankup02.play_favor_word_yinlin_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "能够更好地操控悬丝了，这都是你的功劳。"
+            "Content": "能够更好地操控悬丝了，这都是你的功劳。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_rankup03.play_favor_word_yinlin_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "为了对抗那些无处不在的罪恶……我会和你一起用好这份力量的。"
+            "Content": "为了对抗那些无处不在的罪恶……我会和你一起用好这份力量的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_rankup04.play_favor_word_yinlin_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "你给我这份特别的力量……我能当做是你对我实力的信任吗？或者说……是对我的喜爱？不管是哪一种，我都觉得很高兴——直白的情感，我并不讨厌。"
+            "Content": "你给我这份特别的力量……我能当做是你对我实力的信任吗？或者说……是对我的喜爱？不管是哪一种，我都觉得很高兴——直白的情感，我并不讨厌。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_rankup05.play_favor_word_yinlin_rankup05"
         },
         {
             "Type": 2,
             "Title": "重击·一",
-            "Content": "斩裂它！"
+            "Content": "斩裂它！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_01.play_favor_word_yinlin_heavyatk_01"
         },
         {
             "Type": 2,
             "Title": "重击·二",
-            "Content": "走开！"
+            "Content": "走开！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_02.play_favor_word_yinlin_heavyatk_02"
         },
         {
             "Type": 2,
             "Title": "重击·三",
-            "Content": "离远点！"
+            "Content": "离远点！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_03.play_favor_word_yinlin_heavyatk_03"
         },
         {
             "Type": 2,
             "Title": "重击·四",
-            "Content": "谁准你靠过来？"
+            "Content": "谁准你靠过来？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_04.play_favor_word_yinlin_heavyatk_04"
         },
         {
             "Type": 2,
             "Title": "重击·五",
-            "Content": "你别想逃了。"
+            "Content": "你别想逃了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_05.play_favor_word_yinlin_heavyatk_05"
         },
         {
             "Type": 2,
             "Title": "重击·六",
-            "Content": "哼……乖乖别动。"
+            "Content": "哼……乖乖别动。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_heavyatk_06.play_favor_word_yinlin_heavyatk_06"
         },
         {
             "Type": 2,
             "Title": "空中攻击",
-            "Content": "看哪呢！"
+            "Content": "看哪呢！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_airatk.play_favor_word_yinlin_airatk"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "悬丝……该出场了。"
+            "Content": "悬丝……该出场了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_01.play_favor_word_yinlin_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "不用手下留情。"
+            "Content": "不用手下留情。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_02.play_favor_word_yinlin_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "给你上一课吧！"
+            "Content": "给你上一课吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_03.play_favor_word_yinlin_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "……震碎它们！"
+            "Content": "……震碎它们！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_04.play_favor_word_yinlin_skill_04"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "它们该退场了！"
+            "Content": "它们该退场了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_05.play_favor_word_yinlin_skill_05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "别眨眼哦~"
+            "Content": "别眨眼哦~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_skill_06.play_favor_word_yinlin_skill_06"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "差不多该结束了。"
+            "Content": "差不多该结束了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_burst_skill_01.play_favor_word_yinlin_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "真无聊，消失吧。"
+            "Content": "真无聊，消失吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_burst_skill_02.play_favor_word_yinlin_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "悬丝，要谢幕了！"
+            "Content": "悬丝，要谢幕了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_burst_skill_03.play_favor_word_yinlin_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "啧……胆子真不小。"
+            "Content": "啧……胆子真不小。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_behit_fly_01.play_favor_word_yinlin_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "没什么……"
+            "Content": "没什么……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_behit_fly_02.play_favor_word_yinlin_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "一定要还回去……"
+            "Content": "一定要还回去……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_behit_fly_03.play_favor_word_yinlin_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "我一定会十倍奉还。"
+            "Content": "我一定会十倍奉还。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hp70.play_favor_word_yinlin_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "这就想让我放弃吗……"
+            "Content": "这就想让我放弃吗……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hp50.play_favor_word_yinlin_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "呃……任务还能继续！"
+            "Content": "呃……任务还能继续！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hp30.play_favor_word_yinlin_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "不过……只是一次失败……"
+            "Content": "不过……只是一次失败……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_die_01.play_favor_word_yinlin_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "这下大意了……"
+            "Content": "这下大意了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_die_02.play_favor_word_yinlin_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "顺从……是弱者的选择。"
+            "Content": "顺从……是弱者的选择。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_die_03.play_favor_word_yinlin_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "服从我。"
+            "Content": "服从我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hx_summon.play_favor_word_yinlin_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "这个我擅长。"
+            "Content": "这个我擅长。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hx_change.play_favor_word_yinlin_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "呵……切碎它们！"
+            "Content": "呵……切碎它们！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_qte_02.play_favor_word_yinlin_qte_02"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "悬丝，我们上吧。"
+            "Content": "悬丝，我们上吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_enter_battle.play_favor_word_yinlin_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "目的地呢？"
+            "Content": "目的地呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_fly.play_favor_word_yinlin_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_hook.play_favor_word_yinlin_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "哼……找到了。"
+            "Content": "哼……找到了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_scan.play_favor_word_yinlin_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "很好，没磨蹭。"
+            "Content": "很好，没磨蹭。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_dash.play_favor_word_yinlin_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_fast_run.play_favor_word_yinlin_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "不错，有好东西吗？"
+            "Content": "不错，有好东西吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_chest_01.play_favor_word_yinlin_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "拿走吧，不用客气。"
+            "Content": "拿走吧，不用客气。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_chest_02.play_favor_word_yinlin_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yinlin_chest_03.play_favor_word_yinlin_chest_03"
         }
     ],
     "Goods": [
@@ -4145,5 +4210,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001302": {
+            "Id": 81001302,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "吟霖",
+            "TitleName": "魆影立裁",
+            "SubDecName": "吟霖-初始服饰",
+            "BgDescription": "吟霖在自己最喜爱的旗袍店定制的衣装，艳丽、张扬……一切与潜入调查员相悖的形容，凝聚成了面具后真正的她。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI"
+        }
     }
 }

@@ -62,307 +62,368 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "你好，旅途中相遇的漂泊者。你是为什么而旅行的？不记得了？唔，没关系，旅行的意义，一定能从旅途中再次找到。"
+            "Content": "你好，旅途中相遇的漂泊者。你是为什么而旅行的？不记得了？唔，没关系，旅行的意义，一定能从旅途中再次找到。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_to_player01.play_favor_word_danjin_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "刚开始独自旅行的时候我也会害怕。特别是晚上，总觉得有什么看不见的东西在身后追赶着。这时我就会默念“不回头，向前走”。师傅说过，只要向前走，总能看见黎明的曙光。"
+            "Content": "刚开始独自旅行的时候我也会害怕。特别是晚上，总觉得有什么看不见的东西在身后追赶着。这时我就会默念“不回头，向前走”。师傅说过，只要向前走，总能看见黎明的曙光。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_to_player02.play_favor_word_danjin_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "现在的我已经习惯了黑夜，习惯了野外阴晴不定的天气，崎岖不平的路面。但还是会时刻绷紧神经，盯紧黑暗……我不会再让潜藏在黑暗中的恶意伤害身边任何一个人。"
+            "Content": "现在的我已经习惯了黑夜，习惯了野外阴晴不定的天气，崎岖不平的路面。但还是会时刻绷紧神经，盯紧黑暗……我不会再让潜藏在黑暗中的恶意伤害身边任何一个人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_to_player03.play_favor_word_danjin_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "复仇的旅程注定是黑暗而漫长的，就像孤身走一条没有尽头的夜路。幸好有你在，我才不至于那么容易迷失自己。"
+            "Content": "复仇的旅程注定是黑暗而漫长的，就像孤身走一条没有尽头的夜路。幸好有你在，我才不至于那么容易迷失自己。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_to_player04.play_favor_word_danjin_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "有你在身旁，我便可尽情挥剑……就算绯色暂时遮蔽了我的视线，你也会帮我拂拭干净的吧？"
+            "Content": "有你在身旁，我便可尽情挥剑……就算绯色暂时遮蔽了我的视线，你也会帮我拂拭干净的吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_to_player05.play_favor_word_danjin_to_player05"
         },
         {
             "Type": 1,
             "Title": "丹瑾的喜好",
-            "Content": "放花灯的时候，看着手里那盏孤伶伶的花灯悠悠飞远，融进无数个亮晶晶的光点之中，心里就会涌起一阵久违的暖意。"
+            "Content": "放花灯的时候，看着手里那盏孤伶伶的花灯悠悠飞远，融进无数个亮晶晶的光点之中，心里就会涌起一阵久违的暖意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_taste.play_favor_word_danjin_taste"
         },
         {
             "Type": 1,
             "Title": "丹瑾的烦恼",
-            "Content": "有时太过投入，下手失了轻重……没吓着你吧？"
+            "Content": "有时太过投入，下手失了轻重……没吓着你吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_worry.play_favor_word_danjin_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "会有龙须那——么长的龙须酥吗？好想尝尝看啊。"
+            "Content": "会有龙须那——么长的龙须酥吗？好想尝尝看啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_food_favor.play_favor_word_danjin_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "星星酥虽然很漂亮，但也太不容易保存了……上次我装了一兜子带去野外吃，不一会儿就受了潮，一点都不脆了。"
+            "Content": "星星酥虽然很漂亮，但也太不容易保存了……上次我装了一兜子带去野外吃，不一会儿就受了潮，一点都不脆了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_food_hate.play_favor_word_danjin_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "希望我所到之处的罪恶通通消失。明里没有，暗里也不许有。"
+            "Content": "希望我所到之处的罪恶通通消失。明里没有，暗里也不许有。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_dream.play_favor_word_danjin_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "无论发生什么事，无论遭受什么事，这块玉佩都会永远清澈透亮。"
+            "Content": "无论发生什么事，无论遭受什么事，这块玉佩都会永远清澈透亮。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_story_obj.play_favor_word_danjin_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "挥刀斩击是很容易的事，但那些盘根错节的恶并不那么容易被斩断。如果清除得不彻底，很快就会偷偷滋生、卷土重来……所以，得把所有的罪恶都连根拔起、削成碎片才行。"
+            "Content": "挥刀斩击是很容易的事，但那些盘根错节的恶并不那么容易被斩断。如果清除得不彻底，很快就会偷偷滋生、卷土重来……所以，得把所有的罪恶都连根拔起、削成碎片才行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_story_exp.play_favor_word_danjin_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "看起来有点凶，但其实人还不错。上次我的剑使用过度卷刃了，就是莫特斐帮我修好的。作为报酬，我在一周之内剿灭了数伙惦记黑石武器的流寇……他不得不又修了一次。"
+            "Content": "看起来有点凶，但其实人还不错。上次我的剑使用过度卷刃了，就是莫特斐帮我修好的。作为报酬，我在一周之内剿灭了数伙惦记黑石武器的流寇……他不得不又修了一次。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_about_motefei.play_favor_word_danjin_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "如果在野外遇到迷惘的孩子，交给炽霞准没错。总有孩子会怕我，但没有孩子会怕她。"
+            "Content": "如果在野外遇到迷惘的孩子，交给炽霞准没错。总有孩子会怕我，但没有孩子会怕她。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_about_chixia.play_favor_word_danjin_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于吟霖",
-            "Content": "每次看到熟悉的雷光一闪，我就知道，这次清剿行动会轻松不少。说来惭愧，至少见过十次这种雷光后，才获悉吟霖的大名。"
+            "Content": "每次看到熟悉的雷光一闪，我就知道，这次清剿行动会轻松不少。说来惭愧，至少见过十次这种雷光后，才获悉吟霖的大名。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_about_yinlin.play_favor_word_danjin_about_yinlin"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "刚认识秧秧的时候我很好奇，为什么会有人那么温柔呢？后来我才知道，有底线的温柔，也是一种锐利。"
+            "Content": "刚认识秧秧的时候我很好奇，为什么会有人那么温柔呢？后来我才知道，有底线的温柔，也是一种锐利。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_about_yangyang.play_favor_word_danjin_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于漂泊者",
-            "Content": "就算没有记忆，遇到不平之事，身体也会先一步行动……你一定是好人吧？如果不是的话，我会很困扰。"
+            "Content": "就算没有记忆，遇到不平之事，身体也会先一步行动……你一定是好人吧？如果不是的话，我会很困扰。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_about_zhujue.play_favor_word_danjin_about_zhujue"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "漂泊者，生日快乐！这份龙须酥，我特意做得像岁主的胡子那么长。据说在生日这天吃了长长的东西，就会长命百岁，快吃吧。"
+            "Content": "漂泊者，生日快乐！这份龙须酥，我特意做得像岁主的胡子那么长。据说在生日这天吃了长长的东西，就会长命百岁，快吃吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_birthcele.play_favor_word_danjin_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "丹心照明月，玉影见真彰。"
+            "Content": "丹心照明月，玉影见真彰。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_idle01.play_favor_word_danjin_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_idle02.play_favor_word_danjin_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_idle03.play_favor_word_danjin_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "你好，我叫丹瑾，正在游历四方。如果你遇到了什么不平之事，可以告诉我。没有遇到？那最好。"
+            "Content": "你好，我叫丹瑾，正在游历四方。如果你遇到了什么不平之事，可以告诉我。没有遇到？那最好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_introduction.play_favor_word_danjin_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "刀剑有眼，只要你没做什么亏心事，绯刃就不会把你怎么样。"
+            "Content": "刀剑有眼，只要你没做什么亏心事，绯刃就不会把你怎么样。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_get_card.play_favor_word_danjin_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "希望这次不要扑个空。"
+            "Content": "希望这次不要扑个空。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_join_team_01.play_favor_word_danjin_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "要去哪里呢？我可以带路。"
+            "Content": "要去哪里呢？我可以带路。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_join_team_02.play_favor_word_danjin_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "快出发吧。"
+            "Content": "快出发吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_join_team_03.play_favor_word_danjin_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "呼，剑更快了，斩起东西来也会更方便吧。"
+            "Content": "呼，剑更快了，斩起东西来也会更方便吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_rankup01.play_favor_word_danjin_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "绯刃凝久而不散，身体竟也如此轻盈……原来挥剑并不是那么沉重的事。"
+            "Content": "绯刃凝久而不散，身体竟也如此轻盈……原来挥剑并不是那么沉重的事。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_rankup02.play_favor_word_danjin_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "复仇不是一昧的斩杀，而是要看准恶意交错的核心，一剑破之。谢谢，你教我的这招很管用。"
+            "Content": "复仇不是一昧的斩杀，而是要看准恶意交错的核心，一剑破之。谢谢，你教我的这招很管用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_rankup03.play_favor_word_danjin_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "至真至纯的善意抚平了眼中的血痕，目之所及的光明中有你的身影。看来，今后的旅途不会孤单了。"
+            "Content": "至真至纯的善意抚平了眼中的血痕，目之所及的光明中有你的身影。看来，今后的旅途不会孤单了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_rankup04.play_favor_word_danjin_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "眼界开阔了起来——原来世间不仅有刀光剑影，是非黑白，还有这么多美好的事。最美好的是，你在我身旁……"
+            "Content": "眼界开阔了起来——原来世间不仅有刀光剑影，是非黑白，还有这么多美好的事。最美好的是，你在我身旁……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_rankup05.play_favor_word_danjin_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "剑起！"
+            "Content": "剑起！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_01.play_favor_word_danjin_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "迅疾！"
+            "Content": "迅疾！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_02.play_favor_word_danjin_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "芒重！"
+            "Content": "芒重！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_03.play_favor_word_danjin_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "绯光！"
+            "Content": "绯光！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_04.play_favor_word_danjin_skill_04"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "落花！"
+            "Content": "落花！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_05.play_favor_word_danjin_skill_05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "掠影！"
+            "Content": "掠影！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_skill_06.play_favor_word_danjin_skill_06"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "明断！"
+            "Content": "明断！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_burst_skill_01.play_favor_word_danjin_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "斩绝！"
+            "Content": "斩绝！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_burst_skill_02.play_favor_word_danjin_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "绝不轻饶！"
+            "Content": "绝不轻饶！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_burst_skill_03.play_favor_word_danjin_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_behit_fly_01.play_favor_word_danjin_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "一不小心。"
+            "Content": "一不小心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_behit_fly_02.play_favor_word_danjin_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "再来。"
+            "Content": "再来。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_behit_fly_03.play_favor_word_danjin_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hp70.play_favor_word_danjin_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "速战速决。"
+            "Content": "速战速决。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hp50.play_favor_word_danjin_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "赤华，浸染……"
+            "Content": "赤华，浸染……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hp30.play_favor_word_danjin_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_die_01.play_favor_word_danjin_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "黑暗蔓延……"
+            "Content": "黑暗蔓延……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_die_02.play_favor_word_danjin_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "最后的……光明。"
+            "Content": "最后的……光明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_die_03.play_favor_word_danjin_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hx_summon.play_favor_word_danjin_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hx_change.play_favor_word_danjin_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "拔刀相助。"
+            "Content": "拔刀相助。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_qte.play_favor_word_danjin_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "清剿开始。"
+            "Content": "清剿开始。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_enter_battle.play_favor_word_danjin_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "晃晃悠悠~"
+            "Content": "晃晃悠悠~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_fly.play_favor_word_danjin_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_hook.play_favor_word_danjin_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "嗯？意外发现。"
+            "Content": "嗯？意外发现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_scan.play_favor_word_danjin_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_dash.play_favor_word_danjin_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_fast_run.play_favor_word_danjin_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "唔，发现了不错的东西呢。"
+            "Content": "唔，发现了不错的东西呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_chest_01.play_favor_word_danjin_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "够用好一阵子了。"
+            "Content": "够用好一阵子了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_chest_02.play_favor_word_danjin_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "能开出龙须酥就好了……"
+            "Content": "能开出龙须酥就好了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_danjin_chest_03.play_favor_word_danjin_chest_03"
         }
     ],
     "Goods": [
@@ -4191,5 +4252,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001602": {
+            "Id": 81001602,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "丹瑾",
+            "TitleName": "红玉",
+            "SubDecName": "丹瑾-初始服饰",
+            "BgDescription": "玉本色清澈，久遇红而渐绯……话本上是这么说的。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_micai_UI.T_IconRole_Pile_micai_UI"
+        }
     }
 }

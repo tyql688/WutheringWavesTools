@@ -62,287 +62,344 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "最初听到有关你的消息，是同事们在谈论你的检测结果。那时候我忙于后方的技术支持，一直没来得及亲自见你。现在我很高兴，和预判的结果一样，你是能够为索拉里斯带来不可知性未来的存在。"
+            "Content": "最初听到有关你的消息，是同事们在谈论你的检测结果。那时候我忙于后方的技术支持，一直没来得及亲自见你。现在我很高兴，和预判的结果一样，你是能够为索拉里斯带来不可知性未来的存在。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_to_player01.play_favor_word_xiangliyao_sys_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "我的父母是学者，最初的我走向这条道路，或许也是出自孩童的模仿。但……记忆已经变得模糊。他们的事，我更多是从两人留下的论文，和旁人评判他们成绩的资料中了解。就像一个有轮廓的幻象。但我知道，骨子里我和他们一样，都是……狂人。"
+            "Content": "我的父母是学者，最初的我走向这条道路，或许也是出自孩童的模仿。但……记忆已经变得模糊。他们的事，我更多是从两人留下的论文，和旁人评判他们成绩的资料中了解。就像一个有轮廓的幻象。但我知道，骨子里我和他们一样，都是……狂人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_to_player02.play_favor_word_xiangliyao_sys_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "我喜欢和人来往，不管是研究院中的同事们，还是和这个领域无关的人。有时候，我会感觉自己正在倾斜向某个为寻求真理无所顾忌的坡度……我选择在那时候走到人群中去，很快就能把自己拉回来。人们快乐的笑声，总让我感到温暖。"
+            "Content": "我喜欢和人来往，不管是研究院中的同事们，还是和这个领域无关的人。有时候，我会感觉自己正在倾斜向某个为寻求真理无所顾忌的坡度……我选择在那时候走到人群中去，很快就能把自己拉回来。人们快乐的笑声，总让我感到温暖。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_to_player03.play_favor_word_xiangliyao_sys_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "断臂的时候，我没有太感觉到疼痛。可能是因为那时候的我，正处在一种极度兴奋的状态中。我循着父亲的行踪一路寻找，来到了那处稷廷遗址，看到了世人难以想象的成果。还有那个隐秘的文明……那样的科学，本身就蕴藏着宇宙的回声。"
+            "Content": "断臂的时候，我没有太感觉到疼痛。可能是因为那时候的我，正处在一种极度兴奋的状态中。我循着父亲的行踪一路寻找，来到了那处稷廷遗址，看到了世人难以想象的成果。还有那个隐秘的文明……那样的科学，本身就蕴藏着宇宙的回声。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_to_player04.play_favor_word_xiangliyao_sys_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "……是你啊，你来了。没什么，可能是高强度的参会有点消耗能量……你就理解成机器缺能，需要充电吧。帮忙？……好呀，你就坐在我旁边待一会儿吧。嗯，这样安静地坐着就好。谢谢你。"
+            "Content": "……是你啊，你来了。没什么，可能是高强度的参会有点消耗能量……你就理解成机器缺能，需要充电吧。帮忙？……好呀，你就坐在我旁边待一会儿吧。嗯，这样安静地坐着就好。谢谢你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_to_player05.play_favor_word_xiangliyao_sys_to_player05"
         },
         {
             "Type": 1,
             "Title": "相里要的喜好",
-            "Content": "完成一项研究后，独自撰写报告的感觉很好。许多纷杂的想法和灵感，都能随着这一过程变得清明、有序。"
+            "Content": "完成一项研究后，独自撰写报告的感觉很好。许多纷杂的想法和灵感，都能随着这一过程变得清明、有序。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_taste.play_favor_word_xiangliyao_sys_taste"
         },
         {
             "Type": 1,
             "Title": "相里要的烦恼",
-            "Content": "连续参加数场耗时过长的学术会议后，总有些注意力涣散。我并不抗拒和同行者们相处，但……还是需要片刻独处缓冲。"
+            "Content": "连续参加数场耗时过长的学术会议后，总有些注意力涣散。我并不抗拒和同行者们相处，但……还是需要片刻独处缓冲。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_worry.play_favor_word_xiangliyao_sys_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "大部分早点我都很喜欢。比起夜间喝咖啡熬夜，我更喜欢早起早睡，定量食用早餐能让脑部更快地苏醒。"
+            "Content": "大部分早点我都很喜欢。比起夜间喝咖啡熬夜，我更喜欢早起早睡，定量食用早餐能让脑部更快地苏醒。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_foodlike.play_favor_word_xiangliyao_sys_foodlike"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "冼碧庄豆汁……小时候，母亲曾用它逗过我一次，哄我喝了半碗。尽管童年回忆很美好，现在再喝也觉得没什么太大问题，但那味道对刚会走路的孩子来说，还是太刺激了。"
+            "Content": "冼碧庄豆汁……小时候，母亲曾用它逗过我一次，哄我喝了半碗。尽管童年回忆很美好，现在再喝也觉得没什么太大问题，但那味道对刚会走路的孩子来说，还是太刺激了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_foodhate.play_favor_word_xiangliyao_sys_foodhate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "索拉里斯的许多法则都因悲鸣的影响发生了变化，在各类领域，真理本身都变得不再坚固。但我总觉得，这样探索的过程也很愉快……群星深处，宇宙无尽的波涛中，必然存在着一个更为宽阔的度量衡。真理就伫立在那片荒野上，等待采撷。"
+            "Content": "索拉里斯的许多法则都因悲鸣的影响发生了变化，在各类领域，真理本身都变得不再坚固。但我总觉得，这样探索的过程也很愉快……群星深处，宇宙无尽的波涛中，必然存在着一个更为宽阔的度量衡。真理就伫立在那片荒野上，等待采撷。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_dream.play_favor_word_xiangliyao_sys_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "这只义手用起来很方便，我在它上面搭载了不少实用的功能。部分有风险的实验也不会担心肢体损伤，有时候还能和研究院的同事们开个小玩笑。哪种玩笑？呵呵，我会找机会展示给你看的。"
+            "Content": "这只义手用起来很方便，我在它上面搭载了不少实用的功能。部分有风险的实验也不会担心肢体损伤，有时候还能和研究院的同事们开个小玩笑。哪种玩笑？呵呵，我会找机会展示给你看的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_story_obj.play_favor_word_xiangliyao_sys_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "在我还是个孩子时交到的朋友中，帕斯卡是最乐于和我长期保持联系的那个。有些事做的时候太晚，就会留下一些遗憾。偶尔我会想，在无数瑰丽的科学论题外，每个人都是一个谜题。"
+            "Content": "在我还是个孩子时交到的朋友中，帕斯卡是最乐于和我长期保持联系的那个。有些事做的时候太晚，就会留下一些遗憾。偶尔我会想，在无数瑰丽的科学论题外，每个人都是一个谜题。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_story_exp.play_favor_word_xiangliyao_sys_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "莫特斐是个很有意思的人，很认真，也很有热情。这种热情是整个科研领域的基石，我知道他觉得我是“天才”——但如果一个领域只有“天才”，很多创造是绝对无法成功的。我这位好友还不了解自身的潜力呢。"
+            "Content": "莫特斐是个很有意思的人，很认真，也很有热情。这种热情是整个科研领域的基石，我知道他觉得我是“天才”——但如果一个领域只有“天才”，很多创造是绝对无法成功的。我这位好友还不了解自身的潜力呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_about_motefei.play_favor_word_xiangliyao_sys_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于今汐",
-            "Content": "令尹一直很关注今州的战事，也会时常来研究院确认武器开发的进度。只不过，她看起来总是身负压力。我能理解那种感受，被许多人时刻密切关注，责任、承诺、期望……"
+            "Content": "令尹一直很关注今州的战事，也会时常来研究院确认武器开发的进度。只不过，她看起来总是身负压力。我能理解那种感受，被许多人时刻密切关注，责任、承诺、期望……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_about_jinxi.play_favor_word_xiangliyao_sys_about_jinxi"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "夜归军常年和残象接触，往往对相关研究有不同视角的看法，忌炎将军也给我提供了许多新颖的思路和细节。他很重情义，而且懂得克制自己思考和情感的边界，对一军之将而言，这很好。"
+            "Content": "夜归军常年和残象接触，往往对相关研究有不同视角的看法，忌炎将军也给我提供了许多新颖的思路和细节。他很重情义，而且懂得克制自己思考和情感的边界，对一军之将而言，这很好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_about_jiyan.play_favor_word_xiangliyao_sys_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于秋水",
-            "Content": "秋水曾经带着黑海岸的招揽来找我。嗯，我婉拒了，我喜欢现在研究院的生活。这位情报商人说话听起来漫无边际，实则眼光毒辣，总能抓住最有用的信息。秋水也有自己的渠道能进货一些特殊材料，我算是他的常客。"
+            "Content": "秋水曾经带着黑海岸的招揽来找我。嗯，我婉拒了，我喜欢现在研究院的生活。这位情报商人说话听起来漫无边际，实则眼光毒辣，总能抓住最有用的信息。秋水也有自己的渠道能进货一些特殊材料，我算是他的常客。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_about_qiushui.play_favor_word_xiangliyao_sys_about_qiushui"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "白芷是一名优秀的科研人员，我和她研究方向不同，少有交集。但看过几份她的报告，数据翔实，论点也坚实有力。过去她经常参与外部的考察项目，因为总能带回不少新数据，在学生间很有名气。"
+            "Content": "白芷是一名优秀的科研人员，我和她研究方向不同，少有交集。但看过几份她的报告，数据翔实，论点也坚实有力。过去她经常参与外部的考察项目，因为总能带回不少新数据，在学生间很有名气。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_about_baizhi.play_favor_word_xiangliyao_sys_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "生日快乐，来，摊开手。是我为你准备的礼物，一个小发明。悲鸣后，对索拉里斯深空的探索比过去停滞了很多，我们的双眼再难以凝望星野。但如果用这个——你看到了吗？一片闪烁的星河，亘古不变，饱含奥秘又沉默无言。如果你的来处像我猜测的那样……希望这幕景色，能让你感到些许慰藉。"
+            "Content": "生日快乐，来，摊开手。是我为你准备的礼物，一个小发明。悲鸣后，对索拉里斯深空的探索比过去停滞了很多，我们的双眼再难以凝望星野。但如果用这个——你看到了吗？一片闪烁的星河，亘古不变，饱含奥秘又沉默无言。如果你的来处像我猜测的那样……希望这幕景色，能让你感到些许慰藉。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_birthcele.play_favor_word_xiangliyao_sys_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_idle01.play_favor_word_xiangliyao_com_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "该换新了。"
+            "Content": "该换新了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_idle02.play_favor_word_xiangliyao_com_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "好乖好乖……去吧。"
+            "Content": "好乖好乖……去吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_idle03.play_favor_word_xiangliyao_com_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我是相里要，华胥研究院的研究员。漂泊者，你的共鸣频率特殊而珍贵，我很好奇……在探寻真理的道路上，你是一枚独特的信标，还是等待在终点的旗帜？"
+            "Content": "我是相里要，华胥研究院的研究员。漂泊者，你的共鸣频率特殊而珍贵，我很好奇……在探寻真理的道路上，你是一枚独特的信标，还是等待在终点的旗帜？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_introduction.play_favor_word_xiangliyao_sys_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "果壳中，我们测算着宇宙。你的新猜想，也让我听听看吧。"
+            "Content": "果壳中，我们测算着宇宙。你的新猜想，也让我听听看吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_gacha.play_favor_word_xiangliyao_sys_gacha"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "实验开始。"
+            "Content": "实验开始。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_jointeam_01.play_favor_word_xiangliyao_sys_jointeam_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "从纷乱的干扰项中，探寻正确的方向。"
+            "Content": "从纷乱的干扰项中，探寻正确的方向。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_jointeam_02.play_favor_word_xiangliyao_sys_jointeam_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "科学，是生命对真理的诘问。"
+            "Content": "科学，是生命对真理的诘问。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_jointeam_03.play_favor_word_xiangliyao_sys_jointeam_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "一个有趣的新方向，我可以从这点着手，提升义手能量调用的频率。"
+            "Content": "一个有趣的新方向，我可以从这点着手，提升义手能量调用的频率。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_rankup01.play_favor_word_xiangliyao_sys_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "力量的提升，让金属塑性的延展性也随之提升。漂泊者，你有什么感兴趣的小物件吗？这个因你而出现的新造物，就作为礼物送给你吧。"
+            "Content": "力量的提升，让金属塑性的延展性也随之提升。漂泊者，你有什么感兴趣的小物件吗？这个因你而出现的新造物，就作为礼物送给你吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_rankup02.play_favor_word_xiangliyao_sys_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "你的建议和思考方式，让我想起了曾在稷廷遗址中看到的一些文件。它们的观点出自某个未知的体系，奇妙而美丽，如同汲取自群星。"
+            "Content": "你的建议和思考方式，让我想起了曾在稷廷遗址中看到的一些文件。它们的观点出自某个未知的体系，奇妙而美丽，如同汲取自群星。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_rankup03.play_favor_word_xiangliyao_sys_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "漂泊者，愿意和我一起出去试试新的战斗方式吗？实践验证理论。我能感觉到，现在的我正位于某个临界点。越过它后，就将看到一片全新的领域。"
+            "Content": "漂泊者，愿意和我一起出去试试新的战斗方式吗？实践验证理论。我能感觉到，现在的我正位于某个临界点。越过它后，就将看到一片全新的领域。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_rankup04.play_favor_word_xiangliyao_sys_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "众人追逐的真理原野上，有人蹒跚前行，有人疲惫哀叹，也有人转身放弃。走得越久，同行者就变得越少。但我知道，哪怕你不在这条道路上，也会永远守望着前行者们。"
+            "Content": "众人追逐的真理原野上，有人蹒跚前行，有人疲惫哀叹，也有人转身放弃。走得越久，同行者就变得越少。但我知道，哪怕你不在这条道路上，也会永远守望着前行者们。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_sys_rankup05.play_favor_word_xiangliyao_sys_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "裂解。"
+            "Content": "裂解。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_skill01.play_favor_word_xiangliyao_bat_skill01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "物质，重构！"
+            "Content": "物质，重构！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_skill02.play_favor_word_xiangliyao_bat_skill02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "弱点，解明。"
+            "Content": "弱点，解明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_skill_sp.play_favor_word_xiangliyao_bat_skill_sp"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "万物，显明本质。"
+            "Content": "万物，显明本质。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_burst_01.play_favor_word_xiangliyao_bat_burst_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "群星，追逐原野。"
+            "Content": "群星，追逐原野。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_burst_02.play_favor_word_xiangliyao_bat_burst_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "真理，囿于边界。"
+            "Content": "真理，囿于边界。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_burst_03.play_favor_word_xiangliyao_bat_burst_03"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "变量清除！"
+            "Content": "变量清除！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_qte.play_favor_word_xiangliyao_bat_qte"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "预判错误。"
+            "Content": "预判错误。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_behitfly_01.play_favor_word_xiangliyao_com_behitfly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_behitfly_02.play_favor_word_xiangliyao_com_behitfly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_behitfly_03.play_favor_word_xiangliyao_com_behitfly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_hpdown01.play_favor_word_xiangliyao_com_hpdown01"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "风险上升。"
+            "Content": "风险上升。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_hpdown02.play_favor_word_xiangliyao_com_hpdown02"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "受损……严重。"
+            "Content": "受损……严重。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_hpdown03.play_favor_word_xiangliyao_com_hpdown03"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "需要恢复时间。"
+            "Content": "需要恢复时间。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_die_01.play_favor_word_xiangliyao_com_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "在这里止步吗……"
+            "Content": "在这里止步吗……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_die_02.play_favor_word_xiangliyao_com_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_die_03.play_favor_word_xiangliyao_com_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "凝合。"
+            "Content": "凝合。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_hxsummon.play_favor_word_xiangliyao_bat_hxsummon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "再塑。"
+            "Content": "再塑。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_bat_hxchange.play_favor_word_xiangliyao_bat_hxchange"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "请警戒。"
+            "Content": "请警戒。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_engage.play_favor_word_xiangliyao_com_engage"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "风速舒缓。"
+            "Content": "风速舒缓。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_fly_01.play_favor_word_xiangliyao_com_fly_01"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "顺利。"
+            "Content": "顺利。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_hook_01.play_favor_word_xiangliyao_com_hook_01"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "定位成功。"
+            "Content": "定位成功。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_scan.play_favor_word_xiangliyao_com_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "效率提升了呢。"
+            "Content": "效率提升了呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_dash_01.play_favor_word_xiangliyao_com_dash_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "嗯……锁芯结构不复杂。"
+            "Content": "嗯……锁芯结构不复杂。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_openbox_01.play_favor_word_xiangliyao_com_openbox_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "有趣的藏物。"
+            "Content": "有趣的藏物。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_openbox_02.play_favor_word_xiangliyao_com_openbox_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "是你感兴趣的东西吗？"
+            "Content": "是你感兴趣的东西吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_xiangliyao_com_openbox_03.play_favor_word_xiangliyao_com_openbox_03"
         }
     ],
     "Goods": [
@@ -4704,5 +4761,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001305": {
+            "Id": 81001305,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "相里要",
+            "TitleName": "尽微穷理",
+            "SubDecName": "相里要-初始服饰",
+            "BgDescription": "干练轻简的装束，专为远行考察而裁剪缝制。探索者不畏荆棘困厄，怀求真之心轻装前行，万难可破。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiangliyao_UI.T_IconRole_Pile_xiangliyao_UI"
+        }
     }
 }

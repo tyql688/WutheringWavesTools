@@ -68,317 +68,380 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "旅途走得太快，会错过许多风景的，到最后两手空空，什么都没有记住，那可是很可怕的事……呼啊……这可是姐姐对你的善意提醒哦。"
+            "Content": "旅途走得太快，会错过许多风景的，到最后两手空空，什么都没有记住，那可是很可怕的事……呼啊……这可是姐姐对你的善意提醒哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_to_player01.play_favor_word_taoqi_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "这可不是在偷懒呀，只是稍微地充充电……诶~不相信吗，如果被你怀疑的话，姐姐会伤心的哦。"
+            "Content": "这可不是在偷懒呀，只是稍微地充充电……诶~不相信吗，如果被你怀疑的话，姐姐会伤心的哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_to_player02.play_favor_word_taoqi_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "大家的信赖有时也会变成沉重的负担呢，我明白这种感觉……所以跟我相处时，可以更放松一点儿哦。"
+            "Content": "大家的信赖有时也会变成沉重的负担呢，我明白这种感觉……所以跟我相处时，可以更放松一点儿哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_to_player03.play_favor_word_taoqi_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "我睡着了？呼啊~因为有你在旁边，总感觉比平时更让人安心。你也不要那么拼命了，再熬夜下去可能会有脱发之类的小烦恼哦。"
+            "Content": "我睡着了？呼啊~因为有你在旁边，总感觉比平时更让人安心。你也不要那么拼命了，再熬夜下去可能会有脱发之类的小烦恼哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_to_player04.play_favor_word_taoqi_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "现在的世道并不安稳，所以你才会出现在我们身边吧。我明明希望的是能与你一起迎来安稳无忧的明天呢……算了，来，过来我这边，仅限此刻也好，享受一会懒散的生活吧。"
+            "Content": "现在的世道并不安稳，所以你才会出现在我们身边吧。我明明希望的是能与你一起迎来安稳无忧的明天呢……算了，来，过来我这边，仅限此刻也好，享受一会懒散的生活吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_to_player05.play_favor_word_taoqi_to_player05"
         },
         {
             "Type": 1,
             "Title": "桃祈的喜好",
-            "Content": "呼啊~睡得好舒服，但是……打卡的时间要到了，得去上班……嗯~好困，还是再睡个回笼觉吧……"
+            "Content": "呼啊~睡得好舒服，但是……打卡的时间要到了，得去上班……嗯~好困，还是再睡个回笼觉吧……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_taste.play_favor_word_taoqi_taste"
         },
         {
             "Type": 1,
             "Title": "桃祈的烦恼",
-            "Content": "和我的午后谈心已经预约到明年了，听说还有高价转卖排号的……唉，我其实不太想触及大家的私人生活啊。而且最终解决问题的，明明是大家自己。"
+            "Content": "和我的午后谈心已经预约到明年了，听说还有高价转卖排号的……唉，我其实不太想触及大家的私人生活啊。而且最终解决问题的，明明是大家自己。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_worry.play_favor_word_taoqi_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "不用嚼的东西比较好，软绵绵又入口即化的，熬煮几个小时的养生粥很不错呢……帮我“呼呼”地吹凉一点可以吗？"
+            "Content": "不用嚼的东西比较好，软绵绵又入口即化的，熬煮几个小时的养生粥很不错呢……帮我“呼呼”地吹凉一点可以吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_food_favor.play_favor_word_taoqi_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "需要剥壳的东西？因为很麻烦啊……"
+            "Content": "需要剥壳的东西？因为很麻烦啊……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_food_hate.play_favor_word_taoqi_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "真不想上班呀，但为了未来再也不用上班，现在不得不努力才行。哈哈，我一个人退休当然很简单，但我希望的是大家都能卸下肩上的担子，平和地度过每一天。"
+            "Content": "真不想上班呀，但为了未来再也不用上班，现在不得不努力才行。哈哈，我一个人退休当然很简单，但我希望的是大家都能卸下肩上的担子，平和地度过每一天。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_dream.play_favor_word_taoqi_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "你觉得今州这座城怎么样？住得舒心吗？让它脱离边塞的危险，成为真正令人安心的宜居城市，是我的梦想呢。"
+            "Content": "你觉得今州这座城怎么样？住得舒心吗？让它脱离边塞的危险，成为真正令人安心的宜居城市，是我的梦想呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_story_obj.play_favor_word_taoqi_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "朋友们曾经拦在我身前保护我，那时他们的身影就像城墙一样，给了我无限的安心感。因此，我才想为大家筑起真正坚固的城墙，让今州人也能安心地生活。"
+            "Content": "朋友们曾经拦在我身前保护我，那时他们的身影就像城墙一样，给了我无限的安心感。因此，我才想为大家筑起真正坚固的城墙，让今州人也能安心地生活。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_story_exp.play_favor_word_taoqi_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于今汐",
-            "Content": "总有人说她作为领导者，过于年轻了。但我不觉得这有什么不好啊。年轻既是她的缺陷，也是她的长处，在这条很长很长的道路上，年轻的她会比我们走得更久更远。"
+            "Content": "总有人说她作为领导者，过于年轻了。但我不觉得这有什么不好啊。年轻既是她的缺陷，也是她的长处，在这条很长很长的道路上，年轻的她会比我们走得更久更远。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_about_jinxi.play_favor_word_taoqi_about_jinxi"
         },
         {
             "Type": 1,
             "Title": "关于散华",
-            "Content": "我也很想要一位全能型的秘书，一定能极大地减少我需要做的工作吧。究竟是在哪儿招到的，下次见到今汐一定要问问。"
+            "Content": "我也很想要一位全能型的秘书，一定能极大地减少我需要做的工作吧。究竟是在哪儿招到的，下次见到今汐一定要问问。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_about_sanhua.play_favor_word_taoqi_about_sanhua"
         },
         {
             "Type": 1,
             "Title": "关于相里要",
-            "Content": "相里要啊，他是经常合作而且善于合作的对象，毕竟天工和华胥负责的职能有一部分重合了，研究相关的东西我时常会拜托给他。虽然他的步调很快，但意外地和我配合默契呢。"
+            "Content": "相里要啊，他是经常合作而且善于合作的对象，毕竟天工和华胥负责的职能有一部分重合了，研究相关的东西我时常会拜托给他。虽然他的步调很快，但意外地和我配合默契呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_about_xiangliyao.play_favor_word_taoqi_about_xiangliyao"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "闲不下来真可怕啊，他总能找到需要关心和处理的事，像忙个不停的大家长。医者不自医，但也要注意自己的身体吧。"
+            "Content": "闲不下来真可怕啊，他总能找到需要关心和处理的事，像忙个不停的大家长。医者不自医，但也要注意自己的身体吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_about_jiyan.play_favor_word_taoqi_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "哈啊……难得的生日好好休息一下，和我一起睡个午觉吧。我这里有最好的睡眠道具，保证能让你享受最棒的安眠。午安，还有生日快乐，呼呼……"
+            "Content": "哈啊……难得的生日好好休息一下，和我一起睡个午觉吧。我这里有最好的睡眠道具，保证能让你享受最棒的安眠。午安，还有生日快乐，呼呼……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_birthcele.play_favor_word_taoqi_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_idle01.play_favor_word_taoqi_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "防事的新需求吗……呼啊，得好好打起精神来了。"
+            "Content": "防事的新需求吗……呼啊，得好好打起精神来了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_idle02.play_favor_word_taoqi_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "要是能像天空中的流云就好了，没有任何烦恼。"
+            "Content": "要是能像天空中的流云就好了，没有任何烦恼。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_idle03.play_favor_word_taoqi_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我是桃祈，在天工负责边防事务，有需要可以随时找我，回复嘛，就请等到工作时间再进行确认吧。"
+            "Content": "我是桃祈，在天工负责边防事务，有需要可以随时找我，回复嘛，就请等到工作时间再进行确认吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_introduction.play_favor_word_taoqi_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "呼啊……又到了午后谈心时间，要聊些什么呢？"
+            "Content": "呼啊……又到了午后谈心时间，要聊些什么呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_get_card.play_favor_word_taoqi_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "不用着急嘛，总会解决的。"
+            "Content": "不用着急嘛，总会解决的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_join_team_01.play_favor_word_taoqi_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "我会照顾好你的。"
+            "Content": "我会照顾好你的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_join_team_02.play_favor_word_taoqi_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "上班时间到了？不能再懒洋洋了呢。"
+            "Content": "上班时间到了？不能再懒洋洋了呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_join_team_03.play_favor_word_taoqi_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "我现在的状态比连休七天还要好，多谢你的支援。"
+            "Content": "我现在的状态比连休七天还要好，多谢你的支援。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_rankup01.play_favor_word_taoqi_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "心跳加速，血压上升，这股力量让人有点静不下来呢……果然还是先去躺下休息会吧。"
+            "Content": "心跳加速，血压上升，这股力量让人有点静不下来呢……果然还是先去躺下休息会吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_rankup02.play_favor_word_taoqi_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "拥有更多力量的人，就要肩负起更多的责任，哈啊~真不想更多地工作了，但如果你需要的话，稍微加一点点班也可以。"
+            "Content": "拥有更多力量的人，就要肩负起更多的责任，哈啊~真不想更多地工作了，但如果你需要的话，稍微加一点点班也可以。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_rankup03.play_favor_word_taoqi_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "谢谢，真是可靠的后辈。不一定谁是前辈吗？哈哈，只是觉得有了这么强的力量，就可以让你更依赖我一点，不行吗？"
+            "Content": "谢谢，真是可靠的后辈。不一定谁是前辈吗？哈哈，只是觉得有了这么强的力量，就可以让你更依赖我一点，不行吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_rankup04.play_favor_word_taoqi_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "与你相处的这段时间，我看见了许多以往忽略的事物。保护大家的“高墙”非一人之力所筑，而是靠着我们一同经历的点点滴滴，谢谢你愿意陪在我的身边，如果能像这样一直下去的话，欸？后面的话没听清楚吗，那要不要再听我说一次……"
+            "Content": "与你相处的这段时间，我看见了许多以往忽略的事物。保护大家的“高墙”非一人之力所筑，而是靠着我们一同经历的点点滴滴，谢谢你愿意陪在我的身边，如果能像这样一直下去的话，欸？后面的话没听清楚吗，那要不要再听我说一次……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_rankup05.play_favor_word_taoqi_rankup05"
         },
         {
             "Type": 2,
             "Title": "后发制人·一",
-            "Content": "攻守易形。"
+            "Content": "攻守易形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_heavyatk_parry_01.play_favor_word_taoqi_heavyatk_parry_01"
         },
         {
             "Type": 2,
             "Title": "后发制人·二",
-            "Content": "就是现在。"
+            "Content": "就是现在。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_heavyatk_parry_02.play_favor_word_taoqi_heavyatk_parry_02"
         },
         {
             "Type": 2,
             "Title": "后发制人·三",
-            "Content": "骗到你啦。"
+            "Content": "骗到你啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_heavyatk_parry_03.play_favor_word_taoqi_heavyatk_parry_03"
         },
         {
             "Type": 2,
             "Title": "后发制人·四",
-            "Content": "还以颜色。"
+            "Content": "还以颜色。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_heavyatk_parry_04.play_favor_word_taoqi_heavyatk_parry_04"
         },
         {
             "Type": 2,
             "Title": "后发制人·五",
-            "Content": "欲速则不达。"
+            "Content": "欲速则不达。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_heavyatk_parry_05.play_favor_word_taoqi_heavyatk_parry_05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "由我守护。"
+            "Content": "由我守护。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_skill_01.play_favor_word_taoqi_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "站在我身后。"
+            "Content": "站在我身后。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_skill_02.play_favor_word_taoqi_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "坚如磐石！"
+            "Content": "坚如磐石！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_skill_03.play_favor_word_taoqi_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "当守为攻。"
+            "Content": "当守为攻。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_burst_skill_01.play_favor_word_taoqi_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "破阵之势。"
+            "Content": "破阵之势。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_burst_skill_02.play_favor_word_taoqi_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "现在……是我的主场。"
+            "Content": "现在……是我的主场。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_burst_skill_03.play_favor_word_taoqi_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "闪避反击",
-            "Content": "现在，轮到我了。"
+            "Content": "现在，轮到我了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_evasion_parry_attack.play_favor_word_taoqi_evasion_parry_attack"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "被看穿了吗？"
+            "Content": "被看穿了吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_behit_fly_01.play_favor_word_taoqi_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "唔……"
+            "Content": "唔……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_behit_fly_02.play_favor_word_taoqi_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "唔，冷静一点。"
+            "Content": "唔，冷静一点。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_behit_fly_03.play_favor_word_taoqi_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "小伤而已，不用担心。"
+            "Content": "小伤而已，不用担心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hp70.play_favor_word_taoqi_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "该打起精神来了。"
+            "Content": "该打起精神来了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hp50.play_favor_word_taoqi_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "是我疏忽了……"
+            "Content": "是我疏忽了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hp30.play_favor_word_taoqi_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "没能守住……"
+            "Content": "没能守住……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_die_01.play_favor_word_taoqi_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "我还不够可靠……"
+            "Content": "我还不够可靠……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_die_02.play_favor_word_taoqi_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "退回墙内。"
+            "Content": "退回墙内。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_die_03.play_favor_word_taoqi_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "交给你了。"
+            "Content": "交给你了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hx_summon.play_favor_word_taoqi_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "真可靠。"
+            "Content": "真可靠。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hx_change.play_favor_word_taoqi_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "我来压阵。"
+            "Content": "我来压阵。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_qte.play_favor_word_taoqi_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "注意观察局势。"
+            "Content": "注意观察局势。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_enter_battle.play_favor_word_taoqi_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "借风使力，很轻松呢。"
+            "Content": "借风使力，很轻松呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_fly.play_favor_word_taoqi_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "速度真快。"
+            "Content": "速度真快。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_hook.play_favor_word_taoqi_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "这些东西……能派上用场吧。"
+            "Content": "这些东西……能派上用场吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_scan.play_favor_word_taoqi_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "呼……慢点嘛，不着急。"
+            "Content": "呼……慢点嘛，不着急。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_dash.play_favor_word_taoqi_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_fast_run.play_favor_word_taoqi_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "期待惊喜吗？像小孩子一样。"
+            "Content": "期待惊喜吗？像小孩子一样。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_chest_01.play_favor_word_taoqi_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "今日的运势也不错嘛。"
+            "Content": "今日的运势也不错嘛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_chest_02.play_favor_word_taoqi_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "多多益善。"
+            "Content": "多多益善。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_taoqi_chest_03.play_favor_word_taoqi_chest_03"
         }
     ],
     "Goods": [
@@ -3813,5 +3876,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001601": {
+            "Id": 81001601,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "桃祈",
+            "TitleName": "静谧此时",
+            "SubDecName": "桃祈-初始服饰",
+            "BgDescription": "工作时常见的服装，与桃桃龟颜色相符。慵懒的她总忘记穿天工制服，久而久之，私服也就成了制服。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI"
+        }
     }
 }

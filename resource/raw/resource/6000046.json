@@ -42,8 +42,8 @@
         "4": {
             "Id": 4,
             "Name": "啸谷长风",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementWind1.T_IconElementWind1",
-            "Color": "55FFB5FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWind.T_IconElementAttriWind",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "气动伤害提升10%",
@@ -62,8 +62,8 @@
         "8": {
             "Id": 8,
             "Name": "轻云出月",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyswitchtag_UI.T_Iconpropertyswitchtag_UI",
-            "Color": "FFFFFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCloud.T_IconElementAttriCloud",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "共鸣效率提升{0}",

@@ -62,297 +62,356 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "……啊，抱歉，我走神了。我的双眼……能够看见世间生灵本源的频率，在我眼中，一切生灵如同魂魄般以模糊、喧杂的姿态出现……而我看到你的第一眼便知道，你是特别的。你是我遇到的，除了今汐大人以外，唯二如此清晰而真实的存在。我只是……不太习惯。"
+            "Content": "……啊，抱歉，我走神了。我的双眼……能够看见世间生灵本源的频率，在我眼中，一切生灵如同魂魄般以模糊、喧杂的姿态出现……而我看到你的第一眼便知道，你是特别的。你是我遇到的，除了今汐大人以外，唯二如此清晰而真实的存在。我只是……不太习惯。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_to_player01.play_favor_word_sanhua_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "生命会在我们看不见的地方不断轮回……生生不息，轮回不止。对于逝去之物，现世者所能做的只有铭记，然后出发，这样就够了。漂泊者，你又是为了什么而出发的？"
+            "Content": "生命会在我们看不见的地方不断轮回……生生不息，轮回不止。对于逝去之物，现世者所能做的只有铭记，然后出发，这样就够了。漂泊者，你又是为了什么而出发的？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_to_player02.play_favor_word_sanhua_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "若是无法继续呆在今汐大人身旁？如果有那样一天到来，只可能是我不在了，或是今汐大人已达成了她想要做到的事，不再需要我。真有那一天，也许我会选择和你一样……流离世间，成为漂泊者吧。到时若能与你为伴，也是不错的选择。"
+            "Content": "若是无法继续呆在今汐大人身旁？如果有那样一天到来，只可能是我不在了，或是今汐大人已达成了她想要做到的事，不再需要我。真有那一天，也许我会选择和你一样……流离世间，成为漂泊者吧。到时若能与你为伴，也是不错的选择。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_to_player03.play_favor_word_sanhua_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "嗯？我在思索什么？我正在想，漂泊者你此刻在想些什么呢……毕竟我无法通过频率推测你的思绪，但这样的感觉，竟也不错。"
+            "Content": "嗯？我在思索什么？我正在想，漂泊者你此刻在想些什么呢……毕竟我无法通过频率推测你的思绪，但这样的感觉，竟也不错。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_to_player04.play_favor_word_sanhua_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "万物皆有因果，你此刻种下的因缘，一定会在未来的某天开花结果……你说我？当然也是一样的，我相信我们会在此相遇，绝非偶然。"
+            "Content": "万物皆有因果，你此刻种下的因缘，一定会在未来的某天开花结果……你说我？当然也是一样的，我相信我们会在此相遇，绝非偶然。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_to_player05.play_favor_word_sanhua_to_player05"
         },
         {
             "Type": 1,
             "Title": "散华的喜好",
-            "Content": "念诵心经能使人心境平静、开悟得法，偶尔我也会为今汐大人念诵心经，只是念不了多久，她就会感到困意……你也有兴趣？但……你该不会也睡着吧？"
+            "Content": "念诵心经能使人心境平静、开悟得法，偶尔我也会为今汐大人念诵心经，只是念不了多久，她就会感到困意……你也有兴趣？但……你该不会也睡着吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_taste.play_favor_word_sanhua_taste"
         },
         {
             "Type": 1,
             "Title": "散华的烦恼",
-            "Content": "感觉有一阵寒气？嗯，对我而言，这股风雪的力量难以完全掌控……尤其是当我抑制不住自己的思绪时。尽管不会造成什么伤害，但难免也会给他人带来困扰……你不介意吗？还是说，你想要分享这一片冰冷？"
+            "Content": "感觉有一阵寒气？嗯，对我而言，这股风雪的力量难以完全掌控……尤其是当我抑制不住自己的思绪时。尽管不会造成什么伤害，但难免也会给他人带来困扰……你不介意吗？还是说，你想要分享这一片冰冷？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_worry.play_favor_word_sanhua_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "今州有一种甘露，是以中曲台地的一种特殊花瓣制作而成。其味醇厚清甜，十分可口，只是常人不可多饮，易头昏脑胀、难辨东西。我？我自然不会受到这种饮品的影响。"
+            "Content": "今州有一种甘露，是以中曲台地的一种特殊花瓣制作而成。其味醇厚清甜，十分可口，只是常人不可多饮，易头昏脑胀、难辨东西。我？我自然不会受到这种饮品的影响。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_food_favor.play_favor_word_sanhua_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "如果一定要说，我其实吃不来太辣的食物……嗯？你之前还想邀请我去攀花饭馆吃饭？那走吧。只是吃不太来，但区区辣意，我还是能够克服的。"
+            "Content": "如果一定要说，我其实吃不来太辣的食物……嗯？你之前还想邀请我去攀花饭馆吃饭？那走吧。只是吃不太来，但区区辣意，我还是能够克服的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_food_hate.play_favor_word_sanhua_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "这双眼睛……既是奇迹，也是诅咒。如果有可能摆脱……不，没有这样的可能。如果必定终身与它如影相随，那么我就压制它一生，将它变成为己所用的武器。"
+            "Content": "这双眼睛……既是奇迹，也是诅咒。如果有可能摆脱……不，没有这样的可能。如果必定终身与它如影相随，那么我就压制它一生，将它变成为己所用的武器。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_dream.play_favor_word_sanhua_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "自妄所招，还自来受……这是住持将这串项链赠予我时告诉我的。但这并非仅仅为了告诫我，更是想让我记住，世人皆有杂念，善恶只在一念间。我不应受他人杂念左右，专注于自身修行，才是我的解脱之道。"
+            "Content": "自妄所招，还自来受……这是住持将这串项链赠予我时告诉我的。但这并非仅仅为了告诫我，更是想让我记住，世人皆有杂念，善恶只在一念间。我不应受他人杂念左右，专注于自身修行，才是我的解脱之道。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_story_obj.play_favor_word_sanhua_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "我曾被称作“带来灾厄的修罗”……如今这股恶鬼的力量被我握在手中，化为守护的利刃。漂泊者，你也认为我是恶鬼修罗吗？没关系，不论你如何看待我，我都会遵循自己的职责，为你斩断阻碍。"
+            "Content": "我曾被称作“带来灾厄的修罗”……如今这股恶鬼的力量被我握在手中，化为守护的利刃。漂泊者，你也认为我是恶鬼修罗吗？没关系，不论你如何看待我，我都会遵循自己的职责，为你斩断阻碍。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_story_exp.play_favor_word_sanhua_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于今汐",
-            "Content": "最近今汐大人喜欢早起，所以我每天都会准时将她叫醒……什么？她和你说过偶尔也会想睡个懒觉！？这样吗……她还对你说过些什么？请详细告诉我。"
+            "Content": "最近今汐大人喜欢早起，所以我每天都会准时将她叫醒……什么？她和你说过偶尔也会想睡个懒觉！？这样吗……她还对你说过些什么？请详细告诉我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_about_jinxi.play_favor_word_sanhua_about_jinxi"
         },
         {
             "Type": 1,
             "Title": "关于鉴心",
-            "Content": "拥有相当漂亮的金色的灵魂，其品行和境界也令人尊敬。"
+            "Content": "拥有相当漂亮的金色的灵魂，其品行和境界也令人尊敬。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_about_jianxin.play_favor_word_sanhua_about_jianxin"
         },
         {
             "Type": 1,
             "Title": "关于凌阳",
-            "Content": "那名舞狮的少年？他有着十分独特、兽类模样的灵魂……说来有些惭愧，我曾将他错认为从山林间跑到城内的猛兽……咳，我后来向他进行了正式的赔礼道歉，解除了误会，不必担心。"
+            "Content": "那名舞狮的少年？他有着十分独特、兽类模样的灵魂……说来有些惭愧，我曾将他错认为从山林间跑到城内的猛兽……咳，我后来向他进行了正式的赔礼道歉，解除了误会，不必担心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_about_lingyang.play_favor_word_sanhua_about_lingyang"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "一位出色的学者，今令尹曾指派我与她洽谈项目合作。假以时日，她一定能够成为华胥研究院、乃至瑝珑回音学研究的中流砥柱。"
+            "Content": "一位出色的学者，今令尹曾指派我与她洽谈项目合作。假以时日，她一定能够成为华胥研究院、乃至瑝珑回音学研究的中流砥柱。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_about_baizhi.play_favor_word_sanhua_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "这是你真正的生日吗？能够有属于自己的纪念日，是十分值得庆祝的事情，你的生命从那一刻开始流转，无数的因果让你此刻站在这里，而这，或许也能被称作一种奇迹——漂泊者，生日快乐。"
+            "Content": "这是你真正的生日吗？能够有属于自己的纪念日，是十分值得庆祝的事情，你的生命从那一刻开始流转，无数的因果让你此刻站在这里，而这，或许也能被称作一种奇迹——漂泊者，生日快乐。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_birthcele.play_favor_word_sanhua_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "美丽的事物之所以美丽……正是因为它终究会消逝。"
+            "Content": "美丽的事物之所以美丽……正是因为它终究会消逝。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_idle01.play_favor_word_sanhua_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "对你的印象？你笑起来……很温暖。"
+            "Content": "对你的印象？你笑起来……很温暖。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_idle02.play_favor_word_sanhua_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_idle03.play_favor_word_sanhua_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "令尹近卫，散华。若是要出发去危险的地方，请务必带上我，我会保护您的安全。"
+            "Content": "令尹近卫，散华。若是要出发去危险的地方，请务必带上我，我会保护您的安全。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_introduction.play_favor_word_sanhua_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "别来无恙，漂泊者。这段时间，由我来担任您的护卫。"
+            "Content": "别来无恙，漂泊者。这段时间，由我来担任您的护卫。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_get_card.play_favor_word_sanhua_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "请不要离我太远。"
+            "Content": "请不要离我太远。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_join_team_01.play_favor_word_sanhua_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "护卫的职责，放心交给我吧。"
+            "Content": "护卫的职责，放心交给我吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_join_team_02.play_favor_word_sanhua_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "我会为你斩断一切威胁。"
+            "Content": "我会为你斩断一切威胁。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_join_team_03.play_favor_word_sanhua_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "灵魂的轮廓……更加清晰了。"
+            "Content": "灵魂的轮廓……更加清晰了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_rankup01.play_favor_word_sanhua_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "练心于法，名之为精。"
+            "Content": "练心于法，名之为精。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_rankup02.play_favor_word_sanhua_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "精心务达，名之为进。"
+            "Content": "精心务达，名之为进。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_rankup03.play_favor_word_sanhua_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "如今，我有把握，此后绝不会让你被伤及分毫。"
+            "Content": "如今，我有把握，此后绝不会让你被伤及分毫。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_rankup04.play_favor_word_sanhua_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "漂泊者，我曾受命于今令尹来到你的身边，今后，我也将一直伴你左右……与命令无关，这是我对你做出的，只属于你的承诺。"
+            "Content": "漂泊者，我曾受命于今令尹来到你的身边，今后，我也将一直伴你左右……与命令无关，这是我对你做出的，只属于你的承诺。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_rankup05.play_favor_word_sanhua_rankup05"
         },
         {
             "Type": 2,
             "Title": "重击·爆裂",
-            "Content": "六出尽灭！"
+            "Content": "六出尽灭！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_heavyatk_burst.play_favor_word_sanhua_heavyatk_burst"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "凛冰绽放。"
+            "Content": "凛冰绽放。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_skill_01.play_favor_word_sanhua_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "蚀骨深寒。"
+            "Content": "蚀骨深寒。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_skill_02.play_favor_word_sanhua_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "重堕轮回吧！"
+            "Content": "重堕轮回吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_skill_03.play_favor_word_sanhua_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "桎梏已破！"
+            "Content": "桎梏已破！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_burst_skill_01.play_favor_word_sanhua_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "逝如朝霜！"
+            "Content": "逝如朝霜！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_burst_skill_02.play_favor_word_sanhua_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "大红莲华！"
+            "Content": "大红莲华！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_burst_skill_03.play_favor_word_sanhua_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "成功闪避",
-            "Content": "当心。"
+            "Content": "当心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_evasion_success.play_favor_word_sanhua_evasion_success"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_behit_fly_01.play_favor_word_sanhua_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "退后。"
+            "Content": "退后。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_behit_fly_02.play_favor_word_sanhua_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "我的疏忽。"
+            "Content": "我的疏忽。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_behit_fly_03.play_favor_word_sanhua_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "无需挂碍。"
+            "Content": "无需挂碍。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hp70.play_favor_word_sanhua_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "还能继续。"
+            "Content": "还能继续。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hp50.play_favor_word_sanhua_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "我……不会退缩。"
+            "Content": "我……不会退缩。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hp30.play_favor_word_sanhua_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "苦厄皆空……"
+            "Content": "苦厄皆空……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_die_01.play_favor_word_sanhua_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "这就是我的因果……"
+            "Content": "这就是我的因果……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_die_02.play_favor_word_sanhua_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "没能保护好你……"
+            "Content": "没能保护好你……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_die_03.play_favor_word_sanhua_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hx_summon.play_favor_word_sanhua_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "别有洞天。"
+            "Content": "别有洞天。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hx_change.play_favor_word_sanhua_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "到我身后。"
+            "Content": "到我身后。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_qte.play_favor_word_sanhua_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "请务必小心。"
+            "Content": "请务必小心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_enter_battle.play_favor_word_sanhua_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "不错的视野。"
+            "Content": "不错的视野。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_fly.play_favor_word_sanhua_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_hook.play_favor_word_sanhua_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "意外收获？"
+            "Content": "意外收获？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_scan.play_favor_word_sanhua_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_dash.play_favor_word_sanhua_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_fast_run.play_favor_word_sanhua_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "嗯，不虚此行。"
+            "Content": "嗯，不虚此行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_chest_01.play_favor_word_sanhua_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "在你身旁，运气似乎也变好了。"
+            "Content": "在你身旁，运气似乎也变好了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_chest_02.play_favor_word_sanhua_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "你会喜欢这些吧？那么你收着就好。"
+            "Content": "你会喜欢这些吧？那么你收着就好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_sanhua_chest_03.play_favor_word_sanhua_chest_03"
         }
     ],
     "Goods": [
@@ -3735,5 +3794,27 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81011102": {
+            "Id": 81011102,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 4,
+            "Name": "散华",
+            "TitleName": "叱妖诰",
+            "SubDecName": "散华-高级定制",
+            "BgDescription": "鹤发赤目，雪衣玄裳，面魌而执寒刃，持念咒诰，喑呜叱咤，惊驱疫厉，诸恶皆除。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua2_UI.T_IconRole_Pile_shanhua2_UI"
+        },
+        "81001102": {
+            "Id": 81001102,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "散华",
+            "TitleName": "无间修罗",
+            "SubDecName": "散华-初始服饰",
+            "BgDescription": "边庭秘卫所着行装，轻便而内敛。玄衣飒飒行于无间，利刃挥斩，只为护佑世间景明。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.T_IconRole_Pile_shanhua_UI"
+        }
     }
 }

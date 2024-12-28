@@ -37,8 +37,8 @@
         "4": {
             "Id": 4,
             "Name": "啸谷长风",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementWind1.T_IconElementWind1",
-            "Color": "55FFB5FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWind.T_IconElementAttriWind",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "气动伤害提升10%",
@@ -57,8 +57,8 @@
         "6": {
             "Id": 6,
             "Name": "沉日劫明",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark1.T_IconElementDark1",
-            "Color": "C98BB3FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDark.T_IconElementAttriDark",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "湮灭伤害提升10%",

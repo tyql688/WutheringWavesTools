@@ -62,322 +62,386 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "对于我这样的商人来说，广结善缘才能维持稳定的客源。这位客人，我看你对这个世界还有许多疑惑，不如和我交个朋友，以后要是有什么想打听的，一定给你友情价。"
+            "Content": "对于我这样的商人来说，广结善缘才能维持稳定的客源。这位客人，我看你对这个世界还有许多疑惑，不如和我交个朋友，以后要是有什么想打听的，一定给你友情价。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_to_player01.play_favor_word_qiushui_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "看在朋友的份上，告诉你一些情报技巧吧。瑝珑有句话叫“彼之蜜糖，汝之砒霜”，用来形容情报最好不过，同样的事情，对不同客户来说价值不同。所以，一条情报只要用点技巧稍加包装，就能卖出高价。嗯？你说这是欺骗？这应该叫合理洞察客户需求。"
+            "Content": "看在朋友的份上，告诉你一些情报技巧吧。瑝珑有句话叫“彼之蜜糖，汝之砒霜”，用来形容情报最好不过，同样的事情，对不同客户来说价值不同。所以，一条情报只要用点技巧稍加包装，就能卖出高价。嗯？你说这是欺骗？这应该叫合理洞察客户需求。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_to_player02.play_favor_word_qiushui_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "“万事通”这个称呼带来的不止是财源，还有一些小麻烦，偶尔也会遇上不讲道理的客户，强买强卖，缠人得很。好在对付这种“客户”，还算容易。哎，要是个个客户都像你一样好沟通，那就万事大吉了。"
+            "Content": "“万事通”这个称呼带来的不止是财源，还有一些小麻烦，偶尔也会遇上不讲道理的客户，强买强卖，缠人得很。好在对付这种“客户”，还算容易。哎，要是个个客户都像你一样好沟通，那就万事大吉了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_to_player03.play_favor_word_qiushui_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "情报商说的话就像一团雾气，不能轻信，也不可不信。只有拨开虚虚实实的迷雾，才能窥见话语里暗藏的真实。当然，我除外，毕竟我对你这位朋友向来坦诚相待噢。"
+            "Content": "情报商说的话就像一团雾气，不能轻信，也不可不信。只有拨开虚虚实实的迷雾，才能窥见话语里暗藏的真实。当然，我除外，毕竟我对你这位朋友向来坦诚相待噢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_to_player04.play_favor_word_qiushui_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "总有人说，在我眼中没有真朋友，只有利益相关的客户，此话不假，纯粹的交易关系才能保证判断的准确性。不过，你是特例，无论是朋友还是客户，你的存在本身就能影响我的判断。"
+            "Content": "总有人说，在我眼中没有真朋友，只有利益相关的客户，此话不假，纯粹的交易关系才能保证判断的准确性。不过，你是特例，无论是朋友还是客户，你的存在本身就能影响我的判断。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_to_player05.play_favor_word_qiushui_to_player05"
         },
         {
             "Type": 1,
             "Title": "秋水的喜好",
-            "Content": "做我们这行的，与人太过交心容易暴露弱点，嗯……如果是你的话，倒是可以放心聊聊。其实我没什么特别的爱好，只是喜欢用雾气变变魔术，博大家一笑。"
+            "Content": "做我们这行的，与人太过交心容易暴露弱点，嗯……如果是你的话，倒是可以放心聊聊。其实我没什么特别的爱好，只是喜欢用雾气变变魔术，博大家一笑。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_taste.play_favor_word_qiushui_taste"
         },
         {
             "Type": 1,
             "Title": "秋水的烦恼",
-            "Content": "世事无常，何必用烦恼困住自己，要是不开心的话，随时来找我，保准让你心情好起来，放心，这不是交易，不收费。"
+            "Content": "世事无常，何必用烦恼困住自己，要是不开心的话，随时来找我，保准让你心情好起来，放心，这不是交易，不收费。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_worry.play_favor_word_qiushui_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "安可烹饪的珊瑚钙饭卖相奇特，口感却十分不错。入口即化，余味醇香，有机会的话，你也试试。嗯？你的眼神不会是在怀疑吧？放心放心，食材只是长得像珊瑚而已，绝对无害。"
+            "Content": "安可烹饪的珊瑚钙饭卖相奇特，口感却十分不错。入口即化，余味醇香，有机会的话，你也试试。嗯？你的眼神不会是在怀疑吧？放心放心，食材只是长得像珊瑚而已，绝对无害。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_food_favor.play_favor_word_qiushui_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "人们总喜欢给事物冠以某种意义，好让自己的行为合理化，就像我家那位醉鬼老爹喜欢用消愁的说辞来逃避现实。麻痹自我的东西，还是少碰吧。"
+            "Content": "人们总喜欢给事物冠以某种意义，好让自己的行为合理化，就像我家那位醉鬼老爹喜欢用消愁的说辞来逃避现实。麻痹自我的东西，还是少碰吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_food_hate.play_favor_word_qiushui_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "像雾一样自由自在，及时行乐，挺好的不是吗？"
+            "Content": "像雾一样自由自在，及时行乐，挺好的不是吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_dream.play_favor_word_qiushui_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "哦？你很好奇这个？不是骨笛，是录音机。一些不足挂齿的伪装道具，总是能在关键时刻派上用场。要不下次，也给你准备点什么道具吧。"
+            "Content": "哦？你很好奇这个？不是骨笛，是录音机。一些不足挂齿的伪装道具，总是能在关键时刻派上用场。要不下次，也给你准备点什么道具吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_story_obj.play_favor_word_qiushui_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "说起来你可能不信，小时候因为老爹好赌的缘故，经常有讨债人上门，为了和他们周旋费了不少功夫，那种受制于人的生活可真是过得提心吊胆啊。看在我生活这么曲折的份上，为我多介绍点客户如何？"
+            "Content": "说起来你可能不信，小时候因为老爹好赌的缘故，经常有讨债人上门，为了和他们周旋费了不少功夫，那种受制于人的生活可真是过得提心吊胆啊。看在我生活这么曲折的份上，为我多介绍点客户如何？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_story_exp.play_favor_word_qiushui_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于安可",
-            "Content": "有时候，就连我都搞不清楚，安可的精力究竟来自哪里。每次到达目的地后，她都能很快和当地的小孩成为朋友，兴致勃勃地把一路见闻编织成自己的故事。有好几次，我的情报也是安可结识的朋友提供的。"
+            "Content": "有时候，就连我都搞不清楚，安可的精力究竟来自哪里。每次到达目的地后，她都能很快和当地的小孩成为朋友，兴致勃勃地把一路见闻编织成自己的故事。有好几次，我的情报也是安可结识的朋友提供的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_anke.play_favor_word_qiushui_about_anke"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "今州的镇戍将军不是常人能胜任的，纵观全局的视野，敏锐细腻的洞察，当机立断的果决，缺一不可。只要和忌炎有过接触，就会发现他全都做到了。"
+            "Content": "今州的镇戍将军不是常人能胜任的，纵观全局的视野，敏锐细腻的洞察，当机立断的果决，缺一不可。只要和忌炎有过接触，就会发现他全都做到了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_jiyan.play_favor_word_qiushui_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "啊哈哈，炽霞啊，我和她也算是不打不相识吧。之前在今州城行商，她一度认为我是江湖骗子，想要把我抓去巡宁所，还闹了点误会。"
+            "Content": "啊哈哈，炽霞啊，我和她也算是不打不相识吧。之前在今州城行商，她一度认为我是江湖骗子，想要把我抓去巡宁所，还闹了点误会。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_chixia.play_favor_word_qiushui_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "秧秧？我们接触不多，但我一直都想和她谈点合作，感知流息中的信息对我们情报商来说，十分重要。说不定还能邀请她成为我的线人。"
+            "Content": "秧秧？我们接触不多，但我一直都想和她谈点合作，感知流息中的信息对我们情报商来说，十分重要。说不定还能邀请她成为我的线人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_yangyang.play_favor_word_qiushui_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "嗯……她应该不会成为我的客户，在她眼中，经他人之手获得的情报，远不如亲自验证得出的结论可靠。"
+            "Content": "嗯……她应该不会成为我的客户，在她眼中，经他人之手获得的情报，远不如亲自验证得出的结论可靠。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_baizhi.play_favor_word_qiushui_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "那位红头发的外籍研究员？听说他有一套对付古怪甲方的方法，其实……有时候挺想拜托他帮我打发下那种难缠的客户。"
+            "Content": "那位红头发的外籍研究员？听说他有一套对付古怪甲方的方法，其实……有时候挺想拜托他帮我打发下那种难缠的客户。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_motefei.play_favor_word_qiushui_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于卡卡罗",
-            "Content": "我喜欢和幽灵猎犬打交道。讲规矩，够爽快，能节省不少时间。"
+            "Content": "我喜欢和幽灵猎犬打交道。讲规矩，够爽快，能节省不少时间。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_kakaluo.play_favor_word_qiushui_about_kakaluo"
         },
         {
             "Type": 1,
             "Title": "关于维里奈",
-            "Content": "里格斯小队的那个小女孩儿？我还在新联邦的时候曾见过她。她送了我一朵星星花，想打听母亲的消息。不过，这笔交易没谈成，因为她给不到我想要的报酬。你问什么报酬？嗯……一株永不凋零的真花。她说，植物有自己的生命规律，凋零也是生命的一部分。当时我好像告诉她，人也一样。"
+            "Content": "里格斯小队的那个小女孩儿？我还在新联邦的时候曾见过她。她送了我一朵星星花，想打听母亲的消息。不过，这笔交易没谈成，因为她给不到我想要的报酬。你问什么报酬？嗯……一株永不凋零的真花。她说，植物有自己的生命规律，凋零也是生命的一部分。当时我好像告诉她，人也一样。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_about_weilinai.play_favor_word_qiushui_about_weilinai"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "嘿，最特殊的客人，生日快乐！送你特制的造雾小道具，别看它其貌不扬，只要这样一扭就能变出各种形状的雾气，瞧，一只调皮小猫。要是遇上烦心事，就打开它，把烦恼变成雾气消散吧。"
+            "Content": "嘿，最特殊的客人，生日快乐！送你特制的造雾小道具，别看它其貌不扬，只要这样一扭就能变出各种形状的雾气，瞧，一只调皮小猫。要是遇上烦心事，就打开它，把烦恼变成雾气消散吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_birthcele.play_favor_word_qiushui_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "诚信为本，顾客至上，多多惠顾哦。"
+            "Content": "诚信为本，顾客至上，多多惠顾哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_idle01.play_favor_word_qiushui_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "在我手上可没有亏本买卖。"
+            "Content": "在我手上可没有亏本买卖。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_idle02.play_favor_word_qiushui_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "给你变个魔术吧。"
+            "Content": "给你变个魔术吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_idle03.play_favor_word_qiushui_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "哟——我是情报商人秋水，各种情报应有尽有，明码标价，童叟无欺。出门在外，掌握各地情报就是掌握先机，怎么样？要买一份吗？"
+            "Content": "哟——我是情报商人秋水，各种情报应有尽有，明码标价，童叟无欺。出门在外，掌握各地情报就是掌握先机，怎么样？要买一份吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_introduction.play_favor_word_qiushui_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "哟，老顾客，今天想打听什么？"
+            "Content": "哟，老顾客，今天想打听什么？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_get_card.play_favor_word_qiushui_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "沿途的任何细节，都有可能成为情报。"
+            "Content": "沿途的任何细节，都有可能成为情报。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_join_team_01.play_favor_word_qiushui_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "眼光不错，和我交易不会吃亏。"
+            "Content": "眼光不错，和我交易不会吃亏。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_join_team_02.play_favor_word_qiushui_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "出发吧，雾会为你护航。"
+            "Content": "出发吧，雾会为你护航。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_join_team_03.play_favor_word_qiushui_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "呼——造雾变得更容易了。作为交换，送你一份情报如何？"
+            "Content": "呼——造雾变得更容易了。作为交换，送你一份情报如何？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_rankup01.play_favor_word_qiushui_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "嗯？你总能给我惊喜，雾气的覆盖范围越来越广了，谢啦！再送你一条价值连城的情报吧。"
+            "Content": "嗯？你总能给我惊喜，雾气的覆盖范围越来越广了，谢啦！再送你一条价值连城的情报吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_rankup02.play_favor_word_qiushui_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "浓雾薄雾变换自如，真是帮大忙啦！这次想知道什么尽管问，我一定知无不言。"
+            "Content": "浓雾薄雾变换自如，真是帮大忙啦！这次想知道什么尽管问，我一定知无不言。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_rankup03.play_favor_word_qiushui_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "哇，诚意十足，放心，我也不会让你吃亏的。今后雾会一直在你身边，把周围交给我吧。"
+            "Content": "哇，诚意十足，放心，我也不会让你吃亏的。今后雾会一直在你身边，把周围交给我吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_rankup04.play_favor_word_qiushui_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "老顾客，之前的情报账单也该一次性付清了吧，让我想想……从你需要的情报中我也收获了不少，那就算扯平了，之后的生意还需你多多照顾哟。"
+            "Content": "老顾客，之前的情报账单也该一次性付清了吧，让我想想……从你需要的情报中我也收获了不少，那就算扯平了，之后的生意还需你多多照顾哟。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_rankup05.play_favor_word_qiushui_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "嘿，是这边！"
+            "Content": "嘿，是这边！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_skill_01.play_favor_word_qiushui_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "这次是……金蝉脱壳！"
+            "Content": "这次是……金蝉脱壳！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_skill_02.play_favor_word_qiushui_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "喜欢我的魔术吗？"
+            "Content": "喜欢我的魔术吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_skill_03.play_favor_word_qiushui_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣回路·一",
-            "Content": "打不着我。"
+            "Content": "打不着我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hold_dash_01.play_favor_word_qiushui_hold_dash_01"
         },
         {
             "Type": 2,
             "Title": "共鸣回路·二",
-            "Content": "再快一点儿。"
+            "Content": "再快一点儿。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hold_dash_02.play_favor_word_qiushui_hold_dash_02"
         },
         {
             "Type": 2,
             "Title": "共鸣回路·三",
-            "Content": "完美谢幕。"
+            "Content": "完美谢幕。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hold_dash_end_01.play_favor_word_qiushui_hold_dash_end_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "让子弹飞一会儿。"
+            "Content": "让子弹飞一会儿。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_burst_skill_01.play_favor_word_qiushui_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "嘣！完美交易。"
+            "Content": "嘣！完美交易。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_burst_skill_02.play_favor_word_qiushui_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "雾里看花。"
+            "Content": "雾里看花。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_burst_skill_03.play_favor_word_qiushui_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "有话好说，别动粗。"
+            "Content": "有话好说，别动粗。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_behit_fly_01.play_favor_word_qiushui_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "哎，和气生财嘛。"
+            "Content": "哎，和气生财嘛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_behit_fly_02.play_favor_word_qiushui_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "哇，来真的？"
+            "Content": "哇，来真的？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_behit_fly_03.play_favor_word_qiushui_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "小伤小伤。"
+            "Content": "小伤小伤。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hp70.play_favor_word_qiushui_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "雾变薄了。"
+            "Content": "雾变薄了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hp50.play_favor_word_qiushui_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "该认真了。"
+            "Content": "该认真了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hp30.play_favor_word_qiushui_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "雾，不会消散……"
+            "Content": "雾，不会消散……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_die_01.play_favor_word_qiushui_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "别担心，障眼法而已。"
+            "Content": "别担心，障眼法而已。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_die_02.play_favor_word_qiushui_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "先保存实力。"
+            "Content": "先保存实力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_die_03.play_favor_word_qiushui_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "借我用用。"
+            "Content": "借我用用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hx_summon.play_favor_word_qiushui_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "藏起来避避风头。"
+            "Content": "藏起来避避风头。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hx_change.play_favor_word_qiushui_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "算我一个！"
+            "Content": "算我一个！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_qte.play_favor_word_qiushui_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "来“客人”了。"
+            "Content": "来“客人”了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_enter_battle.play_favor_word_qiushui_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "呼——换个角度。"
+            "Content": "呼——换个角度。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_fly.play_favor_word_qiushui_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_hook.play_favor_word_qiushui_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "又是新的情报。"
+            "Content": "又是新的情报。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_scan.play_favor_word_qiushui_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_dash.play_favor_word_qiushui_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_fast_run.play_favor_word_qiushui_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "意外之财，不错不错。"
+            "Content": "意外之财，不错不错。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_chest_01.play_favor_word_qiushui_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "又一笔稳赚不赔的买卖。"
+            "Content": "又一笔稳赚不赔的买卖。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_chest_02.play_favor_word_qiushui_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "让我猜猜里面有什么好东西。"
+            "Content": "让我猜猜里面有什么好东西。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_qiushui_chest_03.play_favor_word_qiushui_chest_03"
         }
     ],
     "Goods": [
@@ -4792,5 +4856,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001403": {
+            "Id": 81001403,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "秋水",
+            "TitleName": "情报卖家",
+            "SubDecName": "秋水-初始服饰",
+            "BgDescription": "交易最后的底牌？在……这里。那就是如何转动头脑，将有限的信息变作与买家无限的周旋。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI"
+        }
     }
 }

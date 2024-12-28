@@ -47,8 +47,8 @@
         "7": {
             "Id": 7,
             "Name": "隐世回光",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyhealingtag_UI.T_Iconpropertyhealingtag_UI",
-            "Color": "9BDB2DFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.T_IconElementAttriCure",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "治疗效果提升10%",

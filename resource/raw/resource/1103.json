@@ -68,307 +68,368 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "你的身上存在一些与“声音”有关的特性，和你保持接触……或许我能找到研究声态的突破口。不过，如果我的接触让你不适，请直接说明。虽然不太擅长处理这个，但我还是希望在满足求知欲的同时，也平衡好你的心情。"
+            "Content": "你的身上存在一些与“声音”有关的特性，和你保持接触……或许我能找到研究声态的突破口。不过，如果我的接触让你不适，请直接说明。虽然不太擅长处理这个，但我还是希望在满足求知欲的同时，也平衡好你的心情。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_to_player01.play_favor_word_baizhi_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "有人说回音生物是“灵魂”的具象体现，的确，它们的频段纯粹洁净，很符合人们对灵魂的想象。不过……忧昙是因回应我的愿望而现形，那些被你吸引、在你途经的地方翩跹着的隙声蝶，又是因为什么？这个问题，或许只有等你恢复记忆才能知道了。"
+            "Content": "有人说回音生物是“灵魂”的具象体现，的确，它们的频段纯粹洁净，很符合人们对灵魂的想象。不过……忧昙是因回应我的愿望而现形，那些被你吸引、在你途经的地方翩跹着的隙声蝶，又是因为什么？这个问题，或许只有等你恢复记忆才能知道了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_to_player02.play_favor_word_baizhi_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "会开始声态相关的研究，不是因为相信，而是因为质疑。我质疑回音不可具象的既有结论，不断调研……直至忧昙于冰原之中给我回应。现如今，那份质疑早已被新的质疑取代，但尚未证无就意味可能证有，直至……我再一次找出答案。"
+            "Content": "会开始声态相关的研究，不是因为相信，而是因为质疑。我质疑回音不可具象的既有结论，不断调研……直至忧昙于冰原之中给我回应。现如今，那份质疑早已被新的质疑取代，但尚未证无就意味可能证有，直至……我再一次找出答案。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_to_player03.play_favor_word_baizhi_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "世界动态发展，却不是无迹可循，就像戈德堡机械，看似难以预测，其实只要按步骤推导，就能得出顺理成章的结果。所以，要想保证未来的小球不会脱出预期，我们能做的就是将每个步骤的不确定性降到最低。为了足够精准，我不介意曲折迂回的过程。你呢，你是更在意事实的那类人，还是更在意感受的那类人？"
+            "Content": "世界动态发展，却不是无迹可循，就像戈德堡机械，看似难以预测，其实只要按步骤推导，就能得出顺理成章的结果。所以，要想保证未来的小球不会脱出预期，我们能做的就是将每个步骤的不确定性降到最低。为了足够精准，我不介意曲折迂回的过程。你呢，你是更在意事实的那类人，还是更在意感受的那类人？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_to_player04.play_favor_word_baizhi_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "很奇怪的一点是，我们之中，明明你才是那个会被深入了解的人。但不知不觉间，却是我在向你敞开吐露，就像是……我也希望能被你了解到更多更多。这一点有些偏离我的初衷，不过意外的，我并不讨厌。或许……再和你接触下去，我还会有其他一反常态的表现，也会由此获得更多预料之外的感受。"
+            "Content": "很奇怪的一点是，我们之中，明明你才是那个会被深入了解的人。但不知不觉间，却是我在向你敞开吐露，就像是……我也希望能被你了解到更多更多。这一点有些偏离我的初衷，不过意外的，我并不讨厌。或许……再和你接触下去，我还会有其他一反常态的表现，也会由此获得更多预料之外的感受。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_to_player05.play_favor_word_baizhi_to_player05"
         },
         {
             "Type": 1,
             "Title": "白芷的喜好",
-            "Content": "研究之外的时间，我会尽可能去瑝珑各地走走，品尝当地人的食物，观察当地人的生活……理论推导出的只有很小一部分，更多的必须实际体验才能得出结论。"
+            "Content": "研究之外的时间，我会尽可能去瑝珑各地走走，品尝当地人的食物，观察当地人的生活……理论推导出的只有很小一部分，更多的必须实际体验才能得出结论。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_taste.play_favor_word_baizhi_taste"
         },
         {
             "Type": 1,
             "Title": "白芷的烦恼",
-            "Content": "单纯相同的读音并不能让人做出反应，但放到特定的情景中，就会被无端联想成多种另类的含义，逗得人捧腹大笑。梗，这种缺乏准确划分和清晰定义的概念……很难理解。"
+            "Content": "单纯相同的读音并不能让人做出反应，但放到特定的情景中，就会被无端联想成多种另类的含义，逗得人捧腹大笑。梗，这种缺乏准确划分和清晰定义的概念……很难理解。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_worry.play_favor_word_baizhi_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "冰镇后的时蔬水分不易流失，口感鲜甜更甚。如果你也偏好时蔬，可以试试冰镇香苏，会是不错的选择。"
+            "Content": "冰镇后的时蔬水分不易流失，口感鲜甜更甚。如果你也偏好时蔬，可以试试冰镇香苏，会是不错的选择。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_food_favor.play_favor_word_baizhi_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "油炸食品闻起来确实很香，但考虑到它们对健康带来的负影响，还是尽量不吃为好。"
+            "Content": "油炸食品闻起来确实很香，但考虑到它们对健康带来的负影响，还是尽量不吃为好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_food_hate.play_favor_word_baizhi_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "海蚀现象的出现，与其说是颠覆了人类对世界的既有认知，不如说是延展了人类的视野，迫使我们不得不重新搭建一套认识世界的体系。虽然进展还很有限，但只要继续下去，我们一定能找到全新的答案。"
+            "Content": "海蚀现象的出现，与其说是颠覆了人类对世界的既有认知，不如说是延展了人类的视野，迫使我们不得不重新搭建一套认识世界的体系。虽然进展还很有限，但只要继续下去，我们一定能找到全新的答案。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_dream.play_favor_word_baizhi_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "手上的两枚指环，一枚用来铭记，提醒我不能忘却的，一枚用来展望，提醒我尚未抵达的。生命太过短暂，我必须带着他们的份一起往前走，永不停歇。"
+            "Content": "手上的两枚指环，一枚用来铭记，提醒我不能忘却的，一枚用来展望，提醒我尚未抵达的。生命太过短暂，我必须带着他们的份一起往前走，永不停歇。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_story_obj.play_favor_word_baizhi_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "因感应到强烈而极致的渴望，忧昙以现在的形态呈现，来到我的身边。但时至今日，我对它、对其他回音生物的理解依旧有限，它们与人类认知中其他生命体完全不同……或许这也是忧昙回应我的原因——给予我一个解开谜题的机会。"
+            "Content": "因感应到强烈而极致的渴望，忧昙以现在的形态呈现，来到我的身边。但时至今日，我对它、对其他回音生物的理解依旧有限，它们与人类认知中其他生命体完全不同……或许这也是忧昙回应我的原因——给予我一个解开谜题的机会。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_story_exp.play_favor_word_baizhi_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "有的人善于倾听，有的人善于开解，秧秧则两者兼备。和她相处，你用不着拘谨，只需要做你自己就好。"
+            "Content": "有的人善于倾听，有的人善于开解，秧秧则两者兼备。和她相处，你用不着拘谨，只需要做你自己就好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_about_yangyang.play_favor_word_baizhi_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "刚认识的时候，还有些不知所措……炽霞的情绪总是饱满高涨，关注点也和我的截然不同。后来……逐渐明白了彼此的思考回路，行动起来反而有种别样的默契。正因为不同，才刚好互补吧。"
+            "Content": "刚认识的时候，还有些不知所措……炽霞的情绪总是饱满高涨，关注点也和我的截然不同。后来……逐渐明白了彼此的思考回路，行动起来反而有种别样的默契。正因为不同，才刚好互补吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_about_chixia.play_favor_word_baizhi_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "交集不多，但每次合作都很顺畅。体质原因火气比较旺盛，找他的话可以提前备点金铃子茶，按之前的量来看，一杯下去应该够他舒缓一天了。"
+            "Content": "交集不多，但每次合作都很顺畅。体质原因火气比较旺盛，找他的话可以提前备点金铃子茶，按之前的量来看，一杯下去应该够他舒缓一天了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_about_motefei.play_favor_word_baizhi_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于相里要",
-            "Content": "和他的天赋一样让人印象深刻的，是他那好说话的脾气。印象中，我还没见他对谁发过火，不管是怎么离谱的需求，他都能做到。"
+            "Content": "和他的天赋一样让人印象深刻的，是他那好说话的脾气。印象中，我还没见他对谁发过火，不管是怎么离谱的需求，他都能做到。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_about_xiangliyao.play_favor_word_baizhi_about_xiangliyao"
         },
         {
             "Type": 1,
             "Title": "关于渊武",
-            "Content": "同样的配比和用料，渊武泡的茶总是比店里卖的更清甜。他和我说没什么诀窍，只是用了十成真心的缘故。用真心……就能有这种效果吗？"
+            "Content": "同样的配比和用料，渊武泡的茶总是比店里卖的更清甜。他和我说没什么诀窍，只是用了十成真心的缘故。用真心……就能有这种效果吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_about_yuanwu.play_favor_word_baizhi_about_yuanwu"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "庆贺诞生的日子，应该要有些优待……嗯，你再靠过来些……忧昙的拥抱可以舒缓身体的疲惫，它还是第一次对我以外的人这样做。生日快乐，漂泊者。这是它的心意，也是我的。"
+            "Content": "庆贺诞生的日子，应该要有些优待……嗯，你再靠过来些……忧昙的拥抱可以舒缓身体的疲惫，它还是第一次对我以外的人这样做。生日快乐，漂泊者。这是它的心意，也是我的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_birthcele.play_favor_word_baizhi_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "嗯……可能性的指向，并不唯一。"
+            "Content": "嗯……可能性的指向，并不唯一。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_idle01.play_favor_word_baizhi_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "念念不忘，会有回响。"
+            "Content": "念念不忘，会有回响。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_idle02.play_favor_word_baizhi_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_idle03.play_favor_word_baizhi_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "白芷，华胥研究院研究员。主攻回音声态，相关问题可以找我。嗯……其他方面的探讨我也不介意，只是非我擅长的领域，不排除无法给出答案的可能，能提前告知准备是最好的。"
+            "Content": "白芷，华胥研究院研究员。主攻回音声态，相关问题可以找我。嗯……其他方面的探讨我也不介意，只是非我擅长的领域，不排除无法给出答案的可能，能提前告知准备是最好的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_introduction.play_favor_word_baizhi_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "华胥研究员，白芷。让我看看吧，由相遇推导出的必然性。"
+            "Content": "华胥研究员，白芷。让我看看吧，由相遇推导出的必然性。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_get_card.play_favor_word_baizhi_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "多说无益，用行动检验结果吧。"
+            "Content": "多说无益，用行动检验结果吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_join_team_01.play_favor_word_baizhi_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "但愿，我们能更接近答案。"
+            "Content": "但愿，我们能更接近答案。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_join_team_02.play_favor_word_baizhi_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "这一次，我和忧昙会护大家周全。"
+            "Content": "这一次，我和忧昙会护大家周全。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_join_team_03.play_favor_word_baizhi_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "思绪豁然开朗，和忧昙的共鸣也更加强烈……这种提升，是因为你的帮忙吧？"
+            "Content": "思绪豁然开朗，和忧昙的共鸣也更加强烈……这种提升，是因为你的帮忙吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_rankup01.play_favor_word_baizhi_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "世间只有尚未认知之物，没有不可认知之物。距离所求真理，我似乎更近了一步。"
+            "Content": "世间只有尚未认知之物，没有不可认知之物。距离所求真理，我似乎更近了一步。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_rankup02.play_favor_word_baizhi_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "能和忧昙做到的事，变得更多了。非唯一的可能性……原来我并不抗拒这样的感受。"
+            "Content": "能和忧昙做到的事，变得更多了。非唯一的可能性……原来我并不抗拒这样的感受。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_rankup03.play_favor_word_baizhi_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "力量满溢，超出了已知范畴。作为回馈，我会穷极这份由你赋予的未知。"
+            "Content": "力量满溢，超出了已知范畴。作为回馈，我会穷极这份由你赋予的未知。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_rankup04.play_favor_word_baizhi_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "又一次，你向我展现了无法言说的“秘法”。但比起其中原理，我更好奇做出这一切的你。接下来，你还会创造什么样的可能？这种程度的期待……很显然，你和其他所有人都不同，是例外的。"
+            "Content": "又一次，你向我展现了无法言说的“秘法”。但比起其中原理，我更好奇做出这一切的你。接下来，你还会创造什么样的可能？这种程度的期待……很显然，你和其他所有人都不同，是例外的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_rankup05.play_favor_word_baizhi_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "复愈。"
+            "Content": "复愈。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_skill_01.play_favor_word_baizhi_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "传频。"
+            "Content": "传频。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_skill_02.play_favor_word_baizhi_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "弥合。"
+            "Content": "弥合。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_skill_03.play_favor_word_baizhi_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "弥生响彻。"
+            "Content": "弥生响彻。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_burst_skill_01.play_favor_word_baizhi_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "融雪回春。"
+            "Content": "融雪回春。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_burst_skill_02.play_favor_word_baizhi_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "真理的通途。"
+            "Content": "真理的通途。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_burst_skill_03.play_favor_word_baizhi_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "逆势回击",
-            "Content": "弱点突破。"
+            "Content": "弱点突破。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_evasion_parry_attack.play_favor_word_baizhi_evasion_parry_attack"
         },
         {
             "Type": 2,
             "Title": "召唤忧昙",
-            "Content": "起念。"
+            "Content": "起念。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_summon.play_favor_word_baizhi_summon"
         },
         {
             "Type": 2,
             "Title": "召回忧昙",
-            "Content": "俱寂。"
+            "Content": "俱寂。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_callback.play_favor_word_baizhi_callback"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "疏忽了。"
+            "Content": "疏忽了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_behit_fly_01.play_favor_word_baizhi_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "麻烦了。"
+            "Content": "麻烦了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_behit_fly_02.play_favor_word_baizhi_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "保持警惕。"
+            "Content": "保持警惕。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_behit_fly_03.play_favor_word_baizhi_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "容错区间内。"
+            "Content": "容错区间内。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hp70.play_favor_word_baizhi_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "尚在…把握。"
+            "Content": "尚在…把握。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hp50.play_favor_word_baizhi_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "必须…转换策略。"
+            "Content": "必须…转换策略。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hp30.play_favor_word_baizhi_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "验证失败。"
+            "Content": "验证失败。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_die_01.play_favor_word_baizhi_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "还没得出结论…"
+            "Content": "还没得出结论…",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_die_02.play_favor_word_baizhi_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "朝闻道，夕死可矣。"
+            "Content": "朝闻道，夕死可矣。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_die_03.play_favor_word_baizhi_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "残响复现。"
+            "Content": "残响复现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hx_summon.play_favor_word_baizhi_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "身载万象。"
+            "Content": "身载万象。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hx_change.play_favor_word_baizhi_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "由我处理。"
+            "Content": "由我处理。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_qte.play_favor_word_baizhi_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "一切就绪。"
+            "Content": "一切就绪。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_enter_battle.play_favor_word_baizhi_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "凭风。"
+            "Content": "凭风。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_fly.play_favor_word_baizhi_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "借力。"
+            "Content": "借力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_hook.play_favor_word_baizhi_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "有新发现。"
+            "Content": "有新发现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_scan.play_favor_word_baizhi_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_dash.play_favor_word_baizhi_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_fast_run.play_favor_word_baizhi_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "收下吧，文明的馈赠。"
+            "Content": "收下吧，文明的馈赠。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_chest_01.play_favor_word_baizhi_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "也好，算是不虚此行。"
+            "Content": "也好，算是不虚此行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_chest_02.play_favor_word_baizhi_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "你的发现，交由你来处置。"
+            "Content": "你的发现，交由你来处置。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_baizhi_chest_03.play_favor_word_baizhi_chest_03"
         }
     ],
     "Goods": [
@@ -3692,5 +3753,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001103": {
+            "Id": 81001103,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "白芷",
+            "TitleName": "昙生妙华",
+            "SubDecName": "白芷-初始服饰",
+            "BgDescription": "裁剪合宜的科考套装，最大程度保证了行动的便利。世间真理难得，唯闻道者上下求索、不忘始终。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI"
+        }
     }
 }

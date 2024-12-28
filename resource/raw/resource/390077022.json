@@ -42,8 +42,8 @@
         "3": {
             "Id": 3,
             "Name": "彻空冥雷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementThunder1.T_IconElementThunder1",
-            "Color": "B46BFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriThunder.T_IconElementAttriThunder",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "导电伤害提升10%",
@@ -63,8 +63,8 @@
         "9": {
             "Id": 9,
             "Name": "不绝余音",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyattacktag_UI.T_Iconpropertyattacktag_UI",
-            "Color": "C72C25FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriAttack.T_IconElementAttriAttack",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "攻击提升10%",

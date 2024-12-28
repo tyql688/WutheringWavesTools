@@ -52,8 +52,8 @@
         "6": {
             "Id": 6,
             "Name": "沉日劫明",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark1.T_IconElementDark1",
-            "Color": "C98BB3FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDark.T_IconElementAttriDark",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "湮灭伤害提升10%",
@@ -74,8 +74,8 @@
         "7": {
             "Id": 7,
             "Name": "隐世回光",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyhealingtag_UI.T_Iconpropertyhealingtag_UI",
-            "Color": "9BDB2DFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.T_IconElementAttriCure",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "治疗效果提升10%",
@@ -95,8 +95,8 @@
         "9": {
             "Id": 9,
             "Name": "不绝余音",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyattacktag_UI.T_Iconpropertyattacktag_UI",
-            "Color": "C72C25FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriAttack.T_IconElementAttriAttack",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "攻击提升10%",

@@ -74,297 +74,356 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "能够认识我这等鉴宝大师，你很走运嘛！手头有什么稀奇宝贝，速速呈上来~"
+            "Content": "能够认识我这等鉴宝大师，你很走运嘛！手头有什么稀奇宝贝，速速呈上来~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_to_player01.play_favor_word_youhu_sys_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "本大师交朋友从来不在乎对方懂不懂鉴宝，反正很难比我厉害啦，哼哼~只要能对古物心存敬畏就好。"
+            "Content": "本大师交朋友从来不在乎对方懂不懂鉴宝，反正很难比我厉害啦，哼哼~只要能对古物心存敬畏就好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_to_player02.play_favor_word_youhu_sys_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "嘘！我听说呀，到边庭附近朗诵《釉瑚大师诗选》，就会得到岁主保佑哦！没骗你，真的真的！岁主保不保佑不知道，至少我肯定无条件帮你嘛……"
+            "Content": "嘘！我听说呀，到边庭附近朗诵《釉瑚大师诗选》，就会得到岁主保佑哦！没骗你，真的真的！岁主保不保佑不知道，至少我肯定无条件帮你嘛……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_to_player03.play_favor_word_youhu_sys_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "你给我的感觉和古物很像呢……咳咳！我、我是在进行专业的鉴定！你身体里流淌的频率，有当下的痕迹，也有一些，像是来自遥远的时间，很特别……"
+            "Content": "你给我的感觉和古物很像呢……咳咳！我、我是在进行专业的鉴定！你身体里流淌的频率，有当下的痕迹，也有一些，像是来自遥远的时间，很特别……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_to_player04.play_favor_word_youhu_sys_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "古物的价值可不能单单用价格来衡量，凝固于其中的情感，才是最珍贵的。比如……要是有器物能够记录此时此刻，见证你我的所思所念，这个器物也会变得价值连城哦。嗯，至少在我心目中是这样的！"
+            "Content": "古物的价值可不能单单用价格来衡量，凝固于其中的情感，才是最珍贵的。比如……要是有器物能够记录此时此刻，见证你我的所思所念，这个器物也会变得价值连城哦。嗯，至少在我心目中是这样的！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_to_player05.play_favor_word_youhu_sys_to_player05"
         },
         {
             "Type": 1,
             "Title": "釉瑚的喜好",
-            "Content": "我可是鉴宝大师釉瑚，最喜爱的自然是形形色色的古物。听说总有人嫌我聒噪，哼哼，呈上几件俏货给我把玩把玩，我不就安静啦。"
+            "Content": "我可是鉴宝大师釉瑚，最喜爱的自然是形形色色的古物。听说总有人嫌我聒噪，哼哼，呈上几件俏货给我把玩把玩，我不就安静啦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_taste.play_favor_word_youhu_sys_taste"
         },
         {
             "Type": 1,
             "Title": "釉瑚的烦恼",
-            "Content": "瑝珑遍地是宝物，何苦盗窃走歪路；捉弄坏蛋真忙碌，累坏了正义的小釉瑚。还有好多掠宝贼没有归还赃物呢，今天也选个幸运贼，让他感受下被本大师支配的恐惧吧！"
+            "Content": "瑝珑遍地是宝物，何苦盗窃走歪路；捉弄坏蛋真忙碌，累坏了正义的小釉瑚。还有好多掠宝贼没有归还赃物呢，今天也选个幸运贼，让他感受下被本大师支配的恐惧吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_worry.play_favor_word_youhu_sys_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "小龙包是瑝珑人对龙的尊奉，喜欢！戍边粮是镇戍军的守护与思念，喜欢！食物也得有内涵，才配得上本大师的品位嘛。"
+            "Content": "小龙包是瑝珑人对龙的尊奉，喜欢！戍边粮是镇戍军的守护与思念，喜欢！食物也得有内涵，才配得上本大师的品位嘛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_foodlike.play_favor_word_youhu_sys_foodlike"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "怎么会有清茶这么苦的东西啊，反正本大师是吃不得这种苦头的，下次看谁不顺眼，就偷偷灌进他的杯子里吧，嘻嘻~"
+            "Content": "怎么会有清茶这么苦的东西啊，反正本大师是吃不得这种苦头的，下次看谁不顺眼，就偷偷灌进他的杯子里吧，嘻嘻~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_foodhate.play_favor_word_youhu_sys_foodhate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "为什么要摆摊鉴宝？自然是为了促进古物的流通呀~那些真心对待古物的人，我就帮他们牵桥搭线；那些不识货，甚至去骗去偷去造假的家伙，我也得让他们吃吃苦头。哎呀呀，做一个有原则的鉴宝师，真是辛苦啊。"
+            "Content": "为什么要摆摊鉴宝？自然是为了促进古物的流通呀~那些真心对待古物的人，我就帮他们牵桥搭线；那些不识货，甚至去骗去偷去造假的家伙，我也得让他们吃吃苦头。哎呀呀，做一个有原则的鉴宝师，真是辛苦啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_dream.play_favor_word_youhu_sys_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "世间琳琅，难得圆满，我手中的如意环也不例外……想听故事？付钱付钱，我鉴赏古物是收费的……不对！今天不出摊，给钱也不干。"
+            "Content": "世间琳琅，难得圆满，我手中的如意环也不例外……想听故事？付钱付钱，我鉴赏古物是收费的……不对！今天不出摊，给钱也不干。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_story_obj.play_favor_word_youhu_sys_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "本大师打小就聪明伶俐。以前有个鉴宝师，靠贬低古物，五千钱收购回来，又想十倍价格卖出去。我就偷偷把他那份贬低古物的鉴定报告，贴在了大门口。厉害吧！美中不足是当时我才八岁，腿短跑不快——嘶，现在还觉得脑袋隐隐作痛。"
+            "Content": "本大师打小就聪明伶俐。以前有个鉴宝师，靠贬低古物，五千钱收购回来，又想十倍价格卖出去。我就偷偷把他那份贬低古物的鉴定报告，贴在了大门口。厉害吧！美中不足是当时我才八岁，腿短跑不快——嘶，现在还觉得脑袋隐隐作痛。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_story_exp.play_favor_word_youhu_sys_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于凌阳",
-            "Content": "瑞狮团表演狮子舞的那个，是叫凌阳吧？他的吉祥话朗朗上口，和我的诗一样，颇有风骨。"
+            "Content": "瑞狮团表演狮子舞的那个，是叫凌阳吧？他的吉祥话朗朗上口，和我的诗一样，颇有风骨。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_about_lingyang.play_favor_word_youhu_sys_about_lingyang"
         },
         {
             "Type": 1,
             "Title": "关于莫特斐",
-            "Content": "虽然接触不多，但从他的言谈举止，可以看出是很有品位的人呢！希望他哪天能来照顾照顾我的鉴宝生意。"
+            "Content": "虽然接触不多，但从他的言谈举止，可以看出是很有品位的人呢！希望他哪天能来照顾照顾我的鉴宝生意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_about_motefei.play_favor_word_youhu_sys_about_motefei"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "是今巡尉，我可得躲着点……诶别误会啊我可没干过坏事，遇到来路不正的藏品，略施小计让人归还什么的，不算坑蒙拐骗吧！不算……吧？"
+            "Content": "是今巡尉，我可得躲着点……诶别误会啊我可没干过坏事，遇到来路不正的藏品，略施小计让人归还什么的，不算坑蒙拐骗吧！不算……吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_about_chixia.play_favor_word_youhu_sys_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于丹瑾",
-            "Content": "虽然年纪相仿，却比我高上一头，她那个玉佩，苍翠欲滴，还怪好看的！只可惜，我从中感受到的频率，都是不圆满的……"
+            "Content": "虽然年纪相仿，却比我高上一头，她那个玉佩，苍翠欲滴，还怪好看的！只可惜，我从中感受到的频率，都是不圆满的……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_about_danjin.play_favor_word_youhu_sys_about_danjin"
         },
         {
             "Type": 1,
             "Title": "关于鉴心",
-            "Content": "那面镜子吗……啊咧咧那可不得了！不可说，不可说呀！"
+            "Content": "那面镜子吗……啊咧咧那可不得了！不可说，不可说呀！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_about_jianxin.play_favor_word_youhu_sys_about_jianxin"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "哎呀，一不小心知道了今天是你的生日，看在我们交情的份上，我随手雕刻一个木制岁主雕像，说是能保佑人在外平安，送你啦~当、当然是今天临时弄出来的呀，就算别人要雕几个月，那本大师天资聪颖心灵手巧，半天就能搞定，不行吗！"
+            "Content": "哎呀，一不小心知道了今天是你的生日，看在我们交情的份上，我随手雕刻一个木制岁主雕像，说是能保佑人在外平安，送你啦~当、当然是今天临时弄出来的呀，就算别人要雕几个月，那本大师天资聪颖心灵手巧，半天就能搞定，不行吗！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_birthcele.play_favor_word_youhu_sys_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "嗯……唔……还是搞不懂这痕迹的来源！哎！"
+            "Content": "嗯……唔……还是搞不懂这痕迹的来源！哎！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_idle_idle01.play_favor_word_youhu_idle_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "嗯？想要吗？啊呜！"
+            "Content": "嗯？想要吗？啊呜！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_idle_idle02.play_favor_word_youhu_idle_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "……哈！吓到了吧~嘻嘻~"
+            "Content": "……哈！吓到了吧~嘻嘻~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_idle_idle03.play_favor_word_youhu_idle_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "鉴宝如破迷魂阵，细观岁月辨伪真，鉴宝大师釉瑚是也！"
+            "Content": "鉴宝如破迷魂阵，细观岁月辨伪真，鉴宝大师釉瑚是也！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_introduction.play_favor_word_youhu_sys_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "哇！\n嘻嘻，区区掠宝贼也想抓到本大师？"
+            "Content": "哇！\n嘻嘻，区区掠宝贼也想抓到本大师？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_gacha.play_favor_word_youhu_sys_gacha"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "要去鉴定什么新宝贝？"
+            "Content": "要去鉴定什么新宝贝？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_jointeam_01.play_favor_word_youhu_sys_jointeam_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "虽说本大师鉴宝是良心价，但出场费可不一定哦。"
+            "Content": "虽说本大师鉴宝是良心价，但出场费可不一定哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_jointeam_02.play_favor_word_youhu_sys_jointeam_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "本大师心情不错，陪你走一趟吧~"
+            "Content": "本大师心情不错，陪你走一趟吧~",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_jointeam_03.play_favor_word_youhu_sys_jointeam_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "诶，都是给我的吗？你很有眼光嘛！"
+            "Content": "诶，都是给我的吗？你很有眼光嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_rankup01.play_favor_word_youhu_sys_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "虽然我已经很强了，但还是谢谢啦！"
+            "Content": "虽然我已经很强了，但还是谢谢啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_rankup02.play_favor_word_youhu_sys_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "哼哼，本大师现在对好东西不仅看得准，也护得住咯！"
+            "Content": "哼哼，本大师现在对好东西不仅看得准，也护得住咯！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_rankup03.play_favor_word_youhu_sys_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "经我鉴定，我现在所向披靡无人能敌！颤抖吧，那群不珍惜古物的家伙——"
+            "Content": "经我鉴定，我现在所向披靡无人能敌！颤抖吧，那群不珍惜古物的家伙——",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_rankup04.play_favor_word_youhu_sys_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "这种程度的力量，应该能守护好古物的价值了……多亏有你，吾道不孤……啊啊啊有点肉麻，说不出口啦！"
+            "Content": "这种程度的力量，应该能守护好古物的价值了……多亏有你，吾道不孤……啊啊啊有点肉麻，说不出口啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_sys_rankup05.play_favor_word_youhu_sys_rankup05"
         },
         {
             "Type": 2,
             "Title": "重击",
-            "Content": "别想让大师打眼！"
+            "Content": "别想让大师打眼！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_atk_heavyatk02_01.play_favor_word_youhu_atk_heavyatk02_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "不错！"
+            "Content": "不错！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill01_02.play_favor_word_youhu_skill_skill01_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "哇噻！"
+            "Content": "哇噻！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill01_03.play_favor_word_youhu_skill_skill01_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "没用！"
+            "Content": "没用！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill02.play_favor_word_youhu_skill_skill02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "听声…哇啊啊啊！"
+            "Content": "听声…哇啊啊啊！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill03.play_favor_word_youhu_skill_skill03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "造型不错！"
+            "Content": "造型不错！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill04.play_favor_word_youhu_skill_skill04"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "冰冰凉~哇！"
+            "Content": "冰冰凉~哇！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill05.play_favor_word_youhu_skill_skill05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·七",
-            "Content": "瞧仔细了！"
+            "Content": "瞧仔细了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_skill06.play_favor_word_youhu_skill_skill06"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "好好品鉴一下！"
+            "Content": "好好品鉴一下！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_burst_burst_01.play_favor_word_youhu_burst_burst_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "本大师的运气错不了！"
+            "Content": "本大师的运气错不了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_burst_burst_02.play_favor_word_youhu_burst_burst_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "等着大吃一惊吧！"
+            "Content": "等着大吃一惊吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_burst_burst_03.play_favor_word_youhu_burst_burst_03"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "试试~这个！"
+            "Content": "试试~这个！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_qte.play_favor_word_youhu_skill_qte"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "疼疼疼！"
+            "Content": "疼疼疼！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_behitfly_01.play_favor_word_youhu_com_behitfly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "看走眼了！"
+            "Content": "看走眼了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_behitfly_02.play_favor_word_youhu_com_behitfly_02"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "就这点本事？"
+            "Content": "就这点本事？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_hpdown01.play_favor_word_youhu_com_hpdown01"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "就这就这？"
+            "Content": "就这就这？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_hpdown02.play_favor_word_youhu_com_hpdown02"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "下手真狠……"
+            "Content": "下手真狠……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_hpdown03.play_favor_word_youhu_com_hpdown03"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "别碰……我的珍藏……"
+            "Content": "别碰……我的珍藏……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_die_02.play_favor_word_youhu_com_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "寒意彻骨……"
+            "Content": "寒意彻骨……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_die_03.play_favor_word_youhu_com_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "打起来！"
+            "Content": "打起来！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_hxsummon.play_favor_word_youhu_skill_hxsummon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "学着点！"
+            "Content": "学着点！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_skill_hxchange.play_favor_word_youhu_skill_hxchange"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "大师出马！"
+            "Content": "大师出马！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_engage.play_favor_word_youhu_com_engage"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "我、我恐高！！"
+            "Content": "我、我恐高！！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_fly_01.play_favor_word_youhu_com_fly_01"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "要、要飞了？"
+            "Content": "要、要飞了？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_hook_01.play_favor_word_youhu_com_hook_01"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "成了成了！"
+            "Content": "成了成了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_scan.play_favor_word_youhu_com_scan"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "有好东西！"
+            "Content": "有好东西！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_openbox_01.play_favor_word_youhu_com_openbox_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "大师助阵，放心开箱！"
+            "Content": "大师助阵，放心开箱！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_openbox_02.play_favor_word_youhu_com_openbox_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "让我也瞧瞧！"
+            "Content": "让我也瞧瞧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_youhu_com_openbox_03.play_favor_word_youhu_com_openbox_03"
         }
     ],
     "Goods": [
@@ -4351,5 +4410,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001106": {
+            "Id": 81001106,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "釉瑚",
+            "TitleName": "玲珑",
+            "SubDecName": "釉瑚-初始服饰",
+            "BgDescription": "一颗玲珑心，雪花般剔透晶莹，铭刻青史在万物上留下的痕迹。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_youhu_UI.T_IconRole_Pile_youhu_UI"
+        }
     }
 }

@@ -37,8 +37,8 @@
         "3": {
             "Id": 3,
             "Name": "彻空冥雷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementThunder1.T_IconElementThunder1",
-            "Color": "B46BFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriThunder.T_IconElementAttriThunder",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "导电伤害提升10%",
@@ -58,8 +58,8 @@
         "7": {
             "Id": 7,
             "Name": "隐世回光",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyhealingtag_UI.T_Iconpropertyhealingtag_UI",
-            "Color": "9BDB2DFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.T_IconElementAttriCure",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "治疗效果提升10%",
@@ -79,8 +79,8 @@
         "8": {
             "Id": 8,
             "Name": "轻云出月",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyswitchtag_UI.T_Iconpropertyswitchtag_UI",
-            "Color": "FFFFFFFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCloud.T_IconElementAttriCloud",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "共鸣效率提升{0}",

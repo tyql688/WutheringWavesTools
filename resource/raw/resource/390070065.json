@@ -37,8 +37,8 @@
         "5": {
             "Id": 5,
             "Name": "浮星祛暗",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementLight1.T_IconElementLight1",
-            "Color": "F8E56CFF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLight.T_IconElementAttriLight",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "衍射伤害提升10%",
@@ -57,8 +57,8 @@
         "6": {
             "Id": 6,
             "Name": "沉日劫明",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementDark1.T_IconElementDark1",
-            "Color": "C98BB3FF",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDark.T_IconElementAttriDark",
+            "Color": "FFFFFF00",
             "Set": {
                 "2": {
                     "Desc": "湮灭伤害提升10%",

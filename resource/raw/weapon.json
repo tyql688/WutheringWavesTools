@@ -9,15 +9,25 @@
         "zh-Hans": "异度",
         "ja": "変化の星"
     },
-    "21040063": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040053_UI.T_IconWeapon21040053_UI",
+    "80080005": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040017_UI.T_IconWeapon21040017_UI",
         "rank": 3,
         "type": 4,
-        "en": "Guardian Gauntlets",
-        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
-        "ko": "수호자의 권갑 · 강력",
-        "zh-Hans": "戍关臂铠·拔山",
-        "ja": "辺守手甲・造設"
+        "en": "Projection: Formless Gauntlets",
+        "desc": "A conceptual projection, transparent gauntlets as if they were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+        "ko": "투영 · 심상의 권갑",
+        "zh-Hans": "投影·心象臂铠",
+        "ja": "投影・心象手甲"
+    },
+    "80080004": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030016_UI.T_IconWeapon21030016_UI",
+        "rank": 3,
+        "type": 3,
+        "en": "Projection: Formless Pistol",
+        "desc": "A conceptual projection, a transparent pistol as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+        "ko": "투영 · 심상의 권총",
+        "zh-Hans": "投影·心象佩枪",
+        "ja": "投影・心象拳銃"
     },
     "21020023": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020023_UI.T_IconWeapon21020023_UI",
@@ -38,6 +48,26 @@
         "ko": "야귀의 신념",
         "zh-Hans": "不归孤军",
         "ja": "決死の一人戦"
+    },
+    "21020094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020094_UI.T_IconWeapon21020094_UI",
+        "rank": 4,
+        "type": 2,
+        "en": "Fables of Wisdom",
+        "desc": "This weapon draws its design inspiration from the play—Fables of Wisdom.\nA wayfarer once carried this sword, who spun fables of wisdom, passing on insights in the form of witty jests. Keen ears listened to the stories for the truth, while shallow minds heard only amusing punchlines.",
+        "ko": "풍류의 우화시",
+        "zh-Hans": "风流的寓言诗",
+        "ja": "風刺のファブリオー"
+    },
+    "21030016": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030017_UI.T_IconWeapon21030017_UI",
+        "rank": 5,
+        "type": 3,
+        "en": "The Last Dance",
+        "desc": "The radiant crystals, ever shattering and reshaping, beckon you into a treacherous dance, a gamble where life is the wager. Cortado, cortado... relentlessly draw each other in until all we can hear are our quivers. When the crimson finale arrives, remember, death comes for all.",
+        "ko": "죽음과 춤",
+        "zh-Hans": "死与舞",
+        "ja": "ラストダンス"
     },
     "21020034": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020034_UI.T_IconWeapon21020034_UI",
@@ -79,6 +109,16 @@
         "zh-Hans": "停驻之烟",
         "ja": "不変の湖煙"
     },
+    "21040026": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040018_UI.T_IconWeapon21040018_UI",
+        "rank": 5,
+        "type": 4,
+        "en": "Tragicomedy",
+        "desc": "The joys and sorrows of life dance in an endless circle; Pain and tears shift in an instant into a carnival.",
+        "ko": "희비극",
+        "zh-Hans": "悲喜剧",
+        "ja": "トラジコメーディア"
+    },
     "21040043": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040043_UI.T_IconWeapon21040043_UI",
         "rank": 3,
@@ -88,6 +128,36 @@
         "ko": "수행자의 권갑 · 파괴",
         "zh-Hans": "远行者臂铠·破障",
         "ja": "探索者手甲・排除"
+    },
+    "80080001": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020019_UI.T_IconWeapon21020019_UI",
+        "rank": 4,
+        "type": 2,
+        "en": "Projection: Somnoire Anchor",
+        "desc": "A projection that reshapes the sword into a cute table knife. \nIt was once an anchor used by Ivory Gatekeeper to stabilize the Somnoire.\nHowever, it now looks different ever since Ivory Gatekeeper transformed into a white cat...",
+        "ko": "투영 · 마음의 닻",
+        "zh-Hans": "投影·心之锚",
+        "ja": "投影・心の錨"
+    },
+    "21030094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030094_UI.T_IconWeapon21030094_UI",
+        "rank": 4,
+        "type": 3,
+        "en": "Romance in Farewell",
+        "desc": "This weapon draws its design inspiration from the play—Romance in Farewell.\nThis pistol was once the symbol of the aspiration for repute, the weight of unrequited love, and the tremors of unspoken words. When the trigger is pulled, and the curtain drops, it turns into a long farewell and a sign of lingering sorrow in the heart of the bereaved.",
+        "ko": "작별의 로맨스",
+        "zh-Hans": "叙别的罗曼史",
+        "ja": "別れのメロス"
+    },
+    "80080006": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050028_UI.T_IconWeapon21050028_UI",
+        "rank": 3,
+        "type": 5,
+        "en": "Projection: Formless Rectifier",
+        "desc": "A conceptual projection, a transparent rectifier as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+        "ko": "투영 · 심상의 증폭기",
+        "zh-Hans": "投影·心象音感仪",
+        "ja": "投影・心象増幅器"
     },
     "21040013": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040013_UI.T_IconWeapon21040013_UI",
@@ -149,6 +219,16 @@
         "zh-Hans": "永夜长明",
         "ja": "長夜の灯火"
     },
+    "21050017": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050017_UI.T_IconWeapon21050017_UI",
+        "rank": 4,
+        "type": 5,
+        "en": "Call of the Abyss",
+        "desc": "Held by the keepers of this land, this scepter was once a symbol of dominion over its people and the architectural marvels they achieved.\nHowever, it has long lost its luster, and its grandeur blends into the ripples of the pipe organ melodies of Rinascita.",
+        "ko": "심해의 메아리",
+        "zh-Hans": "渊海回声",
+        "ja": "海淵のリフレイン"
+    },
     "21030074": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030074_UI.T_IconWeapon21030074_UI",
         "rank": 4,
@@ -199,15 +279,15 @@
         "zh-Hans": "戍关音感仪·留光",
         "ja": "辺守増幅器・伝承"
     },
-    "21050063": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050053_UI.T_IconWeapon21050053_UI",
-        "rank": 3,
-        "type": 5,
-        "en": "Guardian Rectifier",
-        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
-        "ko": "수호자의 증폭기 · 모략",
-        "zh-Hans": "戍关音感仪·留光",
-        "ja": "辺守増幅器・伝承"
+    "21040094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040094_UI.T_IconWeapon21040094_UI",
+        "rank": 4,
+        "type": 4,
+        "en": "Legend of Drunken Hero",
+        "desc": "This weapon draws its design inspiration from the play—Legend of Drunken Hero.\nFrom the cup flows a liquid that grants courage and strength, empowering the hero to defy fate and turn the tide with his gauntlets. Yet in this intoxicating delight lies peril—dulled senses become the hero's undoing as enemies close in. Thus, in those wine-stained pages, one always read about triumphs followed by defeats.",
+        "ko": "만취의 영웅지",
+        "zh-Hans": "酩酊的英雄志",
+        "ja": "酩酊のエポス"
     },
     "21030053": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.T_IconWeapon21030053_UI",
@@ -249,6 +329,16 @@
         "zh-Hans": "源能长刃·测壹",
         "ja": "本源長刃・試作壱"
     },
+    "80080007": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010017_UI.T_IconWeapon21010017_UI",
+        "rank": 3,
+        "type": 1,
+        "en": "Projection - Peach Blossom",
+        "desc": "test/Testing text. Please modify the configuration!",
+        "ko": "투영 · 복숭아꽃이 피는 날",
+        "zh-Hans": "投影·桃夭灼灼",
+        "ja": "投影・桃の夭夭たる"
+    },
     "21050012": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050012_UI.T_IconWeapon21050012_UI",
         "rank": 2,
@@ -278,6 +368,16 @@
         "ko": "뭇별의 교향곡",
         "zh-Hans": "星序协响",
         "ja": "星々のコンチェルト"
+    },
+    "20000110": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.T_IconWeapon21050015_UI",
+        "rank": 5,
+        "type": 1,
+        "en": "Test1-Short Sword",
+        "desc": "test breakout group's weapons.",
+        "ko": "테스트1-단검",
+        "zh-Hans": "dnt/测试1-短剑",
+        "ja": "テスト1-迅刀"
     },
     "21030011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030011_UI.T_IconWeapon21030011_UI",
@@ -309,15 +409,15 @@
         "zh-Hans": "异响空灵",
         "ja": "霊感ディスコード"
     },
-    "21030063": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.T_IconWeapon21030053_UI",
+    "80080003": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020018_UI.T_IconWeapon21020018_UI",
         "rank": 3,
-        "type": 3,
-        "en": "",
-        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Now, it has become the cornerstone of the development of new weapons.",
-        "ko": "",
-        "zh-Hans": "",
-        "ja": ""
+        "type": 2,
+        "en": "Projection: Formless Sword",
+        "desc": "A conceptual projection, a transparent sword as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+        "ko": "투영 · 심상의 직검",
+        "zh-Hans": "投影·心象迅刀",
+        "ja": "投影・心象迅刀"
     },
     "21020084": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020084_UI.T_IconWeapon21020084_UI",
@@ -399,6 +499,16 @@
         "zh-Hans": "教学迅刀",
         "ja": "稽古用迅刀"
     },
+    "21010094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010094_UI.T_IconWeapon21010094_UI",
+        "rank": 4,
+        "type": 1,
+        "en": "Meditations on Mercy",
+        "desc": "This weapon draws its design inspiration from the play—Meditations on Mercy.\nIn the brief pauses between each swing, a warrior wrestles with an inner conflict: to bring down righteous punishment or extend a hand of redemption? Behind every clash of steel is the struggle between wrath and mercy.",
+        "ko": "용서의 명상록",
+        "zh-Hans": "容赦的沉思录",
+        "ja": "寛恕のタ・エイス・ヘアウトン"
+    },
     "21020043": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020043_UI.T_IconWeapon21020043_UI",
         "rank": 3,
@@ -458,16 +568,6 @@
         "ko": "25형 증폭기 · 울림의 멜로디",
         "zh-Hans": "鸣动仪-25型",
         "ja": "鳴動機＃25"
-    },
-    "21010073": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.T_IconWeapon21010053_UI",
-        "rank": 3,
-        "type": 1,
-        "en": "",
-        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone in the development of new weapons.",
-        "ko": "",
-        "zh-Hans": "",
-        "ja": ""
     },
     "21030023": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030023_UI.T_IconWeapon21030023_UI",
@@ -569,6 +669,16 @@
         "zh-Hans": "悖论喷流",
         "ja": "悖理を説く宇宙ジェット"
     },
+    "80080002": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010027_UI.T_IconWeapon21010027_UI",
+        "rank": 3,
+        "type": 1,
+        "en": "Projection: Formless Broadblade",
+        "desc": "A conceptual projection, a transparent broadblade as if it were made of nothing.\nIn Somnoire, a weapon's form is but a mirage, while its purpose—a tool of war—holds true as ever.",
+        "ko": "투영 · 심상의 대검",
+        "zh-Hans": "投影·心象长刃",
+        "ja": "投影・心象長刃"
+    },
     "21010043": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010043_UI.T_IconWeapon21010043_UI",
         "rank": 3,
@@ -608,6 +718,16 @@
         "ko": "청음",
         "zh-Hans": "清音",
         "ja": "清らかな音"
+    },
+    "21050094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050094_UI.T_IconWeapon21050094_UI",
+        "rank": 4,
+        "type": 5,
+        "en": "Waltz in Masquerade",
+        "desc": "This weapon draws its design inspiration from the play—Waltz in Masquerade.\nA waltz is a dance of spectacle and masquerade, where the grand symphony drowns whispered secrets and swirling dresses conceal the exchange of letters and promises. The dancers speak a silent language, as smooth and precise as the perfect resonance of a rectifier.",
+        "ko": "허위의 왈츠",
+        "zh-Hans": "虚饰的华尔兹",
+        "ja": "虚飾のワルツ"
     },
     "21010013": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010013_UI.T_IconWeapon21010013_UI",
@@ -778,16 +898,6 @@
         "ko": "26형 권총 · 맹렬한 돌격",
         "zh-Hans": "穿击枪-26型",
         "ja": "穿撃銃＃26"
-    },
-    "21020063": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020053_UI.T_IconWeapon21020053_UI",
-        "rank": 3,
-        "type": 2,
-        "en": "",
-        "desc": "The first Jinzhou Magistrate, in memory of the mysterious person who helped defend the border and build the city, created the Guardian series under his guidance. Today, it has become an indispensable cornerstone for the development of new weapons.",
-        "ko": "",
-        "zh-Hans": "",
-        "ja": ""
     },
     "21020015": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.T_IconWeapon21020015_UI",

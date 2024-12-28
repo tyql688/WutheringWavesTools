@@ -74,327 +74,392 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "难得你有闲暇来我这里，我正巧处理完事务，若是不急着走，便来与我手谈一局吧？"
+            "Content": "难得你有闲暇来我这里，我正巧处理完事务，若是不急着走，便来与我手谈一局吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_to_player01.play_favor_word_changli_sys_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "觉得我很了解你的过去？并不尽然，那些史书典籍中的只言片语，或许是曾经的“你”为自己留下的游丝般的引导，而我只是一个有幸接过游丝的引路人，是助你串联起过去与未来的契机。"
+            "Content": "觉得我很了解你的过去？并不尽然，那些史书典籍中的只言片语，或许是曾经的“你”为自己留下的游丝般的引导，而我只是一个有幸接过游丝的引路人，是助你串联起过去与未来的契机。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_to_player02.play_favor_word_changli_sys_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "策士如同深潭，寂静无底的表面往往意味着暗流涌动，师父曾经教导我，当认为自己身处危险时，首先警戒那些最沉默的人。不过……在与你相处的时候，一切尽在不言中，就连寂静也会令人心安呢。"
+            "Content": "策士如同深潭，寂静无底的表面往往意味着暗流涌动，师父曾经教导我，当认为自己身处危险时，首先警戒那些最沉默的人。不过……在与你相处的时候，一切尽在不言中，就连寂静也会令人心安呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_to_player03.play_favor_word_changli_sys_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "我的剑是玄渺师父教我的，只是尚未学成他便已经仙逝，我只能靠他留下的手记摸索五成，自创五成。初见时只觉得你的剑招有些熟悉，现在我明白了，一切自有因果，并不是你的剑像师父，而是他的剑像你。"
+            "Content": "我的剑是玄渺师父教我的，只是尚未学成他便已经仙逝，我只能靠他留下的手记摸索五成，自创五成。初见时只觉得你的剑招有些熟悉，现在我明白了，一切自有因果，并不是你的剑像师父，而是他的剑像你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_to_player04.play_favor_word_changli_sys_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "我找到了你，将你带出那方蜃境，便证明我已经有了足够的力量达成所愿，你能够将自己置于未解的变局中，其中所需的胆识非常人所能及，我相信你必将抵达终点，只要你需要，无论多少次，我的计策和火焰都能为你所用。"
+            "Content": "我找到了你，将你带出那方蜃境，便证明我已经有了足够的力量达成所愿，你能够将自己置于未解的变局中，其中所需的胆识非常人所能及，我相信你必将抵达终点，只要你需要，无论多少次，我的计策和火焰都能为你所用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_to_player05.play_favor_word_changli_sys_to_player05"
         },
         {
             "Type": 1,
             "Title": "长离的喜好",
-            "Content": "弈棋布势之道，如同万物运转，每时每刻都处于变易之中……嗯，甚是有趣啊。"
+            "Content": "弈棋布势之道，如同万物运转，每时每刻都处于变易之中……嗯，甚是有趣啊。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_taste.play_favor_word_changli_sys_taste"
         },
         {
             "Type": 1,
             "Title": "长离的烦恼",
-            "Content": "因为离火的存在，我的体温会比寻常人高一些，虽然不至于影响生活，但如果是在盛夏时节，不论是今汐做的消暑糕点，还是散华团的小雪鸽，都总是化得更快……唉。"
+            "Content": "因为离火的存在，我的体温会比寻常人高一些，虽然不至于影响生活，但如果是在盛夏时节，不论是今汐做的消暑糕点，还是散华团的小雪鸽，都总是化得更快……唉。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_worry.play_favor_word_changli_sys_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "这倒反而难住我了，世间佳肴各有其妙，但如果说印象最深刻的……很久之前在饿极时得到的一碗斋饭，那个味道我永远不会忘记。"
+            "Content": "这倒反而难住我了，世间佳肴各有其妙，但如果说印象最深刻的……很久之前在饿极时得到的一碗斋饭，那个味道我永远不会忘记。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_foodlike.play_favor_word_changli_sys_foodlike"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "这倒是不曾想过，走过饿殍遍野的荒途，便觉得如今的一切都弥足珍贵，况且今州之外还有更多有趣的吃食，个中万般滋味，纵使再云游十年，也未必能尝尽呢。"
+            "Content": "这倒是不曾想过，走过饿殍遍野的荒途，便觉得如今的一切都弥足珍贵，况且今州之外还有更多有趣的吃食，个中万般滋味，纵使再云游十年，也未必能尝尽呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_foodhate.play_favor_word_changli_sys_foodhate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "太平盛世，海晏河清，我会尽全力辅佐继续前行之人走向那个未来。或许此生无法亲眼得见……但到时若你还会回到今州，便在这里为我斟一杯淡茶吧。"
+            "Content": "太平盛世，海晏河清，我会尽全力辅佐继续前行之人走向那个未来。或许此生无法亲眼得见……但到时若你还会回到今州，便在这里为我斟一杯淡茶吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_dream.play_favor_word_changli_sys_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "之前赠予你的羽毛？是我的心火化成，世间仅此一对，只要带着它便永远不会被离火所伤。如果你愿意，我还能够靠它感知到你的位置，但若是落入居心不良的人手中……呵呵。"
+            "Content": "之前赠予你的羽毛？是我的心火化成，世间仅此一对，只要带着它便永远不会被离火所伤。如果你愿意，我还能够靠它感知到你的位置，但若是落入居心不良的人手中……呵呵。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_story_obj.play_favor_word_changli_sys_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "为什么我会放弃长史的官职自请来到今州？其实并没有什么复杂的原因，于公，彼时今州历经弯刀之役，又尚未选出令尹，中央庭自然不会坐视不管；于私，乘霄山与我的师父颇有渊源，他曾说我终会在那里找到所寻之人，我从前并未读懂师父的用意，但现在……你看，冥冥之中，一切自有指引。"
+            "Content": "为什么我会放弃长史的官职自请来到今州？其实并没有什么复杂的原因，于公，彼时今州历经弯刀之役，又尚未选出令尹，中央庭自然不会坐视不管；于私，乘霄山与我的师父颇有渊源，他曾说我终会在那里找到所寻之人，我从前并未读懂师父的用意，但现在……你看，冥冥之中，一切自有指引。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_story_exp.play_favor_word_changli_sys_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于今汐",
-            "Content": "今汐是个聪颖努力的好孩子，假以时日定能成长为独当一面的令尹，只是一直在带领人们前行的她，偶尔也需要有放下身份做回“汐”的时刻，届时，还要拜托漂泊者多多照拂了。"
+            "Content": "今汐是个聪颖努力的好孩子，假以时日定能成长为独当一面的令尹，只是一直在带领人们前行的她，偶尔也需要有放下身份做回“汐”的时刻，届时，还要拜托漂泊者多多照拂了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_about_jinxi.play_favor_word_changli_sys_about_jinxi"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "我初到今州时暂代了部分边庭事务，案牍累卷中夜归相关的内容从未有过任何差池。今州未定令尹的那几年间，也是因那位将军的存在，才令边防与民心都安稳无虞。"
+            "Content": "我初到今州时暂代了部分边庭事务，案牍累卷中夜归相关的内容从未有过任何差池。今州未定令尹的那几年间，也是因那位将军的存在，才令边防与民心都安稳无虞。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_about_jiyan.play_favor_word_changli_sys_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于散华",
-            "Content": "散华看上去冰冷沉默，作为护卫的她时刻紧绷，未曾松懈分毫，但其实不论是今汐还是我，一直都希望她能试着依赖一下身边的人。"
+            "Content": "散华看上去冰冷沉默，作为护卫的她时刻紧绷，未曾松懈分毫，但其实不论是今汐还是我，一直都希望她能试着依赖一下身边的人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_about_sanhua.play_favor_word_changli_sys_about_sanhua"
         },
         {
             "Type": 1,
             "Title": "关于鉴心",
-            "Content": "虽不同属一门，但我们的修行之道亦有相通之处，那孩子通透的心境实属难得，她所见的世界也一定与她的双眼一样澄澈。之前在茶馆偶遇，她看我的眼神……似乎是察觉到了什么，端给我的金银莲子羹，味道很是不错呢。"
+            "Content": "虽不同属一门，但我们的修行之道亦有相通之处，那孩子通透的心境实属难得，她所见的世界也一定与她的双眼一样澄澈。之前在茶馆偶遇，她看我的眼神……似乎是察觉到了什么，端给我的金银莲子羹，味道很是不错呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_about_jianxin.play_favor_word_changli_sys_about_jianxin"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "炽霞人如其名，是像火焰一样明亮热情的人，我初到今州的时候，她带着我品尝了许多今州本地的美食，嗯……许多人忌惮的那道手撕鸡，我倒是觉得辣度刚刚好。"
+            "Content": "炽霞人如其名，是像火焰一样明亮热情的人，我初到今州的时候，她带着我品尝了许多今州本地的美食，嗯……许多人忌惮的那道手撕鸡，我倒是觉得辣度刚刚好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_about_chixia.play_favor_word_changli_sys_about_chixia"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "今天是你的生辰。来，早年我游方四海时，见过许多不同的庆生习俗，都很有趣，这些盒子里是你的生日贺礼，祝你岁岁年年，平安顺遂，如月之恒，如日之升……嗯？太多了？那就当是提前送你未来的贺礼吧，若来年我还在你身边，便能为你准备更称心意的礼物了。"
+            "Content": "今天是你的生辰。来，早年我游方四海时，见过许多不同的庆生习俗，都很有趣，这些盒子里是你的生日贺礼，祝你岁岁年年，平安顺遂，如月之恒，如日之升……嗯？太多了？那就当是提前送你未来的贺礼吧，若来年我还在你身边，便能为你准备更称心意的礼物了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_birthcele.play_favor_word_changli_sys_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_idle01.play_favor_word_changli_com_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_idle02.play_favor_word_changli_com_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "此间当下，便是最好的时光了。"
+            "Content": "此间当下，便是最好的时光了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_idle03.play_favor_word_changli_com_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我是长离，今州令尹参事。久仰漂泊者大名，如今终于到了相见的时候，贵客若是在今州遇到什么不便，请务必告诉我。"
+            "Content": "我是长离，今州令尹参事。久仰漂泊者大名，如今终于到了相见的时候，贵客若是在今州遇到什么不便，请务必告诉我。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_introduction.play_favor_word_changli_sys_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "尘世千古，方圆之间……与你棋逢对手，实乃大幸。"
+            "Content": "尘世千古，方圆之间……与你棋逢对手，实乃大幸。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_gacha.play_favor_word_changli_sys_gacha"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "入局之刻。"
+            "Content": "入局之刻。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_jointeam_01.play_favor_word_changli_sys_jointeam_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "计定于内，势成于外。"
+            "Content": "计定于内，势成于外。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_jointeam_02.play_favor_word_changli_sys_jointeam_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "这次的对手是谁呢？"
+            "Content": "这次的对手是谁呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_jointeam_03.play_favor_word_changli_sys_jointeam_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "剑无成法，因敌变化而制胜……运筹布势亦有相通之处。"
+            "Content": "剑无成法，因敌变化而制胜……运筹布势亦有相通之处。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_rankup01.play_favor_word_changli_sys_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "哦？这种力量流动的感觉……与以往似有不同，陪我再练一遍，可好？"
+            "Content": "哦？这种力量流动的感觉……与以往似有不同，陪我再练一遍，可好？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_rankup02.play_favor_word_changli_sys_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "师父仙去之后，我便在摸爬滚打中偷学百家之长，悟百家之道，被书斋老板满街追打也是常事，如今却能得你不求回报地倾囊相授，这对幼时的我来说，真是有些奢侈的幸福了。"
+            "Content": "师父仙去之后，我便在摸爬滚打中偷学百家之长，悟百家之道，被书斋老板满街追打也是常事，如今却能得你不求回报地倾囊相授，这对幼时的我来说，真是有些奢侈的幸福了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_rankup03.play_favor_word_changli_sys_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "没想到对力量的控制还能有所精进，既承了你如此重的师恩，我也应该报答你才是，所以……你有什么愿望？"
+            "Content": "没想到对力量的控制还能有所精进，既承了你如此重的师恩，我也应该报答你才是，所以……你有什么愿望？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_rankup04.play_favor_word_changli_sys_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "从你身上习得之物，非珍贵二字所不能企及……我自以为生灭如常，但如今却觉得，蜉蝣若能在朝暮间触碰磐石的鸿鹄之志，亦是一件幸事。漂泊者，只要丹煌离火还能够燃烧，我就会一直在你身边。"
+            "Content": "从你身上习得之物，非珍贵二字所不能企及……我自以为生灭如常，但如今却觉得，蜉蝣若能在朝暮间触碰磐石的鸿鹄之志，亦是一件幸事。漂泊者，只要丹煌离火还能够燃烧，我就会一直在你身边。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_sys_rankup05.play_favor_word_changli_sys_rankup05"
         },
         {
             "Type": 2,
             "Title": "普攻·一",
-            "Content": "洞若观火。"
+            "Content": "洞若观火。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_atk04_01.play_favor_word_changli_bat_atk04_01"
         },
         {
             "Type": 2,
             "Title": "普攻·二",
-            "Content": "刃随神至。"
+            "Content": "刃随神至。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_atksp04_01.play_favor_word_changli_bat_atksp04_01"
         },
         {
             "Type": 2,
             "Title": "普攻·三",
-            "Content": "心眼入神。"
+            "Content": "心眼入神。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_atksp04_02.play_favor_word_changli_bat_atksp04_02"
         },
         {
             "Type": 2,
             "Title": "空中攻击",
-            "Content": "灰飞烟灭！"
+            "Content": "灰飞烟灭！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_fallingatk02_01.play_favor_word_changli_bat_fallingatk02_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "离火，天倾。"
+            "Content": "离火，天倾。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_skill_01.play_favor_word_changli_bat_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "炽翎，瞬烬。"
+            "Content": "炽翎，瞬烬。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_skill_02.play_favor_word_changli_bat_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "侵分，灭形！"
+            "Content": "侵分，灭形！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_skill_03.play_favor_word_changli_bat_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "丹煌行令。"
+            "Content": "丹煌行令。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_burst01_01.play_favor_word_changli_bat_burst01_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "火急奉行。"
+            "Content": "火急奉行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_burst01_02.play_favor_word_changli_bat_burst01_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "谁才是樊笼之鸟呢？"
+            "Content": "谁才是樊笼之鸟呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_burst01_03.play_favor_word_changli_bat_burst01_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·四",
-            "Content": "征！"
+            "Content": "征！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_burst02_01.play_favor_word_changli_bat_burst02_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·五",
-            "Content": "断。"
+            "Content": "断。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_burst02_02.play_favor_word_changli_bat_burst02_02"
         },
         {
             "Type": 2,
             "Title": "成功闪避",
-            "Content": "慎勿轻速呀。"
+            "Content": "慎勿轻速呀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_limitdodge_01.play_favor_word_changli_bat_limitdodge_01"
         },
         {
             "Type": 2,
             "Title": "逆势回击",
-            "Content": "转圆从方。"
+            "Content": "转圆从方。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_counteratk_01.play_favor_word_changli_bat_counteratk_01"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "有些难办呐。"
+            "Content": "有些难办呐。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_behitfly_01.play_favor_word_changli_com_behitfly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "一着恶手……"
+            "Content": "一着恶手……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_behitfly_02.play_favor_word_changli_com_behitfly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "无碍。"
+            "Content": "无碍。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_behitfly_03.play_favor_word_changli_com_behitfly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "弃子争先。"
+            "Content": "弃子争先。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_hpdown01.play_favor_word_changli_com_hpdown01"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "无须担忧。"
+            "Content": "无须担忧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_hpdown02.play_favor_word_changli_com_hpdown02"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "生灭如常……"
+            "Content": "生灭如常……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_die_01.play_favor_word_changli_com_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "失算了……"
+            "Content": "失算了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_die_02.play_favor_word_changli_com_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "逢危须弃，无妨……"
+            "Content": "逢危须弃，无妨……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_die_03.play_favor_word_changli_com_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "显形。"
+            "Content": "显形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_hxsummon.play_favor_word_changli_bat_hxsummon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "万类化生。"
+            "Content": "万类化生。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_hxchange.play_favor_word_changli_bat_hxchange"
         },
         {
             "Type": 2,
             "Title": "变奏技能·一",
-            "Content": "协契断金。"
+            "Content": "协契断金。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_qte01.play_favor_word_changli_bat_qte01"
         },
         {
             "Type": 2,
             "Title": "变奏技能·二",
-            "Content": "落翎！"
+            "Content": "落翎！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_bat_qte02.play_favor_word_changli_bat_qte02"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "来者不善呢。"
+            "Content": "来者不善呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_engage.play_favor_word_changli_com_engage"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "乘风扶摇。"
+            "Content": "乘风扶摇。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_fly_01.play_favor_word_changli_com_fly_01"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_hook_01.play_favor_word_changli_com_hook_01"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "……找到了。"
+            "Content": "……找到了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_scan.play_favor_word_changli_com_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "倍道兼行。"
+            "Content": "倍道兼行。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_dash_01.play_favor_word_changli_com_dash_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "是你喜欢的吗？"
+            "Content": "是你喜欢的吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_openbox_01.play_favor_word_changli_com_openbox_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "嗯……亮晶晶的。"
+            "Content": "嗯……亮晶晶的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_openbox_02.play_favor_word_changli_com_openbox_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "对你有用便好。"
+            "Content": "对你有用便好。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_changli_com_openbox_03.play_favor_word_changli_com_openbox_03"
         }
     ],
     "Goods": [
@@ -4465,5 +4530,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001205": {
+            "Id": 81001205,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "长离",
+            "TitleName": "玄朱烬明",
+            "SubDecName": "长离-初始服饰",
+            "BgDescription": "长离最常穿着的衣物。外袍参考瑝珑朝服的形制用离火所化，随其主人自荒山枯水行至春和景明，如今触之已与寻常布料无异。\n已识乾坤大，犹怜草木青。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_changli_UI.T_IconRole_Pile_changli_UI"
+        }
     }
 }

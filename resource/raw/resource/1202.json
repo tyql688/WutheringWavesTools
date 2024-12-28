@@ -56,357 +56,428 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "你是不是不记得以前的事了？真可惜，肯定有很多难忘的回忆吧……不过没关系，新的回忆，我可以和你一起创造！"
+            "Content": "你是不是不记得以前的事了？真可惜，肯定有很多难忘的回忆吧……不过没关系，新的回忆，我可以和你一起创造！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_to_player01.play_favor_word_chixia_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "马和叔那儿可以买到最新鲜的食材，攀花姨那儿可以吃到最美味的食物。啊，不是因为他俩是我亲戚才这么说的，是真的很好吃！得空，我带你尝尝。"
+            "Content": "马和叔那儿可以买到最新鲜的食材，攀花姨那儿可以吃到最美味的食物。啊，不是因为他俩是我亲戚才这么说的，是真的很好吃！得空，我带你尝尝。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_to_player02.play_favor_word_chixia_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "攀花姨常说，味蕾是有记忆的，要是吃到熟悉的菜，说不定能想起些什么？想不起来也没关系，香喷喷的美食下肚，心情总会变好的！我希望每个人都开开心心的，特别是你。"
+            "Content": "攀花姨常说，味蕾是有记忆的，要是吃到熟悉的菜，说不定能想起些什么？想不起来也没关系，香喷喷的美食下肚，心情总会变好的！我希望每个人都开开心心的，特别是你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_to_player03.play_favor_word_chixia_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "飞檐赛、英雄戏、城郊的秘密基地……还有好多好多地方想和你一起去。唉，认识你之后，我第一次期盼起休息日——没办法，我也不明白，为什么和你在一起的时间总是过得那么快！"
+            "Content": "飞檐赛、英雄戏、城郊的秘密基地……还有好多好多地方想和你一起去。唉，认识你之后，我第一次期盼起休息日——没办法，我也不明白，为什么和你在一起的时间总是过得那么快！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_to_player04.play_favor_word_chixia_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "就算是我也知道，你和我们不一样……你以后应该会去很远的地方吧？嗯……那到时候，你一定要带上这个火焰英雄的贴纸、这条我亲手编的手绳、这罐我亲手做的冠军辣酱……东西太多了？可，可是，我想让你在别的地方，也能想起我嘛！"
+            "Content": "就算是我也知道，你和我们不一样……你以后应该会去很远的地方吧？嗯……那到时候，你一定要带上这个火焰英雄的贴纸、这条我亲手编的手绳、这罐我亲手做的冠军辣酱……东西太多了？可，可是，我想让你在别的地方，也能想起我嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_to_player05.play_favor_word_chixia_to_player05"
         },
         {
             "Type": 1,
             "Title": "炽霞的喜好",
-            "Content": "剧院的英雄戏可好看啦！特别是过年的时候，大家热热闹闹坐在一块儿看戏，每个人的脸上都带着笑呢。"
+            "Content": "剧院的英雄戏可好看啦！特别是过年的时候，大家热热闹闹坐在一块儿看戏，每个人的脸上都带着笑呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_taste.play_favor_word_chixia_taste"
         },
         {
             "Type": 1,
             "Title": "炽霞的烦恼",
-            "Content": "戏里的英雄只要“哐哐”两下，就能搞定坏蛋。现实中可没这么简单，坏蛋一茬一茬的，东边打完又从西边冒出来……城郊的残象啦、不怀好意的流寇啦、红衣服的神秘人啦……哼，无论重来多少次，我都会把他们打倒！"
+            "Content": "戏里的英雄只要“哐哐”两下，就能搞定坏蛋。现实中可没这么简单，坏蛋一茬一茬的，东边打完又从西边冒出来……城郊的残象啦、不怀好意的流寇啦、红衣服的神秘人啦……哼，无论重来多少次，我都会把他们打倒！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_worry.play_favor_word_chixia_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "冠军辣酱，煮鞋底都好吃。"
+            "Content": "冠军辣酱，煮鞋底都好吃。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_food_favor.play_favor_word_chixia_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "挑啥挑嘛，有的吃就不错咯。"
+            "Content": "挑啥挑嘛，有的吃就不错咯。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_food_hate.play_favor_word_chixia_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "成为英雄！成为和飞羽侠、火焰英雄并列的，能帮大家驱散黑暗和恐惧的英雄！"
+            "Content": "成为英雄！成为和飞羽侠、火焰英雄并列的，能帮大家驱散黑暗和恐惧的英雄！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_dream.play_favor_word_chixia_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "以前是火，现在是枪。无论哪种东西，只要能保护大家，我都会紧紧握在手里！"
+            "Content": "以前是火，现在是枪。无论哪种东西，只要能保护大家，我都会紧紧握在手里！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_story_obj.play_favor_word_chixia_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "小时候我很怕黑，“火焰英雄”总会及时出现驱散黑暗。后来我就不怕了，毕竟，火把就在我自己手中嘛！"
+            "Content": "小时候我很怕黑，“火焰英雄”总会及时出现驱散黑暗。后来我就不怕了，毕竟，火把就在我自己手中嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_story_exp.play_favor_word_chixia_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于秧秧",
-            "Content": "秧秧又温柔又漂亮，说的话也很好听！就是有时候她会说一些我听不懂的漂亮句子，叫什么来着，诗？"
+            "Content": "秧秧又温柔又漂亮，说的话也很好听！就是有时候她会说一些我听不懂的漂亮句子，叫什么来着，诗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_about_yangyang.play_favor_word_chixia_about_yangyang"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "白芷啊，她不太爱说话……但请不要误会，她绝对不是冷冰冰的人！你多和她相处就会明白，她有她自己表达热情的方式。"
+            "Content": "白芷啊，她不太爱说话……但请不要误会，她绝对不是冷冰冰的人！你多和她相处就会明白，她有她自己表达热情的方式。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_about_baizhi.play_favor_word_chixia_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "关于吟霖",
-            "Content": "划破夜空的闪电曾经照亮了我前进的方向……后来我明白了，不是每个人都能成为闪电的。那么，做一株小小的火苗也好，也能驱散黑暗，照亮夜空。"
+            "Content": "划破夜空的闪电曾经照亮了我前进的方向……后来我明白了，不是每个人都能成为闪电的。那么，做一株小小的火苗也好，也能驱散黑暗，照亮夜空。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_about_yinlin.play_favor_word_chixia_about_yinlin"
         },
         {
             "Type": 1,
             "Title": "关于凌阳",
-            "Content": "看英雄戏的剧场里，偶尔会有狮子舞表演。领头的小个子凌阳跳得可好了，那一摆一动，就像活生生的狮子呢！"
+            "Content": "看英雄戏的剧场里，偶尔会有狮子舞表演。领头的小个子凌阳跳得可好了，那一摆一动，就像活生生的狮子呢！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_about_lingyang.play_favor_word_chixia_about_lingyang"
         },
         {
             "Type": 1,
             "Title": "关于漂泊者",
-            "Content": "人又厉害，话又少。瑝珑有句谚语“会捉鼠的猫不叫”，说的就是你吧！"
+            "Content": "人又厉害，话又少。瑝珑有句谚语“会捉鼠的猫不叫”，说的就是你吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_about_zhujue.play_favor_word_chixia_about_zhujue"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "生日快乐！喏，这是我亲手做的冒菜，特意加了好多好多冠军辣酱哦。赶紧趁热吃了，别怕辣嘛，辣才好啊，红红火火！"
+            "Content": "生日快乐！喏，这是我亲手做的冒菜，特意加了好多好多冠军辣酱哦。赶紧趁热吃了，别怕辣嘛，辣才好啊，红红火火！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_birthcele.play_favor_word_chixia_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "今天，也有好好行侠仗义！"
+            "Content": "今天，也有好好行侠仗义！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_idle01.play_favor_word_chixia_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "只要大家都平平安安的，我这枪就算没白耍。"
+            "Content": "只要大家都平平安安的，我这枪就算没白耍。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_idle02.play_favor_word_chixia_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "今巡尉炽霞，时刻准备着！"
+            "Content": "今巡尉炽霞，时刻准备着！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_idle03.play_favor_word_chixia_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "今巡尉炽霞，要是遇到什么需要帮忙的事儿，就找我吧！"
+            "Content": "今巡尉炽霞，要是遇到什么需要帮忙的事儿，就找我吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_introduction.play_favor_word_chixia_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "正义伙伴炽霞，回应呼唤前来！"
+            "Content": "正义伙伴炽霞，回应呼唤前来！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_get_card.play_favor_word_chixia_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "放心交给我吧！"
+            "Content": "放心交给我吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_join_team_01.play_favor_word_chixia_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "来，并肩作战吧！"
+            "Content": "来，并肩作战吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_join_team_02.play_favor_word_chixia_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "闪亮登场！"
+            "Content": "闪亮登场！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_join_team_03.play_favor_word_chixia_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "嘿嘿，你还挺够意思嘛！"
+            "Content": "嘿嘿，你还挺够意思嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_rankup01.play_favor_word_chixia_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "嘿——浑身起劲儿，状态绝佳！让火苗燃烧得更旺盛一些吧！"
+            "Content": "嘿——浑身起劲儿，状态绝佳！让火苗燃烧得更旺盛一些吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_rankup02.play_favor_word_chixia_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "照这个势头下去，很快就能成为闻名今州……哦不，闻名整个瑝珑的大英雄了吧？"
+            "Content": "照这个势头下去，很快就能成为闻名今州……哦不，闻名整个瑝珑的大英雄了吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_rankup03.play_favor_word_chixia_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "浑身燃起了热烈又温暖的火焰，一股温和的力量充盈全身……这就是你的力量吗！"
+            "Content": "浑身燃起了热烈又温暖的火焰，一股温和的力量充盈全身……这就是你的力量吗！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_rankup04.play_favor_word_chixia_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "哦哦！变得比我想象的还要厉害，终于成为大英雄了呢！而指引我前进至此的你，是我最想要保护的人！"
+            "Content": "哦哦！变得比我想象的还要厉害，终于成为大英雄了呢！而指引我前进至此的你，是我最想要保护的人！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_rankup05.play_favor_word_chixia_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "看我的！"
+            "Content": "看我的！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_01.play_favor_word_chixia_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "砰砰砰——！"
+            "Content": "砰砰砰——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_02.play_favor_word_chixia_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_03.play_favor_word_chixia_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_04.play_favor_word_chixia_skill_04"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "弹无虚发！"
+            "Content": "弹无虚发！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_05.play_favor_word_chixia_skill_05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "轻轻松松！"
+            "Content": "轻轻松松！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_06.play_favor_word_chixia_skill_06"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·七",
-            "Content": "看招！"
+            "Content": "看招！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_07.play_favor_word_chixia_skill_07"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·八",
-            "Content": "燃起来了！"
+            "Content": "燃起来了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_08.play_favor_word_chixia_skill_08"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·九",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_09.play_favor_word_chixia_skill_09"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十",
-            "Content": "一击制胜！"
+            "Content": "一击制胜！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_10.play_favor_word_chixia_skill_10"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十一",
-            "Content": "正中要害！"
+            "Content": "正中要害！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_11.play_favor_word_chixia_skill_11"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_12.play_favor_word_chixia_skill_12"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十三",
-            "Content": "biubiubiu——！"
+            "Content": "biubiubiu——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_13.play_favor_word_chixia_skill_13"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十四",
-            "Content": "算你倒霉！"
+            "Content": "算你倒霉！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_14.play_favor_word_chixia_skill_14"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十五",
-            "Content": "热身运动！"
+            "Content": "热身运动！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_skill_15.play_favor_word_chixia_skill_15"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "看好了！"
+            "Content": "看好了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_burst_skill_01.play_favor_word_chixia_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "火力全开！"
+            "Content": "火力全开！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_burst_skill_02.play_favor_word_chixia_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "状态绝佳！"
+            "Content": "状态绝佳！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_burst_skill_03.play_favor_word_chixia_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "成功闪避",
-            "Content": "好险！"
+            "Content": "好险！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_evasion_success.play_favor_word_chixia_evasion_success"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_behit_fly_01.play_favor_word_chixia_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "哼，大意了。"
+            "Content": "哼，大意了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_behit_fly_02.play_favor_word_chixia_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "轻点嘛！"
+            "Content": "轻点嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_behit_fly_03.play_favor_word_chixia_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "嘁……区区小伤！"
+            "Content": "嘁……区区小伤！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hp70.play_favor_word_chixia_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "没事啦！"
+            "Content": "没事啦！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hp50.play_favor_word_chixia_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "别小看我！"
+            "Content": "别小看我！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hp30.play_favor_word_chixia_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "要......保护大家......"
+            "Content": "要......保护大家......",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_die_01.play_favor_word_chixia_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "呃啊——"
+            "Content": "呃啊——",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_die_02.play_favor_word_chixia_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "本英雄……才不会……"
+            "Content": "本英雄……才不会……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_die_03.play_favor_word_chixia_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "正义伙伴！"
+            "Content": "正义伙伴！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hx_summon.play_favor_word_chixia_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "英雄变身！"
+            "Content": "英雄变身！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hx_change.play_favor_word_chixia_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "该我上场了！"
+            "Content": "该我上场了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_qte.play_favor_word_chixia_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "一口气上吧！"
+            "Content": "一口气上吧！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_enter_battle.play_favor_word_chixia_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "飞咯——"
+            "Content": "飞咯——",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_fly.play_favor_word_chixia_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "咻——！"
+            "Content": "咻——！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_hook.play_favor_word_chixia_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "哦？什么什么！"
+            "Content": "哦？什么什么！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_scan.play_favor_word_chixia_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "能跟上吗？"
+            "Content": "能跟上吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_dash.play_favor_word_chixia_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "飞檐走壁！"
+            "Content": "飞檐走壁！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_fast_run.play_favor_word_chixia_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "有啥好东西，我看看？"
+            "Content": "有啥好东西，我看看？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_chest_01.play_favor_word_chixia_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "运气不错嘛！"
+            "Content": "运气不错嘛！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_chest_02.play_favor_word_chixia_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "这次一定能开出好东西！"
+            "Content": "这次一定能开出好东西！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_chixia_chest_03.play_favor_word_chixia_chest_03"
         }
     ],
     "Goods": [
@@ -3658,5 +3729,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001202": {
+            "Id": 81001202,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "炽霞",
+            "TitleName": "时刻准备",
+            "SubDecName": "炽霞-初始服饰",
+            "BgDescription": "今州飞羽侠总是穿着最最轻便的服装，以随时回应大街小巷此起彼伏的“炽霞”呼唤。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.T_IconRole_Pile_maxiaofang_UI"
+        }
     }
 }

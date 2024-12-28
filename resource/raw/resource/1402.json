@@ -61,299 +61,357 @@
         },
         {
             "Title": "答案就在风中",
-            "Content": "离家远行的路上，秧秧曾见过这么两类人。\n一类行色匆匆，却不知道自己为什么奔忙，最终迷失在路途之中，悻悻而返。而另一类，他们目标明确，哪怕偶有停歇、绕了远路，也总能抵达终点。秧秧望了望不远处依稀可见的今州城，不确定自己可否算作第二类，但这两类人的存在让她不置可否，又一次想起那个叫做“一生一器”的词。\n一生一器，是秧秧家学中的最重要一条，本意为家中成员尽可以无所不长，但需择定一种乐器为专，终其一生不断修练，成为此间大拿。后随事局变化，渐渐衍生为一生只为一事，砥砺至极致，以求不枉此生。\n母亲的“器”，应该就是制曲，秧秧见过大家在母亲的曲子中欢兴起舞，而姐姐，也已经能在商会独当一面了。\n但秧秧却无法像她们那样轻易地做出决定，什么样的事才值得献上一生？她到底该孩成为什么样的人？\n她向母亲求助，您希望我继承家业吗？或者说，您希望我做什么呢？我什么都可以一试，也一定会将尝试做到极致，人生虽有无限可能，但终究也只能选择其中一条吧？ \n母亲慈爱地看向她，孩子，正因如此，你才不该从我这寻找答案，而是该问一问自己的心，这本就是很难的问题，你不必着急。\n于是，秧秧将这个问题放在心里，积压了很久很久。\n久到她从贫瘠聚落重新返回家中，从永无止尽坠落再度爬了回来，久到她终于厌倦了家境的庇佑，想要走入她曾见过的其他人群里，如他们一样感悟世界的坎坷。她不想再只是轻薄一片，她想要变得充满份量，想要真实将她侵染。\n野外突然袭击，前线因残象损失惨重的消息传回城里，哀戚、愤恨、绝望……情绪在聚集的人群中翻涌，仿佛下一秒就将滚沸。大家就着篝火，不止是谁先起的头，低沉的男声、沙哑的女声，大家抽噎着哭得厉害，但在第二日清晨就恢复如初了，悲伤变得奢侈，而秧秧没有具体的失去，她因他们的哭泣而流泪。\n他们悲恸的泪光与被救下的孩童的笑容交相闪过，所有经历种种融会贯通，终于让她意识到自己想要成为怎样的人——她想要保护他人，如同曾被保护的自己一样，让他们免受不幸，让他们既可以放声哭泣，也可以期许美好。\n\n授资加入踏白的那个夜晚，秧秧独自来到今州城的最边缘，她仰望天空，也俯瞰生活着的居民，她询问自己，这城市如此鲜活，自己是否真能如自己所想，拥有保护他们的力量？\n流息从远方涌来，将少女轻柔地拥入怀中，拂去她最后一丝疑虑。\n它告诉她，今州城，是世家二小姐秧秧的终点，但却只是踏白成员秧秧的起点。"
+            "Content": "离家远行的路上，秧秧曾见过这么两类人。\n一类行色匆匆，却不知道自己为什么奔忙，最终迷失在路途之中，悻悻而返。而另一类，他们目标明确，哪怕偶有停歇、绕了远路，也总能抵达终点。秧秧望了望不远处依稀可见的今州城，不确定自己可否算作第二类，但这两类人的存在让她不置可否，又一次想起那个叫做“一生一器”的词。\n一生一器，是秧秧家学中的最重要一条，本意为家中成员尽可以无所不长，但需择定一种乐器为专，终其一生不断修练，成为此间大拿。后随事局变化，渐渐衍生为一生只为一事，砥砺至极致，以求不枉此生。\n母亲的“器”，应该就是制曲，秧秧见过大家在母亲的曲子中欢兴起舞，而姐姐，也已经能在商会独当一面了。\n但秧秧却无法像她们那样轻易地做出决定，什么样的事才值得献上一生？她到底该成为什么样的人？\n她向母亲求助，您希望我继承家业吗？或者说，您希望我做什么呢？我什么都可以一试，也一定会将尝试做到极致，人生虽有无限可能，但终究也只能选择其中一条吧？ \n母亲慈爱地看向她，孩子，正因如此，你才不该从我这寻找答案，而是该问一问自己的心，这本就是很难的问题，你不必着急。\n于是，秧秧将这个问题放在心里，积压了很久很久。\n久到她从贫瘠聚落重新返回家中，从永无止尽坠落再度爬了回来，久到她终于厌倦了家境的庇佑，想要走入她曾见过的其他人群里，如他们一样感悟世界的坎坷。她不想再只是轻薄一片，她想要变得充满份量，想要真实将她侵染。\n野外突然袭击，前线因残象损失惨重的消息传回城里，哀戚、愤恨、绝望……情绪在聚集的人群中翻涌，仿佛下一秒就将滚沸。大家就着篝火，不知是谁先起的头，低沉的男声、沙哑的女声，大家抽噎着哭得厉害，但在第二日清晨就恢复如初了，悲伤变得奢侈，而秧秧没有具体的失去，她因他们的哭泣而流泪。\n他们悲恸的泪光与被救下的孩童的笑容交相闪过，所有经历种种融会贯通，终于让她意识到自己想要成为怎样的人——她想要保护他人，如同曾被保护的自己一样，让他们免受不幸，让他们既可以放声哭泣，也可以期许美好。\n\n授资加入踏白的那个夜晚，秧秧独自来到今州城的最边缘，她仰望天空，也俯瞰生活着的居民，她询问自己，这城市如此鲜活，自己是否真能如自己所想，拥有保护他们的力量？\n流息从远方涌来，将少女轻柔地拥入怀中，拂去她最后一丝疑虑。\n它告诉她，今州城，是世家二小姐秧秧的终点，但却只是踏白成员秧秧的起点。"
         }
     ],
     "Voices": [
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "漂泊者，在今州有什么不了解、不适应的随时可以来找我。并不是因为你的客人身份才这么说的，只是觉得……你失去记忆又只身一人，或许会有需要我的时候。"
+            "Content": "漂泊者，在今州有什么不了解、不适应的随时可以来找我。并不是因为你的客人身份才这么说的，只是觉得……你失去记忆又只身一人，或许会有需要我的时候。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_to_player01.play_favor_word_yangyang_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "成为踏白后，我在野外见过形形色色许多人。他们有的行色匆匆，却不知道为何忙碌，最终迷失在途中。相反，那些目标明确的出行者，哪怕迂回而吃力，哪怕偶有停滞，总能一点一点到达想去的地方。我希望我会是后者，而离开家乡来到今州就是我迈出的第一步。"
+            "Content": "成为踏白后，我在野外见过形形色色许多人。他们有的行色匆匆，却不知道为何忙碌，最终迷失在途中。相反，那些目标明确的出行者，哪怕迂回而吃力，哪怕偶有停滞，总能一点一点到达想去的地方。我希望我会是后者，而离开家乡来到今州就是我迈出的第一步。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_to_player02.play_favor_word_yangyang_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "从记事时起，我就能听见风说的话，流息。它们并非空气振动时发出的声响，也不是某种具象的对话声，但只要我沉下心来，触摸那些无形的流淌着的气流，就能感知到曾暴露在风场中的信息。就在刚刚，流淌在耳边的风，又和我说了一个有趣的故事，你想要听听看吗？"
+            "Content": "从记事时起，我就能听见风说的话，流息。它们并非空气振动时发出的声响，也不是某种具象的对话声，但只要我沉下心来，触摸那些无形的流淌着的气流，就能感知到曾暴露在风场中的信息。就在刚刚，流淌在耳边的风，又和我说了一个有趣的故事，你想要听听看吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_to_player03.play_favor_word_yangyang_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "每当流息从你身旁经过，就会变得很不寻常，仿佛一旦靠近就会不由自主被你牵引，失去控制。我不知道这究竟意味着什么，但我很确定不管是什么，我都不想只是站在一旁看着。可以的话，我想和你一起面对可能的一切。"
+            "Content": "每当流息从你身旁经过，就会变得很不寻常，仿佛一旦靠近就会不由自主被你牵引，失去控制。我不知道这究竟意味着什么，但我很确定不管是什么，我都不想只是站在一旁看着。可以的话，我想和你一起面对可能的一切。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_to_player04.play_favor_word_yangyang_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "需要的时候，就呼唤我的名字吧。从荒芜之地到生机之所，从最初的起点到最后的结局……无论尽头处等待我们的究竟是什么，无论你会引发怎样的暴风雨，只要你愿意，我就会陪你一同见证。"
+            "Content": "需要的时候，就呼唤我的名字吧。从荒芜之地到生机之所，从最初的起点到最后的结局……无论尽头处等待我们的究竟是什么，无论你会引发怎样的暴风雨，只要你愿意，我就会陪你一同见证。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_to_player05.play_favor_word_yangyang_to_player05"
         },
         {
             "Type": 1,
             "Title": "秧秧的喜好",
-            "Content": "歌声，是从心底迸发出的共鸣，它会传递最真挚的心情。"
+            "Content": "歌声，是从心底迸发出的共鸣，它会传递最真挚的心情。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_taste.play_favor_word_yangyang_taste"
         },
         {
             "Type": 1,
             "Title": "秧秧的烦恼",
-            "Content": "虽然总想着为大家做到更多更多，但超出承受的限度……反而会给自己、给无法回馈的他人造成困扰吧？"
+            "Content": "虽然总想着为大家做到更多更多，但超出承受的限度……反而会给自己、给无法回馈的他人造成困扰吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_worry.play_favor_word_yangyang_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "潮饼在瑝珑称得上家喻户晓，但各地做法却有不同。今州的潮饼已经很美味了，但在我心中，还是家里做的更胜一筹……有机会的话，带你回家尝尝母亲的手艺吧？"
+            "Content": "潮饼在瑝珑称得上家喻户晓，但各地做法却有不同。今州的潮饼已经很美味了，但在我心中，还是家里做的更胜一筹……有机会的话，带你回家尝尝母亲的手艺吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_food_favor.play_favor_word_yangyang_food_favor"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "任何食物都该被好好对待吧？欸？黑，黑暗料理的话……"
+            "Content": "任何食物都该被好好对待吧？欸？黑，黑暗料理的话……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_food_hate.play_favor_word_yangyang_food_hate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "美好的事物让人心生向往，但不够美好的那些部分也是真实存在着的。我不想只是沉溺在安逸中，享受着他人的保护，我必须……亲自面对没那么完满但足够真实的东西，成为能够保护他人、给予他人的人。"
+            "Content": "美好的事物让人心生向往，但不够美好的那些部分也是真实存在着的。我不想只是沉溺在安逸中，享受着他人的保护，我必须……亲自面对没那么完满但足够真实的东西，成为能够保护他人、给予他人的人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_dream.play_favor_word_yangyang_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "对我的发带有点在意？这是我前往今州时，母亲送我的临别礼物。对我而言，它象征着一段旅途的开始，纪念着属于我的新生。我希望，它能一直提醒我“践行自己心意”这件事。"
+            "Content": "对我的发带有点在意？这是我前往今州时，母亲送我的临别礼物。对我而言，它象征着一段旅途的开始，纪念着属于我的新生。我希望，它能一直提醒我“践行自己心意”这件事。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_story_obj.play_favor_word_yangyang_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "敏锐的感知曾经令我非常痛苦。讯息从四面八方涌来，嘈杂、紊乱、猛烈，而我只是风暴中的一片落羽。不过，没关系……都过去了，我已经找到了稳住方向的诀窍，也由此，发现了你。"
+            "Content": "敏锐的感知曾经令我非常痛苦。讯息从四面八方涌来，嘈杂、紊乱、猛烈，而我只是风暴中的一片落羽。不过，没关系……都过去了，我已经找到了稳住方向的诀窍，也由此，发现了你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_story_exp.play_favor_word_yangyang_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于忌炎",
-            "Content": "在充斥着铁锈味与失去的前线上，是他一次又一次挡在所有人面前，做出决断。作为全体夜归的倚靠，作为指引旌旗的青龙，他所背负的那份沉重，是我们难以想象的。"
+            "Content": "在充斥着铁锈味与失去的前线上，是他一次又一次挡在所有人面前，做出决断。作为全体夜归的倚靠，作为指引旌旗的青龙，他所背负的那份沉重，是我们难以想象的。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_about_jiyan.play_favor_word_yangyang_about_jiyan"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "“有问题，找正义伙伴炽霞”，这可不是一句玩笑话。高涨的热情，超凡的身手，满满的精力……英雄戏里主角该有的一切，她已经统统具备了。"
+            "Content": "“有问题，找正义伙伴炽霞”，这可不是一句玩笑话。高涨的热情，超凡的身手，满满的精力……英雄戏里主角该有的一切，她已经统统具备了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_about_chixia.play_favor_word_yangyang_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于白芷",
-            "Content": "白芷对世界有着自己的解读，说话做事也会遵循自己认同的方式，但她并不是严于待人的人，靠近她向她求助的话，你会在她脸上看到一晃而过的惊讶，但绝对绝对不会拒绝你。"
+            "Content": "白芷对世界有着自己的解读，说话做事也会遵循自己认同的方式，但她并不是严于待人的人，靠近她向她求助的话，你会在她脸上看到一晃而过的惊讶，但绝对绝对不会拒绝你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_about_baizhi.play_favor_word_yangyang_about_baizhi"
         },
         {
             "Type": 1,
             "Title": "关于丹瑾",
-            "Content": "野外执勤的时候，我曾和她打过几次照面。她的身上有着一股侠气，知道何时该挥剑，知道为何而挥剑，尽管年纪尚小，但她已经像自己所求的世界一般，清正分明。"
+            "Content": "野外执勤的时候，我曾和她打过几次照面。她的身上有着一股侠气，知道何时该挥剑，知道为何而挥剑，尽管年纪尚小，但她已经像自己所求的世界一般，清正分明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_about_danjin.play_favor_word_yangyang_about_danjin"
         },
         {
             "Type": 1,
             "Title": "关于桃祈",
-            "Content": "桃祈身上有一种举重若轻的气度，好像不管什么突发情况，她都能不紧不慢地掏出几个方案，留下一句“别慌~这样不就解决了嘛~”。所谓懒散，一定是因为她在我们看不见的地方做了十足的努力吧。"
+            "Content": "桃祈身上有一种举重若轻的气度，好像不管什么突发情况，她都能不紧不慢地掏出几个方案，留下一句“别慌~这样不就解决了嘛~”。所谓懒散，一定是因为她在我们看不见的地方做了十足的努力吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_about_taoqi.play_favor_word_yangyang_about_taoqi"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "今天是个特别的日子，是属于你的纪念日，所以…祝你生日快乐，祝你生日快乐，祝你生日快乐…这一个生日、下一个生日、下下个生日，希望我都能为你唱起这首歌。"
+            "Content": "今天是个特别的日子，是属于你的纪念日，所以…祝你生日快乐，祝你生日快乐，祝你生日快乐…这一个生日、下一个生日、下下个生日，希望我都能为你唱起这首歌。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_birthcele.play_favor_word_yangyang_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "轻飘飘、慢悠悠…你会飘向哪里?"
+            "Content": "轻飘飘、慢悠悠…你会飘向哪里?",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_idle01.play_favor_word_yangyang_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_idle02.play_favor_word_yangyang_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "聚散有时，不用太介怀。"
+            "Content": "聚散有时，不用太介怀。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_idle03.play_favor_word_yangyang_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我叫秧秧，夜归下属临时踏白，负责调查发生的异常。万事万物，凡是暴露在流息中的，我都能有所感知。所以遇到什么不对劲的，不要自己硬扛，第一时间告诉我，好吗？"
+            "Content": "我叫秧秧，夜归下属临时踏白，负责调查发生的异常。万事万物，凡是暴露在流息中的，我都能有所感知。所以遇到什么不对劲的，不要自己硬扛，第一时间告诉我，好吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_introduction.play_favor_word_yangyang_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "流息指引我们相遇……我有预感，我们会成为彼此的旅伴。"
+            "Content": "流息指引我们相遇……我有预感，我们会成为彼此的旅伴。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_get_card.play_favor_word_yangyang_get_card"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "一起抵达更远的地方吧。"
+            "Content": "一起抵达更远的地方吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_join_team_01.play_favor_word_yangyang_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "云雀的歌，即将唱响。"
+            "Content": "云雀的歌，即将唱响。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_join_team_02.play_favor_word_yangyang_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "我会尽我所能，成为大家的慰藉。"
+            "Content": "我会尽我所能，成为大家的慰藉。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_join_team_03.play_favor_word_yangyang_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "流息越发强烈，它……想告诉我什么呢？"
+            "Content": "流息越发强烈，它……想告诉我什么呢？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_rankup01.play_favor_word_yangyang_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "我从没感受过这样充盈的力量……是因为你，对吗？谢谢你，漂泊者。谢谢你……为我所做的一切。"
+            "Content": "我从没感受过这样充盈的力量……是因为你，对吗？谢谢你，漂泊者。谢谢你……为我所做的一切。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_rankup02.play_favor_word_yangyang_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "流息从四周聚集，而我站在中心，等待着起风的时机。"
+            "Content": "流息从四周聚集，而我站在中心，等待着起风的时机。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_rankup03.play_favor_word_yangyang_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "越过风雨，向美好献上颂歌…此时此刻，是云雀离天空最近的时候。"
+            "Content": "越过风雨，向美好献上颂歌…此时此刻，是云雀离天空最近的时候。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_rankup04.play_favor_word_yangyang_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "已经够了，漂泊者，你为我做的一切已经很多了。之后的日子，请安心待在我的身后，让我来为你做些什么吧？因为……我希望自己可以是那个接纳你所有、分担你所有的人。"
+            "Content": "已经够了，漂泊者，你为我做的一切已经很多了。之后的日子，请安心待在我的身后，让我来为你做些什么吧？因为……我希望自己可以是那个接纳你所有、分担你所有的人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_rankup05.play_favor_word_yangyang_rankup05"
         },
         {
             "Type": 2,
             "Title": "空中攻击",
-            "Content": "风华缭乱。"
+            "Content": "风华缭乱。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_airatk.play_favor_word_yangyang_airatk"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "骤袭。"
+            "Content": "骤袭。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_skill_01.play_favor_word_yangyang_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "解意。"
+            "Content": "解意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_skill_02.play_favor_word_yangyang_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "行止。"
+            "Content": "行止。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_skill_03.play_favor_word_yangyang_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "挟风起势。"
+            "Content": "挟风起势。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_burst_skill_01.play_favor_word_yangyang_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "簌簌凌霄。"
+            "Content": "簌簌凌霄。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_burst_skill_02.play_favor_word_yangyang_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "化象有形。"
+            "Content": "化象有形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_burst_skill_03.play_favor_word_yangyang_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_behit_fly_01.play_favor_word_yangyang_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "不要紧。"
+            "Content": "不要紧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_behit_fly_02.play_favor_word_yangyang_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "没…关系。"
+            "Content": "没…关系。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_behit_fly_03.play_favor_word_yangyang_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "别担心。"
+            "Content": "别担心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hp70.play_favor_word_yangyang_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "还能…承受。"
+            "Content": "还能…承受。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hp50.play_favor_word_yangyang_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "要…全力以赴。"
+            "Content": "要…全力以赴。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hp30.play_favor_word_yangyang_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "风，好像停了。"
+            "Content": "风，好像停了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_die_01.play_favor_word_yangyang_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "抱歉，还是没能…"
+            "Content": "抱歉，还是没能…",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_die_02.play_favor_word_yangyang_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "只能…到这里了。"
+            "Content": "只能…到这里了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_die_03.play_favor_word_yangyang_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "拜托了。"
+            "Content": "拜托了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hx_summon.play_favor_word_yangyang_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "物我同频。"
+            "Content": "物我同频。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hx_change.play_favor_word_yangyang_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "以我为刃。"
+            "Content": "以我为刃。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_qte.play_favor_word_yangyang_qte"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "迎着风的方向——"
+            "Content": "迎着风的方向——",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_fly.play_favor_word_yangyang_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_hook.play_favor_word_yangyang_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "去看看吗？"
+            "Content": "去看看吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_scan.play_favor_word_yangyang_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "加速了哦。"
+            "Content": "加速了哦。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_dash.play_favor_word_yangyang_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "踏空，起。"
+            "Content": "踏空，起。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_fast_run.play_favor_word_yangyang_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "里面…有你需要的吗？"
+            "Content": "里面…有你需要的吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_chest_01.play_favor_word_yangyang_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "努力得来的回应。"
+            "Content": "努力得来的回应。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_chest_02.play_favor_word_yangyang_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "应该够用一阵吧？"
+            "Content": "应该够用一阵吧？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_yangyang_chest_03.play_favor_word_yangyang_chest_03"
         }
     ],
     "Goods": [
@@ -3971,5 +4029,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001402": {
+            "Id": 81001402,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "秧秧",
+            "TitleName": "裁羽行歌",
+            "SubDecName": "秧秧-初始服饰",
+            "BgDescription": "片羽为织，柔软却也坚韧，顺着流息的指引，云雀将奏响独属于自己的行板。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI"
+        }
     }
 }

@@ -86,282 +86,338 @@
         {
             "Type": 1,
             "Title": "心声·一",
-            "Content": "画永远也画不完……啊，我、我不是在抱怨委托…而是我经常会发现新的适合入画的景色、遇到容易被人们忽略的美景，这种令人惊喜的获得一直激发着我……抱歉…其实我真正想说的是！现在阳光照在你身上，光影很美……我可以用笔记录下这一刻吗？"
+            "Content": "画永远也画不完……啊，我、我不是在抱怨委托…而是我经常会发现新的适合入画的景色、遇到容易被人们忽略的美景，这种令人惊喜的获得一直激发着我……抱歉…其实我真正想说的是！现在阳光照在你身上，光影很美……我可以用笔记录下这一刻吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_to_player01.play_favor_word_zhezhi_sys_to_player01"
         },
         {
             "Type": 1,
             "Title": "心声·二",
-            "Content": "那个…我专门给你留了半份香柠蛋糕…要尝尝看吗？这是我昨天没忍住，用省下来的钱买的，作为完成委托的小小庆祝。我已经看上它很久了，甜而不腻，层次分明，入口之后和我想象的一样好吃！"
+            "Content": "那个…我专门给你留了半份香柠蛋糕…要尝尝看吗？这是我昨天没忍住，用省下来的钱买的，作为完成委托的小小庆祝。我已经看上它很久了，甜而不腻，层次分明，入口之后和我想象的一样好吃！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_to_player02.play_favor_word_zhezhi_sys_to_player02"
         },
         {
             "Type": 1,
             "Title": "心声·三",
-            "Content": "那些画出来的幻象？其实只是泡影。它们绚烂多姿、美轮美奂，看起来比我们身处的世界好上千倍万倍……但终究是虚幻的。我还是更喜欢不那么完美的现实世界，虽然困难重重、意外频生，但也有惊喜出现，就像……我认识了你。"
+            "Content": "那些画出来的幻象？其实只是泡影。它们绚烂多姿、美轮美奂，看起来比我们身处的世界好上千倍万倍……但终究是虚幻的。我还是更喜欢不那么完美的现实世界，虽然困难重重、意外频生，但也有惊喜出现，就像……我认识了你。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_to_player03.play_favor_word_zhezhi_sys_to_player03"
         },
         {
             "Type": 1,
             "Title": "心声·四",
-            "Content": "一个人的时候，你会觉得孤独吗？虽然我很享受独处时光，但时间一长，我还是很希望能和别人说说话的。只是…每次我都不知道该说什么，又怕会说错，所以尝试和别人交流的时候，经常以尴尬告终……现在这样惬意的交谈，以前只在我的想象中出现过。如果能一直这样聊下去就好了。"
+            "Content": "一个人的时候，你会觉得孤独吗？虽然我很享受独处时光，但时间一长，我还是很希望能和别人说说话的。只是…每次我都不知道该说什么，又怕会说错，所以尝试和别人交流的时候，经常以尴尬告终……现在这样惬意的交谈，以前只在我的想象中出现过。如果能一直这样聊下去就好了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_to_player04.play_favor_word_zhezhi_sys_to_player04"
         },
         {
             "Type": 1,
             "Title": "心声·五",
-            "Content": "其实…我曾经为你画过像，只是，那张画至今都没有完成……一张有限的画纸，无法完全表达我对你的感受。如果可以的话…我想用更多的时间和空间，用更多的行动和语言去描绘我对你的全部情感。"
+            "Content": "其实…我曾经为你画过像，只是，那张画至今都没有完成……一张有限的画纸，无法完全表达我对你的感受。如果可以的话…我想用更多的时间和空间，用更多的行动和语言去描绘我对你的全部情感。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_to_player05.play_favor_word_zhezhi_sys_to_player05"
         },
         {
             "Type": 1,
             "Title": "折枝的喜好",
-            "Content": "我喜欢……自己待着。"
+            "Content": "我喜欢……自己待着。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_taste.play_favor_word_zhezhi_sys_taste"
         },
         {
             "Type": 1,
             "Title": "折枝的烦恼",
-            "Content": "家里的债务…只有我一个人的话，估计要还一辈子……"
+            "Content": "家里的债务…只有我一个人的话，估计要还一辈子……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_worry.play_favor_word_zhezhi_sys_worry"
         },
         {
             "Type": 1,
             "Title": "喜欢的食物",
-            "Content": "一切甜的食物我都喜欢。只要尝到甜味，我做什么事都觉得更有动力了！"
+            "Content": "一切甜的食物我都喜欢。只要尝到甜味，我做什么事都觉得更有动力了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_foodlike.play_favor_word_zhezhi_sys_foodlike"
         },
         {
             "Type": 1,
             "Title": "讨厌的食物",
-            "Content": "我做的饭菜…不知道为什么，菜和调料的味道总是无法融合……你、你好奇是什么味道吗？那…等我再练习一下再给你品尝……"
+            "Content": "我做的饭菜…不知道为什么，菜和调料的味道总是无法融合……你、你好奇是什么味道吗？那…等我再练习一下再给你品尝……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_foodhate.play_favor_word_zhezhi_sys_foodhate"
         },
         {
             "Type": 1,
             "Title": "抱负和理想",
-            "Content": "我希望…终有一天，我能用自己全部的时间去画我真正想画的，在这个世界上留下真正的我的痕迹。"
+            "Content": "我希望…终有一天，我能用自己全部的时间去画我真正想画的，在这个世界上留下真正的我的痕迹。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_dream.play_favor_word_zhezhi_sys_dream"
         },
         {
             "Type": 1,
             "Title": "凝音·一",
-            "Content": "这只大毛笔叫杪华，它对自己画出来的幻象有特殊反应。小时候我能力不稳，有时会分不清哪里是现实、哪里是幻觉……最严重的一次，我被困在自己的画境中整整两天，毫无感知，最后是杪华笔反应有异，我才意识到周围的一切都是假的，及时回到了真正的现实。"
+            "Content": "这只大毛笔叫杪华，它对自己画出来的幻象有特殊反应。小时候我能力不稳，有时会分不清哪里是现实、哪里是幻觉……最严重的一次，我被困在自己的画境中整整两天，毫无感知，最后是杪华笔反应有异，我才意识到周围的一切都是假的，及时回到了真正的现实。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_story_obj.play_favor_word_zhezhi_sys_story_obj"
         },
         {
             "Type": 1,
             "Title": "凝音·二",
-            "Content": "如果觉得住屋狭小，可以试试用单色调家具增加空间感；如果遇到价格不公，可以趁关门前去试试能不能淘到促销好货……有时候，现状注定无法立刻改变，我给自己增加幸福感的方式就是……换个方式想想。有时候这样做，能找到让生活更美好的方法！"
+            "Content": "如果觉得住屋狭小，可以试试用单色调家具增加空间感；如果遇到价格不公，可以趁关门前去试试能不能淘到促销好货……有时候，现状注定无法立刻改变，我给自己增加幸福感的方式就是……换个方式想想。有时候这样做，能找到让生活更美好的方法！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_story_exp.play_favor_word_zhezhi_sys_story_exp"
         },
         {
             "Type": 1,
             "Title": "关于鉴心",
-            "Content": "来今州前，我与正在林中修行的她有过一面之缘。她游历已久，向我介绍了许多山川景色，她对自然万物的看法改变了我画景时的心态，那样忘我的境界不仅是她修行所需，也是我绘画时追求的状态。"
+            "Content": "来今州前，我与正在林中修行的她有过一面之缘。她游历已久，向我介绍了许多山川景色，她对自然万物的看法改变了我画景时的心态，那样忘我的境界不仅是她修行所需，也是我绘画时追求的状态。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_about_jianxin.play_favor_word_zhezhi_sys_about_jianxin"
         },
         {
             "Type": 1,
             "Title": "关于维里奈",
-            "Content": "我经常在户外写生时遇到她。我想知道更多植物的习性，她想知道这些植物在瑝珑文化中的象征意义，所以每次我们都会蹲在一株植物前聊很久。"
+            "Content": "我经常在户外写生时遇到她。我想知道更多植物的习性，她想知道这些植物在瑝珑文化中的象征意义，所以每次我们都会蹲在一株植物前聊很久。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_about_weilinai.play_favor_word_zhezhi_sys_about_weilinai"
         },
         {
             "Type": 1,
             "Title": "关于釉瑚",
-            "Content": "她是个很有眼光的古物鉴定师，知道许多珍稀古画的收藏情况。如果不是她告诉我那些友善的藏家所在，我可能就没机会看到那些真迹了。虽然她从没说过，但我知道这些消息来之不易，所以有时候我会趁她不注意，把报酬塞进她的衣兜里，嘿嘿……"
+            "Content": "她是个很有眼光的古物鉴定师，知道许多珍稀古画的收藏情况。如果不是她告诉我那些友善的藏家所在，我可能就没机会看到那些真迹了。虽然她从没说过，但我知道这些消息来之不易，所以有时候我会趁她不注意，把报酬塞进她的衣兜里，嘿嘿……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_about_youhu.play_favor_word_zhezhi_sys_about_youhu"
         },
         {
             "Type": 1,
             "Title": "关于炽霞",
-            "Content": "她！她有一次邀请我共进晚餐，我到了现场才发现是个十几个人的大型聚会……虽然在聚会过程中，我还是有点紧张，但她一直在替我解围，我也借此机会认识了许多新的朋友，其中不少人后来还成为了我的委托人。"
+            "Content": "她！她有一次邀请我共进晚餐，我到了现场才发现是个十几个人的大型聚会……虽然在聚会过程中，我还是有点紧张，但她一直在替我解围，我也借此机会认识了许多新的朋友，其中不少人后来还成为了我的委托人。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_about_chixia.play_favor_word_zhezhi_sys_about_chixia"
         },
         {
             "Type": 1,
             "Title": "关于凌阳",
-            "Content": "他的狮舞，动作丰富又干净利落。我偶然路过看到表演，忍不住想借机练习一下动态速写…没想到狮舞变换迅速，画笔很难捕捉……所以后来我又去剧院认真看了几次，不知不觉就喜欢上看狮子舞了。"
+            "Content": "他的狮舞，动作丰富又干净利落。我偶然路过看到表演，忍不住想借机练习一下动态速写…没想到狮舞变换迅速，画笔很难捕捉……所以后来我又去剧院认真看了几次，不知不觉就喜欢上看狮子舞了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_about_lingyang.play_favor_word_zhezhi_sys_about_lingyang"
         },
         {
             "Type": 1,
             "Title": "生日祝福",
-            "Content": "今天是你的生日，我、我知道应该会有很多人来给你庆祝，送给你许多礼物，所以我不知道送什么才不会重复……不如…由你来决定吧！你需要什么，我都会准备好，你想要做什么事，我都会陪你去做。没想好也没关系！这份礼物永远有效。无论何时，你需要我做什么，我都会好好完成。对不起，我说了这么多话，还没有说…祝你生日快乐！"
+            "Content": "今天是你的生日，我、我知道应该会有很多人来给你庆祝，送给你许多礼物，所以我不知道送什么才不会重复……不如…由你来决定吧！你需要什么，我都会准备好，你想要做什么事，我都会陪你去做。没想好也没关系！这份礼物永远有效。无论何时，你需要我做什么，我都会好好完成。对不起，我说了这么多话，还没有说…祝你生日快乐！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_birthcele.play_favor_word_zhezhi_sys_birthcele"
         },
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "嗯…画什么好呢…啊……"
+            "Content": "嗯…画什么好呢…啊……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_idle01.play_favor_word_zhezhi_com_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_idle02.play_favor_word_zhezhi_com_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "休息一下吧……"
+            "Content": "休息一下吧……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_idle03.play_favor_word_zhezhi_com_idle03"
         },
         {
             "Type": 1,
             "Title": "自我介绍",
-            "Content": "我是折枝……是一名委托画师。还、还需要说什么吗？呃…在线求约稿，价格合理、画风不限、按需修改、从不拖欠！"
+            "Content": "我是折枝……是一名委托画师。还、还需要说什么吗？呃…在线求约稿，价格合理、画风不限、按需修改、从不拖欠！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_introduction.play_favor_word_zhezhi_sys_introduction"
         },
         {
             "Type": 1,
             "Title": "初奏",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_gacha.play_favor_word_zhezhi_sys_gacha"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "我吗？"
+            "Content": "我吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_jointeam_01.play_favor_word_zhezhi_sys_jointeam_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "诶？！"
+            "Content": "诶？！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_jointeam_02.play_favor_word_zhezhi_sys_jointeam_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "一、一定要去吗……"
+            "Content": "一、一定要去吗……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_jointeam_03.play_favor_word_zhezhi_sys_jointeam_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "这份力量……属于我了吗？"
+            "Content": "这份力量……属于我了吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_rankup01.play_favor_word_zhezhi_sys_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "这下有力气继续赶稿了。"
+            "Content": "这下有力气继续赶稿了。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_rankup02.play_favor_word_zhezhi_sys_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "你的信任，对我来说…非常珍贵！"
+            "Content": "你的信任，对我来说…非常珍贵！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_rankup03.play_favor_word_zhezhi_sys_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "战斗…我一直不太擅长……不过，我已经明白了你对我的期待，现在的我，无论面对什么样的敌人，都不会轻易打退堂鼓了！"
+            "Content": "战斗…我一直不太擅长……不过，我已经明白了你对我的期待，现在的我，无论面对什么样的敌人，都不会轻易打退堂鼓了！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_rankup04.play_favor_word_zhezhi_sys_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "谢…谢谢！这应该为你添了许多麻烦吧……请在帮助我之前，一定照顾好自己…不然我会不知道该如何面对这份力量……但请相信我，这份情意我会好好珍惜…啊不，我会让你的付出变得更加值得的！"
+            "Content": "谢…谢谢！这应该为你添了许多麻烦吧……请在帮助我之前，一定照顾好自己…不然我会不知道该如何面对这份力量……但请相信我，这份情意我会好好珍惜…啊不，我会让你的付出变得更加值得的！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_sys_rankup05.play_favor_word_zhezhi_sys_rankup05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "墨去。"
+            "Content": "墨去。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_skill01.play_favor_word_zhezhi_bat_skill01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "韵生。"
+            "Content": "韵生。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_skill02.play_favor_word_zhezhi_bat_skill02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "画境尽现。"
+            "Content": "画境尽现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_burst_01.play_favor_word_zhezhi_bat_burst_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "抓住新的灵感。"
+            "Content": "抓住新的灵感。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_burst_02.play_favor_word_zhezhi_bat_burst_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "此为画中意。"
+            "Content": "此为画中意。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_burst_03.play_favor_word_zhezhi_bat_burst_03"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "一起入画吧。"
+            "Content": "一起入画吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_qte.play_favor_word_zhezhi_bat_qte"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "哎呦……"
+            "Content": "哎呦……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_behitfly_01.play_favor_word_zhezhi_com_behitfly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "好痛……"
+            "Content": "好痛……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_behitfly_02.play_favor_word_zhezhi_com_behitfly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "等等……"
+            "Content": "等等……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_behitfly_03.play_favor_word_zhezhi_com_behitfly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "呼…好累……"
+            "Content": "呼…好累……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_hpdown01.play_favor_word_zhezhi_com_hpdown01"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "不会搞砸吧……"
+            "Content": "不会搞砸吧……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_hpdown02.play_favor_word_zhezhi_com_hpdown02"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "我、我打不过……"
+            "Content": "我、我打不过……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_hpdown03.play_favor_word_zhezhi_com_hpdown03"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "给你添麻烦了……"
+            "Content": "给你添麻烦了……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_die_01.play_favor_word_zhezhi_com_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "还没画完……"
+            "Content": "还没画完……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_die_02.play_favor_word_zhezhi_com_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "对不起……"
+            "Content": "对不起……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_die_03.play_favor_word_zhezhi_com_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "多一份力。"
+            "Content": "多一份力。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_hxsummon.play_favor_word_zhezhi_bat_hxsummon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "换个画风。"
+            "Content": "换个画风。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_bat_hxchange.play_favor_word_zhezhi_bat_hxchange"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "有、有危险！"
+            "Content": "有、有危险！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_engage.play_favor_word_zhezhi_com_engage"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_fly_01.play_favor_word_zhezhi_com_fly_01"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_hook_01.play_favor_word_zhezhi_com_hook_01"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "咦？"
+            "Content": "咦？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_scan.play_favor_word_zhezhi_com_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_dash_01.play_favor_word_zhezhi_com_dash_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "看起来很贵的样子。"
+            "Content": "看起来很贵的样子。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_openbox_01.play_favor_word_zhezhi_com_openbox_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "积少成多。"
+            "Content": "积少成多。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_openbox_02.play_favor_word_zhezhi_com_openbox_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "好漂亮的造型…啊，不对，先收好它们吧。"
+            "Content": "好漂亮的造型…啊，不对，先收好它们吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_zhezhi_com_openbox_03.play_favor_word_zhezhi_com_openbox_03"
         }
     ],
     "Goods": [
@@ -4013,5 +4069,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001105": {
+            "Id": 81001105,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "折枝",
+            "TitleName": "春山墨卷",
+            "SubDecName": "折枝-初始服饰",
+            "BgDescription": "墨色引染、绘布成衣。美景无处不在，画意无处不生。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhezhi_UI.T_IconRole_Pile_zhezhi_UI"
+        }
     }
 }

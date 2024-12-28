@@ -41,262 +41,314 @@
         {
             "Type": 1,
             "Title": "闲趣·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_idle01.play_favor_word_nanzhu_idle01"
         },
         {
             "Type": 1,
             "Title": "闲趣·二",
-            "Content": "它是我与这世界的连结，见证我所经历的一切。"
+            "Content": "它是我与这世界的连结，见证我所经历的一切。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_idle02.play_favor_word_nanzhu_idle02"
         },
         {
             "Type": 1,
             "Title": "闲趣·三",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_idle03.play_favor_word_nanzhu_idle03"
         },
         {
             "Type": 1,
             "Title": "入队·一",
-            "Content": "路途还很遥远，继续前进吧。"
+            "Content": "路途还很遥远，继续前进吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_join_team_01.play_favor_word_nanzhu_join_team_01"
         },
         {
             "Type": 1,
             "Title": "入队·二",
-            "Content": "新的发现吗？"
+            "Content": "新的发现吗？",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_join_team_02.play_favor_word_nanzhu_join_team_02"
         },
         {
             "Type": 1,
             "Title": "入队·三",
-            "Content": "我想留在大家身边……从过去，一同迈向明天。"
+            "Content": "我想留在大家身边……从过去，一同迈向明天。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_join_team_03.play_favor_word_nanzhu_join_team_03"
         },
         {
             "Type": 1,
             "Title": "突破·一",
-            "Content": "世界……似乎变得更加清晰。"
+            "Content": "世界……似乎变得更加清晰。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_rankup01.play_favor_word_nanzhu_rankup01"
         },
         {
             "Type": 1,
             "Title": "突破·二",
-            "Content": "这股力量虽有些不可思议，却让我感到十分的安心。"
+            "Content": "这股力量虽有些不可思议，却让我感到十分的安心。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_rankup02.play_favor_word_nanzhu_rankup02"
         },
         {
             "Type": 1,
             "Title": "突破·三",
-            "Content": "我还需要更多的时间去了解、熟悉这陌生的世界。"
+            "Content": "我还需要更多的时间去了解、熟悉这陌生的世界。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_rankup03.play_favor_word_nanzhu_rankup03"
         },
         {
             "Type": 1,
             "Title": "突破·四",
-            "Content": "又是新的旅途吗？新的声音，新的故事，还有……碎片般的记忆。"
+            "Content": "又是新的旅途吗？新的声音，新的故事，还有……碎片般的记忆。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_rankup04.play_favor_word_nanzhu_rankup04"
         },
         {
             "Type": 1,
             "Title": "突破·五",
-            "Content": "陆止于此，海始于斯，我们的旅途还远未结束。"
+            "Content": "陆止于此，海始于斯，我们的旅途还远未结束。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_rankup05.play_favor_word_nanzhu_rankup05"
         },
         {
             "Type": 2,
             "Title": "重击·一",
-            "Content": "揭开帷幕。"
+            "Content": "揭开帷幕。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_burst_start.play_favor_word_dark_nanzhu_burst_start"
         },
         {
             "Type": 2,
             "Title": "重击·二",
-            "Content": "就此消失！"
+            "Content": "就此消失！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_burst_heavyatk.play_favor_word_dark_nanzhu_burst_heavyatk"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·一",
-            "Content": "破！"
+            "Content": "破！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_01.play_favor_word_nanzhu_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·二",
-            "Content": "消散吧。"
+            "Content": "消散吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_02.play_favor_word_nanzhu_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·三",
-            "Content": "声形回束。"
+            "Content": "声形回束。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_03.play_favor_word_nanzhu_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·四",
-            "Content": "破绽百出。"
+            "Content": "破绽百出。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_04.play_favor_word_nanzhu_skill_04"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·五",
-            "Content": "不要犹豫。"
+            "Content": "不要犹豫。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_05.play_favor_word_nanzhu_skill_05"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·六",
-            "Content": "和光尘影。"
+            "Content": "和光尘影。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_skill_06.play_favor_word_nanzhu_skill_06"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·七",
-            "Content": "随影而来。"
+            "Content": "随影而来。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_01.play_favor_word_dark_nanzhu_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·八",
-            "Content": "胜负已定。"
+            "Content": "胜负已定。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_02.play_favor_word_dark_nanzhu_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·九",
-            "Content": "不再犹豫！"
+            "Content": "不再犹豫！",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_03.play_favor_word_dark_nanzhu_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十",
-            "Content": "无所遁形。"
+            "Content": "无所遁形。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_burst_01.play_favor_word_dark_nanzhu_skill_burst_01"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十一",
-            "Content": "从未破灭。"
+            "Content": "从未破灭。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_burst_02.play_favor_word_dark_nanzhu_skill_burst_02"
         },
         {
             "Type": 2,
             "Title": "共鸣技能·十二",
-            "Content": "随影而去。"
+            "Content": "随影而去。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_skill_burst_03.play_favor_word_dark_nanzhu_skill_burst_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·一",
-            "Content": "回声，于此共鸣。"
+            "Content": "回声，于此共鸣。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_burst_skill_01.play_favor_word_nanzhu_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·二",
-            "Content": "弥光之际。"
+            "Content": "弥光之际。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_burst_skill_02.play_favor_word_nanzhu_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·三",
-            "Content": "已至终时。"
+            "Content": "已至终时。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_burst_skill_03.play_favor_word_nanzhu_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·四",
-            "Content": "化羽，湮灭万律。"
+            "Content": "化羽，湮灭万律。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_burst_skill_01.play_favor_word_dark_nanzhu_burst_skill_01"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·五",
-            "Content": "为我所用。"
+            "Content": "为我所用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_burst_skill_02.play_favor_word_dark_nanzhu_burst_skill_02"
         },
         {
             "Type": 2,
             "Title": "共鸣解放·六",
-            "Content": "熄灭，残响之音。"
+            "Content": "熄灭，残响之音。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_dark_nanzhu_burst_skill_03.play_favor_word_dark_nanzhu_burst_skill_03"
         },
         {
             "Type": 2,
             "Title": "受击·一",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_behit_fly_01.play_favor_word_nanzhu_behit_fly_01"
         },
         {
             "Type": 2,
             "Title": "受击·二",
-            "Content": "唔……找准时机。"
+            "Content": "唔……找准时机。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_behit_fly_02.play_favor_word_nanzhu_behit_fly_02"
         },
         {
             "Type": 2,
             "Title": "受击·三",
-            "Content": "再来一次。"
+            "Content": "再来一次。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_behit_fly_03.play_favor_word_nanzhu_behit_fly_03"
         },
         {
             "Type": 2,
             "Title": "重伤·一",
-            "Content": "呼……"
+            "Content": "呼……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hp70.play_favor_word_nanzhu_hp70"
         },
         {
             "Type": 2,
             "Title": "重伤·二",
-            "Content": "保持冷静。"
+            "Content": "保持冷静。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hp50.play_favor_word_nanzhu_hp50"
         },
         {
             "Type": 2,
             "Title": "重伤·三",
-            "Content": "最后的机会……"
+            "Content": "最后的机会……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hp30.play_favor_word_nanzhu_hp30"
         },
         {
             "Type": 2,
             "Title": "力竭·一",
-            "Content": "还不能……结束"
+            "Content": "还不能……结束",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_die_01.play_favor_word_nanzhu_die_01"
         },
         {
             "Type": 2,
             "Title": "力竭·二",
-            "Content": "到极限了吗……"
+            "Content": "到极限了吗……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_die_02.play_favor_word_nanzhu_die_02"
         },
         {
             "Type": 2,
             "Title": "力竭·三",
-            "Content": "声音在消逝……"
+            "Content": "声音在消逝……",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_die_03.play_favor_word_nanzhu_die_03"
         },
         {
             "Type": 2,
             "Title": "声骸异能·召唤",
-            "Content": "希望这个有用。"
+            "Content": "希望这个有用。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hx_summon.play_favor_word_nanzhu_hx_summon"
         },
         {
             "Type": 2,
             "Title": "声骸异能·变身",
-            "Content": "声形合一。"
+            "Content": "声形合一。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hx_change.play_favor_word_nanzhu_hx_change"
         },
         {
             "Type": 2,
             "Title": "变奏技能",
-            "Content": "速战速决。"
+            "Content": "速战速决。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_qte.play_favor_word_nanzhu_qte"
         },
         {
             "Type": 2,
             "Title": "进战提醒",
-            "Content": "交给我吧。"
+            "Content": "交给我吧。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_enter_battle.play_favor_word_nanzhu_enter_battle"
         },
         {
             "Type": 2,
             "Title": "滑翔",
-            "Content": "跟随风的方向。"
+            "Content": "跟随风的方向。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_fly.play_favor_word_nanzhu_fly"
         },
         {
             "Type": 2,
             "Title": "钩索",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_hook.play_favor_word_nanzhu_hook"
         },
         {
             "Type": 2,
             "Title": "感知",
-            "Content": "旅途中总是充满惊喜。"
+            "Content": "旅途中总是充满惊喜。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_scan.play_favor_word_nanzhu_scan"
         },
         {
             "Type": 2,
             "Title": "冲刺",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_dash.play_favor_word_nanzhu_dash"
         },
         {
             "Type": 2,
             "Title": "纵跑",
-            "Content": "（语气词）"
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_fast_run.play_favor_word_nanzhu_fast_run"
         },
         {
             "Type": 2,
             "Title": "获得补给·一",
-            "Content": "意外的发现。"
+            "Content": "意外的发现。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_chest_01.play_favor_word_nanzhu_chest_01"
         },
         {
             "Type": 2,
             "Title": "获得补给·二",
-            "Content": "过去留存的证明。"
+            "Content": "过去留存的证明。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_chest_02.play_favor_word_nanzhu_chest_02"
         },
         {
             "Type": 2,
             "Title": "获得补给·三",
-            "Content": "珍惜好旅途中每一份收获。"
+            "Content": "珍惜好旅途中每一份收获。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_nanzhu_chest_03.play_favor_word_nanzhu_chest_03"
         }
     ],
     "Goods": [],
@@ -3571,5 +3623,17 @@
                 "Value": 80000
             }
         ]
+    },
+    "Skin": {
+        "81001501": {
+            "Id": 81001501,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "漂泊者·衍射",
+            "TitleName": "远方旅人",
+            "SubDecName": "漂泊者-初始服饰",
+            "BgDescription": "漂泊者常见的装束。这是他的起点，也将陪伴他至终点。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI"
+        }
     }
 }
