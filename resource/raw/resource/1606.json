@@ -1,0 +1,3866 @@
+{
+    "Id": 1606,
+    "Rarity": 5,
+    "Weapon": 4,
+    "Element": 6,
+    "Tag": {
+        "3": {
+            "Name": "快速协奏",
+            "Desc": "拥有较高的协奏效率",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA3.SP_RoleLabelA3",
+            "Color": "ff4040"
+        },
+        "6": {
+            "Name": "共鸣技能伤害",
+            "Desc": "共鸣技能伤害较高",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB3.SP_RoleLabelB3",
+            "Color": "ffde73"
+        },
+        "8": {
+            "Name": "牵引",
+            "Desc": "可以将一定范围内的目标牵引至特定位置",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC1.SP_RoleLabelC1",
+            "Color": "77adff"
+        },
+        "14": {
+            "Name": "湮灭伤害加深",
+            "Desc": "可以使队伍中特定角色湮灭伤害加深",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD4.SP_RoleLabelD4",
+            "Color": "ff7777"
+        },
+        "20": {
+            "Name": "普攻伤害加深",
+            "Desc": "可以使队伍中特定角色普攻伤害加深",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD7.SP_RoleLabelD7",
+            "Color": "ff7777"
+        }
+    },
+    "Name": "洛可可",
+    "NickName": "洛可可",
+    "Desc": "愚人剧团副手、万能道具师兼即兴喜剧演员洛可可将剧团打理得井井有条。\n她随身携带的珍奇箱似乎装有整个世界，又或者，是她用箱子构建了一个世界。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.T_IconRoleHead256_33_UI",
+    "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.T_IconRole_Pile_luokeke_UI",
+    "CharaInfo": {
+        "Birth": "敬请期待",
+        "Sex": "敬请期待",
+        "Country": "敬请期待",
+        "Influence": "敬请期待",
+        "Info": "愚人剧团副手、万能道具师兼即兴喜剧演员洛可可将剧团打理得井井有条。\n她随身携带的珍奇箱似乎装有整个世界，又或者，是她用箱子构建了一个世界。",
+        "TalentName": "敬请期待",
+        "TalentDoc": "敬请期待",
+        "TalentCertification": "敬请期待",
+        "CVNameCn": "敬请期待",
+        "CVNameJp": "敬请期待",
+        "CVNameKo": "敬请期待",
+        "CVNameEn": "敬请期待"
+    },
+    "Stories": [
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待"
+        }
+    ],
+    "Voices": [
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer01.play_favor_word_luokeke_sys_toplayer01"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer02.play_favor_word_luokeke_sys_toplayer02"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer03.play_favor_word_luokeke_sys_toplayer03"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer04.play_favor_word_luokeke_sys_toplayer04"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer05.play_favor_word_luokeke_sys_toplayer05"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_taste.play_favor_word_luokeke_sys_taste"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_worry.play_favor_word_luokeke_sys_worry"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_foodlike.play_favor_word_luokeke_sys_foodlike"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_foodhate.play_favor_word_luokeke_sys_foodhate"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_dream.play_favor_word_luokeke_sys_dream"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_story_obj.play_favor_word_luokeke_sys_story_obj"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_story_exp.play_favor_word_luokeke_sys_story_exp"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_bulante.play_favor_word_luokeke_sys_about_bulante"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_kelaita.play_favor_word_luokeke_sys_about_kelaita"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_zanni.play_favor_word_luokeke_sys_about_zanni"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_feibi.play_favor_word_luokeke_sys_about_feibi"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_birthcele.play_favor_word_luokeke_sys_birthcele"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle01.play_favor_word_luokeke_idle_idle01"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle02.play_favor_word_luokeke_idle_idle02"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle03.play_favor_word_luokeke_idle_idle03"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_introduction.play_favor_word_luokeke_sys_introduction"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_gacha.play_favor_word_luokeke_sys_gacha"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_01.play_favor_word_luokeke_sys_jointeam_01"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_02.play_favor_word_luokeke_sys_jointeam_02"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_03.play_favor_word_luokeke_sys_jointeam_03"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup01.play_favor_word_luokeke_sys_rankup01"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup02.play_favor_word_luokeke_sys_rankup02"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup03.play_favor_word_luokeke_sys_rankup03"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup04.play_favor_word_luokeke_sys_rankup04"
+        },
+        {
+            "Type": 1,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup05.play_favor_word_luokeke_sys_rankup05"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_atk04_01.play_favor_word_luokeke_atk_atk04_01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_heavyatk_success_03.play_favor_word_luokeke_atk_heavyatk_success_03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk02.play_favor_word_luokeke_atk_fallingatk02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk03.play_favor_word_luokeke_atk_fallingatk03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk04.play_favor_word_luokeke_atk_fallingatk04"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_01.play_favor_word_luokeke_skill_skill01_01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_02.play_favor_word_luokeke_skill_skill01_02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_03.play_favor_word_luokeke_skill_skill01_03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_01.play_favor_word_luokeke_burst_burst01_01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_02.play_favor_word_luokeke_burst_burst01_02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_03.play_favor_word_luokeke_burst_burst01_03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_qte.play_favor_word_luokeke_skill_qte"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_behitfly_02.play_favor_word_luokeke_com_behitfly_02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_behitfly_03.play_favor_word_luokeke_com_behitfly_03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown01.play_favor_word_luokeke_com_hpdown01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown02.play_favor_word_luokeke_com_hpdown02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown03.play_favor_word_luokeke_com_hpdown03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_01.play_favor_word_luokeke_com_die_01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_02.play_favor_word_luokeke_com_die_02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_03.play_favor_word_luokeke_com_die_03"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_hxsummon.play_favor_word_luokeke_skill_hxsummon"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_hxchange.play_favor_word_luokeke_skill_hxchange"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_engage.play_favor_word_luokeke_com_engage"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_scan.play_favor_word_luokeke_com_scan"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_01.play_favor_word_luokeke_com_openbox_01"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_02.play_favor_word_luokeke_com_openbox_02"
+        },
+        {
+            "Type": 2,
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_03.play_favor_word_luokeke_com_openbox_03"
+        }
+    ],
+    "Goods": [
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure79_UI.T_Treasure79_UI"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure80_UI.T_Treasure80_UI"
+        },
+        {
+            "Title": "敬请期待",
+            "Content": "敬请期待",
+            "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure81_UI.T_Treasure81_UI"
+        }
+    ],
+    "SpecialCook": {
+        "Id": 80001043,
+        "Name": "多球冰激凌",
+        "Desc": "减少队伍中所有共鸣者18%翱翔耐力消耗，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_066_UI.T_IconCook_066_UI",
+        "Rarity": 3
+    },
+    "Stats": {
+        "0": {
+            "1": {
+                "Life": 980.0,
+                "Atk": 30.0,
+                "Def": 98.0
+            },
+            "2": {
+                "Life": 1062.516,
+                "Atk": 32.526,
+                "Def": 106.0654
+            },
+            "3": {
+                "Life": 1145.13,
+                "Atk": 35.055,
+                "Def": 114.1406
+            },
+            "4": {
+                "Life": 1227.744,
+                "Atk": 37.584,
+                "Def": 122.2158
+            },
+            "5": {
+                "Life": 1310.26,
+                "Atk": 40.11,
+                "Def": 130.291
+            },
+            "6": {
+                "Life": 1392.874,
+                "Atk": 42.639,
+                "Def": 138.3662
+            },
+            "7": {
+                "Life": 1475.488,
+                "Atk": 45.168,
+                "Def": 146.4414
+            },
+            "8": {
+                "Life": 1558.004,
+                "Atk": 47.694,
+                "Def": 154.5166
+            },
+            "9": {
+                "Life": 1640.618,
+                "Atk": 50.223,
+                "Def": 162.5918
+            },
+            "10": {
+                "Life": 1723.232,
+                "Atk": 52.752,
+                "Def": 170.667
+            },
+            "11": {
+                "Life": 1805.748,
+                "Atk": 55.278,
+                "Def": 178.7422
+            },
+            "12": {
+                "Life": 1888.362,
+                "Atk": 57.807,
+                "Def": 186.8174
+            },
+            "13": {
+                "Life": 1970.976,
+                "Atk": 60.336,
+                "Def": 194.8926
+            },
+            "14": {
+                "Life": 2053.59,
+                "Atk": 62.865,
+                "Def": 202.9678
+            },
+            "15": {
+                "Life": 2136.106,
+                "Atk": 65.391,
+                "Def": 211.043
+            },
+            "16": {
+                "Life": 2218.72,
+                "Atk": 67.92,
+                "Def": 219.1182
+            },
+            "17": {
+                "Life": 2301.334,
+                "Atk": 70.449,
+                "Def": 227.1934
+            },
+            "18": {
+                "Life": 2383.85,
+                "Atk": 72.975,
+                "Def": 235.2686
+            },
+            "19": {
+                "Life": 2466.464,
+                "Atk": 75.504,
+                "Def": 243.3438
+            },
+            "20": {
+                "Life": 2549.078,
+                "Atk": 78.033,
+                "Def": 251.419
+            }
+        },
+        "1": {
+            "20": {
+                "Life": 3202.346,
+                "Atk": 100.533,
+                "Def": 314.9328
+            },
+            "21": {
+                "Life": 3284.96,
+                "Atk": 103.059,
+                "Def": 323.008
+            },
+            "22": {
+                "Life": 3367.574,
+                "Atk": 105.588,
+                "Def": 331.0832
+            },
+            "23": {
+                "Life": 3450.09,
+                "Atk": 108.117,
+                "Def": 339.1584
+            },
+            "24": {
+                "Life": 3532.704,
+                "Atk": 110.646,
+                "Def": 347.2336
+            },
+            "25": {
+                "Life": 3615.318,
+                "Atk": 113.172,
+                "Def": 355.3088
+            },
+            "26": {
+                "Life": 3697.932,
+                "Atk": 115.701,
+                "Def": 363.384
+            },
+            "27": {
+                "Life": 3780.448,
+                "Atk": 118.23,
+                "Def": 371.4592
+            },
+            "28": {
+                "Life": 3863.062,
+                "Atk": 120.756,
+                "Def": 379.5344
+            },
+            "29": {
+                "Life": 3945.676,
+                "Atk": 123.285,
+                "Def": 387.6096
+            },
+            "30": {
+                "Life": 4028.192,
+                "Atk": 125.814,
+                "Def": 395.6848
+            },
+            "31": {
+                "Life": 4110.806,
+                "Atk": 128.34,
+                "Def": 403.76
+            },
+            "32": {
+                "Life": 4193.42,
+                "Atk": 130.869,
+                "Def": 411.8352
+            },
+            "33": {
+                "Life": 4275.936,
+                "Atk": 133.398,
+                "Def": 419.9104
+            },
+            "34": {
+                "Life": 4358.55,
+                "Atk": 135.924,
+                "Def": 427.9856
+            },
+            "35": {
+                "Life": 4441.164,
+                "Atk": 138.453,
+                "Def": 436.0608
+            },
+            "36": {
+                "Life": 4523.778,
+                "Atk": 140.982,
+                "Def": 444.136
+            },
+            "37": {
+                "Life": 4606.294,
+                "Atk": 143.511,
+                "Def": 452.2112
+            },
+            "38": {
+                "Life": 4688.908,
+                "Atk": 146.037,
+                "Def": 460.2864
+            },
+            "39": {
+                "Life": 4771.522,
+                "Atk": 148.566,
+                "Def": 468.3616
+            },
+            "40": {
+                "Life": 4854.038,
+                "Atk": 151.095,
+                "Def": 476.4368
+            }
+        },
+        "2": {
+            "40": {
+                "Life": 5507.404,
+                "Atk": 173.595,
+                "Def": 539.9506
+            },
+            "41": {
+                "Life": 5590.018,
+                "Atk": 176.121,
+                "Def": 548.0258
+            },
+            "42": {
+                "Life": 5672.534,
+                "Atk": 178.65,
+                "Def": 556.101
+            },
+            "43": {
+                "Life": 5755.148,
+                "Atk": 181.179,
+                "Def": 564.1762
+            },
+            "44": {
+                "Life": 5837.762,
+                "Atk": 183.705,
+                "Def": 572.2514
+            },
+            "45": {
+                "Life": 5920.278,
+                "Atk": 186.234,
+                "Def": 580.3266
+            },
+            "46": {
+                "Life": 6002.892,
+                "Atk": 188.763,
+                "Def": 588.4018
+            },
+            "47": {
+                "Life": 6085.506,
+                "Atk": 191.292,
+                "Def": 596.477
+            },
+            "48": {
+                "Life": 6168.12,
+                "Atk": 193.818,
+                "Def": 604.5522
+            },
+            "49": {
+                "Life": 6250.636,
+                "Atk": 196.347,
+                "Def": 612.6274
+            },
+            "50": {
+                "Life": 6333.25,
+                "Atk": 198.876,
+                "Def": 620.7026
+            }
+        },
+        "3": {
+            "50": {
+                "Life": 6986.616,
+                "Atk": 221.376,
+                "Def": 684.2164
+            },
+            "51": {
+                "Life": 7069.132,
+                "Atk": 223.902,
+                "Def": 692.2916
+            },
+            "52": {
+                "Life": 7151.746,
+                "Atk": 226.431,
+                "Def": 700.3668
+            },
+            "53": {
+                "Life": 7234.36,
+                "Atk": 228.96,
+                "Def": 708.442
+            },
+            "54": {
+                "Life": 7316.876,
+                "Atk": 231.486,
+                "Def": 716.5172
+            },
+            "55": {
+                "Life": 7399.49,
+                "Atk": 234.015,
+                "Def": 724.5924
+            },
+            "56": {
+                "Life": 7482.104,
+                "Atk": 236.544,
+                "Def": 732.6676
+            },
+            "57": {
+                "Life": 7564.718,
+                "Atk": 239.073,
+                "Def": 740.7428
+            },
+            "58": {
+                "Life": 7647.234,
+                "Atk": 241.599,
+                "Def": 748.818
+            },
+            "59": {
+                "Life": 7729.848,
+                "Atk": 244.128,
+                "Def": 756.8932
+            },
+            "60": {
+                "Life": 7812.462,
+                "Atk": 246.657,
+                "Def": 764.9684
+            }
+        },
+        "4": {
+            "60": {
+                "Life": 8465.73,
+                "Atk": 269.157,
+                "Def": 828.492
+            },
+            "61": {
+                "Life": 8548.344,
+                "Atk": 271.683,
+                "Def": 836.5672
+            },
+            "62": {
+                "Life": 8630.958,
+                "Atk": 274.212,
+                "Def": 844.6424
+            },
+            "63": {
+                "Life": 8713.474,
+                "Atk": 276.741,
+                "Def": 852.7176
+            },
+            "64": {
+                "Life": 8796.088,
+                "Atk": 279.267,
+                "Def": 860.7928
+            },
+            "65": {
+                "Life": 8878.702,
+                "Atk": 281.796,
+                "Def": 868.868
+            },
+            "66": {
+                "Life": 8961.218,
+                "Atk": 284.325,
+                "Def": 876.9334
+            },
+            "67": {
+                "Life": 9043.832,
+                "Atk": 286.851,
+                "Def": 885.0086
+            },
+            "68": {
+                "Life": 9126.446,
+                "Atk": 289.38,
+                "Def": 893.0838
+            },
+            "69": {
+                "Life": 9209.06,
+                "Atk": 291.909,
+                "Def": 901.159
+            },
+            "70": {
+                "Life": 9291.576,
+                "Atk": 294.438,
+                "Def": 909.2342
+            }
+        },
+        "5": {
+            "70": {
+                "Life": 9944.942,
+                "Atk": 309.438,
+                "Def": 972.7578
+            },
+            "71": {
+                "Life": 10027.556,
+                "Atk": 311.964,
+                "Def": 980.833
+            },
+            "72": {
+                "Life": 10110.072,
+                "Atk": 314.493,
+                "Def": 988.9082
+            },
+            "73": {
+                "Life": 10192.686,
+                "Atk": 317.022,
+                "Def": 996.9834
+            },
+            "74": {
+                "Life": 10275.3,
+                "Atk": 319.548,
+                "Def": 1005.0586
+            },
+            "75": {
+                "Life": 10357.816,
+                "Atk": 322.077,
+                "Def": 1013.1338
+            },
+            "76": {
+                "Life": 10440.43,
+                "Atk": 324.606,
+                "Def": 1021.209
+            },
+            "77": {
+                "Life": 10523.044,
+                "Atk": 327.132,
+                "Def": 1029.2842
+            },
+            "78": {
+                "Life": 10605.56,
+                "Atk": 329.661,
+                "Def": 1037.3594
+            },
+            "79": {
+                "Life": 10688.174,
+                "Atk": 332.19,
+                "Def": 1045.4346
+            },
+            "80": {
+                "Life": 10770.788,
+                "Atk": 334.719,
+                "Def": 1053.5098
+            }
+        },
+        "6": {
+            "80": {
+                "Life": 11424.154,
+                "Atk": 349.719,
+                "Def": 1117.0236
+            },
+            "81": {
+                "Life": 11506.67,
+                "Atk": 352.245,
+                "Def": 1125.0988
+            },
+            "82": {
+                "Life": 11589.284,
+                "Atk": 354.774,
+                "Def": 1133.174
+            },
+            "83": {
+                "Life": 11671.898,
+                "Atk": 357.303,
+                "Def": 1141.2492
+            },
+            "84": {
+                "Life": 11754.414,
+                "Atk": 359.829,
+                "Def": 1149.3244
+            },
+            "85": {
+                "Life": 11837.028,
+                "Atk": 362.358,
+                "Def": 1157.3996
+            },
+            "86": {
+                "Life": 11919.642,
+                "Atk": 364.887,
+                "Def": 1165.4748
+            },
+            "87": {
+                "Life": 12002.158,
+                "Atk": 367.413,
+                "Def": 1173.55
+            },
+            "88": {
+                "Life": 12084.772,
+                "Atk": 369.942,
+                "Def": 1181.6252
+            },
+            "89": {
+                "Life": 12167.386,
+                "Atk": 372.471,
+                "Def": 1189.7004
+            },
+            "90": {
+                "Life": 12250.0,
+                "Atk": 375.0,
+                "Def": 1197.7756
+            }
+        }
+    },
+    "LevelEXP": [
+        0,
+        400,
+        400,
+        500,
+        600,
+        700,
+        900,
+        1000,
+        1200,
+        1300,
+        1500,
+        1700,
+        2000,
+        2200,
+        2400,
+        2700,
+        3000,
+        3300,
+        3600,
+        3900,
+        4300,
+        4600,
+        5000,
+        5400,
+        5800,
+        6300,
+        6700,
+        7200,
+        7700,
+        8200,
+        8700,
+        9300,
+        9800,
+        10400,
+        11000,
+        11700,
+        12300,
+        13000,
+        13700,
+        14400,
+        15100,
+        15900,
+        16700,
+        17500,
+        18300,
+        19200,
+        20000,
+        20900,
+        21900,
+        22800,
+        23800,
+        24800,
+        25800,
+        26900,
+        28000,
+        29100,
+        30300,
+        31400,
+        32600,
+        33900,
+        35100,
+        36400,
+        37700,
+        39100,
+        40500,
+        41900,
+        43300,
+        44800,
+        46300,
+        47900,
+        49500,
+        51100,
+        52800,
+        54500,
+        56200,
+        58000,
+        59800,
+        61600,
+        63500,
+        65400,
+        67400,
+        69400,
+        71400,
+        73500,
+        75600,
+        77800,
+        80000,
+        82300,
+        84600,
+        86900,
+        105600,
+        107400,
+        110000,
+        113600,
+        118600,
+        125500,
+        134900,
+        147300,
+        163600,
+        184500
+    ],
+    "SkillTrees": {
+        "1": {
+            "ParentNodes": [],
+            "NodeType": 2,
+            "Coordinate": 1,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "佩洛，悠着点",
+                "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，攻击目标，造成<color=Dark>湮灭伤害</color>，命中目标时若【想象力】至少有{0}点，则将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。可通过持续按住<color=Highlight>普攻</color>进行蓄力，蓄力越久能获得越多的【想象力】，蓄力期间若耐力耗尽亦可继续蓄力。蓄力中途松开<color=Highlight>普攻</color>，或者达到蓄力的最大时间时，会自动施放重击。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。",
+                "Param": [
+                    "100"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
+                "Type": "常态攻击",
+                "Level": {
+                    "1": {
+                        "Name": "第一段伤害",
+                        "Param": [
+                            [
+                                "36.81%",
+                                "39.83%",
+                                "42.85%",
+                                "47.07%",
+                                "50.09%",
+                                "53.56%",
+                                "58.39%",
+                                "63.22%",
+                                "68.05%",
+                                "73.18%",
+                                "79.21%",
+                                "85.25%",
+                                "91.29%",
+                                "97.32%",
+                                "103.36%",
+                                "109.39%",
+                                "115.43%",
+                                "121.47%",
+                                "127.50%",
+                                "133.54%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "2": {
+                        "Name": "第二段伤害",
+                        "Param": [
+                            [
+                                "19.19%*3",
+                                "20.76%*3",
+                                "22.33%*3",
+                                "24.53%*3",
+                                "26.11%*3",
+                                "27.92%*3",
+                                "30.43%*3",
+                                "32.95%*3",
+                                "35.47%*3",
+                                "38.14%*3",
+                                "41.29%*3",
+                                "44.43%*3",
+                                "47.58%*3",
+                                "50.72%*3",
+                                "53.87%*3",
+                                "57.01%*3",
+                                "60.16%*3",
+                                "63.31%*3",
+                                "66.45%*3",
+                                "69.60%*3"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "3": {
+                        "Name": "第三段伤害",
+                        "Param": [
+                            [
+                                "17.00%*2+51.00%",
+                                "18.40%*2+55.19%",
+                                "19.79%*2+59.37%",
+                                "21.74%*2+65.22%",
+                                "23.14%*2+69.41%",
+                                "24.74%*2+74.22%",
+                                "26.97%*2+80.91%",
+                                "29.20%*2+87.60%",
+                                "31.43%*2+94.29%",
+                                "33.80%*2+101.40%",
+                                "36.59%*2+109.76%",
+                                "39.38%*2+118.13%",
+                                "42.17%*2+126.49%",
+                                "44.95%*2+134.85%",
+                                "47.74%*2+143.22%",
+                                "50.53%*2+151.58%",
+                                "53.32%*2+159.95%",
+                                "56.11%*2+168.31%",
+                                "58.89%*2+176.67%",
+                                "61.68%*2+185.04%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "4": {
+                        "Name": "第四段伤害",
+                        "Param": [
+                            [
+                                "52.41%*2",
+                                "56.70%*2",
+                                "61.00%*2",
+                                "67.02%*2",
+                                "71.31%*2",
+                                "76.26%*2",
+                                "83.13%*2",
+                                "90.01%*2",
+                                "96.88%*2",
+                                "104.19%*2",
+                                "112.78%*2",
+                                "121.37%*2",
+                                "129.97%*2",
+                                "138.56%*2",
+                                "147.16%*2",
+                                "155.75%*2",
+                                "164.34%*2",
+                                "172.94%*2",
+                                "181.53%*2",
+                                "190.13%*2"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "5": {
+                        "Name": "重击伤害",
+                        "Param": [
+                            [
+                                "85.00%",
+                                "91.97%",
+                                "98.94%",
+                                "108.70%",
+                                "115.67%",
+                                "123.69%",
+                                "134.84%",
+                                "145.99%",
+                                "157.14%",
+                                "168.99%",
+                                "182.93%",
+                                "196.87%",
+                                "210.81%",
+                                "224.75%",
+                                "238.69%",
+                                "252.63%",
+                                "266.57%",
+                                "280.51%",
+                                "294.45%",
+                                "308.39%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "6": {
+                        "Name": "空中攻击伤害",
+                        "Param": [
+                            [
+                                "52.70%",
+                                "57.03%",
+                                "61.35%",
+                                "67.40%",
+                                "71.72%",
+                                "76.69%",
+                                "83.60%",
+                                "90.52%",
+                                "97.43%",
+                                "104.78%",
+                                "113.42%",
+                                "122.06%",
+                                "130.71%",
+                                "139.35%",
+                                "147.99%",
+                                "156.63%",
+                                "165.28%",
+                                "173.92%",
+                                "182.56%",
+                                "191.21%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "7": {
+                        "Name": "闪避反击伤害",
+                        "Param": [
+                            [
+                                "34.66%*3",
+                                "37.50%*3",
+                                "40.34%*3",
+                                "44.32%*3",
+                                "47.16%*3",
+                                "50.43%*3",
+                                "54.97%*3",
+                                "59.52%*3",
+                                "64.07%*3",
+                                "68.90%*3",
+                                "74.58%*3",
+                                "80.26%*3",
+                                "85.94%*3",
+                                "91.63%*3",
+                                "97.31%*3",
+                                "102.99%*3",
+                                "108.68%*3",
+                                "114.36%*3",
+                                "120.04%*3",
+                                "125.72%*3"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "8": {
+                        "Name": "重击耐力消耗",
+                        "Param": [
+                            [
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "9": {
+                        "Name": "重击蓄力时每秒耐力消耗",
+                        "Param": [
+                            [
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15",
+                                "15"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "10": {
+                        "Name": "空中攻击耐力消耗",
+                        "Param": [
+                            [
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30"
+                            ]
+                        ],
+                        "Format": null
+                    }
+                },
+                "Consume": {
+                    "1": [],
+                    "2": [
+                        {
+                            "Key": 43020051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 1500
+                        }
+                    ],
+                    "3": [
+                        {
+                            "Key": 43020051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 2000
+                        }
+                    ],
+                    "4": [
+                        {
+                            "Key": 43020052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 4500
+                        }
+                    ],
+                    "5": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 6000
+                        }
+                    ],
+                    "6": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 16000
+                        }
+                    ],
+                    "7": [
+                        {
+                            "Key": 43020053,
+                            "Value": 5
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 30000
+                        }
+                    ],
+                    "8": [
+                        {
+                            "Key": 43020054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 50000
+                        }
+                    ],
+                    "9": [
+                        {
+                            "Key": 43020054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 70000
+                        }
+                    ],
+                    "10": [
+                        {
+                            "Key": 43020054,
+                            "Value": 6
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 4
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 100000
+                        }
+                    ]
+                },
+                "Damage": {
+                    "1606001001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            3681,
+                            3983,
+                            4285,
+                            4707,
+                            5009,
+                            5356,
+                            5839,
+                            6322,
+                            6805,
+                            7318,
+                            7921,
+                            8525,
+                            9129,
+                            9732,
+                            10336,
+                            10939,
+                            11543,
+                            12147,
+                            12750,
+                            13354
+                        ],
+                        "Energy": 109,
+                        "ElementPower": 347,
+                        "HardnessLv": 10000,
+                        "ToughLv": 4330
+                    },
+                    "1606002001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            1919,
+                            2076,
+                            2233,
+                            2453,
+                            2611,
+                            2792,
+                            3043,
+                            3295,
+                            3547,
+                            3814,
+                            4129,
+                            4443,
+                            4758,
+                            5072,
+                            5387,
+                            5701,
+                            6016,
+                            6331,
+                            6645,
+                            6960
+                        ],
+                        "Energy": 57,
+                        "ElementPower": 181,
+                        "HardnessLv": 10000,
+                        "ToughLv": 2257
+                    },
+                    "1606003001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            1700,
+                            1840,
+                            1979,
+                            2174,
+                            2314,
+                            2474,
+                            2697,
+                            2920,
+                            3143,
+                            3380,
+                            3659,
+                            3938,
+                            4217,
+                            4495,
+                            4774,
+                            5053,
+                            5332,
+                            5611,
+                            5889,
+                            6168
+                        ],
+                        "Energy": 50,
+                        "ElementPower": 160,
+                        "HardnessLv": 10000,
+                        "ToughLv": 2000
+                    },
+                    "1606003003": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            5100,
+                            5519,
+                            5937,
+                            6522,
+                            6941,
+                            7422,
+                            8091,
+                            8760,
+                            9429,
+                            10140,
+                            10976,
+                            11813,
+                            12649,
+                            13485,
+                            14322,
+                            15158,
+                            15995,
+                            16831,
+                            17667,
+                            18504
+                        ],
+                        "Energy": 150,
+                        "ElementPower": 480,
+                        "HardnessLv": 10000,
+                        "ToughLv": 6000
+                    },
+                    "1606004002": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            5241,
+                            5670,
+                            6100,
+                            6702,
+                            7131,
+                            7626,
+                            8313,
+                            9001,
+                            9688,
+                            10419,
+                            11278,
+                            12137,
+                            12997,
+                            13856,
+                            14716,
+                            15575,
+                            16434,
+                            17294,
+                            18153,
+                            19013
+                        ],
+                        "Energy": 155,
+                        "ElementPower": 494,
+                        "HardnessLv": 10000,
+                        "ToughLv": 6165
+                    },
+                    "1606006001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            8500,
+                            9197,
+                            9894,
+                            10870,
+                            11567,
+                            12369,
+                            13484,
+                            14599,
+                            15714,
+                            16899,
+                            18293,
+                            19687,
+                            21081,
+                            22475,
+                            23869,
+                            25263,
+                            26657,
+                            28051,
+                            29445,
+                            30839
+                        ],
+                        "Energy": 250,
+                        "ElementPower": 800,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606002005": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            3466,
+                            3750,
+                            4034,
+                            4432,
+                            4716,
+                            5043,
+                            5497,
+                            5952,
+                            6407,
+                            6890,
+                            7458,
+                            8026,
+                            8594,
+                            9163,
+                            9731,
+                            10299,
+                            10868,
+                            11436,
+                            12004,
+                            12572
+                        ],
+                        "Energy": 52,
+                        "ElementPower": 167,
+                        "HardnessLv": 10000,
+                        "ToughLv": 5000
+                    },
+                    "1606015001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 0,
+                        "RateLv": [
+                            5270,
+                            5703,
+                            6135,
+                            6740,
+                            7172,
+                            7669,
+                            8360,
+                            9052,
+                            9743,
+                            10478,
+                            11342,
+                            12206,
+                            13071,
+                            13935,
+                            14799,
+                            15663,
+                            16528,
+                            17392,
+                            18256,
+                            19121
+                        ],
+                        "Energy": 155,
+                        "ElementPower": 496,
+                        "HardnessLv": 10000,
+                        "ToughLv": 6200
+                    },
+                    "1606006002": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            15300,
+                            16555,
+                            17810,
+                            19566,
+                            20821,
+                            22264,
+                            24271,
+                            26278,
+                            28286,
+                            30418,
+                            32928,
+                            35437,
+                            37946,
+                            40455,
+                            42964,
+                            45474,
+                            47983,
+                            50492,
+                            53001,
+                            55510
+                        ],
+                        "Energy": 250,
+                        "ElementPower": 800,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    }
+                }
+            }
+        },
+        "2": {
+            "ParentNodes": [],
+            "NodeType": 2,
+            "Coordinate": 2,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "高难度设计",
+                "Desc": "洛可可投影出自己脑中的思维风暴，牵引附近目标，造成<color=Dark>湮灭伤害</color>，并且把洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。",
+                "Param": [],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeB1.SP_IconLuokekeB1",
+                "Type": "共鸣技能",
+                "Level": {
+                    "1": {
+                        "Name": "技能伤害",
+                        "Param": [
+                            [
+                                "30.92%*8",
+                                "33.46%*8",
+                                "35.99%*8",
+                                "39.54%*8",
+                                "42.07%*8",
+                                "44.99%*8",
+                                "49.05%*8",
+                                "53.10%*8",
+                                "57.16%*8",
+                                "61.47%*8",
+                                "66.54%*8",
+                                "71.61%*8",
+                                "76.68%*8",
+                                "81.75%*8",
+                                "86.82%*8",
+                                "91.89%*8",
+                                "96.96%*8",
+                                "102.03%*8",
+                                "107.10%*8",
+                                "112.17%*8"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "2": {
+                        "Name": "冷却时间",
+                        "Param": [
+                            [
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10"
+                            ]
+                        ],
+                        "Format": "{0}秒"
+                    },
+                    "3": {
+                        "Name": "回复协奏能量",
+                        "Param": [
+                            [
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20"
+                            ]
+                        ],
+                        "Format": null
+                    }
+                },
+                "Consume": {
+                    "1": [],
+                    "2": [
+                        {
+                            "Key": 43020051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 1500
+                        }
+                    ],
+                    "3": [
+                        {
+                            "Key": 43020051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 2000
+                        }
+                    ],
+                    "4": [
+                        {
+                            "Key": 43020052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 4500
+                        }
+                    ],
+                    "5": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 6000
+                        }
+                    ],
+                    "6": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 16000
+                        }
+                    ],
+                    "7": [
+                        {
+                            "Key": 43020053,
+                            "Value": 5
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 30000
+                        }
+                    ],
+                    "8": [
+                        {
+                            "Key": 43020054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 50000
+                        }
+                    ],
+                    "9": [
+                        {
+                            "Key": 43020054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 70000
+                        }
+                    ],
+                    "10": [
+                        {
+                            "Key": 43020054,
+                            "Value": 6
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 4
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 100000
+                        }
+                    ]
+                },
+                "Damage": {
+                    "1606009001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 4,
+                        "RateLv": [
+                            3092,
+                            3346,
+                            3599,
+                            3954,
+                            4207,
+                            4499,
+                            4905,
+                            5310,
+                            5716,
+                            6147,
+                            6654,
+                            7161,
+                            7668,
+                            8175,
+                            8682,
+                            9189,
+                            9696,
+                            10203,
+                            10710,
+                            11217
+                        ],
+                        "Energy": 175,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 2500
+                    }
+                }
+            }
+        },
+        "3": {
+            "ParentNodes": [],
+            "NodeType": 2,
+            "Coordinate": 3,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "即兴喜剧，开场",
+                "Desc": "洛可可的即兴喜剧开场！对目标造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。洛可可暴击高于{0}时，每多出{1}暴击，施放该技能时，使队伍中的角色攻击提升{2}点，持续{3}秒。最高可提升{4}点。",
+                "Param": [
+                    "50%",
+                    "0.1%",
+                    "1",
+                    "30",
+                    "200"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeC1.SP_IconLuokekeC1",
+                "Type": "共鸣解放",
+                "Level": {
+                    "1": {
+                        "Name": "技能伤害",
+                        "Param": [
+                            [
+                                "140.00%*3",
+                                "151.48%*3",
+                                "162.96%*3",
+                                "179.04%*3",
+                                "190.52%*3",
+                                "203.72%*3",
+                                "222.09%*3",
+                                "240.45%*3",
+                                "258.82%*3",
+                                "278.34%*3",
+                                "301.30%*3",
+                                "324.26%*3",
+                                "347.22%*3",
+                                "370.18%*3",
+                                "393.14%*3",
+                                "416.10%*3",
+                                "439.06%*3",
+                                "462.02%*3",
+                                "484.98%*3",
+                                "507.94%*3"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "2": {
+                        "Name": "冷却时间",
+                        "Param": [
+                            [
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20"
+                            ]
+                        ],
+                        "Format": "{0}秒"
+                    },
+                    "3": {
+                        "Name": "消耗共鸣能量",
+                        "Param": [
+                            [
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125",
+                                "125"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "4": {
+                        "Name": "回复协奏能量",
+                        "Param": [
+                            [
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20",
+                                "20"
+                            ]
+                        ],
+                        "Format": null
+                    }
+                },
+                "Consume": {
+                    "1": [],
+                    "2": [
+                        {
+                            "Key": 43020051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 1500
+                        }
+                    ],
+                    "3": [
+                        {
+                            "Key": 43020051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 2000
+                        }
+                    ],
+                    "4": [
+                        {
+                            "Key": 43020052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 4500
+                        }
+                    ],
+                    "5": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 6000
+                        }
+                    ],
+                    "6": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 16000
+                        }
+                    ],
+                    "7": [
+                        {
+                            "Key": 43020053,
+                            "Value": 5
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 30000
+                        }
+                    ],
+                    "8": [
+                        {
+                            "Key": 43020054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 50000
+                        }
+                    ],
+                    "9": [
+                        {
+                            "Key": 43020054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 70000
+                        }
+                    ],
+                    "10": [
+                        {
+                            "Key": 43020054,
+                            "Value": 6
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 4
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 100000
+                        }
+                    ]
+                },
+                "Damage": {
+                    "1606010001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            14000,
+                            15148,
+                            16296,
+                            17904,
+                            19052,
+                            20372,
+                            22209,
+                            24045,
+                            25882,
+                            27834,
+                            30130,
+                            32426,
+                            34722,
+                            37018,
+                            39314,
+                            41610,
+                            43906,
+                            46202,
+                            48498,
+                            50794
+                        ],
+                        "Energy": 0,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 13334
+                    },
+                    "1606010004": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            16800,
+                            18178,
+                            19556,
+                            21484,
+                            22862,
+                            24446,
+                            26650,
+                            28854,
+                            31059,
+                            33401,
+                            36156,
+                            38911,
+                            41666,
+                            44421,
+                            47177,
+                            49932,
+                            52687,
+                            55442,
+                            58197,
+                            60953
+                        ],
+                        "Energy": 0,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 13334
+                    }
+                }
+            }
+        },
+        "4": {
+            "ParentNodes": [
+                7
+            ],
+            "NodeType": 3,
+            "Coordinate": 2,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "沉浸式演出",
+                "Desc": "施放共鸣技能或重击时，洛可可攻击提升{0}，持续{1}秒。",
+                "Param": [
+                    "20%",
+                    "12"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeD2.SP_IconLuokekeD2",
+                "Type": "固有技能",
+                "Level": {},
+                "Consume": {
+                    "1": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 10000
+                        }
+                    ]
+                },
+                "Damage": {}
+            }
+        },
+        "5": {
+            "ParentNodes": [
+                4
+            ],
+            "NodeType": 3,
+            "Coordinate": 3,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "无尽引力珍奇箱",
+                "Desc": "施放延奏技能后，下一个登场角色的探索工具，替换为【珍奇箱】。\n<size=10> </size>\n<size=40><color=Title>【珍奇箱】</color></size>\n·使用后以【珍奇箱】为中心牵引周围目标，造成共计{1}点的<color=Dark>湮灭伤害</color>，此次伤害为探索工具伤害。该技能施放时，视为施放声骸技能。\n·【珍奇箱】持续{0}秒，若切换至其他角色则【珍奇箱】提前消失。",
+                "Param": [
+                    "14",
+                    "100"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeD1.SP_IconLuokekeD1",
+                "Type": "固有技能",
+                "Level": {},
+                "Consume": {
+                    "1": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 20000
+                        }
+                    ]
+                },
+                "Damage": {}
+            }
+        },
+        "6": {
+            "ParentNodes": [],
+            "NodeType": 2,
+            "Coordinate": 4,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "佩洛，来帮忙",
+                "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。",
+                "Param": [],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeQTE.SP_IconLuokekeQTE",
+                "Type": "变奏技能",
+                "Level": {
+                    "1": {
+                        "Name": "技能伤害",
+                        "Param": [
+                            [
+                                "85.00%",
+                                "91.97%",
+                                "98.94%",
+                                "108.70%",
+                                "115.67%",
+                                "123.69%",
+                                "134.84%",
+                                "145.99%",
+                                "157.14%",
+                                "168.99%",
+                                "182.93%",
+                                "196.87%",
+                                "210.81%",
+                                "224.75%",
+                                "238.69%",
+                                "252.63%",
+                                "266.57%",
+                                "280.51%",
+                                "294.45%",
+                                "308.39%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "2": {
+                        "Name": "回复协奏能量",
+                        "Param": [
+                            [
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10"
+                            ]
+                        ],
+                        "Format": null
+                    }
+                },
+                "Consume": {
+                    "1": [],
+                    "2": [
+                        {
+                            "Key": 43020051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 1500
+                        }
+                    ],
+                    "3": [
+                        {
+                            "Key": 43020051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 2000
+                        }
+                    ],
+                    "4": [
+                        {
+                            "Key": 43020052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 4500
+                        }
+                    ],
+                    "5": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 6000
+                        }
+                    ],
+                    "6": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 16000
+                        }
+                    ],
+                    "7": [
+                        {
+                            "Key": 43020053,
+                            "Value": 5
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 30000
+                        }
+                    ],
+                    "8": [
+                        {
+                            "Key": 43020054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 50000
+                        }
+                    ],
+                    "9": [
+                        {
+                            "Key": 43020054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 70000
+                        }
+                    ],
+                    "10": [
+                        {
+                            "Key": 43020054,
+                            "Value": 6
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 4
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 100000
+                        }
+                    ]
+                },
+                "Damage": {
+                    "1606024001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 3,
+                        "RateLv": [
+                            8500,
+                            9197,
+                            9894,
+                            10870,
+                            11567,
+                            12369,
+                            13484,
+                            14599,
+                            15714,
+                            16899,
+                            18293,
+                            19687,
+                            21081,
+                            22475,
+                            23869,
+                            25263,
+                            26657,
+                            28051,
+                            29445,
+                            30839
+                        ],
+                        "Energy": 1000,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 13530
+                    }
+                }
+            }
+        },
+        "7": {
+            "ParentNodes": [],
+            "NodeType": 1,
+            "Coordinate": 1,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "道具师的自我修养",
+                "Desc": "<size=40><color=Title>飞跃幻想</color></size>\n·洛可可处于<color=Highlight>飞跃幻想</color>状态时，若至少拥有{0}点【想象力】，可短按<color=Highlight>普攻</color>，消耗{0}点【想象力】施放普攻<color=Highlight>幻想照进现实</color>。\n·该状态会在洛可可不处于空中状态、或处于后台时解除。\n<size=10> </size>\n<size=40><color=Title>普攻·幻想照进现实</color></size>\n·进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。第1段、第2段攻击落地后，若【想象力】大于{0}点，会将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。\n<size=10> </size>\n<size=40><color=Title>【想象力】获取规则</color></size>\n·【想象力】上限{1}点\n·常态攻击造成伤害可回复【想象力】。\n·持续按住<color=Highlight>普攻</color>进行蓄力可获得【想象力】。\n·施放共鸣技能<color=Highlight>高难度设计</color>时，回复{2}点【想象力】\n·施放变奏技能<color=Highlight>佩洛，来帮忙</color>时，回复{3}点【想象力】。",
+                "Param": [
+                    "100",
+                    "300",
+                    "100",
+                    "100"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeY.SP_IconLuokekeY",
+                "Type": "共鸣回路",
+                "Level": {
+                    "1": {
+                        "Name": "第一段伤害",
+                        "Param": [
+                            [
+                                "162.00%",
+                                "175.29%",
+                                "188.57%",
+                                "207.17%",
+                                "220.45%",
+                                "235.73%",
+                                "256.99%",
+                                "278.24%",
+                                "299.49%",
+                                "322.08%",
+                                "348.65%",
+                                "375.21%",
+                                "401.78%",
+                                "428.35%",
+                                "454.92%",
+                                "481.49%",
+                                "508.05%",
+                                "534.62%",
+                                "561.19%",
+                                "587.76%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "2": {
+                        "Name": "第二段伤害",
+                        "Param": [
+                            [
+                                "171.00%",
+                                "185.03%",
+                                "199.05%",
+                                "218.68%",
+                                "232.70%",
+                                "248.83%",
+                                "271.26%",
+                                "293.70%",
+                                "316.13%",
+                                "339.97%",
+                                "368.01%",
+                                "396.06%",
+                                "424.10%",
+                                "452.15%",
+                                "480.19%",
+                                "508.23%",
+                                "536.28%",
+                                "564.32%",
+                                "592.37%",
+                                "620.41%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "3": {
+                        "Name": "第三段伤害",
+                        "Param": [
+                            [
+                                "180.00%",
+                                "194.76%",
+                                "209.52%",
+                                "230.19%",
+                                "244.95%",
+                                "261.92%",
+                                "285.54%",
+                                "309.15%",
+                                "332.77%",
+                                "357.86%",
+                                "387.38%",
+                                "416.90%",
+                                "446.42%",
+                                "475.94%",
+                                "505.46%",
+                                "534.98%",
+                                "564.50%",
+                                "594.02%",
+                                "623.54%",
+                                "653.06%"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "4": {
+                        "Name": "第一段回复协奏能量",
+                        "Param": [
+                            [
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10",
+                                "10"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "5": {
+                        "Name": "第二段回复协奏能量",
+                        "Param": [
+                            [
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16",
+                                "16"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "6": {
+                        "Name": "第三段回复协奏能量",
+                        "Param": [
+                            [
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25",
+                                "25"
+                            ]
+                        ],
+                        "Format": null
+                    }
+                },
+                "Consume": {
+                    "1": [],
+                    "2": [
+                        {
+                            "Key": 43020051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 1500
+                        }
+                    ],
+                    "3": [
+                        {
+                            "Key": 43020051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100051,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 2000
+                        }
+                    ],
+                    "4": [
+                        {
+                            "Key": 43020052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 4500
+                        }
+                    ],
+                    "5": [
+                        {
+                            "Key": 43020052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100052,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 6000
+                        }
+                    ],
+                    "6": [
+                        {
+                            "Key": 43020053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 16000
+                        }
+                    ],
+                    "7": [
+                        {
+                            "Key": 43020053,
+                            "Value": 5
+                        },
+                        {
+                            "Key": 41100053,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 30000
+                        }
+                    ],
+                    "8": [
+                        {
+                            "Key": 43020054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 2
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 50000
+                        }
+                    ],
+                    "9": [
+                        {
+                            "Key": 43020054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 3
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 70000
+                        }
+                    ],
+                    "10": [
+                        {
+                            "Key": 43020054,
+                            "Value": 6
+                        },
+                        {
+                            "Key": 41100054,
+                            "Value": 4
+                        },
+                        {
+                            "Key": 41400194,
+                            "Value": 1
+                        },
+                        {
+                            "Key": 2,
+                            "Value": 100000
+                        }
+                    ]
+                },
+                "Damage": {
+                    "1606012001": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            16200,
+                            17529,
+                            18857,
+                            20717,
+                            22045,
+                            23573,
+                            25699,
+                            27824,
+                            29949,
+                            32208,
+                            34865,
+                            37521,
+                            40178,
+                            42835,
+                            45492,
+                            48149,
+                            50805,
+                            53462,
+                            56119,
+                            58776
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012002": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            17100,
+                            18503,
+                            19905,
+                            21868,
+                            23270,
+                            24883,
+                            27126,
+                            29370,
+                            31613,
+                            33997,
+                            36801,
+                            39606,
+                            42410,
+                            45215,
+                            48019,
+                            50823,
+                            53628,
+                            56432,
+                            59237,
+                            62041
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012003": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            18000,
+                            19476,
+                            20952,
+                            23019,
+                            24495,
+                            26192,
+                            28554,
+                            30915,
+                            33277,
+                            35786,
+                            38738,
+                            41690,
+                            44642,
+                            47594,
+                            50546,
+                            53498,
+                            56450,
+                            59402,
+                            62354,
+                            65306
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012010": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            25920,
+                            28046,
+                            30171,
+                            33147,
+                            35272,
+                            37717,
+                            41117,
+                            44518,
+                            47919,
+                            51532,
+                            55783,
+                            60034,
+                            64285,
+                            68536,
+                            72786,
+                            77037,
+                            81288,
+                            85539,
+                            89790,
+                            94041
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012011": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            27360,
+                            29604,
+                            31848,
+                            34988,
+                            37232,
+                            39812,
+                            43402,
+                            46991,
+                            50581,
+                            54395,
+                            58882,
+                            63369,
+                            67856,
+                            72343,
+                            76830,
+                            81317,
+                            85804,
+                            90291,
+                            94778,
+                            99265
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012012": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            28800,
+                            31162,
+                            33524,
+                            36830,
+                            39192,
+                            41907,
+                            45686,
+                            49464,
+                            53243,
+                            57258,
+                            61981,
+                            66704,
+                            71427,
+                            76151,
+                            80874,
+                            85597,
+                            90320,
+                            95043,
+                            99767,
+                            104490
+                        ],
+                        "Energy": 800,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012013": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            18000,
+                            19476,
+                            20952,
+                            23019,
+                            24495,
+                            26192,
+                            28554,
+                            30915,
+                            33277,
+                            35786,
+                            38738,
+                            41690,
+                            44642,
+                            47594,
+                            50546,
+                            53498,
+                            56450,
+                            59402,
+                            62354,
+                            65306
+                        ],
+                        "Energy": 120,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    },
+                    "1606012014": {
+                        "Element": 6,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            28800,
+                            31162,
+                            33524,
+                            36830,
+                            39192,
+                            41907,
+                            45686,
+                            49464,
+                            53243,
+                            57258,
+                            61981,
+                            66704,
+                            71427,
+                            76151,
+                            80874,
+                            85597,
+                            90320,
+                            95043,
+                            99767,
+                            104490
+                        ],
+                        "Energy": 120,
+                        "ElementPower": 0,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
+                    }
+                }
+            }
+        },
+        "8": {
+            "ParentNodes": [],
+            "NodeType": 3,
+            "Coordinate": 1,
+            "UnLockCondition": 0,
+            "Consume": [
+                {
+                    "Key": 43020032,
+                    "Value": 2
+                },
+                {
+                    "Key": 41100022,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 3900
+                }
+            ],
+            "Skill": {
+                "Name": "掌声鼓励",
+                "Desc": "下一位登场角色湮灭伤害加深{0}，普攻伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。",
+                "Param": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeT.SP_IconLuokekeT",
+                "Type": "延奏技能",
+                "Level": {},
+                "Consume": {
+                    "1": []
+                },
+                "Damage": {}
+            }
+        },
+        "9": {
+            "ParentNodes": [
+                1
+            ],
+            "NodeType": 4,
+            "Coordinate": 1,
+            "UnLockCondition": 500006,
+            "Consume": [
+                {
+                    "Key": 43020053,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100053,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 50000
+                }
+            ],
+            "Skill": {
+                "Name": "暴击伤害提升",
+                "Desc": "暴击伤害提升{0}",
+                "Param": [
+                    "2.40%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+            }
+        },
+        "10": {
+            "ParentNodes": [
+                2
+            ],
+            "NodeType": 4,
+            "Coordinate": 1,
+            "UnLockCondition": 500005,
+            "Consume": [
+                {
+                    "Key": 43020053,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100053,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 50000
+                }
+            ],
+            "Skill": {
+                "Name": "攻击提升",
+                "Desc": "攻击提升{0}",
+                "Param": [
+                    "1.80%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+            }
+        },
+        "11": {
+            "ParentNodes": [
+                3
+            ],
+            "NodeType": 4,
+            "Coordinate": 1,
+            "UnLockCondition": 500005,
+            "Consume": [
+                {
+                    "Key": 43020053,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100053,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 50000
+                }
+            ],
+            "Skill": {
+                "Name": "攻击提升",
+                "Desc": "攻击提升{0}",
+                "Param": [
+                    "1.80%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+            }
+        },
+        "12": {
+            "ParentNodes": [
+                6
+            ],
+            "NodeType": 4,
+            "Coordinate": 1,
+            "UnLockCondition": 500006,
+            "Consume": [
+                {
+                    "Key": 43020053,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100053,
+                    "Value": 3
+                },
+                {
+                    "Key": 2,
+                    "Value": 50000
+                }
+            ],
+            "Skill": {
+                "Name": "暴击伤害提升",
+                "Desc": "暴击伤害提升{0}",
+                "Param": [
+                    "2.40%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+            }
+        },
+        "13": {
+            "ParentNodes": [
+                9
+            ],
+            "NodeType": 4,
+            "Coordinate": 2,
+            "UnLockCondition": 500008,
+            "Consume": [
+                {
+                    "Key": 43020054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41400194,
+                    "Value": 1
+                },
+                {
+                    "Key": 2,
+                    "Value": 100000
+                }
+            ],
+            "Skill": {
+                "Name": "暴击伤害提升",
+                "Desc": "暴击伤害提升{0}",
+                "Param": [
+                    "5.60%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+            }
+        },
+        "14": {
+            "ParentNodes": [
+                10
+            ],
+            "NodeType": 4,
+            "Coordinate": 2,
+            "UnLockCondition": 500007,
+            "Consume": [
+                {
+                    "Key": 43020054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41400194,
+                    "Value": 1
+                },
+                {
+                    "Key": 2,
+                    "Value": 100000
+                }
+            ],
+            "Skill": {
+                "Name": "攻击提升",
+                "Desc": "攻击提升{0}",
+                "Param": [
+                    "4.20%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+            }
+        },
+        "15": {
+            "ParentNodes": [
+                11
+            ],
+            "NodeType": 4,
+            "Coordinate": 2,
+            "UnLockCondition": 500007,
+            "Consume": [
+                {
+                    "Key": 43020054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41400194,
+                    "Value": 1
+                },
+                {
+                    "Key": 2,
+                    "Value": 100000
+                }
+            ],
+            "Skill": {
+                "Name": "攻击提升",
+                "Desc": "攻击提升{0}",
+                "Param": [
+                    "4.20%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredattack_UI.T_Iconpropertyredattack_UI"
+            }
+        },
+        "16": {
+            "ParentNodes": [
+                12
+            ],
+            "NodeType": 4,
+            "Coordinate": 2,
+            "UnLockCondition": 500008,
+            "Consume": [
+                {
+                    "Key": 43020054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41100054,
+                    "Value": 3
+                },
+                {
+                    "Key": 41400194,
+                    "Value": 1
+                },
+                {
+                    "Key": 2,
+                    "Value": 100000
+                }
+            ],
+            "Skill": {
+                "Name": "暴击伤害提升",
+                "Desc": "暴击伤害提升{0}",
+                "Param": [
+                    "5.60%"
+                ],
+                "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredcrit_UI.T_Iconpropertyredcrit_UI"
+            }
+        }
+    },
+    "Chains": {
+        "1": {
+            "Name": "沉闷的灰暗涌进船舱",
+            "Desc": "施放共鸣技能<color=Highlight>高难度设计</color>时，额外回复{0}点【想象力】与{1}点协奏能量。\n普攻<color=Highlight>幻想照进现实</color>免疫打断。",
+            "Param": [
+                "100",
+                "10"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM1_UI.T_IconDevice_LuokekeM1_UI"
+        },
+        "2": {
+            "Name": "海萤石闪烁着微弱光芒",
+            "Desc": "施放普攻<color=Highlight>幻想照进现实</color>时，队伍中的角色湮灭伤害加成提升{0}，可叠加{1}层，持续{2}秒。满层时，队伍中的角色湮灭伤害加成额外提升{3}，持续{4}秒。",
+            "Param": [
+                "10%",
+                "3",
+                "30",
+                "10%",
+                "30"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM2_UI.T_IconDevice_LuokekeM2_UI"
+        },
+        "3": {
+            "Name": "用心观察，以手丈量",
+            "Desc": "施放变奏技能<color=Highlight>佩洛，来帮忙</color>时，洛可可暴击提升{0}，暴击伤害提升{1}，持续{2}秒。",
+            "Param": [
+                "10%",
+                "30%",
+                "15"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM3_UI.T_IconDevice_LuokekeM3_UI"
+        },
+        "4": {
+            "Name": "千万“奇藏”于箱中汇聚",
+            "Desc": "施放共鸣技能<color=Highlight>高难度设计</color>时，普攻<color=Highlight>幻想照进现实</color>伤害倍率提升{0}，持续{1}秒。",
+            "Param": [
+                "60%",
+                "12"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM4_UI.T_IconDevice_LuokekeM4_UI"
+        },
+        "5": {
+            "Name": "重建乐土，在舞台上",
+            "Desc": "共鸣解放<color=Highlight>即兴喜剧，开场</color>伤害倍率提升{0}，<color=Highlight>重击</color>伤害倍率提升{1}。",
+            "Param": [
+                "20%",
+                "80%"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM5_UI.T_IconDevice_LuokekeM5_UI"
+        },
+        "6": {
+            "Name": "飞吧，乘着金色的翅膀",
+            "Desc": "施放共鸣解放<color=Highlight>即兴喜剧，开场</color>时，获得如下效果，{0}秒内：\n·普攻<color=Highlight>幻想照进现实</color>攻击目标时，无视对方{1}的防御。\n·普攻<color=Highlight>幻想照进现实</color>第3段落地后，会将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态，此时短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>构筑现实</color>，普攻<color=Highlight>构筑现实</color>免疫打断，造成普攻<color=Highlight>幻想照进现实</color>第3段{2}的伤害，此次伤害为重击伤害。\n·普攻<color=Highlight>构筑现实</color>落地后，会将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。普攻<color=Highlight>构筑现实</color>需要在处于<color=Highlight>飞跃幻想</color>状态时才可施放。",
+            "Param": [
+                "12",
+                "60%",
+                "100%"
+            ],
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LuokekeM6_UI.T_IconDevice_LuokekeM6_UI"
+        }
+    },
+    "Ascensions": {
+        "1": [
+            {
+                "Key": 41100051,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 5000
+            }
+        ],
+        "2": [
+            {
+                "Key": 41400164,
+                "Value": 3
+            },
+            {
+                "Key": 42601160,
+                "Value": 4
+            },
+            {
+                "Key": 41100052,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 10000
+            }
+        ],
+        "3": [
+            {
+                "Key": 41400164,
+                "Value": 6
+            },
+            {
+                "Key": 42601160,
+                "Value": 8
+            },
+            {
+                "Key": 41100052,
+                "Value": 8
+            },
+            {
+                "Key": 2,
+                "Value": 15000
+            }
+        ],
+        "4": [
+            {
+                "Key": 41400164,
+                "Value": 9
+            },
+            {
+                "Key": 42601160,
+                "Value": 12
+            },
+            {
+                "Key": 41100053,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 20000
+            }
+        ],
+        "5": [
+            {
+                "Key": 41400164,
+                "Value": 12
+            },
+            {
+                "Key": 42601160,
+                "Value": 16
+            },
+            {
+                "Key": 41100053,
+                "Value": 8
+            },
+            {
+                "Key": 2,
+                "Value": 40000
+            }
+        ],
+        "6": [
+            {
+                "Key": 41400164,
+                "Value": 16
+            },
+            {
+                "Key": 42601160,
+                "Value": 20
+            },
+            {
+                "Key": 41100054,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 80000
+            }
+        ]
+    },
+    "Skin": {
+        "81001606": {
+            "Id": 81001606,
+            "SuitWeaponSkinId": 0,
+            "QualityId": 3,
+            "Name": "洛可可",
+            "TitleName": "箱中奇藏",
+            "SubDecName": "洛可可-初始服饰",
+            "BgDescription": "造型独特的即兴喜剧演出服。由洛可可日常捡拾的物品，搭配佩洛日积月累的收藏，精心缝制而成。",
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.T_IconRole_Pile_luokeke_UI"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Id": 6000092,
+    "Code": "H73-",
+    "Name": "梦魇·哀声鸷",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33020_UI.T_IconMonsterHead_YZ_33020_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤梦魇·哀声鸷，对周围敌人造成{0}的衍射伤害。若敌人处于受「光噪效应」影响状态时，哀声鸷造成的伤害提升{1}。\n在首位装配该声骸技能时，自身衍射伤害加成提升{2}。\n技能冷却：{3}秒",
+        "SimpleDesc": "召唤梦魇·哀声鸷，对周围敌人造成衍射伤害，对受「光噪效应」影响的敌人造成更多伤害。 在首位装配时提高自身的衍射伤害。",
+        "Param": [
+            [
+                "152.00%",
+                "100.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "182.40%",
+                "100.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "212.80%",
+                "100.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "243.20%",
+                "100.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "273.60%",
+                "100.00%",
+                "12.00%",
+                "25"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_997_UI.T_MstSkil_997_UI"
+    },
+    "Group": {
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 330000200
+}

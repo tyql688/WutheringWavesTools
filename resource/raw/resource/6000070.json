@@ -1,0 +1,157 @@
+{
+    "Id": 6000070,
+    "Code": "R07-",
+    "Name": "寂寞小姐",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_071_UI.T_IconMonsterGoods_071_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤寂寞小姐攻击，造成{0}的衍射伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤寂寞小姐攻击，对敌人造成衍射伤害。",
+        "Param": [
+            [
+                "72.00%",
+                "8"
+            ],
+            [
+                "86.40%",
+                "8"
+            ],
+            [
+                "100.80%",
+                "8"
+            ],
+            [
+                "115.20%",
+                "8"
+            ],
+            [
+                "129.60%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_31046_UI.MstSkil_31046_UI"
+    },
+    "Group": {
+        "5": {
+            "Id": 5,
+            "Name": "浮星祛暗",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLight.T_IconElementAttriLight",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升10%",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "使用变奏技能登场时，衍射伤害提升30%，持续15秒",
+                    "Param": [
+                        "30%"
+                    ]
+                }
+            }
+        },
+        "8": {
+            "Id": 8,
+            "Name": "轻云出月",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCloud.T_IconElementAttriCloud",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "使用延奏技能后，下一个登场的共鸣者攻击提升22.5%，持续15秒",
+                    "Param": [
+                        "22.5%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "9": {
+            "Id": 9,
+            "Name": "不绝余音",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriAttack.T_IconElementAttriAttack",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "攻击提升10%",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "在场时，自身攻击每1.5秒提升5%，该效果最多叠加四层。延奏技能伤害提升60%",
+                    "Param": [
+                        "1.5",
+                        "5%",
+                        "20%",
+                        "60%"
+                    ]
+                }
+            }
+        },
+        "10": {
+            "Id": 10,
+            "Name": "凌冽决断之心",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIceUltimateSkill.T_IconElementAttriIceUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣技能伤害提升{0}",
+                    "Param": [
+                        "12%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣技能时，自身冷凝伤害提升{0}，持续{1}秒；施放共鸣解放时，自身共鸣技能伤害提升{2}，持续{3}秒，可叠加{4}层。",
+                    "Param": [
+                        "22.5%",
+                        "15",
+                        "18%",
+                        "5",
+                        "2"
+                    ]
+                }
+            }
+        },
+        "14": {
+            "Id": 14,
+            "Name": "无惧浪涛之勇",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.T_IconElementAttriEnergy",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色攻击提升{0}，共鸣效率达到{1}后，当前角色全属性伤害提升{2}。",
+                    "Param": [
+                        "15%",
+                        "250%",
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5,
+        2
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000460
+}

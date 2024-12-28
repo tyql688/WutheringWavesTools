@@ -1,0 +1,92 @@
+{
+    "Id": 6000064,
+    "Code": "R01-",
+    "Name": "浮灵偶·海德",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31040_UI.T_IconMonsterHead_31040_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤浮灵偶·海德攻击，造成{0}的热熔伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤浮灵偶·海德攻击，对敌人造成热熔伤害。",
+        "Param": [
+            [
+                "72.00%",
+                "8"
+            ],
+            [
+                "86.40%",
+                "8"
+            ],
+            [
+                "100.80%",
+                "8"
+            ],
+            [
+                "115.20%",
+                "8"
+            ],
+            [
+                "129.60%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_31040_UI.MstSkil_31040_UI"
+    },
+    "Group": {
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "14": {
+            "Id": 14,
+            "Name": "无惧浪涛之勇",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.T_IconElementAttriEnergy",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色攻击提升{0}，共鸣效率达到{1}后，当前角色全属性伤害提升{2}。",
+                    "Param": [
+                        "15%",
+                        "250%",
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000400
+}

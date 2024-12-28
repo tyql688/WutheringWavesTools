@@ -1,0 +1,81 @@
+{
+    "Id": 6000091,
+    "Code": "W77-",
+    "Name": "梦魇·燎照之骑",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33019_UI.T_IconMonsterHead_YZ_33019_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为梦魇·燎照之骑，跃起对前方敌人造成{0}的热熔伤害。\n在首位装配该声骸技能时，自身热熔伤害加成提升{1}，共鸣技能伤害加成提升{2}。\n长按声骸技能，持续幻形为燎照之骑并进入骑行状态，结束时对前方的目标造成一次{3}的热熔伤害。\n技能冷却：{4}秒",
+        "SimpleDesc": "幻形为梦魇·燎照之骑，对前方敌人造成热熔伤害，在首位装配时提高自身的热熔和共鸣技能伤害。\n长按声骸技能可以持续幻形为骑行状态的梦魇·燎照之骑。",
+        "Param": [
+            [
+                "225.00%",
+                "12.00%",
+                "12.00%",
+                "157.50%",
+                "25"
+            ],
+            [
+                "270.00%",
+                "12.00%",
+                "12.00%",
+                "189.00%",
+                "25"
+            ],
+            [
+                "315.00%",
+                "12.00%",
+                "12.00%",
+                "220.50%",
+                "25"
+            ],
+            [
+                "360.00%",
+                "12.00%",
+                "12.00%",
+                "252.00%",
+                "25"
+            ],
+            [
+                "405.00%",
+                "12.00%",
+                "12.00%",
+                "283.50%",
+                "25"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_325_UI.T_MstSkil_325_UI"
+    },
+    "Group": {
+        "2": {
+            "Id": 2,
+            "Name": "熔山裂谷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFire.T_IconElementAttriFire",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "热熔伤害提升10%",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "使用共鸣技能时，热熔伤害提升30%，持续15秒",
+                    "Param": [
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 330000190
+}

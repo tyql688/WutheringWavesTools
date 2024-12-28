@@ -1,0 +1,100 @@
+{
+    "Id": 6000077,
+    "Code": "W68-",
+    "Name": "持刃贵族",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32026_UI.T_IconMonsterHead_32026_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为持刃贵族，挥剑攻击前方敌人，造成{0}的冷凝伤害。\n长按声骸技能，持续幻形，一定时间后挥剑并向前施放一道远程斩击，对前方敌人分别造成{1}和{2}的冷凝伤害。\n技能冷却：{3}秒",
+        "SimpleDesc": "幻形为持刃贵族挥剑攻击前方敌人，造成冷凝伤害。长按声骸技能可在蓄力后施放远程斩击，对前方敌人造成冷凝伤害。",
+        "Param": [
+            [
+                "149.00%",
+                "149.00%",
+                "372.50%",
+                "15"
+            ],
+            [
+                "178.80%",
+                "178.80%",
+                "447.00%",
+                "15"
+            ],
+            [
+                "208.60%",
+                "208.60%",
+                "521.50%",
+                "15"
+            ],
+            [
+                "238.40%",
+                "238.40%",
+                "596.00%",
+                "15"
+            ],
+            [
+                "268.20%",
+                "268.20%",
+                "670.50%",
+                "15"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_32027_UI.MstSkil_32027_UI"
+    },
+    "Group": {
+        "12": {
+            "Id": 12,
+            "Name": "幽夜隐匿之帷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkAssist.T_IconElementAttriDarkAssist",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "湮灭属性伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色触发延奏技能离场时，额外对周围敌人造成{0}的湮灭伤害，该伤害为延奏技能伤害，并使下一个登场角色湮灭属性伤害加成提升{1}，持续{2}秒。",
+                    "Param": [
+                        "480%",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "14": {
+            "Id": 14,
+            "Name": "无惧浪涛之勇",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.T_IconElementAttriEnergy",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色攻击提升{0}，共鸣效率达到{1}后，当前角色全属性伤害提升{2}。",
+                    "Param": [
+                        "15%",
+                        "250%",
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 1,
+    "MonsterInfo": 320000260
+}

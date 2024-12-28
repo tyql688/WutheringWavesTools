@@ -1,0 +1,78 @@
+{
+    "Id": 6000082,
+    "Code": "W83-",
+    "Name": "罗蕾莱",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33011_UI.T_IconMonsterHead_33011_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为罗蕾莱，对周围敌人造成{0}的湮灭属性伤害。\n在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，普攻伤害加成提升{2}。\n技能冷却：{3}秒",
+        "SimpleDesc": "幻形为罗蕾莱，对周围敌人造成湮灭伤害。在首位装配时提高自身的湮灭和普攻伤害。",
+        "Param": [
+            [
+                "225.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "270.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "315.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "360.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "405.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_33011_UI.MstSkil_33011_UI"
+    },
+    "Group": {
+        "12": {
+            "Id": 12,
+            "Name": "幽夜隐匿之帷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkAssist.T_IconElementAttriDarkAssist",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "湮灭属性伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色触发延奏技能离场时，额外对周围敌人造成{0}的湮灭伤害，该伤害为延奏技能伤害，并使下一个登场角色湮灭属性伤害加成提升{1}，持续{2}秒。",
+                    "Param": [
+                        "480%",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 330000110
+}

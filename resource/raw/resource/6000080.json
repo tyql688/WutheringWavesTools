@@ -1,0 +1,98 @@
+{
+    "Id": 6000080,
+    "Code": "W70-",
+    "Name": "琉璃刀伶",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32029_UI.T_IconMonsterHead_32029_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为琉璃刀伶，攻击周围敌人，造成{0}的导电伤害。\n在首位装备该声骸技能时，自身导电伤害加成提升{1}。\n技能冷却：{2}秒",
+        "SimpleDesc": "幻形为琉璃刀伶，攻击周围敌人造成导电伤害。在首位装备该声骸技能时提升自身导电伤害。",
+        "Param": [
+            [
+                "174.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "208.80%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "243.60%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "278.40%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "313.20%",
+                "12.00%",
+                "20"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_32029_UI.MstSkil_32029_UI"
+    },
+    "Group": {
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "13": {
+            "Id": 13,
+            "Name": "高天共奏之曲",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCooperate.T_IconElementAttriCooperate",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "当前角色协同攻击造成的伤害提升{0}；协同攻击命中敌人且暴击时，队伍中登场角色攻击力提升{1}，持续{2}秒。",
+                    "Param": [
+                        "80%",
+                        "20%",
+                        "4"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 1,
+    "MonsterInfo": 320000290,
+    "Child": 6010080
+}

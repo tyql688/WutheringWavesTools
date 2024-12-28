@@ -1,0 +1,114 @@
+{
+    "Id": 6000072,
+    "Code": "R09-",
+    "Name": "欺诈奇藏",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31048_UI.T_IconMonsterHead_31048_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤欺诈奇藏连续攻击，造成3段{0}的衍射伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤欺诈奇藏连续攻击，对敌人造成衍射伤害。",
+        "Param": [
+            [
+                "35.66%",
+                "15"
+            ],
+            [
+                "42.79%",
+                "15"
+            ],
+            [
+                "49.92%",
+                "15"
+            ],
+            [
+                "57.06%",
+                "15"
+            ],
+            [
+                "64.19%",
+                "15"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_31048_UI.MstSkil_31048_UI"
+    },
+    "Group": {
+        "10": {
+            "Id": 10,
+            "Name": "凌冽决断之心",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIceUltimateSkill.T_IconElementAttriIceUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣技能伤害提升{0}",
+                    "Param": [
+                        "12%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣技能时，自身冷凝伤害提升{0}，持续{1}秒；施放共鸣解放时，自身共鸣技能伤害提升{2}，持续{3}秒，可叠加{4}层。",
+                    "Param": [
+                        "22.5%",
+                        "15",
+                        "18%",
+                        "5",
+                        "2"
+                    ]
+                }
+            }
+        },
+        "12": {
+            "Id": 12,
+            "Name": "幽夜隐匿之帷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkAssist.T_IconElementAttriDarkAssist",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "湮灭属性伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色触发延奏技能离场时，额外对周围敌人造成{0}的湮灭伤害，该伤害为延奏技能伤害，并使下一个登场角色湮灭属性伤害加成提升{1}，持续{2}秒。",
+                    "Param": [
+                        "480%",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "13": {
+            "Id": 13,
+            "Name": "高天共奏之曲",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCooperate.T_IconElementAttriCooperate",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "当前角色协同攻击造成的伤害提升{0}；协同攻击命中敌人且暴击时，队伍中登场角色攻击力提升{1}，持续{2}秒。",
+                    "Param": [
+                        "80%",
+                        "20%",
+                        "4"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000480
+}

@@ -1,0 +1,92 @@
+{
+    "Id": 6000066,
+    "Code": "R03-",
+    "Name": "浮灵偶·莱特",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31042_UI.T_IconMonsterHead_31042_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤浮灵偶·莱特攻击，造成{0}的湮灭伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤浮灵偶·莱特攻击，对敌人造成湮灭伤害。",
+        "Param": [
+            [
+                "72.00%",
+                "8"
+            ],
+            [
+                "86.40%",
+                "8"
+            ],
+            [
+                "100.80%",
+                "8"
+            ],
+            [
+                "115.20%",
+                "8"
+            ],
+            [
+                "129.60%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_31042_UI.MstSkil_31042_UI"
+    },
+    "Group": {
+        "10": {
+            "Id": 10,
+            "Name": "凌冽决断之心",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIceUltimateSkill.T_IconElementAttriIceUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣技能伤害提升{0}",
+                    "Param": [
+                        "12%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣技能时，自身冷凝伤害提升{0}，持续{1}秒；施放共鸣解放时，自身共鸣技能伤害提升{2}，持续{3}秒，可叠加{4}层。",
+                    "Param": [
+                        "22.5%",
+                        "15",
+                        "18%",
+                        "5",
+                        "2"
+                    ]
+                }
+            }
+        },
+        "14": {
+            "Id": 14,
+            "Name": "无惧浪涛之勇",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.T_IconElementAttriEnergy",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色攻击提升{0}，共鸣效率达到{1}后，当前角色全属性伤害提升{2}。",
+                    "Param": [
+                        "15%",
+                        "250%",
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000420
+}

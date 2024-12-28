@@ -1,0 +1,1495 @@
+{
+    "Id": 20000110,
+    "Rarity": 5,
+    "Type": 1,
+    "Name": "dnt/测试1-短剑",
+    "Desc": "存在异常，如有疑问请联系官方客服",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.T_IconWeapon21050015_UI",
+    "Stats": {
+        "0": {
+            "1": [
+                {
+                    "Name": "攻击",
+                    "Value": 56.0,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 540.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "2": [
+                {
+                    "Name": "攻击",
+                    "Value": 60.7152,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 540.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "3": [
+                {
+                    "Name": "攻击",
+                    "Value": 65.436,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 540.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "4": [
+                {
+                    "Name": "攻击",
+                    "Value": 70.1568,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 540.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "5": [
+                {
+                    "Name": "攻击",
+                    "Value": 74.872,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 644.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "6": [
+                {
+                    "Name": "攻击",
+                    "Value": 79.5928,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 644.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "7": [
+                {
+                    "Name": "攻击",
+                    "Value": 84.3136,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 644.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "8": [
+                {
+                    "Name": "攻击",
+                    "Value": 89.0288,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 644.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "9": [
+                {
+                    "Name": "攻击",
+                    "Value": 93.7496,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 644.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "10": [
+                {
+                    "Name": "攻击",
+                    "Value": 98.4704,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 749.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "11": [
+                {
+                    "Name": "攻击",
+                    "Value": 103.1856,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 749.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "12": [
+                {
+                    "Name": "攻击",
+                    "Value": 107.9064,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 749.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "13": [
+                {
+                    "Name": "攻击",
+                    "Value": 112.6272,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 749.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "14": [
+                {
+                    "Name": "攻击",
+                    "Value": 117.348,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 749.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "15": [
+                {
+                    "Name": "攻击",
+                    "Value": 122.0632,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 854.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "16": [
+                {
+                    "Name": "攻击",
+                    "Value": 126.784,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 854.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "17": [
+                {
+                    "Name": "攻击",
+                    "Value": 131.5048,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 854.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "18": [
+                {
+                    "Name": "攻击",
+                    "Value": 136.22,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 854.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "19": [
+                {
+                    "Name": "攻击",
+                    "Value": 140.9408,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 854.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "20": [
+                {
+                    "Name": "攻击",
+                    "Value": 145.6616,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "1": {
+            "20": [
+                {
+                    "Name": "攻击",
+                    "Value": 182.9912,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "21": [
+                {
+                    "Name": "攻击",
+                    "Value": 187.712,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "22": [
+                {
+                    "Name": "攻击",
+                    "Value": 192.4328,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "23": [
+                {
+                    "Name": "攻击",
+                    "Value": 197.148,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "24": [
+                {
+                    "Name": "攻击",
+                    "Value": 201.8688,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 959.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "25": [
+                {
+                    "Name": "攻击",
+                    "Value": 206.5896,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1064.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "26": [
+                {
+                    "Name": "攻击",
+                    "Value": 211.3104,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1064.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "27": [
+                {
+                    "Name": "攻击",
+                    "Value": 216.0256,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1064.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "28": [
+                {
+                    "Name": "攻击",
+                    "Value": 220.7464,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1064.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "29": [
+                {
+                    "Name": "攻击",
+                    "Value": 225.4672,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1064.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "30": [
+                {
+                    "Name": "攻击",
+                    "Value": 230.1824,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1169.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "31": [
+                {
+                    "Name": "攻击",
+                    "Value": 234.9032,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1169.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "32": [
+                {
+                    "Name": "攻击",
+                    "Value": 239.624,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1169.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "33": [
+                {
+                    "Name": "攻击",
+                    "Value": 244.3392,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1169.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "34": [
+                {
+                    "Name": "攻击",
+                    "Value": 249.06,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1169.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "35": [
+                {
+                    "Name": "攻击",
+                    "Value": 253.7808,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1274.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "36": [
+                {
+                    "Name": "攻击",
+                    "Value": 258.5016,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1274.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "37": [
+                {
+                    "Name": "攻击",
+                    "Value": 263.2168,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1274.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "38": [
+                {
+                    "Name": "攻击",
+                    "Value": 267.9376,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1274.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "39": [
+                {
+                    "Name": "攻击",
+                    "Value": 272.6584,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1274.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "40": [
+                {
+                    "Name": "攻击",
+                    "Value": 277.3736,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "2": {
+            "40": [
+                {
+                    "Name": "攻击",
+                    "Value": 314.7088,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "41": [
+                {
+                    "Name": "攻击",
+                    "Value": 319.4296,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "42": [
+                {
+                    "Name": "攻击",
+                    "Value": 324.1448,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "43": [
+                {
+                    "Name": "攻击",
+                    "Value": 328.8656,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "44": [
+                {
+                    "Name": "攻击",
+                    "Value": 333.5864,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1379.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "45": [
+                {
+                    "Name": "攻击",
+                    "Value": 338.3016,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1485.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "46": [
+                {
+                    "Name": "攻击",
+                    "Value": 343.0224,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1485.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "47": [
+                {
+                    "Name": "攻击",
+                    "Value": 347.7432,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1485.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "48": [
+                {
+                    "Name": "攻击",
+                    "Value": 352.464,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1485.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "49": [
+                {
+                    "Name": "攻击",
+                    "Value": 357.1792,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1485.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "50": [
+                {
+                    "Name": "攻击",
+                    "Value": 361.9,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "3": {
+            "50": [
+                {
+                    "Name": "攻击",
+                    "Value": 399.2352,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "51": [
+                {
+                    "Name": "攻击",
+                    "Value": 403.9504,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "52": [
+                {
+                    "Name": "攻击",
+                    "Value": 408.6712,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "53": [
+                {
+                    "Name": "攻击",
+                    "Value": 413.392,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "54": [
+                {
+                    "Name": "攻击",
+                    "Value": 418.1072,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1589.976,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "55": [
+                {
+                    "Name": "攻击",
+                    "Value": 422.828,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1694.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "56": [
+                {
+                    "Name": "攻击",
+                    "Value": 427.5488,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1694.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "57": [
+                {
+                    "Name": "攻击",
+                    "Value": 432.2696,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1694.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "58": [
+                {
+                    "Name": "攻击",
+                    "Value": 436.9848,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1694.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "59": [
+                {
+                    "Name": "攻击",
+                    "Value": 441.7056,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1694.952,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "60": [
+                {
+                    "Name": "攻击",
+                    "Value": 446.4264,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "4": {
+            "60": [
+                {
+                    "Name": "攻击",
+                    "Value": 483.756,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "61": [
+                {
+                    "Name": "攻击",
+                    "Value": 488.4768,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "62": [
+                {
+                    "Name": "攻击",
+                    "Value": 493.1976,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "63": [
+                {
+                    "Name": "攻击",
+                    "Value": 497.9128,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "64": [
+                {
+                    "Name": "攻击",
+                    "Value": 502.6336,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1799.982,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "65": [
+                {
+                    "Name": "攻击",
+                    "Value": 507.3544,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1904.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "66": [
+                {
+                    "Name": "攻击",
+                    "Value": 512.0696,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1904.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "67": [
+                {
+                    "Name": "攻击",
+                    "Value": 516.7904,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1904.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "68": [
+                {
+                    "Name": "攻击",
+                    "Value": 521.5112,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1904.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "69": [
+                {
+                    "Name": "攻击",
+                    "Value": 526.232,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 1904.958,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "70": [
+                {
+                    "Name": "攻击",
+                    "Value": 530.9472,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "5": {
+            "70": [
+                {
+                    "Name": "攻击",
+                    "Value": 568.2824,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "71": [
+                {
+                    "Name": "攻击",
+                    "Value": 573.0032,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "72": [
+                {
+                    "Name": "攻击",
+                    "Value": 577.7184,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "73": [
+                {
+                    "Name": "攻击",
+                    "Value": 582.4392,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "74": [
+                {
+                    "Name": "攻击",
+                    "Value": 587.16,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2009.988,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "75": [
+                {
+                    "Name": "攻击",
+                    "Value": 591.8752,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2114.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "76": [
+                {
+                    "Name": "攻击",
+                    "Value": 596.596,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2114.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "77": [
+                {
+                    "Name": "攻击",
+                    "Value": 601.3168,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2114.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "78": [
+                {
+                    "Name": "攻击",
+                    "Value": 606.032,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2114.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "79": [
+                {
+                    "Name": "攻击",
+                    "Value": 610.7528,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2114.964,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "80": [
+                {
+                    "Name": "攻击",
+                    "Value": 615.4736,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        },
+        "6": {
+            "80": [
+                {
+                    "Name": "攻击",
+                    "Value": 652.8088,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "81": [
+                {
+                    "Name": "攻击",
+                    "Value": 657.524,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "82": [
+                {
+                    "Name": "攻击",
+                    "Value": 662.2448,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "83": [
+                {
+                    "Name": "攻击",
+                    "Value": 666.9656,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "84": [
+                {
+                    "Name": "攻击",
+                    "Value": 671.6808,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2219.994,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "85": [
+                {
+                    "Name": "攻击",
+                    "Value": 676.4016,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2324.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "86": [
+                {
+                    "Name": "攻击",
+                    "Value": 681.1224,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2324.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "87": [
+                {
+                    "Name": "攻击",
+                    "Value": 685.8376,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2324.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "88": [
+                {
+                    "Name": "攻击",
+                    "Value": 690.5584,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2324.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "89": [
+                {
+                    "Name": "攻击",
+                    "Value": 695.2792,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2324.97,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ],
+            "90": [
+                {
+                    "Name": "攻击",
+                    "Value": 700.0,
+                    "IsRatio": false,
+                    "IsPercent": false
+                },
+                {
+                    "Name": "暴击",
+                    "Value": 2430.0,
+                    "IsRatio": false,
+                    "IsPercent": true
+                }
+            ]
+        }
+    },
+    "Effect": "存在异常，如有疑问请联系官方客服",
+    "EffectName": "启程",
+    "Param": [
+        [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    ],
+    "Ascensions": {
+        "0": [
+            {
+                "Key": 41100031,
+                "Value": 6
+            },
+            {
+                "Key": 2,
+                "Value": 10000
+            },
+            {
+                "Key": 2,
+                "Value": 10000
+            }
+        ],
+        "1": [
+            {
+                "Key": 43020031,
+                "Value": 6
+            },
+            {
+                "Key": 41100032,
+                "Value": 6
+            },
+            {
+                "Key": 2,
+                "Value": 20000
+            },
+            {
+                "Key": 2,
+                "Value": 20000
+            }
+        ],
+        "2": [
+            {
+                "Key": 43020032,
+                "Value": 8
+            },
+            {
+                "Key": 41100033,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 40000
+            },
+            {
+                "Key": 2,
+                "Value": 40000
+            }
+        ],
+        "3": [
+            {
+                "Key": 43020033,
+                "Value": 6
+            },
+            {
+                "Key": 41100033,
+                "Value": 6
+            },
+            {
+                "Key": 2,
+                "Value": 60000
+            },
+            {
+                "Key": 2,
+                "Value": 60000
+            }
+        ],
+        "4": [
+            {
+                "Key": 43020034,
+                "Value": 8
+            },
+            {
+                "Key": 41100034,
+                "Value": 4
+            },
+            {
+                "Key": 2,
+                "Value": 80000
+            },
+            {
+                "Key": 2,
+                "Value": 80000
+            }
+        ],
+        "5": [
+            {
+                "Key": 43020034,
+                "Value": 12
+            },
+            {
+                "Key": 41100034,
+                "Value": 8
+            },
+            {
+                "Key": 2,
+                "Value": 120000
+            },
+            {
+                "Key": 2,
+                "Value": 120000
+            }
+        ],
+        "6": [
+            {
+                "Key": 2,
+                "Value": 0
+            },
+            {
+                "Key": 2,
+                "Value": 0
+            }
+        ]
+    }
+}
