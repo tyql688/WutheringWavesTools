@@ -5,7 +5,7 @@
     "Type": "",
     "Intensity": "",
     "Place": "",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_121_UI.T_IconMonsterGoods_121_UI",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32030_UI.T_IconMonsterHead_32030_UI",
     "Skill": {
         "Desc": "使用声骸技能，幻形为巨布偶连续攻击，造成4段{0}和一段{1}的物理伤害。\n技能冷却：{2}秒",
         "SimpleDesc": "幻形为巨布偶连续攻击，对敌人造成物理伤害。",

@@ -10,10 +10,10 @@
             "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelA3.SP_RoleLabelA3",
             "Color": "ff4040"
         },
-        "6": {
-            "Name": "共鸣技能伤害",
-            "Desc": "共鸣技能伤害较高",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB3.SP_RoleLabelB3",
+        "5": {
+            "Name": "重击伤害",
+            "Desc": "重击伤害较高",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelB2.SP_RoleLabelB2",
             "Color": "ffde73"
         },
         "8": {
@@ -41,399 +41,399 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.T_IconRoleHead256_33_UI",
     "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.T_IconRole_Pile_luokeke_UI",
     "CharaInfo": {
-        "Birth": "敬请期待",
-        "Sex": "敬请期待",
-        "Country": "敬请期待",
-        "Influence": "敬请期待",
+        "Birth": "1月31日",
+        "Sex": "女",
+        "Country": "黎那汐塔",
+        "Influence": "愚人剧团",
         "Info": "愚人剧团副手、万能道具师兼即兴喜剧演员洛可可将剧团打理得井井有条。\n她随身携带的珍奇箱似乎装有整个世界，又或者，是她用箱子构建了一个世界。",
-        "TalentName": "敬请期待",
-        "TalentDoc": "敬请期待",
-        "TalentCertification": "敬请期待",
-        "CVNameCn": "敬请期待",
-        "CVNameJp": "敬请期待",
-        "CVNameKo": "敬请期待",
-        "CVNameEn": "敬请期待"
+        "TalentName": "箱中舞台",
+        "TalentDoc": "「剧团游医贝尼尔的笔记- R103」\n\n经过多次现场观察以及行为分析，洛可可大副拥有和迷之生物「佩洛」沟通的能力。通过「佩洛」的翻译，进而拥有和其他声骸沟通的能力。该能力拥有一定的成长性，开始必须通过话语沟通，现在似乎已经可以通过频率沟通了。\n\n洛可可大副加入剧团、遇到「佩洛」后才开始逐步显现相应能力，应该是与「佩洛」共鸣所致，为后天型共鸣者。\n\n备注：以上结论均为推断，受限于当前医疗条件，无法再进一步细分类型。有极小概率大副并非共鸣者，只是拥有与特定频率沟通的能力。诶？不过能与特定频率沟通应该也算共鸣者吧……？唔，我还得好好想想……",
+        "TalentCertification": "「剧团游医贝尼尔的笔记- R103」\n\n检查时，洛可可大副选取了白贝、海藻、玫瑰盐、过滤水，煮了一锅贝壳汤。\n汤汁色泽澄澈、贝类外壳完整。刚煮好时，贝壳与海藻看起来有点像一座岛屿，又有点像一个箱子。\n从汤底形状可以看出，洛可可大副五感敏锐、精神平和、心系剧团，没有超频风险。\n\n备注：发明炖汤疗法替代茶杯疗法的洛可可大副简直是个天才！炖汤多填肚子，做完检查还够大伙吃一顿。还别说，味道真不错。",
+        "CVNameCn": "CV：沈话桑",
+        "CVNameJp": "CV：小原好美",
+        "CVNameKo": "CV：Jang Mi",
+        "CVNameEn": "CV：Holly Earl"
     },
     "Stories": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "金鱼叉",
+            "Content": "捕鱼能手巴蒂尔，在一次日常捕鱼中遇到了危险，靠着一把鱼叉和水生残象搏斗，但还是被残象拖入水中。幸好洛可可细心地发现了这次捕鱼的耗时异常，紧急启动了救援方案，率领愚人剧团的救援小分队在附近海域中搜寻，将浑身湿漉漉的巴蒂尔及时捞上了岸。但那柄身经百战的鱼叉就没这么好运了，它死死叉住那只凶猛的残象——随着一声清脆的声响，鱼叉和残象一同被海中的漩涡吞没。\n巴蒂尔没了鱼叉，就像失去了灵魂。不知道是心理暗示还是别的什么原因，鱼儿不再游向失去鱼叉的巴蒂尔。有时候打窝一上午，甚至没法捕到一条鱼。巴蒂尔只能无所事事地躺在船葬滩黑乎乎的沙子上，望着灰扑扑的天空。就连天上的云雾都幻化成了鱼的形状，一边嘲笑自己，一边向远处游去。\n\n“啊————”他忍无可忍、又无可奈何地大喊了一声。\n这一喊可不得了，层层叠叠的云朵像是回应他的呼唤，从灰色的天空中慢慢散开，朦胧的光束从缝隙中透出来，整个天空恍然一片粼光之海。在波光粼粼的天空之海中央，他朝思暮想的老伙计，那柄鱼叉，披着金色的阳光从天而降，就那样直挺挺地重新回到了他的手中。而空中和海上的鱼群，也随着那柄鱼叉一起游向了他。\n\n巴蒂尔灰扑扑的脸上恢复了神采，他立刻打起精神，捕了满满一网鱼带回剧团。洛可可和佩洛娴熟地接过鱼，三下五除二，蒸炸煎煮烤——炭烧鱿鱼、奶油蛤蜊汤、椒香鱼排……形形色色的海鲜料理摆了满满一桌。大家围着篝火大口吃鱼，啧啧称赞。有人吃到兴头上，还将烤鱼当作利剑，当场表演起新奇的戏剧。人们的欢笑和烤鱼上氤氲着的炭火气一起在据点内升腾——巴蒂尔又一次感受到了被需要，从而在这种需要中延续着捕鱼的乐趣。\n\n洛可可和佩洛相视一笑，把下午用过的造云机往草垛里推了推。身为道具师，洛可可知道，物品上往往承载着人们寄托的情感和念想。所以不管有多困难，她都会用尽一切办法把遗落的重要物品捡回来——无论是从海里，还是从天上。她会先仔细修复物品，然后安排一场别出心裁、激动人心的戏剧般的重逢——巴蒂尔的金鱼叉正是如此。\n\n从那天起，剧团里多了一场即兴喜剧《金鱼叉巴蒂尔》。大家往往一边大口吃着新鲜的烤鱼，一边手舞足蹈地即兴表演。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "单航道",
+            "Content": "要成为剧团的大副，平稳应对各种极端的海上状况是必要条件。所以每一任大副，都要接受一次极端航行的考验。由于路途遥远且危险，极端航行通常需要一名最有经验的舵手来掌舵，而蒂娜，正好是洛可可的舵手。\n蒂娜驾起船来十分认真，就算船上载着的是个孩子，也不会放一点水。她架着船只迎着风浪攀爬而上，横冲直撞地驶入风暴盘踞的暗黑海域，并在黑漆漆的海域中洄游航行。\n\n开始倒还好，无论风浪多大，洛可可的表情都一如既往地平静，甚至悠闲地拿出佩洛给的剧本来读。她在上下颠簸、时不时360°空中回旋的船只上平稳安坐，时不时淡定地擦去溅到脸上的海水。好像她不是坐在一条激烈翻滚的声骸船上，而是坐在剧团的帐篷里。作为剧团道具师兼即兴喜剧演员，洛可可有着良好的身体素质和极高的适应能力。更重要的是，长年累月和佩洛的相处，让洛可可能听懂一些声骸的频率，也知道应该如何与声骸船沟通。\n\n直到船只驶入海域的最深处，无数双放光的眼睛从黑暗中冒出，盯着来回跳跃的小船，幽暗诡异的声音从四面八方传来——洛可可的表情还是很平静，但她收起了剧本，手紧紧握住船舱的边沿，细看的话，还会发现她那紧绷的手指在微微发抖。后来，即便是豪放粗犷的蒂娜也能发现洛可可的颤抖。不善于安慰人的蒂娜有点不知所措，只能继续大声歌唱，企图稳住声骸船。她知道，在这种情况下，想要驾驶声骸船，可不能单纯依靠蛮力，更重要的是和声骸产生共鸣。现在的她无暇顾及洛可可，只能一心一意大声歌唱。\n\n蒂娜唱着唱着，耳边传来一阵轻柔和缓的哼唱，还夹带着一点点不易察觉的哭腔——她用眼角的余光向洛可可那边瞥了瞥，只见洛可可紧紧靠着船舱，一边附和着蒂娜的旋律哼唱，一边不忘大副的职责，摸索着掏出提前准备的望远镜，努力寻找着正确的方向。在洛可可的和声和指挥下，蒂娜越唱越响，高音终于压过所有蠢蠢欲动的嘈杂，而小船也驶上正确的航道，冲破黑暗，迎来曙光。\n船只顺利回到剧团，洛可可的神色一如既往的平静。此后，洛可可大副经常驭船出海，每次都很顺利。\n\n“洛可可？她是个认真负责的好大副，也是个需要关爱的小女孩……哦对了，她唱歌的音准确实不怎么样，不过还怪有效的。”\n剧团远近闻名的直性子蒂娜女士如此评价道。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "旧船票",
+            "Content": "除了星星，小卢卡最宝贝的是一张旧船票。\n小卢卡还记得，那是她在船葬滩被救起的那天，洛可可姐姐给她的。\n\n洛可可姐姐明明比她大不了多少，看起来也还是个小孩子，但却沉稳、冷静、能够井井有条地处理一切事情——救助漂流而至的朝圣者、准备剧团的伙食、记录船舱里发生的趣事、收集海滩边的贝壳和海萤石、补充道具枪的彩带……安慰新来剧团、思念家乡而哭鼻子的孩子。\n\n“卢卡想妈妈了，想回去看看妈妈……可是卢卡只有去程的船票，返程的船票不小心弄丢了……”\n小卢卡手里捏着一张船票，上面用秀雅的笔触写着“前往梦幻岛”，还画着一些可爱的小花。\n修会忙着捕风捉影，将有可能动摇他们权威的人统统流放，连孩子都不放过。他们没有空闲绘制这种可爱的船票，也没有善心编织这份温暖的鼓励。\n洛可可立刻就明白了是怎么回事，但她一下子没想到应该怎么开口……“唔，修会不会做这种船票。从上面的笔迹来看，应该是一名温柔的女性手绘的。”“去程的船票，和返程的船票一样，都是你妈妈为了哄你做的。根本没有这种船票，所以即使丢了也不用担心。”\n如果这样说的话，就算是洛可可，也知道会惹小卢卡哭鼻子的。\n\n洛可可思考了一会儿，兀自走开了。\n没过多久，洛可可回来了，手里拿着一张“返程的船票”。上面画着可爱的小花和贝壳，还有一个手绘的章——“已到达梦幻岛”的盖章。小卢卡握紧船票，脸上又露出了笑容。\n\n作为剧团道具师的洛可可，当然能在短时间内迅速模仿出一张相似的船票……更重要的是，洛可可刚上岛的时候，佩洛也曾经做过类似的船票。洛可可对此记忆犹新——她知道这样小小的纸片中，蕴含着希望的力量。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "珍奇箱",
+            "Content": "年幼的洛可可奄奄一息地趴在船葬滩上，身后的朝圣船被海浪拍打得支离破碎。\n她即将失去光彩的眼眸中倒映出数不清的残象，“朝圣”的终点竟是如此……她闭上眼睛，等待“神罚”的降临。\n周围闪过几声呼啸，哀嚎划过她的耳膜，死亡并没有如预期那般降临。\n她再次睁开眼，面前是一个怪模怪样的箱子，伸出长长的手，向她发出邀请——重生的邀请。\n\n刚进入剧团的洛可可经历过一段长时间的消沉，因为构筑起她的小小世界的一切都崩塌了。\n她后知后觉自己是因为歌唱不被允许的戏剧而被放逐。曾经自由奔放的拉古那一去不返，遍布全城的鲜花已如被焚烧的戏剧一般枯萎。所谓朝圣是潦草包装的谎言，回程的随口许诺也就只能骗骗她这样的小孩子。\n她信赖的一切在朝夕之间全部崩塌，她开始怀疑自己单纯的喜好是否“正确”……而且，流落在荒岛，她暂时寻不到别的什么，去重新构筑自己的世界。\n\n“佩洛佩洛！”怪模怪样的手提箱递过来一张精美的船票，上面写着“返程”，还画着一些可爱的小贝壳。\n“佩洛佩洛！”怪模怪样的手提箱递过来一卷泛黄的剧本，里面详细描绘了拉古那的过往，歌颂着无罪的自由。\n“佩洛佩洛！”怪模怪样的手提箱递过来一张精致的面具，用颜料仔细描绘纹路，用珍珠和白贝母精心装点。\n“佩洛佩洛！”怪模怪样的手提箱再次伸出手邀请——邀请洛可可一起参加剧团的演出。蒂娜高音开嗓，巴多里奥系着气球抛洒花瓣，布兰特吊着钩索从空中飞来，拉开大大的欢迎横幅，佩洛乘机叩响彩带枪，手舞足蹈地邀请洛可可上台。这场荒诞随意、热闹非凡的迎新戏剧让洛可可第一次知道，原来戏剧可以这么开心。\n从此，洛可可开始逐渐用箱中的戏剧重新构筑起自己的世界。她知道拉古那光辉的舞台上整齐划一歌颂着的是名为规训的阴影，而她将和所有被放逐的愚人一起在真正的戏剧中无所顾忌地表达喜怒哀乐，开辟另一处乐土，建立自己的家园。\n\n如今的洛可可面容平静地乘着箱子在剧团和船葬滩之间来回穿梭，镇定自若地指挥大家救助新的朝圣者，将这座来之不易的港湾打理得井井有条。那些看似细碎的繁杂琐事，于她而言，却是构筑家园的一砖一瓦。她身形忙碌、乐在其中。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "新舞台",
+            "Content": "剧团中的人们来来往往，络绎不绝。洛可可则以船员们为灵感，即兴表演了很多有趣的戏剧。比如《金鱼叉巴蒂尔》《驭水玫瑰蒂娜》《不羁船长布兰特》《怪奇百宝箱佩洛》……时至今日，她和船员们已在悲叹墓岛及周边海域开了两百多场巡回演出，演遍了附近每一个角落。\n剧团并不宽裕，作为道具师，洛可可十分擅长将大家的日常生活用品制成道具，灵活运用到戏剧中。巴蒂尔的金鱼叉已经扮演过主座的权杖、巡游骑士的利剑、卫冕节使的刺刀……声骸船也已经扮演过逃生的小皮艇、风车巨人的靴子、海底鲸怪的眼睛……\n这些年来，洛可可和佩洛涉足过剧团里每一寸土地，环游过墓岛周边每一厘海域，在船葬滩上捡了几百颗海萤石，看过数千次日升日落。她们和剧团里的其他人一样，已经在这一方天地中待了太久。剧团的洞窟温暖明亮，但不免有人畅想远方，有人怀念家乡。\n\n当狂欢节久违的歌声在拉古那响起，摘得桂冠的花瓣重新铺满街道……漂泊在外的愚人剧团也盼来了扬帆返程的信风。\n\n尽管幼年的记忆已经模糊，但当洛可可跟着船长，和剧团众人重新大大方方踏上拉古那的街道，闻到玛格烈特传出的现烤披萨香味，听到奥德赛剧院中飘扬出的宏伟唱腔……她几乎和所有人一同瞬间回想起深埋记忆中的悠远怀念。\n金色的太阳高悬于明净的天空，宽阔的城市街道一览无余——崭新的舞台已在她眼前铺展开。\n信风吹开了紧闭的箱门，内向的女孩不再沉湎于箱中世界——她舒展肢体，踏出箱门，和整个拉古那一起向着更好的明天走去。\n愚人剧团大副洛可可，势必让欢愉的即兴喜剧重新在拉古那的大街小巷绽放。"
         }
     ],
     "Voices": [
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·一",
+            "Content": "收集“宝藏”、帮助大家、做舞台布景、缝制戏服、维修装置……洛可可每天有很多事要做，但洛可可不累，因为能看到大家开心的笑容，是最让人快乐的事情。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer01.play_favor_word_luokeke_sys_toplayer01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·二",
+            "Content": "这个箱子是百宝箱，也是休息室，里面很宽敞。除了保存收集到的宝贝，洛可可还在里面做了很多有趣的东西。我想邀请你进去参观。佩洛开门，佩洛开门。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer02.play_favor_word_luokeke_sys_toplayer02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·三",
+            "Content": "大家说，洛可可表演时一脸平静地做出夸张动作形成的反差，特别容易让观众发笑，就像这样。诶？你也笑了。嗯，洛可可会把这个风格保持下去的。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer03.play_favor_word_luokeke_sys_toplayer03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·四",
+            "Content": "剧团的戏剧可以让所有人都参与进来，让人们不再恐惧和悲伤，快速融入剧团，重燃生活的希望。如果你感到疲惫或失落了，不妨来看看演出，洛可可希望你可以快乐。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer04.play_favor_word_luokeke_sys_toplayer04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·五",
+            "Content": "大家说，真正的家人就是可以在一起互帮互助，互相疗愈的人。洛可可觉得，能让我感到温暖和安全的你，也是家人。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_toplayer05.play_favor_word_luokeke_sys_toplayer05"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "洛可可的喜好",
+            "Content": "我喜欢把收集起来的物品重新改造，制作成舞台道具。它们可以在戏剧中焕发新的生机，虽然看起来不够华丽，但每一个物品背后，都曾拥有非常独特的故事，值得珍惜。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_taste.play_favor_word_luokeke_sys_taste"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "洛可可的烦恼",
+            "Content": "船上大扫除的时候最让人头痛。附着的藻类、打翻的污水、破损的帆布……还有每当这个时候，总有人会莫名其妙突然忙起来，找不到人影。明明良好的生活环境、表演环境也很重要，对不对！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_worry.play_favor_word_luokeke_sys_worry"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "喜欢的食物",
+            "Content": "肉酱烩面好吃，大家围在一起吃的时候它会变得更加好吃，或许……饭就是要大家一起吃才香？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_foodlike.play_favor_word_luokeke_sys_foodlike"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "讨厌的食物",
+            "Content": "每次看到剧团里醉倒的家伙留下一片狼藉，洛可可就想把剩下几箱没开封的剧团烈度全部倒进海里。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_foodhate.play_favor_word_luokeke_sys_foodhate"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "抱负和理想",
+            "Content": "我相信，自由的戏剧终将重新传遍拉古那的街头。在那一天到来之前，我想让它在剧团里一直肆意生长，让悲恸者欢笑，让失落者重燃希望，让恐惧者获得生的勇气，让我们记起，何为我们。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_dream.play_favor_word_luokeke_sys_dream"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·一",
+            "Content": "佩洛是我最好的伙伴，它很厉害。它可以分辨物品上的独特频率，并装下我收集的所有东西，甚至还能吞噬恶意、情绪、和灵感，但请放心，它绝对不会把有毒、危险、或者有主的物品吞进肚子里的。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_story_obj.play_favor_word_luokeke_sys_story_obj"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·二",
+            "Content": "囿于船葬滩的“海萤石”如果不及时捡回去，终会失去光芒、归于尘土。曾经困于危难的那颗小小“海萤石”被愚人剧团的众人呵护着保存了下来，如今也有足以照耀其他“海萤石”的辉光了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_story_exp.play_favor_word_luokeke_sys_story_exp"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于布兰特",
+            "Content": "布兰特是这个世界上最伟大的船长。他说向别人介绍他的时候一定要这么说……不过在他的引领下，剧团确实做到了很多不可思议的事情。只要有他在，大家总是可以被激发出更大的潜力。他极具感染力的张扬恣意和坚定的自由信念，是船员们心里那根永远屹立不倒的桅杆。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_bulante.play_favor_word_luokeke_sys_about_bulante"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于珂莱塔",
+            "Content": "庞大的家族就像一艘沉重的巨轮，如果要成为掌舵人，让这艘船平稳航行下去，需要付出更多的努力。洛可可知道管理好一艘船要面对很多，所以敬佩她的能量和勇气。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_kelaita.play_favor_word_luokeke_sys_about_kelaita"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于赞妮",
+            "Content": "赞妮是洛可可心中大人应该有的样子，和她合作好轻松、好愉快、好有安全感，完全不用担心出意外……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_zanni.play_favor_word_luokeke_sys_about_zanni"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于菲比",
+            "Content": "隐海修会的人，洛可可不熟。但，她是第一个轻轻敲完箱子，佩洛没有一口咬上去的教士。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_about_feibi.play_favor_word_luokeke_sys_about_feibi"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "生日祝福",
+            "Content": "我和剧团排演了一出新戏，有时间可以来看看哦。悄悄剧透一下，你的出现是互动中不可或缺的一环，因为……我写的这场戏的真正主角是你，生日快乐！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_birthcele.play_favor_word_luokeke_sys_birthcele"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·一",
+            "Content": "表演开始。*佩洛！*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle01.play_favor_word_luokeke_idle_idle01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·二",
+            "Content": "（语气词）",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle02.play_favor_word_luokeke_idle_idle02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·三",
+            "Content": "（语气词）",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_idle_idle03.play_favor_word_luokeke_idle_idle03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "自我介绍",
+            "Content": "洛可可不只是愚人剧团的大副，还是舞台机械师和即兴喜剧演员。如果你在生活中遇到了有趣的事，可以分享给我，佩洛会把灵感吞进肚子里，我会用它们编织出新的即兴喜剧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_introduction.play_favor_word_luokeke_sys_introduction"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "初奏",
+            "Content": "世界是个舞台，你我都是演员。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_gacha.play_favor_word_luokeke_sys_gacha"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·一",
+            "Content": "佩洛肚皮空空，灵感快来快来。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_01.play_favor_word_luokeke_sys_jointeam_01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·二",
+            "Content": "旋风制造机、空间转换灯……洛可可有很多道具可以帮忙。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_02.play_favor_word_luokeke_sys_jointeam_02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·三",
+            "Content": "该笑一笑咯。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_jointeam_03.play_favor_word_luokeke_sys_jointeam_03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·一",
+            "Content": "佩洛说，它很开心，它想给你跳一段欢快的舞。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup01.play_favor_word_luokeke_sys_rankup01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·二",
+            "Content": "佩洛说，它现在非常强大，可以一拳打倒一百个敌人了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup02.play_favor_word_luokeke_sys_rankup02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·三",
+            "Content": "佩洛说，它更喜欢你了，它感觉自己的力量和信心在膨胀。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup03.play_favor_word_luokeke_sys_rankup03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·四",
+            "Content": "佩洛说，它终于有能力保护好所有人了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup04.play_favor_word_luokeke_sys_rankup04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·五",
+            "Content": "佩洛说，它很高兴自己能成长为今天的样子，这都要多谢你……咳，对不起，其实，佩洛一直什么都没说，这些话，都是洛可可想说的。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_sys_rankup05.play_favor_word_luokeke_sys_rankup05"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "普攻",
+            "Content": "*佩洛！*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_atk04_01.play_favor_word_luokeke_atk_atk04_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重击",
+            "Content": "惊喜道具。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_heavyatk_success_03.play_favor_word_luokeke_atk_heavyatk_success_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·一",
+            "Content": "接受。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk02.play_favor_word_luokeke_atk_fallingatk02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·二",
+            "Content": "增加。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk03.play_favor_word_luokeke_atk_fallingatk03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·三",
+            "Content": "别提问。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_atk_fallingatk04.play_favor_word_luokeke_atk_fallingatk04"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·一",
+            "Content": "戏剧风暴。\n*佩——洛——*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_01.play_favor_word_luokeke_skill_skill01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·二",
+            "Content": "旋风制造机。\n*呼——呼——*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_02.play_favor_word_luokeke_skill_skill01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·三",
+            "Content": "佩洛加油。\n*哈啊——*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_skill01_03.play_favor_word_luokeke_skill_skill01_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·一",
+            "Content": "舞台无处不在。\n*佩洛！哼！*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_01.play_favor_word_luokeke_burst_burst01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·二",
+            "Content": "互动时间到。\n*佩洛！吼！*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_02.play_favor_word_luokeke_burst_burst01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·三",
+            "Content": "现在是即兴发挥咯。\n*佩洛！佩洛！*",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_burst_burst01_03.play_favor_word_luokeke_burst_burst01_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "变奏技能",
+            "Content": "空中动作。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_qte.play_favor_word_luokeke_skill_qte"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·一",
+            "Content": "气氛不能掉。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_behitfly_02.play_favor_word_luokeke_com_behitfly_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·二",
+            "Content": "必要的戏剧冲突。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_behitfly_03.play_favor_word_luokeke_com_behitfly_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·一",
+            "Content": "意外的剧情。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown01.play_favor_word_luokeke_com_hpdown01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·二",
+            "Content": "转折桥段。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown02.play_favor_word_luokeke_com_hpdown02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·三",
+            "Content": "该翻番了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_hpdown03.play_favor_word_luokeke_com_hpdown03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·一",
+            "Content": "要回归幕后了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_01.play_favor_word_luokeke_com_die_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·二",
+            "Content": "表演中止。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_02.play_favor_word_luokeke_com_die_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·三",
+            "Content": "灵感枯竭。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_die_03.play_favor_word_luokeke_com_die_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·召唤",
+            "Content": "来助演吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_hxsummon.play_favor_word_luokeke_skill_hxsummon"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·变身",
+            "Content": "暖场游戏。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_skill_hxchange.play_favor_word_luokeke_skill_hxchange"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "进战提醒",
+            "Content": "即兴开场。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_engage.play_favor_word_luokeke_com_engage"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "感知",
+            "Content": "好像找到了什么。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_scan.play_favor_word_luokeke_com_scan"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·一",
+            "Content": "嗯，一定会有用的。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_01.play_favor_word_luokeke_com_openbox_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·二",
+            "Content": "佩洛，这个不能吃。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_02.play_favor_word_luokeke_com_openbox_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·三",
+            "Content": "是闪闪发光的东西。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_luokeke_com_openbox_03.play_favor_word_luokeke_com_openbox_03"
         }
     ],
     "Goods": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "便携式礼花道具",
+            "Content": "洛可可用自己收集的各种旧物重新改造出来的礼花装置。平时不常开口的她会为生活中的精彩瞬间或者伙伴们的妙语连珠而突然放花，为她喜欢的戏剧性瞬间增加应有的欢乐氛围。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure79_UI.T_Treasure79_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "佩洛道具箱",
+            "Content": "救下洛可可的佩洛用箱子里丰富的戏剧和情感陪伴她长大。在它的照顾下，洛可可对戏剧的兴趣和佩洛逐渐趋同。他们是最好的伙伴，一起制作舞台道具、一起上台演出。渐渐地，佩洛也因为她出现了奇妙的变化，它那些凝聚了百年的情感变得更加柔和。佩洛给了洛可可生命、洛可可也给了佩洛生命。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure80_UI.T_Treasure80_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "海萤石舞台道具",
+            "Content": "海萤石蕴含着人们思想和情感的光辉，它们经由洛可可的手，在舞台布景上大放异彩。物品上的情绪经由戏剧再次传达给世人，物品上的思想经由戏剧再次焕发生机。洛可可认为，这样那些离去的人们仿佛还生动的在大家身边。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure81_UI.T_Treasure81_UI"
         }
     ],

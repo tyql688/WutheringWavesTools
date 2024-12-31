@@ -14,7 +14,7 @@
         ],
         "en": "Nocturnus Knight",
         "intensity": 1,
-        "ko": "심야 기사",
+        "ko": "흑야 기사",
         "zh-Hans": "暗夜骑士",
         "ja": "闇夜の騎士"
     },
@@ -148,7 +148,7 @@
         ],
         "en": "Diurnus Knight",
         "intensity": 1,
-        "ko": "대낮 기사",
+        "ko": "백야 기사",
         "zh-Hans": "幻昼骑士",
         "ja": "炎昼の騎士"
     },
@@ -420,7 +420,7 @@
         "en": "Questless Knight",
         "intensity": 1,
         "child": 6010073,
-        "ko": "순찰 기사",
+        "ko": "방랑 기사",
         "zh-Hans": "巡游骑士",
         "ja": "回歴の騎士"
     },
@@ -518,7 +518,7 @@
         "ja": "風鬣狼"
     },
     "6000070": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_071_UI.T_IconMonsterGoods_071_UI",
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31046_UI.T_IconMonsterHead_31046_UI",
         "code": "R07-",
         "rank": [
             2,
@@ -1151,7 +1151,7 @@
         ],
         "en": "Abyssal Patricius",
         "intensity": 1,
-        "ko": "베나터 귀족",
+        "ko": "파트리시우스 귀족",
         "zh-Hans": "毒冠贵族",
         "ja": "アビサル・パトリシウス"
     },
@@ -1227,7 +1227,7 @@
         "en": "Sentry Construct",
         "intensity": 2,
         "child": 6010083,
-        "ko": "특조 무장",
+        "ko": "이성(異性) 무장",
         "zh-Hans": "异构武装",
         "ja": "ゼノコロッサス"
     },
@@ -1746,7 +1746,7 @@
         ],
         "en": "Chest Mimic",
         "intensity": 0,
-        "ko": "거짓 보물상자",
+        "ko": "미믹",
         "zh-Hans": "欺诈奇藏",
         "ja": "秘蔵ミミック"
     },

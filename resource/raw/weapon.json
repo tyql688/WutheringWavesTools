@@ -331,10 +331,10 @@
     },
     "80080007": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010017_UI.T_IconWeapon21010017_UI",
-        "rank": 3,
+        "rank": 5,
         "type": 1,
         "en": "Projection - Peach Blossom",
-        "desc": "test/Testing text. Please modify the configuration!",
+        "desc": "",
         "ko": "투영 · 복숭아꽃이 피는 날",
         "zh-Hans": "投影·桃夭灼灼",
         "ja": "投影・桃の夭夭たる"
@@ -368,16 +368,6 @@
         "ko": "뭇별의 교향곡",
         "zh-Hans": "星序协响",
         "ja": "星々のコンチェルト"
-    },
-    "20000110": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.T_IconWeapon21050015_UI",
-        "rank": 5,
-        "type": 1,
-        "en": "Test1-Short Sword",
-        "desc": "test breakout group's weapons.",
-        "ko": "테스트1-단검",
-        "zh-Hans": "dnt/测试1-短剑",
-        "ja": "テスト1-迅刀"
     },
     "21030011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030011_UI.T_IconWeapon21030011_UI",

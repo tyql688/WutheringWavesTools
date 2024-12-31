@@ -5,7 +5,7 @@
     "Type": "",
     "Intensity": "",
     "Place": "",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_071_UI.T_IconMonsterGoods_071_UI",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31046_UI.T_IconMonsterHead_31046_UI",
     "Skill": {
         "Desc": "使用声骸技能，召唤寂寞小姐攻击，造成{0}的衍射伤害。\n技能冷却：{1}秒",
         "SimpleDesc": "召唤寂寞小姐攻击，对敌人造成衍射伤害。",
