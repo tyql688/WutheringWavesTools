@@ -54,7 +54,7 @@ def generate():
 
 
 if __name__ == '__main__':
-    # new_version()
-    # generate()
-    download_url_attr()
+    new_version()
+    generate()
+    # download_url_attr()
     # app.api.download_url(url_list)

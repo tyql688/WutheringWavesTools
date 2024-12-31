@@ -2,12 +2,6 @@ from app.abstract.abstract import WavesWeaponRegister
 from app.abstract.abstract_weapon import WeaponAbstract
 
 
-class Weapon_20000110(WeaponAbstract):
-    id = 20000110
-    type = 1
-    name = "dnt/测试1-短剑"
-    
-
 class Weapon_21010011(WeaponAbstract):
     id = 21010011
     type = 1
@@ -506,7 +500,6 @@ class Weapon_21050094(WeaponAbstract):
     name = "虚饰的华尔兹"
     
 
-WavesWeaponRegister.register_class(Weapon_20000110.id, Weapon_20000110)
 WavesWeaponRegister.register_class(Weapon_21010011.id, Weapon_21010011)
 WavesWeaponRegister.register_class(Weapon_21010012.id, Weapon_21010012)
 WavesWeaponRegister.register_class(Weapon_21010013.id, Weapon_21010013)

@@ -58,6 +58,8 @@ def enhance():
     with open(WEAPON_ALIAS_PATH, 'r', encoding='utf-8') as f:
         old_weapon = json.load(f)
         for i in _weapon.values():
+            if '投影' in i:
+                continue
             if i not in old_weapon:
                 old_weapon[i] = [i]
 
