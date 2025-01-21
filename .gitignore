@@ -671,3 +671,5 @@ upload_file.py
 .DS_Store
 
 script
+
+.python-version
