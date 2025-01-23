@@ -6,6 +6,7 @@ ROLE = MAIN_PATH / 'role'
 
 PIC = MAIN_PATH / 'pic'
 WEAPON = PIC / 'weapon'
+PHANTOM = PIC / 'phantom'
 AVATAR = PIC / 'avatar'
 ROLE_PILE = PIC / 'role_pile'
 ROLE_DETAIL_SKILL_PATH = PIC / 'skill'
@@ -41,6 +42,7 @@ def init_dir():
         ROLE_DETAIL_CHAINS_PATH,
         PIC,
         WEAPON,
+        PHANTOM,
         AVATAR,
         ROLE_PILE,
         RAW_DATA_PATH,

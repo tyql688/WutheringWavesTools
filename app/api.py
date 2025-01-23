@@ -96,6 +96,25 @@ def download_all_weapon_pic(all_weapon: Dict, is_force: bool = False):
     print(f'{len(all_weapon)} weapons downloaded')
 
 
+def download_all_phantom_pic(all_echo: Dict, is_force: bool = False):
+    for resource_id, temp in all_echo.items():
+        name = f'phantom_{resource_id}.png'
+        path = PHANTOM / name
+        if not is_force and path.exists():
+            continue
+        try:
+            resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
+            url = f'https://api.hakush.in/ww/{resource_path}.webp'
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except:
+            continue
+
+    print(f'{len(all_echo)} phantoms downloaded')
+
+
 def download_skill_pic(all_character: Dict, is_force: bool = False):
     for resource_id, _ in all_character.items():
         _dir = ROLE_DETAIL_SKILL_PATH / resource_id
@@ -163,3 +182,4 @@ def download():
     download_all_avatar_pic(all_character)
     download_all_pile_pic(all_character)
     download_all_weapon_pic(all_weapon)
+    download_all_phantom_pic(all_echo)
