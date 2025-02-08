@@ -9,7 +9,7 @@ def remove_text_inside_brackets(text: str) -> str:
     # 移除尖括号及其内容
     text = re.sub(r'<[^>]*>', '', text)
     # 移除所有换行符
-    text = text.replace('\n', '').replace(' ', '')
+    text = text.replace(' ', '')
     return text
 
 
