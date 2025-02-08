@@ -98,7 +98,7 @@
         {
             "Type": 1,
             "Title": "今汐的烦恼",
-            "Content": "嗯……对于我来说，无论当下看起来多么困难的事情，比起“烦恼”，更多的是想方设法完成它的目标感。\r“烦恼”这种心情，已经很久没有过了。",
+            "Content": "嗯……对于我来说，无论当下看起来多么困难的事情，比起“烦恼”，更多的是想方设法完成它的目标感。\n“烦恼”这种心情，已经很久没有过了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_sys_worry.play_favor_word_jinxi_sys_worry"
         },
         {
@@ -502,6 +502,12 @@
             "Title": "获得补给·三",
             "Content": "这些够用吗？要是还缺什么，跟我说。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_openbox_03.play_favor_word_jinxi_com_openbox_03"
+        },
+        {
+            "Type": 2,
+            "Title": "获得补给·四",
+            "Content": "唔，这里的东西也不错呢。",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_jinxi_com_openbox_04.play_favor_word_jinxi_com_openbox_04"
         }
     ],
     "Goods": [
