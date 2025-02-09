@@ -18,6 +18,12 @@ class Stats(RootModel):
     root: Dict[str, WeaponStats]
 
 
+class AscensionMaterial(BaseModel):
+    """突破材料项目"""
+    key: int = Field(alias="Key")
+    value: int = Field(alias="Value")
+
+
 class WeaponModel(BaseModel):
     name: str = Field(alias="Name")
     starLevel: int = Field(alias="Rarity")
@@ -27,3 +33,4 @@ class WeaponModel(BaseModel):
     effectName: str = Field(alias="EffectName")
     param: List[List[str]] = Field(alias="Param")
     desc: str = Field(alias="Desc")
+    ascensions: Dict[str, List[AscensionMaterial]] = Field(alias="Ascensions")

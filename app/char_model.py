@@ -66,6 +66,12 @@ class Chains(RootModel):
     root: Dict[str, ChainDetail]
 
 
+class AscensionMaterial(BaseModel):
+    """突破材料项目"""
+    key: int = Field(alias="Key")
+    value: int = Field(alias="Value")
+
+
 # 定义模型
 class CharModel(BaseModel):
     name: str = Field(alias="Name")
@@ -74,3 +80,4 @@ class CharModel(BaseModel):
     levelExp: List[int] = Field(alias="LevelEXP")
     skillTree: Dict[str, SkillNode] = Field(alias="SkillTrees")
     chains: Chains = Field(alias="Chains")
+    ascensions: Dict[str, List[AscensionMaterial]] = Field(alias="Ascensions")

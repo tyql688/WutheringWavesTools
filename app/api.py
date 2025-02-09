@@ -43,6 +43,15 @@ def download_all_detail(type: str, resource_id_list: list):
             json.dump(res.json(), f, ensure_ascii=False, indent=4)
 
 
+def download_all_item():
+    res = _session.get('https://api.hakush.in/ww/data/zh/item.json')
+    res.raise_for_status()
+    value = res.json()
+    with open(RAW_ITEM_PATH, 'w', encoding='utf-8') as f:
+        json.dump(value, f, ensure_ascii=False, indent=4)
+    return value
+
+
 def download_all_avatar_pic(all_character: Dict, is_force: bool = False):
     for resource_id, temp in all_character.items():
         name = f'role_head_{resource_id}.png'
@@ -115,6 +124,50 @@ def download_all_phantom_pic(all_echo: Dict, is_force: bool = False):
     print(f'{len(all_echo)} phantoms downloaded')
 
 
+def download_all_item_pic(all_items: Dict, is_force: bool = False):
+    for resource_id, temp in all_items.items():
+        name = f'item_{resource_id}.png'
+        path = ITEM / name
+        if not is_force and path.exists():
+            continue
+        try:
+            resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
+            url = f'https://api.hakush.in/ww/{resource_path}.webp'
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except:
+            continue
+
+    print(f'{len(all_items)} items downloaded')
+
+
+def download_all_material_pic(all_items: Dict, is_force: bool = False):
+    count = 0
+    for resource_id, temp in all_items.items():
+        if 'tag' not in temp:
+            continue
+        if temp['tag'][0] not in MATERIAL_TAG:
+            continue
+        count += 1
+        name = f'material_{resource_id}.png'
+        path = MATERIAL / name
+        if not is_force and path.exists():
+            continue
+        try:
+            resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
+            url = f'https://api.hakush.in/ww/{resource_path}.webp'
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except:
+            continue
+
+    print(f'{count} 突破材料 downloaded')
+
+
 def download_skill_pic(all_character: Dict, is_force: bool = False):
     for resource_id, _ in all_character.items():
         _dir = ROLE_DETAIL_SKILL_PATH / resource_id
@@ -179,7 +232,11 @@ def download():
     download_all_detail('weapon', all_weapon.keys())
     all_echo = download_all_echo()
     download_all_detail('echo', all_echo.keys())
+    all_item = download_all_item()
+    download_all_detail('item', all_item.keys())
     download_all_avatar_pic(all_character)
     download_all_pile_pic(all_character)
     download_all_weapon_pic(all_weapon)
     download_all_phantom_pic(all_echo)
+    download_all_item_pic(all_item)
+    download_all_material_pic(all_item)

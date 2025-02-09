@@ -2,6 +2,7 @@ import json
 
 from .RESOURCE_PATH import *
 from .char_model import CharModel
+from .material_model import MaterialItem
 from .utils import lower_first_letter
 from .weapon_model import WeaponModel
 
@@ -27,9 +28,13 @@ def enhance():
         all_weapon = json.load(f)
     with open(RAW_ECHO_PATH, 'r', encoding='utf-8') as f:
         all_echo = json.load(f)
+    with open(RAW_ITEM_PATH, 'r', encoding='utf-8') as f:
+        all_item = json.load(f)
+        all_item = {k: v for k, v in all_item.items() if v['tag'][0] in MATERIAL_TAG}
     _all = {**all_character, **all_weapon, **all_echo}
 
     result = {_id: detail['zh-Hans'] for _id, detail in _all.items()}
+    result.update({k: v['name'] for k, v in all_item.items()})
     result.update(special_character2)
 
     with open(ID_NAME_PATH, 'w', encoding='utf-8') as f:
@@ -116,3 +121,22 @@ def enhance_char():
     for char_id in char_map.keys():
         with open(CHAR_PATH / f'{char_id}.json', 'w', encoding='utf-8') as f:
             json.dump(char_map[char_id], f, ensure_ascii=False, indent=2)
+
+
+def enhance_material():
+    with open(RAW_ITEM_PATH, 'r', encoding='utf-8') as f:
+        all_items = json.load(f)
+
+    _map = {}
+    for _id in all_items.keys():
+        with open(f"{RAW_RESOURCE_PATH}/{_id}.json", 'r', encoding='utf-8') as f:
+            _detail = json.load(f)
+        if _detail['Tag'][0] not in MATERIAL_TAG:
+            continue
+        _model = MaterialItem.parse_obj(_detail)
+        _map[_id] = lower_first_letter(_model.dict(exclude_none=True))
+        print(_map[_id])
+
+    for _id in _map.keys():
+        with open(MATERIAL_PATH / f'{_id}.json', 'w', encoding='utf-8') as f:
+            json.dump(_map[_id], f, ensure_ascii=False, indent=2)

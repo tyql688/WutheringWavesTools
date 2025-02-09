@@ -7,6 +7,8 @@ ROLE = MAIN_PATH / 'role'
 PIC = MAIN_PATH / 'pic'
 WEAPON = PIC / 'weapon'
 PHANTOM = PIC / 'phantom'
+ITEM = PIC / 'item'
+MATERIAL = PIC / 'material'
 AVATAR = PIC / 'avatar'
 ROLE_PILE = PIC / 'role_pile'
 ROLE_DETAIL_SKILL_PATH = PIC / 'skill'
@@ -20,6 +22,7 @@ CHAR_ALIAS_PATH = MAIN_PATH / 'char_alias.json'
 # WEAPON_PATH = MAIN_PATH / 'weaponData.json'
 CHAR_PATH = MAIN_PATH / 'detail_json/char'
 WEAPON_PATH = MAIN_PATH / 'detail_json/weapon'
+MATERIAL_PATH = MAIN_PATH / 'detail_json/material'
 
 WEAPON_ALIAS_PATH = MAIN_PATH / 'weapon_alias.json'
 
@@ -30,8 +33,11 @@ RAW_RESOURCE_PATH = RAW_DATA_PATH / 'resource'
 RAW_CHARACTER_PATH = RAW_DATA_PATH / 'character.json'
 RAW_WEAPON_PATH = RAW_DATA_PATH / 'weapon.json'
 RAW_ECHO_PATH = RAW_DATA_PATH / 'echo.json'
+RAW_ITEM_PATH = RAW_DATA_PATH / 'item.json'
 
 APP_PATH = Path(__file__).parents[1] / 'app'
+
+MATERIAL_TAG = ["共鸣者突破材料", "突破材料", "武器与技能素材", "技能升级材料", "突破材料", "通用货币"]
 
 
 def init_dir():
