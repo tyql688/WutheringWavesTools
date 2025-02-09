@@ -1318,7 +1318,7 @@
                         "Format": null
                     },
                     "9": {
-                        "Name": "空中攻击第一段跳跃伤害",
+                        "Name": "空中攻击第一段空翻伤害",
                         "Param": [
                             [
                                 "17.00%+29.75%",
@@ -1430,7 +1430,7 @@
                         "Format": null
                     },
                     "13": {
-                        "Name": "空中攻击第二段跳跃伤害",
+                        "Name": "空中攻击第二段空翻伤害",
                         "Param": [
                             [
                                 "17.00%+29.75%",
@@ -1486,7 +1486,7 @@
                         "Format": null
                     },
                     "15": {
-                        "Name": "空中攻击第三段跳跃伤害",
+                        "Name": "空中攻击第三段空翻伤害",
                         "Param": [
                             [
                                 "17.00%+29.75%",
@@ -2381,10 +2381,10 @@
                             4908,
                             5140
                         ],
-                        "Energy": 125,
-                        "ElementPower": 250,
+                        "Energy": 42,
+                        "ElementPower": 84,
                         "HardnessLv": 10000,
-                        "ToughLv": 5000
+                        "ToughLv": 1667
                     },
                     "1206010611": {
                         "Element": 2,
@@ -2412,10 +2412,10 @@
                             6380,
                             6682
                         ],
-                        "Energy": 125,
-                        "ElementPower": 250,
+                        "Energy": 42,
+                        "ElementPower": 84,
                         "HardnessLv": 10000,
-                        "ToughLv": 5000
+                        "ToughLv": 1667
                     },
                     "1206020101": {
                         "Element": 2,
@@ -2846,10 +2846,10 @@
                             22998,
                             24087
                         ],
-                        "Energy": 150,
-                        "ElementPower": 300,
+                        "Energy": 151,
+                        "ElementPower": 301,
                         "HardnessLv": 10000,
-                        "ToughLv": 6000
+                        "ToughLv": 6008
                     },
                     "1206006007": {
                         "Element": 2,
@@ -2909,9 +2909,9 @@
                             6022
                         ],
                         "Energy": 38,
-                        "ElementPower": 75,
+                        "ElementPower": 76,
                         "HardnessLv": 10000,
-                        "ToughLv": 1500
+                        "ToughLv": 1502
                     },
                     "1206006008": {
                         "Element": 2,
@@ -2971,9 +2971,9 @@
                             18065
                         ],
                         "Energy": 113,
-                        "ElementPower": 225,
+                        "ElementPower": 226,
                         "HardnessLv": 10000,
-                        "ToughLv": 4500
+                        "ToughLv": 4506
                     },
                     "1206505000": {
                         "Element": 2,
@@ -3098,6 +3098,68 @@
                         "ElementPower": 169,
                         "HardnessLv": 10000,
                         "ToughLv": 3750
+                    },
+                    "1206101101": {
+                        "Element": 2,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            9937,
+                            10752,
+                            11567,
+                            12707,
+                            13522,
+                            14459,
+                            15763,
+                            17066,
+                            18370,
+                            19755,
+                            21385,
+                            23014,
+                            24644,
+                            26274,
+                            27903,
+                            29533,
+                            31162,
+                            32792,
+                            34422,
+                            36051
+                        ],
+                        "Energy": 293,
+                        "ElementPower": 585,
+                        "HardnessLv": 10000,
+                        "ToughLv": 11690
+                    },
+                    "1206101001": {
+                        "Element": 2,
+                        "RelatedProperty": "攻击",
+                        "Type": 1,
+                        "RateLv": [
+                            8500,
+                            9197,
+                            9894,
+                            10870,
+                            11567,
+                            12369,
+                            13484,
+                            14599,
+                            15714,
+                            16899,
+                            18293,
+                            19687,
+                            21081,
+                            22475,
+                            23869,
+                            25263,
+                            26657,
+                            28051,
+                            29445,
+                            30839
+                        ],
+                        "Energy": 250,
+                        "ElementPower": 500,
+                        "HardnessLv": 10000,
+                        "ToughLv": 10000
                     }
                 }
             }
@@ -3532,7 +3594,7 @@
             ],
             "Skill": {
                 "Name": "直到世界尽头",
-                "Desc": "对范围内的目标造成<color=Fire>热熔伤害</color>，并进入<color=Highlight>燃焰</color>状态，并回复附近队伍所有角色的生命值。\n可以在空中施放。\n<size=10> </size>\n<size=40><color=Title>燃焰</color></size>\n<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>起锚！</color>命中时获取【喝彩】效率提升{1}。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。\n<size=10> </size>\n<size=40><color=Title>「我」的人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{2}时，每超过{3}的共鸣效率计算为{4}点攻击提升，上限为{5}。\n<size=10> </size>",
+                "Desc": "对范围内的目标造成<color=Fire>热熔伤害</color>，并回复附近队伍所有角色的生命值，施放结束后进入<color=Highlight>燃焰</color>状态。\n可以在空中施放。\n<size=10> </size>\n<size=40><color=Title>燃焰</color></size>\n<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>起锚！</color>命中时获取【喝彩】效率提升{1}。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。\n<size=10> </size>\n<size=40><color=Title>「我」的人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{2}时，每超过{3}的共鸣效率计算为{4}点攻击提升，上限为{5}。\n<size=10> </size>",
                 "Param": [
                     "12",
                     "100%",
@@ -4376,7 +4438,7 @@
             ],
             "Skill": {
                 "Name": "海中戏剧",
-                "Desc": "<size=40><color=Title>戏中人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{0}时，每超过1%的共鸣效率计算为{1}点攻击提升，上限为{2}。\n<size=10> </size>\n<size=40><color=Title>涛声喝彩</color></size>\n当【喝彩】达到{3}、{4}、{5}、{6}点后，会回复附近队伍所有角色的生命值。\n<size=10> </size>\n<size=40><color=Title>火焰归亡曲</color></size>\n当【喝彩】充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>火焰归亡曲</color>。\n施放<color=Highlight>火焰归亡曲</color>时，消耗全部【喝彩】，造成<color=Fire>热熔伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>，并获得护盾。若在<color=Highlight>燃焰</color>状态中施放，则立即结束<color=Highlight>燃焰</color>状态。\n<size=10> </size>\n<size=40><color=Title>喝彩获取规则</color></size>\n【喝彩】上限{7}点。\n常态攻击命中目标时，获得【喝彩】。\n变奏技能命中目标时，获得【喝彩】。\n共鸣技能命中目标时，获得【喝彩】。",
+                "Desc": "<size=40><color=Title>戏中人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{0}时，每超过1%的共鸣效率计算为{1}点攻击提升，上限为{2}。\n<size=10> </size>\n<size=40><color=Title>涛声喝彩</color></size>\n当【喝彩】达到{3}、{4}、{5}、{6}点后，会回复附近队伍所有角色的生命值。\n<size=10> </size>\n<size=40><color=Title>火焰归亡曲</color></size>\n当【喝彩】充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>火焰归亡曲</color>。\n施放<color=Highlight>火焰归亡曲</color>时，消耗全部【喝彩】，造成<color=Fire>热熔伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>，并获得护盾。若在<color=Highlight>燃焰</color>状态中施放，则在<color=Highlight>火焰归亡曲</color>结束后失去<color=Highlight>燃焰</color>状态。\n<size=10> </size>\n<size=40><color=Title>喝彩获取规则</color></size>\n【喝彩】上限{7}点。\n常态攻击命中目标时，获得【喝彩】。\n变奏技能命中目标时，获得【喝彩】。\n共鸣技能命中目标时，获得【喝彩】。",
                 "Param": [
                     "150%",
                     "12",
@@ -4475,6 +4537,34 @@
                         "Format": "{0}*每1%共鸣效率"
                     },
                     "4": {
+                        "Name": "护盾持续时间",
+                        "Param": [
+                            [
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30",
+                                "30"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "5": {
                         "Name": "火焰归亡曲回复协奏能量",
                         "Param": [
                             [
@@ -4675,10 +4765,10 @@
                             8228,
                             8617
                         ],
-                        "Energy": 225,
-                        "ElementPower": 225,
+                        "Energy": 75,
+                        "ElementPower": 75,
                         "HardnessLv": 10000,
-                        "ToughLv": 1500
+                        "ToughLv": 500
                     },
                     "1206203011": {
                         "Element": 2,
@@ -4706,10 +4796,10 @@
                             11683,
                             12236
                         ],
-                        "Energy": 225,
-                        "ElementPower": 225,
+                        "Energy": 75,
+                        "ElementPower": 75,
                         "HardnessLv": 10000,
-                        "ToughLv": 1500
+                        "ToughLv": 500
                     },
                     "1206203002": {
                         "Element": 2,
@@ -4737,10 +4827,10 @@
                             16455,
                             17234
                         ],
-                        "Energy": 450,
-                        "ElementPower": 450,
+                        "Energy": 150,
+                        "ElementPower": 150,
                         "HardnessLv": 10000,
-                        "ToughLv": 3000
+                        "ToughLv": 1000
                     },
                     "1206203012": {
                         "Element": 2,
@@ -4768,10 +4858,10 @@
                             23366,
                             24472
                         ],
-                        "Energy": 450,
-                        "ElementPower": 450,
+                        "Energy": 150,
+                        "ElementPower": 150,
                         "HardnessLv": 10000,
-                        "ToughLv": 3000
+                        "ToughLv": 1000
                     },
                     "1206203005": {
                         "Element": 2,
@@ -4861,10 +4951,10 @@
                             230363,
                             241269
                         ],
-                        "Energy": 1500,
-                        "ElementPower": 1500,
+                        "Energy": 2100,
+                        "ElementPower": 2100,
                         "HardnessLv": 10000,
-                        "ToughLv": 10000
+                        "ToughLv": 14000
                     },
                     "1206203016": {
                         "Element": 2,
@@ -4892,10 +4982,10 @@
                             327115,
                             342602
                         ],
-                        "Energy": 1500,
-                        "ElementPower": 1500,
+                        "Energy": 2100,
+                        "ElementPower": 2100,
                         "HardnessLv": 10000,
-                        "ToughLv": 10000
+                        "ToughLv": 14000
                     },
                     "1206000101": {
                         "Element": 0,
@@ -5475,7 +5565,7 @@
     "Chains": {
         "1": {
             "Name": "跟随洋流和信风",
-            "Desc": "<color=Highlight>火焰归亡曲</color>施放期间会短暂迟缓周围的目标。施放变奏技能<color=Highlight>为我！</color>后或每次<color=Highlight>空中攻击空翻</color>后，布兰特造成伤害提升{0}，持续{1}秒，可叠加{2}层。",
+            "Desc": "<color=Highlight>火焰归亡曲</color>施放期间会短暂停滞周围的目标，若在此期间切换至其他角色则提前结束停滞效果。\n施放变奏技能<color=Highlight>为我！</color>后或每次<color=Highlight>空中攻击空翻</color>时，布兰特造成伤害提升{0}，持续{1}秒，可叠加{2}层。",
             "Param": [
                 "20%",
                 "5",
@@ -5485,7 +5575,7 @@
         },
         "2": {
             "Name": "掠夺欢声与笑颜",
-            "Desc": "施放<color=Highlight>空中攻击</color>和<color=Highlight>火焰归亡曲</color>暴击提升{0}。\n布兰特延奏技能<color=Highlight>航向确定！</color>获得额外效果，{2}秒内：\n下一位登场角色或附近队伍中激活布兰特延奏技能角色施放<color=Highlight>共鸣技能</color>命中目标时，会产生一次爆炸，造成布兰特攻击{1}的热熔伤害，此次伤害为普攻伤害。爆炸每秒可触发{3}次，最多可产生{4}次爆炸。\n·布兰特离开队伍时会提前结束该额外效果。",
+            "Desc": "施放<color=Highlight>空中攻击</color>和<color=Highlight>火焰归亡曲</color>时暴击提升{0}。\n布兰特延奏技能<color=Highlight>航向确定！</color>获得额外效果，{2}秒内：\n下一位登场角色或附近队伍中激活布兰特延奏技能的角色施放<color=Highlight>共鸣技能</color>命中目标时，布兰特将攻击目标，会产生一次爆炸，造成布兰特攻击{1}的热熔伤害，此次伤害为普攻伤害。爆炸每秒可触发{3}次，最多可触发{4}次爆炸。\n·切换至其他角色会保留该额外效果。",
             "Param": [
                 "30%",
                 "440%",
@@ -5515,7 +5605,7 @@
         },
         "5": {
             "Name": "演员说：生活皆舞台",
-            "Desc": "造成普攻伤害时，<color=Highlight>普攻伤害</color>提升{0}，持续{1}秒。",
+            "Desc": "造成普攻伤害时，<color=Highlight>普攻伤害加成</color>提升{0}，持续{1}秒。",
             "Param": [
                 "15%",
                 "10"
@@ -5524,7 +5614,7 @@
         },
         "6": {
             "Name": "船长答：狂欢即世界！",
-            "Desc": "<color=Highlight>空中攻击</color>的倍率提升{0}。施放<color=Highlight>火焰归亡曲</color>后，会在原地产生一次爆炸，造成等同于<color=Highlight>火焰归亡曲</color>{1}的<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。",
+            "Desc": "<color=Highlight>空中攻击</color>的倍率提升{0}。\n施放<color=Highlight>火焰归亡曲</color>后，会在原地产生一次再燃，造成等同于<color=Highlight>火焰归亡曲</color>{1}的<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。",
             "Param": [
                 "30%",
                 "30%"
