@@ -1,0 +1,16 @@
+{
+    "Id": 70010079,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「裴魁德号设计图纸·下」",
+    "Desc": "用于指导修建「裴魁德」的进阶设计图纸。",
+    "Bg": "“世界就是一只向前驶出的大船，而且没有一次完整的航程。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_131_UI.T_IconTask_Task_131_UI",
+    "Source": []
+}

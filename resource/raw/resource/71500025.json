@@ -1,0 +1,18 @@
+{
+    "Id": 71500025,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "狂欢者—船长印章",
+    "Desc": "所有属性伤害加深25%\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "恶党击沉他们的帆船，企图让欢笑消弭于无声处。于是他们在燃烧的大海上奏乐舞蹈，用生命献上最后的狂欢。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_18.T_IconMowing_18",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

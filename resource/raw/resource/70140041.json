@@ -1,0 +1,16 @@
+{
+    "Id": 70140041,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "往日存念",
+    "Desc": "漂泊者·衍射的技能已得到强化，可前往共鸣者-技能界面查看详情。",
+    "Bg": "你在过去为自己设立了“路标”，也为自己朝着“路标”前行留下了足够的力量与信念。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_109_UI.T_IconTask_Task_109_UI",
+    "Source": []
+}

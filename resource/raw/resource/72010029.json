@@ -1,0 +1,16 @@
+{
+    "Id": 72010029,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《巫术、耳目与检举信》",
+    "Desc": "于赞悼圣迹收集到的书籍。",
+    "Bg": "“我等将为他们日夜祈祷，祈求他们得到吾主英白拉多的救赎。万福，英白拉多。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

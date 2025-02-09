@@ -1,0 +1,18 @@
+{
+    "Id": 80000043,
+    "Rarity": 3,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "三球冰激凌",
+    "Desc": "减少队伍中所有共鸣者15%翱翔耐力消耗，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "整整装了三个球的冰激凌，三个球在脆筒上达成了完美的视觉平衡，每一个球的味道都不同，每一口都是幸福的味道。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_064_UI.T_IconCook_064_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

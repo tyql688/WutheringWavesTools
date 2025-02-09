@@ -1,0 +1,20 @@
+{
+    "Id": 38,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "老旧指南针",
+    "Desc": "老旧的指南针，用于提升和解锁其他捕捞能力。",
+    "Bg": "由于这个指南针已经过于陈旧以至于难以分辨它到底是产生错乱还是在正常运作，但只要能指引方向，管它指的是哪儿？",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation04_UI.T_IconA_Act_Navigation04_UI",
+    "Source": [
+        "完成委托获取",
+        "码头商店购买",
+        "完成剧情获取"
+    ]
+}

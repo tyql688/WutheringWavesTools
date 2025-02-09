@@ -1,0 +1,73 @@
+{
+    "Id": 6000097,
+    "Code": "H47-",
+    "Name": "飓力熊",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32032_UI.T_IconMonsterHead_32032_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，可幻形为飓力熊向前冲锋，命中时造成{0}的气动伤害，结束时挥击造成{1}的气动伤害。长按可持续冲锋，冲锋过程中再次使用声骸技能可施放挥击。\n技能冷却：{2}秒",
+        "SimpleDesc": "幻形为飓力熊，向前冲锋，造成气动伤害。",
+        "Param": [
+            [
+                "87.00%",
+                "87.00%",
+                "20"
+            ],
+            [
+                "104.40%",
+                "104.40%",
+                "20"
+            ],
+            [
+                "121.80%",
+                "121.80%",
+                "20"
+            ],
+            [
+                "139.20%",
+                "139.20%",
+                "20"
+            ],
+            [
+                "156.60%",
+                "156.60%",
+                "20"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31032_UI.T_Mstskil_31032_UI"
+    },
+    "Group": {
+        "14": {
+            "Id": 14,
+            "Name": "无惧浪涛之勇",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.T_IconElementAttriEnergy",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣效率提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色攻击提升{0}，共鸣效率达到{1}后，当前角色全属性伤害提升{2}。",
+                    "Param": [
+                        "15%",
+                        "250%",
+                        "30%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 1,
+    "MonsterInfo": 320000320
+}

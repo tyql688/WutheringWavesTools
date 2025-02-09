@@ -1,0 +1,16 @@
+{
+    "Id": 71550001,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "琥珀钥匙",
+    "Desc": "一枚琥珀，可能是开启宝藏的钥匙。",
+    "Bg": "“这看起来是一块琥珀，这色泽还挺好看。把这个带上，去下一个岛吧。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_128_UI.T_IconTask_Task_128_UI",
+    "Source": []
+}

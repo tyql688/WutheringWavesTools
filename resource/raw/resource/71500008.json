@@ -1,0 +1,18 @@
+{
+    "Id": 71500008,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "布道-遗落令旗",
+    "Desc": "角色每次造成普攻伤害时，使下一次普攻伤害加深4%，最多叠加5层，持续15秒\n\n该信物在冥歌海墟中不限制使用次数",
+    "Bg": "运输修会教士往来各个群岛的船只所使用的令旗。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_08.T_IconMowing_08",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

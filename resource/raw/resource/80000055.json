@@ -1,0 +1,18 @@
+{
+    "Id": 80000055,
+    "Rarity": 4,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "酒炖章鱼蛤",
+    "Desc": "提高队伍中所有共鸣者30%生命上限，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "据说曾有一位醉醺醺的剧团成员不小心把手里的酒当成水倒进锅子里煮海鲜，无意中做成了这道菜——应该没有造成火灾。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_072_UI.T_IconCook_072_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 71220001,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "布偶村修复日志·一",
+    "Desc": "修复布偶村期间的记录。",
+    "Bg": "与布偶村的伙伴们一同修复家园的证明。继续收集声匣，恢复声骸布偶村的力量，接纳更多的伙伴吧。这个小村子一定会越来越温馨。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI.T_IconTask_Task_052_UI",
+    "Source": []
+}

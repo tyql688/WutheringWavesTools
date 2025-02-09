@@ -1,0 +1,16 @@
+{
+    "Id": 71510204,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "生锈的铁箱",
+    "Desc": "在黎乔利群岛海底沉船中发现的铁皮箱子，打开后可以获得神秘奖励。",
+    "Bg": "生锈的铁皮箱子不要扔，也许里面会有什么宝贝也说不定。实在不行的话，拿来当做近战武器的杀伤力也很强。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation18_UI.T_IconA_Act_Navigation18_UI",
+    "Source": []
+}

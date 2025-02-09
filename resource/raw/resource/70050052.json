@@ -1,0 +1,16 @@
+{
+    "Id": 70050052,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "波蒂维诺之徽",
+    "Desc": "刻有翡萨烈家族纹样的徽章。",
+    "Bg": "在波蒂维诺堡周围有着四项特殊的试炼，试炼的通过者将被翡萨烈家族授予这枚徽章。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_110_UI.T_IconTask_Task_110_UI",
+    "Source": []
+}

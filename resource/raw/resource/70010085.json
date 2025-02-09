@@ -1,0 +1,16 @@
+{
+    "Id": 70010085,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "特制：怪味当当蟹",
+    "Desc": "特制的怪味当当蟹，不过看起来味道有点怪。",
+    "Bg": "也许鲜美永远是相对而言的，就像英白拉多也会接受有人不会骑马。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_056_UI.T_IconCook_056_UI",
+    "Source": []
+}

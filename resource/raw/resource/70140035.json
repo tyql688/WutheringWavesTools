@@ -1,0 +1,16 @@
+{
+    "Id": 70140035,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「穿行昼夜的自由之鸽」",
+    "Desc": "珂莱塔小姐按照对你与阿布的印象，为你们定制的狂欢节面具。",
+    "Bg": "珂莱塔小姐按照对你与阿布的印象，为你们定制的狂欢节面具。\n面具采用了半遮面式设计，保有个性与神秘感的同时，又很好地考虑到了战斗时的需要，没有过多繁杂的装饰，不至于遮挡视野阻碍行动。\n可佩戴。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_101_UI.T_IconTask_Task_101_UI",
+    "Source": []
+}

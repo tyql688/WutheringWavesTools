@@ -1,0 +1,16 @@
+{
+    "Id": 70050048,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "莫塔里权限组件-等级Ⅱ",
+    "Desc": "由珂莱塔特别授权给漂泊者的权限组件，可让你在埃弗拉德金库内畅行无阻。",
+    "Bg": "”虽然还是需要麻烦地到处刷取权限，但这也是我本人能拿到的最高权限，拜托了。“\n换句话说，在埃弗拉德金库内，你与她的权限同等。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_133_UI.T_IconTask_Task_133_UI",
+    "Source": []
+}

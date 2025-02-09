@@ -1,0 +1,18 @@
+{
+    "Id": 42601070,
+    "Rarity": 1,
+    "Type": 5,
+    "Tag": [
+        "食材"
+    ],
+    "TagNum": [
+        26
+    ],
+    "Name": "毒莴裙藻",
+    "Desc": "用于烹饪的材料。",
+    "Bg": "与多肉海兔共生的有毒藻类，其中富含的胶质是制作甜品的重要材料。\n经过提纯后的胶质柔滑绵密，略带清甜，能够赋予甜点爽滑弹嫩的口感。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_041_UI.T_IconC_041_UI",
+    "Source": [
+        "推荐：狄萨莱海脊采集"
+    ]
+}

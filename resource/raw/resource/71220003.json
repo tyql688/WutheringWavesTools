@@ -1,0 +1,16 @@
+{
+    "Id": 71220003,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "布偶村修复日志·终",
+    "Desc": "修复布偶村期间的最终纪念。",
+    "Bg": "与布偶村的伙伴们一同修复家园的证明，也是与声骸伙伴的珍贵回忆——“没有人需要你，那我需要你。没有人接纳你，那我接纳你。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_052_UI.T_IconTask_Task_052_UI",
+    "Source": []
+}

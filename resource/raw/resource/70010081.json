@@ -1,0 +1,16 @@
+{
+    "Id": 70010081,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "南妮儿的漂流瓶",
+    "Desc": "南妮儿的漂流瓶，存放着她的梦想。",
+    "Bg": "“弟弟，无论你在哪里……如果你能看到的话，就为我演奏一曲吧，我一定会听到。终有一天，你也会听到我的音乐。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation16_UI.T_IconA_Act_Navigation16_UI",
+    "Source": []
+}

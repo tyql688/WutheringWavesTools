@@ -1,0 +1,16 @@
+{
+    "Id": 70010084,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "新鲜的鱼条",
+    "Desc": "新鲜的鱼肉，可以用来喂于连。",
+    "Bg": "于连很喜欢！谢谢喵！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_033_UI.T_IconC_033_UI",
+    "Source": []
+}

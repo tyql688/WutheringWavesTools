@@ -1,0 +1,18 @@
+{
+    "Id": 71500001,
+    "Rarity": 2,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "冷凝-锈蚀古币",
+    "Desc": "冷凝伤害提升20%\n\n该信物在冥歌海墟中不限制使用次数",
+    "Bg": "来自沉船上的商旅、朝圣者甚至是海盗的遗物，斑驳锈蚀的古币成为他们最后的见证者。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_03.T_IconMowing_03",
+    "Source": [
+        "AccessPath_857004_Description"
+    ]
+}

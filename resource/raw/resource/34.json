@@ -1,0 +1,16 @@
+{
+    "Id": 34,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "试炼纹币",
+    "Desc": "由翡萨烈的财富熔铸而成特殊纹币，通过在全息战略·幻痛内的试炼获得，可用于交换翡萨烈一族为通过试炼者准备的各类物资。",
+    "Bg": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_B6_UI.T_IconRup_B6_UI",
+    "Source": []
+}

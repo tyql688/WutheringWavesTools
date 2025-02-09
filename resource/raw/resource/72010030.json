@@ -1,0 +1,16 @@
+{
+    "Id": 72010030,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《圣事考》",
+    "Desc": "于槲生半岛收集到的书籍。",
+    "Bg": "“我就观看，有一匹半身的白马。祂命我向提灯祝祷，可使人们彼此相知，便可胜了又胜！”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

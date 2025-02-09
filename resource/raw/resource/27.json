@@ -1,0 +1,19 @@
+{
+    "Id": 27,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "黎乔利渔业币",
+    "Desc": "黎乔利群岛内部通行的渔业币，用于购买渔材和平时花费。",
+    "Bg": "黎乔利群岛仍然归属于黎那汐塔，也流通贝币，但渔民和水手们自有一套通行于海上的交易方法。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation02_UI.T_IconA_Act_Navigation02_UI",
+    "Source": [
+        "完成委托获取",
+        "码头商店出售获得"
+    ]
+}

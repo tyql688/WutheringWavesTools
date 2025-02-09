@@ -1,0 +1,16 @@
+{
+    "Id": 70010080,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "亚哈的日记本",
+    "Desc": "饱经海风洗练的日记本，记录着亚哈过去航海时的经历。",
+    "Bg": "他在大海上战无不胜，直到他遇见了“它”。自那以后，索拉里斯四海之内便没有名为亚哈的船长乘风破浪，只有一个在海边满怀仇恨与希望，却仍不服输的等待死亡的老人。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation19_UI.T_IconA_Act_Navigation19_UI",
+    "Source": []
+}

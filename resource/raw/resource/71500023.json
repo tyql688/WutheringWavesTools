@@ -1,0 +1,18 @@
+{
+    "Id": 71500023,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "那开云散雾的狂欢",
+    "Desc": "队伍中的角色处于空中时，伤害加深30%，持续15秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "唱吧，跳吧！庆祝我们穿越了一千片暗礁，突破了一千场风雨！唱吧，跳吧！带着对岁主的感激，和对同伴的追思，骄傲地在这片热土上活下去。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_22.T_IconMowing_22",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

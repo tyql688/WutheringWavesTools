@@ -1,0 +1,16 @@
+{
+    "Id": 70050053,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「塔」",
+    "Desc": "旅行画师克劳迪亚赠送的画，画中是某处高塔遗迹的景色。",
+    "Bg": "传说中，伫立于狄萨莱海脊的三重冠塔埋藏着翡萨烈家族最初的荣誉。\n能从作画者细腻的笔触里感受到不安和迷惑。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_053_UI.T_IconTask_Task_053_UI",
+    "Source": []
+}

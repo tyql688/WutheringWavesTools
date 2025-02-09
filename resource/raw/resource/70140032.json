@@ -1,0 +1,16 @@
+{
+    "Id": 70140032,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "造云机的底台",
+    "Desc": "造云机的底台，曾被剧团成员拿去做了制谱用的桌台。",
+    "Bg": "造云机的底台，曾被剧团成员拿去做了制谱用的桌台。\n可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_107_UI.T_IconTask_Task_107_UI",
+    "Source": []
+}

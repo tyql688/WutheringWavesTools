@@ -1,0 +1,18 @@
+{
+    "Id": 70000003,
+    "Rarity": 5,
+    "Type": 1,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "释力元件·翱翔",
+    "Desc": "可以提升10点翱翔耐力上限。可通过拉古那地区探索度奖励获得。",
+    "Bg": "数据坞算力的扩展元件，能够稳定提升翱翔功能的动力上限。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_041_UI.T_IconCook_YJ_041_UI",
+    "Source": [
+        "拉古那地区探索度奖励获得"
+    ]
+}

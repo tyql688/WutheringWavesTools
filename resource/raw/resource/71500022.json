@@ -1,0 +1,18 @@
+{
+    "Id": 71500022,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "那侵髓蚀骨的血盟",
+    "Desc": "角色每造成10次伤害，使下次共鸣解放伤害提升120%，持续20秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "“他感到身体愈发沉重，黑暗将他束缚，缓慢地拖入海底。寂静中，只剩下戒指的低语，你逃不了的，没人逃得了……”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_20.T_IconMowing_20",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

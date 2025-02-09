@@ -1,0 +1,16 @@
+{
+    "Id": 70140034,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《隐海圣典·导论（第137次修订版）》",
+    "Desc": "菲比赠予的书籍，一本有关修会如今圣典的导论，深入浅出地阐明了修会的基本教义与神明观。",
+    "Bg": "菲比赠予的书籍，一本有关修会如今圣典的导论，深入浅出地阐明了修会的基本教义与神明观。\n可阅读。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_002_1_UI.T_IconTask_Task_002_1_UI",
+    "Source": []
+}

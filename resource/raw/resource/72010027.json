@@ -1,0 +1,16 @@
+{
+    "Id": 72010027,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《前代枢密的笔记》",
+    "Desc": "于悲叹墓岛收集到的书籍。",
+    "Bg": "“我看向身边，却惊异地发现，我昔日的神学院同窗——芬莱克大人的眉宇正笼罩在一片令人陌生的阴翳中。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

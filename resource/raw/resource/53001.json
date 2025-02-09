@@ -1,0 +1,16 @@
+{
+    "Id": 53001,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "桃夭灼灼",
+    "Desc": "获得后可以解锁对应角色的服饰，使角色获得不同的外观。",
+    "Bg": "花前月下，清歌曼舞。为典仪，更为——\n纪念你们最初的相会，同途的相知，以及共济风雪的相伴。\n“春回岁往谁与共，桃夭灼灼牵丝动。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.T_IconRoleHead256_24_a_UI",
+    "Source": []
+}

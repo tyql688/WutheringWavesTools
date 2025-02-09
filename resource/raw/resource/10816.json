@@ -1,0 +1,18 @@
+{
+    "Id": 10816,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "集结的信念",
+    "Desc": "「拉结号」使用的船篷，可增加获得高品质渔获的概率。",
+    "Bg": "风暴中集结。风暴不能将我们战胜，因为我们生来就要征服。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation08_UI.T_IconA_Act_Navigation08_UI",
+    "Source": [
+        "黎那汐塔声匣回收获得"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Id": 37,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "万用指南针",
+    "Desc": "神秘的指南针，用于解锁核心捕捞能力。",
+    "Bg": "指针乱转飘忽不定的指南针能用来干什么？指的到底是哪儿？",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation03_UI.T_IconA_Act_Navigation03_UI",
+    "Source": [
+        "完成剧情获取"
+    ]
+}

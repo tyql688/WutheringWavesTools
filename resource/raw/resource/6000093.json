@@ -1,0 +1,94 @@
+{
+    "Id": 6000093,
+    "Code": "S10-",
+    "Name": "愚金幼岩",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31049_UI.T_IconMonsterHead_31049_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤愚金幼岩向前扑击，对路径上的敌人造成{0}衍射伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤愚金幼岩攻击，对敌人造成衍射伤害。",
+        "Param": [
+            [
+                "72.00%",
+                "8"
+            ],
+            [
+                "86.40%",
+                "8"
+            ],
+            [
+                "100.80%",
+                "8"
+            ],
+            [
+                "115.20%",
+                "8"
+            ],
+            [
+                "129.60%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31049_UI.T_Mstskil_31049_UI"
+    },
+    "Group": {
+        "10": {
+            "Id": 10,
+            "Name": "凌冽决断之心",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriIceUltimateSkill.T_IconElementAttriIceUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "共鸣技能伤害提升{0}",
+                    "Param": [
+                        "12%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣技能时，自身冷凝伤害提升{0}，持续{1}秒；施放共鸣解放时，自身共鸣技能伤害提升{2}，持续{3}秒，可叠加{4}层。",
+                    "Param": [
+                        "22.5%",
+                        "15",
+                        "18%",
+                        "5",
+                        "2"
+                    ]
+                }
+            }
+        },
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000490
+}

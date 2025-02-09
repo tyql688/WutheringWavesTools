@@ -1,0 +1,18 @@
+{
+    "Id": 70050045,
+    "Rarity": 2,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "压扁的糖果",
+    "Desc": "声骸吸收概率提升50%，持续时间30分钟。\n来自「画匠」的赠礼：谢谢你，我的「最佳观众」。",
+    "Bg": "怎么会……明明小心翼翼地珍藏了许久，却不慎被坐扁了的糖果——或许是那次的「幻想之夜」不小心摔了一跤。希望你不会嫌弃，这一「片」心意。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_030_UI.T_IconTask_Task_030_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

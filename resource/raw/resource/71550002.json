@@ -1,0 +1,16 @@
+{
+    "Id": 71550002,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "船长航海图",
+    "Desc": "价值「一枚硬币」的海图，代表了一段故事、一次冒险和一个人的一生。",
+    "Bg": "“大海的怀抱宽广无垠，我们既要航行于此，就该跟随洋流与信风的方向。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_127_UI.T_IconTask_Task_127_UI",
+    "Source": []
+}

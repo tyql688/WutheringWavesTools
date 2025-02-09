@@ -1,0 +1,16 @@
+{
+    "Id": 70010078,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「裴魁德号设计图纸·上」",
+    "Desc": "用于指导修建「裴魁德」的基础设计图纸。",
+    "Bg": "其实岛上的渔民们从来都没有见过「裴魁德」的真正面目，亚哈船长只是说那是一艘已经沉入大海的船。现如今的设计图纸，是亚哈船长结合了拉古那船只范式绘制出来的。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_131_UI.T_IconTask_Task_131_UI",
+    "Source": []
+}

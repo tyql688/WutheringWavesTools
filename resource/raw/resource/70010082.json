@@ -1,0 +1,16 @@
+{
+    "Id": 70010082,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "“甜味烟花”",
+    "Desc": "用于破坏特定礁石的砰砰河豚",
+    "Bg": "斯塔巴克斯原本准备和某条鱼结婚时使用的烟花，然而这种砰砰河豚威力惊人，也可以用来炸碎礁石。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation21_UI.T_IconA_Act_Navigation21_UI",
+    "Source": []
+}

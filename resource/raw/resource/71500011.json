@@ -1,0 +1,18 @@
+{
+    "Id": 71500011,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "眷属-珍奇契约",
+    "Desc": "召唤一名声骸协同作战，不会受到玩家角色伤害\n\n该信物在冥歌海墟中不限制使用次数",
+    "Bg": "不愿透露姓名的女士提供的奇妙契约和配套的声骸眷属，用神秘的方式些微复现了岁主的神迹。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_12.T_IconMowing_12",
+    "Source": [
+        "世界探索获得"
+    ]
+}

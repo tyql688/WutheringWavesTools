@@ -1,0 +1,16 @@
+{
+    "Id": 70050055,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "沉寂的盒子",
+    "Desc": "原本是修会用于陷害莫塔里人的炸弹，却因菲比治愈灵魂的力量而变为了“救人”的道具。",
+    "Bg": "其中还存有些许圣洁的气韵，似是某人留下的一声小小的叹息。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_136_UI.T_IconTask_Task_136_UI",
+    "Source": []
+}

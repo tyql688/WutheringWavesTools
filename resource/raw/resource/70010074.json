@@ -1,0 +1,16 @@
+{
+    "Id": 70010074,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "“有些眼熟的大鱼”",
+    "Desc": "海钓偶然间获得的大鱼，可以用来替换另一条鱼。",
+    "Bg": "这条鱼在收网时自己跳上了船，好像它迫不及待地要被捉住一样，只是这鱼，怎么看起来有些眼熟……",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_129_UI.T_IconTask_Task_129_UI",
+    "Source": []
+}

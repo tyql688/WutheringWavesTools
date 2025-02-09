@@ -1,0 +1,18 @@
+{
+    "Id": 71500012,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "天工-珍奇契约",
+    "Desc": "使用T技能可召唤一架辅助机，自动攻击角色目标，持续30秒",
+    "Bg": "飘洋过海而来的珍奇机械和他的使用协议，被神秘的大富豪拍下后却杳无音讯了。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_11.T_IconMowing_11",
+    "Source": [
+        "世界探索获得"
+    ]
+}

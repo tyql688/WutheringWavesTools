@@ -1,0 +1,16 @@
+{
+    "Id": 71220004,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "唤声铃铛",
+    "Desc": "完全修复布偶村后获得的纪念道具。",
+    "Bg": "据说无论距离多远都能彼此响应的奇妙铃铛。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_092_UI.T_IconTask_Task_092_UI",
+    "Source": []
+}

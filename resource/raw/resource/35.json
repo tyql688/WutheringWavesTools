@@ -1,0 +1,19 @@
+{
+    "Id": 35,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "捕鱼声誉",
+    "Desc": "用于提升黎乔利群岛的捕鱼声誉等级。",
+    "Bg": "道理很简单，捕到的鱼越多，作为捕鱼人的经验也就越多，声誉也就越多——请注意，不要把鱼当做勋章挂在胸前。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation20_UI.T_IconA_Act_Navigation20_UI",
+    "Source": [
+        "完成委托获取",
+        "解锁鱼类图鉴获取"
+    ]
+}

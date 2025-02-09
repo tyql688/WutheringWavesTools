@@ -1,0 +1,18 @@
+{
+    "Id": 80000048,
+    "Rarity": 2,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "蜜露果酒",
+    "Desc": "提高队伍中所有共鸣者15%治疗效果加成，持续时间15分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "使用日冕菊酿造而成的蜜露酒，莫塔里家族将此作为礼物，赠送给每一位家族成员。\n在蜜露的馈赠里，没有永恒的敌人，只有一颗真心。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_063_UI.T_IconCook_063_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

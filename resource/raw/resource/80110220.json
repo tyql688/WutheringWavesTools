@@ -1,0 +1,16 @@
+{
+    "Id": 80110220,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "鸣奏之匣"
+    ],
+    "TagNum": [
+        49
+    ],
+    "Name": "刹那之哀恸",
+    "Desc": "一种记录音乐的工艺收藏品，交给留声奏者后，可将记录的曲目收录至典藏列表",
+    "Bg": "黎那汐塔人钟爱的一种收藏品，据说心灵手巧的黎那汐塔匠人用工艺的方式铭刻了音乐。由于内部结构已经损坏，不再具备原本的效用",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+    "Source": []
+}

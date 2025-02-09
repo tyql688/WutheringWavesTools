@@ -1,0 +1,18 @@
+{
+    "Id": 10815,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "远航的决心",
+    "Desc": "「拉结号」使用的船篷，可提升航速。",
+    "Bg": "随后是远航。追逐，直到世界的尽头。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation10_UI.T_IconA_Act_Navigation10_UI",
+    "Source": [
+        "黎那汐塔声匣回收获得"
+    ]
+}

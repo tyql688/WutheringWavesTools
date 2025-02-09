@@ -1,0 +1,18 @@
+{
+    "Id": 10813,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "沉静湾的神秘气泡",
+    "Desc": "漂浮着的神秘气泡，里面可能藏着某种鱼。购买成功后会自动在当前码头附近生成一个「神秘气泡」。每隔一段时间，「神秘气泡」会自动帮助漂泊者捕捞蟹类和海胆渔获。",
+    "Bg": "据说是溯海之鲸的吐息形成的气泡，鱼类会受到吸引而钻到气泡里安逸地生活……直到渔民们戳破它们那泡泡般的安宁。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation25_UI.T_IconA_Act_Navigation25_UI",
+    "Source": [
+        "黎那汐塔声匣回收获得"
+    ]
+}

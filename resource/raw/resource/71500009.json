@@ -1,0 +1,18 @@
+{
+    "Id": 71500009,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "行商-遗落令旗",
+    "Desc": "test/我方每次常态攻击时叠加一层状态，叠加满10层后释放AOE子弹",
+    "Bg": "在岛屿间进行近岸互市的商船所使用的旗帜。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_09.T_IconMowing_09",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

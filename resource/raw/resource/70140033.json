@@ -1,0 +1,16 @@
+{
+    "Id": 70140033,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "造云机的共振装置",
+    "Desc": "造云机的共振装置，曾被剧团成员拿去用以校正音准与节奏。",
+    "Bg": "造云机的共振装置，曾被剧团成员拿去用以校正音准与节奏。\n可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_106_UI.T_IconTask_Task_106_UI",
+    "Source": []
+}

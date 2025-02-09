@@ -1,0 +1,16 @@
+{
+    "Id": 72010028,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《僭越者的誊抄本》",
+    "Desc": "于狄萨莱海脊收集到的书籍。",
+    "Bg": "“我荣光的翡萨烈 族人的幽影正在靠近 接引我去那片深海。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

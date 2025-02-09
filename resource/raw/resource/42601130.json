@@ -1,0 +1,20 @@
+{
+    "Id": 42601130,
+    "Rarity": 1,
+    "Type": 5,
+    "Tag": [
+        "食材",
+        "药材"
+    ],
+    "TagNum": [
+        26,
+        44
+    ],
+    "Name": "垂青橄榄",
+    "Desc": "用于烹饪的材料，也用于合成。",
+    "Bg": "生长于土壤丰沃处的野生橄榄，味道甘美生津，常有动物取食。\n牧民会豢养嗅觉灵敏的草食动物，以搜寻垂青橄榄的踪迹。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_042_UI.T_IconC_042_UI",
+    "Source": [
+        "野外采集获得"
+    ]
+}

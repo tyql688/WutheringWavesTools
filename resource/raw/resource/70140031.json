@@ -1,0 +1,16 @@
+{
+    "Id": 70140031,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "造云机的摇柄",
+    "Desc": "造云机的摇柄，曾被剧团成员拿去做了鱼竿的渔轮。",
+    "Bg": "造云机的摇柄，曾被剧团成员拿去做了鱼竿的渔轮。\n可与造云机的其他部件进行组装，收集完成后，去找洛可可吧。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_108_UI.T_IconTask_Task_108_UI",
+    "Source": []
+}

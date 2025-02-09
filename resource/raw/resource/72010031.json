@@ -1,0 +1,16 @@
+{
+    "Id": 72010031,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《拉古那戏剧论文集》",
+    "Desc": "于拉古那城收集到的书籍。",
+    "Bg": "“明天，请不要让我真的变成一株海草！”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

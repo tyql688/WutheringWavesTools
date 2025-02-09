@@ -1,0 +1,16 @@
+{
+    "Id": 70010077,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "莱耶斯藏宝图的碎片",
+    "Desc": "一份藏宝图的碎片，集齐后可以拼成一张完整的藏宝图。",
+    "Bg": "为什么许多藏宝图一定要断成碎片呢？比起这样，还不如把宝藏藏得到处都是，这样对后人来说更容易些。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation12_UI",
+    "Source": []
+}

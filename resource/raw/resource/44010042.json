@@ -1,0 +1,16 @@
+{
+    "Id": 44010042,
+    "Rarity": 4,
+    "Type": 5,
+    "Tag": [
+        "印造配方"
+    ],
+    "TagNum": [
+        34
+    ],
+    "Name": "风流的寓言诗的印造配方",
+    "Desc": "使用后会习得风流的寓言诗的印造方法",
+    "Bg": "详尽记录着风流的寓言诗印造方法的配方",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI.T_IconCook_YJ_039_UI",
+    "Source": []
+}

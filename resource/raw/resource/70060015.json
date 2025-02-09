@@ -1,0 +1,16 @@
+{
+    "Id": 70060015,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "云海乐章·沃土篇",
+    "Desc": "在氤柔水境中寻得的乐谱残章，这乐曲早在修会建立前就为黎那汐塔的人们传唱。",
+    "Bg": "「感谢黎那汐塔，她以沃土拥抱了海风中漂泊的我们，从此居有定所，落地生根。」",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_112_UI.T_IconTask_Task_112_UI",
+    "Source": []
+}

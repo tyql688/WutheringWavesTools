@@ -1,0 +1,18 @@
+{
+    "Id": 28,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "海渊珊瑚",
+    "Desc": "黎乔利渔民之间珍藏的珊瑚，用于兑换奖励。",
+    "Bg": "用珍贵的珊瑚换点什么自然也是这里的传统，不过，不是所有珊瑚都是被海浪拍到岸边的。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation15_UI.T_IconA_Act_Navigation15_UI",
+    "Source": [
+        "完成委托获取"
+    ]
+}

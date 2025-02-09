@@ -1,0 +1,18 @@
+{
+    "Id": 10817,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "破浪的勇气",
+    "Desc": "「拉结号」使用的船篷，可避开海上出现的某些威胁。",
+    "Bg": "骇浪下翻腾。它就在我们面前。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation09_UI.T_IconA_Act_Navigation09_UI",
+    "Source": [
+        "黎那汐塔声匣回收获得"
+    ]
+}

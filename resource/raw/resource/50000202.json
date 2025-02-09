@@ -1,0 +1,16 @@
+{
+    "Id": 50000202,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "诗与乐武器箱",
+    "Desc": "开启后可自选获得一把诗与乐系列武器：\n<color=Rare4>容赦的沉思录*1</color>\n<color=Rare4>风流的寓言诗*1</color>\n<color=Rare4>叙别的罗曼史*1</color>\n<color=Rare4>酩酊的英雄志*1</color>\n<color=Rare4>虚饰的华尔兹*1</color>",
+    "Bg": "莫塔里家族制造的制式武器，虽然看起来华丽得如同舞台上的道具，但实则威力不俗。\n据说，狂欢节上有许多家族成员装备着这套武器，以备不时之需……",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI.T_IconGiftPack_012_UI",
+    "Source": []
+}

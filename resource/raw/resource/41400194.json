@@ -1,0 +1,19 @@
+{
+    "Id": 41400194,
+    "Rarity": 4,
+    "Type": 4,
+    "Tag": [
+        "技能升级材料"
+    ],
+    "TagNum": [
+        8
+    ],
+    "Name": "冥扉的欢觑",
+    "Desc": "赫卡忒的掉落物，用于技能的升级。",
+    "Bg": "欢快的舞步叩响着冥扉，眼神交换是死亡的开始。来自彼岸的凝视化作了圆月，推入了她干涸的右眼——如此，凝固的月相因她的眼神而流转。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_007_UI.T_IconMout_007_UI",
+    "Source": [
+        "赫卡忒挑战获得",
+        "赫卡忒-提前开放"
+    ]
+}

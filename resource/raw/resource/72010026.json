@@ -1,0 +1,16 @@
+{
+    "Id": 72010026,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《孤独索拉·关于拉古那的一切》",
+    "Desc": "于埃格拉小镇收集到的书籍。",
+    "Bg": "“贵社关于埃格拉镇的栏目自从上一次狂欢节就再没更新过了，每次都刊登一模一样的文章，莫非是付不起撰稿人的稿费么？”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 44010045,
+    "Rarity": 4,
+    "Type": 5,
+    "Tag": [
+        "印造配方"
+    ],
+    "TagNum": [
+        34
+    ],
+    "Name": "虚饰的华尔兹的印造配方",
+    "Desc": "使用后会习得虚饰的华尔兹的印造方法",
+    "Bg": "详尽记录着虚饰的华尔兹印造方法的配方",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_039_UI.T_IconCook_YJ_039_UI",
+    "Source": []
+}

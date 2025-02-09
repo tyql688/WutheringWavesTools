@@ -1,0 +1,18 @@
+{
+    "Id": 71500014,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "掠夺者—船长印章",
+    "Desc": "角色每秒恢复3%生命值，每回复6次生命值，对附近敌人造成600%导电伤害\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "游荡于迷雾中的海盗船只，擅长用最朴实的手段给予受害者长久的恐惧。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_14.T_IconMowing_14",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

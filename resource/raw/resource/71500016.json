@@ -1,0 +1,18 @@
+{
+    "Id": 71500016,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "赦免者—船长印章",
+    "Desc": "角色施放共鸣解放后，使全队普攻暴击伤害提升40%，持续15秒，全队共鸣技能冷却时间减少10秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "巡游在大海上的赦免院船只，总能及时赶到冲突处给予“调停”。也许他“赦免”了有罪者，但很明显有些人不会放过他。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_16.T_IconMowing_16",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Id": 40,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "神秘经文的断章",
+    "Desc": "偶然获得的经文断章，用于提升菲比的捕捞技巧。",
+    "Bg": "在黎乔利群岛海底发现的断章，记录着隐海修会正典中全无记载的经文。只言片语的残片，仿佛响应着大海的呼唤。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation06_UI.T_IconA_Act_Navigation06_UI",
+    "Source": [
+        "码头商店购买",
+        "完成剧情获取"
+    ]
+}

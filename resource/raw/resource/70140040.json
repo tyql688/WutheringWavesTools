@@ -1,0 +1,16 @@
+{
+    "Id": 70140040,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「完美谢幕」",
+    "Desc": "一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。",
+    "Bg": "一张由斐林拍摄的照片，记录了你与伙伴们一同谢幕时的情景。\n可放大查看。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_117_b_UI.T_IconTask_Task_117_b_UI",
+    "Source": []
+}

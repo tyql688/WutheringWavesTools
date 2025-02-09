@@ -1,0 +1,75 @@
+{
+    "Id": 6000096,
+    "Code": "S56-",
+    "Name": "重塑雕像的拳砾",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32031_UI.T_IconMonsterHead_32031_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为重塑雕像的拳砾攻击目标，造成{0}的衍射伤害。长按声骸技能，持续幻形，前冲并攻击目标造成{1}的衍射伤害。\n技能冷却：{2}秒",
+        "SimpleDesc": "幻形为重塑雕像的拳砾，攻击敌人造成衍射伤害。长按声骸技能可前冲后攻击敌人造成衍射伤害。",
+        "Param": [
+            [
+                "174.00%",
+                "261.00%",
+                "20"
+            ],
+            [
+                "208.80%",
+                "313.20%",
+                "20"
+            ],
+            [
+                "243.60%",
+                "365.40%",
+                "20"
+            ],
+            [
+                "278.40%",
+                "417.60%",
+                "20"
+            ],
+            [
+                "313.20%",
+                "469.80%",
+                "20"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31031_UI.T_Mstskil_31031_UI"
+    },
+    "Group": {
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 1,
+    "MonsterInfo": 320000310
+}

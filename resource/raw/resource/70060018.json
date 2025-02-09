@@ -1,0 +1,16 @@
+{
+    "Id": 70060018,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "云海乐章·先民篇",
+    "Desc": "在氤柔水境中寻得的乐谱残章，这乐曲早在修会建立前就为黎那汐塔的人们传唱。",
+    "Bg": "「感谢每一位从陆地踏上甲板的先祖，他们深知自己不会再回到陆地。漫长的岁月将摧毁他们的身躯，但坚韧的意志令他们永不返航。」",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_112_UI.T_IconTask_Task_112_UI",
+    "Source": []
+}

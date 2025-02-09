@@ -1,0 +1,16 @@
+{
+    "Id": 51012,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "远渡者的密音支援",
+    "Desc": "/test",
+    "Bg": "/test",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_033_UI.T_IconGiftPack_033_UI",
+    "Source": []
+}

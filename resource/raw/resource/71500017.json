@@ -1,0 +1,18 @@
+{
+    "Id": 71500017,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "朝圣者—船长印章",
+    "Desc": "每次施放共鸣技能时，使共鸣解放冷却时间降低20%，共鸣能量提升20%，该效果冷却时间3秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "所有人都期待它离港，没有人期待它返航。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_17.T_IconMowing_17",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

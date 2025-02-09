@@ -1,0 +1,18 @@
+{
+    "Id": 44010031,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "「莫内」",
+    "Desc": "拉古那地区的特殊掉落物，可用此在“埃弗拉德银行”兑换各种道具。",
+    "Bg": "拉古那不再流通的旧币「莫内」，由埃弗拉德银行发行。\n现今，「莫内」的纪念价值已远大于使用价值，埃弗拉德银行正着手回收。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_currency_7_UI.T_IconA160_currency_7_UI",
+    "Source": [
+        "拉古那探索获得"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 70010075,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "舵盘村灯塔钥匙",
+    "Desc": "舵盘村灯塔的钥匙，可用来启动舵盘村的灯塔。",
+    "Bg": "“哦，你说这个？是亚哈让我帮他保存这玩意儿的。我也不知道他从哪儿得来的这东西，不过……这东西，应该和那鲸鱼有关系吧？”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation14_UI.T_IconA_Act_Navigation14_UI",
+    "Source": []
+}

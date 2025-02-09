@@ -1,0 +1,16 @@
+{
+    "Id": 51013,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "遍历者的密音援护",
+    "Desc": "/test",
+    "Bg": "/test",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_035_UI.T_IconGiftPack_035_UI",
+    "Source": []
+}

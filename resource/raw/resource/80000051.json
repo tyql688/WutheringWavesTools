@@ -1,0 +1,18 @@
+{
+    "Id": 80000051,
+    "Rarity": 2,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "棍子面包",
+    "Desc": "提高队伍中所有共鸣者5%治疗效果加成和10%生命上限，持续时间15分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "长得像棍子、吃起来也好像棍子的面包。似乎有人想过要用这种面包当某种飞行载具的中心轴，还好并没有成功。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_057_UI.T_IconCook_057_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

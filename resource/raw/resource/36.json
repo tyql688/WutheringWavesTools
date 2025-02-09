@@ -1,0 +1,16 @@
+{
+    "Id": 36,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "无名古钱",
+    "Desc": "在黎乔利群岛捕鱼而发现的神秘古钱，用于兑换奖励。",
+    "Bg": "被海水腐蚀了的古老钱币，隐约能看出上面刻着一只骏马的形象，其真正的价值应该还潜藏于历史之中。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation01_UI.T_IconA_Act_Navigation01_UI",
+    "Source": []
+}

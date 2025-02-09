@@ -1,0 +1,16 @@
+{
+    "Id": 51011,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "补给包"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "金库的铸潮珍藏",
+    "Desc": "/test",
+    "Bg": "/test",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_28_UI.T_IconGiftPack_dj_28_UI",
+    "Source": []
+}

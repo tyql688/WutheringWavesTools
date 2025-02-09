@@ -1,0 +1,16 @@
+{
+    "Id": 71550004,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "幸运硬币",
+    "Desc": "一枚完整的硬币。在月光下，硬币显现出的地图指向了德雷克的宝藏。",
+    "Bg": "终于完整的硬币，通过硬币可以知道宝藏的信息。如此一来，航向确定，该起航了！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_126_UI.T_IconTask_Task_126_UI",
+    "Source": []
+}

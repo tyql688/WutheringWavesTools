@@ -1,0 +1,20 @@
+{
+    "Id": 31,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "遗产金属块",
+    "Desc": "黎乔利群岛找到的金属块，可以用来升级捕鱼科技。",
+    "Bg": "黎乔利群岛找到的金属块，虽然已经被海水锈蚀，但仍然可以当做粗加工材料。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation22_UI.T_IconA_Act_Navigation22_UI",
+    "Source": [
+        "完成委托获取",
+        "码头商店购买",
+        "驾驶拉结号捕捞获得"
+    ]
+}

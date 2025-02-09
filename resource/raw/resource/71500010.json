@@ -1,0 +1,18 @@
+{
+    "Id": 71500010,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "游猎-遗落令旗",
+    "Desc": "角色每次造成伤害时，使下一次重击伤害加深4%，最多叠加5层，持续15秒\n\n该信物在冥歌海墟中不限制使用次数",
+    "Bg": "藏身于海雾之中的海盗船常使用的旗帜。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_10.T_IconMowing_10",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 70050050,
+    "Rarity": 3,
+    "Type": 7,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "安梦涟漪",
+    "Desc": "象征美好记忆的能量体，如同一段声音构成的涟漪。",
+    "Bg": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_097_UI.T_IconTask_Task_097_UI",
+    "Source": []
+}
