@@ -191,6 +191,25 @@
         "zh-Hans": "冥渊守卫",
         "ja": "冥淵の守り手"
     },
+    "6000093": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31049_UI.T_IconMonsterHead_31049_UI",
+        "code": "S10-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            11
+        ],
+        "en": "Golden Junrock",
+        "intensity": 0,
+        "ko": "금석 암괴",
+        "zh-Hans": "愚金幼岩",
+        "ja": "愚者のゴールドの岩塊"
+    },
     "6000092": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33020_UI.T_IconMonsterHead_YZ_33020_UI",
         "code": "H73-",
@@ -248,7 +267,7 @@
         "ja": "雪鬣狼"
     },
     "6000081": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_121_UI.T_IconMonsterGoods_121_UI",
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32030_UI.T_IconMonsterHead_32030_UI",
         "code": "R42-",
         "rank": [
             2,
@@ -268,6 +287,44 @@
         "ko": "거대 인형",
         "zh-Hans": "巨布偶",
         "ja": "ビッグベア"
+    },
+    "6000095": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31051_UI.T_IconMonsterHead_31051_UI",
+        "code": "N15-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            14
+        ],
+        "en": "Aero Prism",
+        "intensity": 0,
+        "ko": "기류 프리즘",
+        "zh-Hans": "气动棱镜",
+        "ja": "気動のプリズム"
+    },
+    "6000094": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31050_UI.T_IconMonsterHead_31050_UI",
+        "code": "S11-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            13,
+            14
+        ],
+        "en": "Calcified Junrock",
+        "intensity": 0,
+        "ko": "유약 암괴",
+        "zh-Hans": "釉变幼岩",
+        "ja": "ミカーレの岩塊"
     },
     "390070052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_021_UI.T_IconMonsterGoods_021_UI",
@@ -384,6 +441,24 @@
         "zh-Hans": "无妄者",
         "ja": "無妄者"
     },
+    "6000097": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32032_UI.T_IconMonsterHead_32032_UI",
+        "code": "H47-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            14
+        ],
+        "en": "Hurriclaw",
+        "intensity": 1,
+        "ko": "소용돌이 곰",
+        "zh-Hans": "飓力熊",
+        "ja": "ハリケーン熊"
+    },
     "390070076": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_111_UI.T_IconMonsterGoods_111_UI",
         "code": "H01-",
@@ -475,6 +550,7 @@
         ],
         "en": "Lorelei",
         "intensity": 2,
+        "child": 6010082,
         "ko": "로렐라이",
         "zh-Hans": "罗蕾莱",
         "ja": "ローレライ"
@@ -964,7 +1040,7 @@
         "intensity": 0,
         "ko": "미스터 매직",
         "zh-Hans": "魔术先生",
-        "ja": "ミスター<word>・マギア</word>"
+        "ja": "ミスター・マギア"
     },
     "6000058": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_328_UI.T_IconMonsterHead_328_UI",
@@ -1729,6 +1805,24 @@
         "ko": "유령 인형 · 라잇",
         "zh-Hans": "浮灵偶·莱特",
         "ja": "フロートアルマ・ライト"
+    },
+    "6000096": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32031_UI.T_IconMonsterHead_32031_UI",
+        "code": "S56-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11
+        ],
+        "en": "Rage Against the Statue",
+        "intensity": 1,
+        "ko": "조각상을 재구성하는 돌멩이",
+        "zh-Hans": "重塑雕像的拳砾",
+        "ja": "彫像を再構築する岩拳"
     },
     "6000072": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31048_UI.T_IconMonsterHead_31048_UI",

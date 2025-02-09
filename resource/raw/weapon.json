@@ -9,6 +9,16 @@
         "zh-Hans": "异度",
         "ja": "変化の星"
     },
+    "21050046": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050029_UI.T_IconWeapon21050029_UI",
+        "rank": 5,
+        "type": 5,
+        "en": "Luminous Hymn",
+        "desc": "\"The Sentinel's grace, how sweet thou art. Our home was lost, but found at last. With twigs between my beaks, I brave the waves. Bound by love, we're crowned with holy light.\"",
+        "ko": "광휘의 찬송가",
+        "zh-Hans": "和光回唱",
+        "ja": "光のハルモニア"
+    },
     "80080005": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040017_UI.T_IconWeapon21040017_UI",
         "rank": 3,
@@ -208,6 +218,16 @@
         "ko": "멸망의 주파수",
         "zh-Hans": "凋亡频移",
         "ja": "破滅に迫る赤方偏移"
+    },
+    "21050027": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050036_UI.T_IconWeapon21050036_UI",
+        "rank": 4,
+        "type": 5,
+        "en": "Ocean's Gift",
+        "desc": "To fishers, the sea is their field of harvest. Harvest means hope.",
+        "ko": "바다의 선물",
+        "zh-Hans": "大海的馈赠",
+        "ja": "海の恩恵"
     },
     "21010044": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010044_UI.T_IconWeapon21010044_UI",
@@ -569,6 +589,16 @@
         "zh-Hans": "源能佩枪·测叁",
         "ja": "本源拳銃・試作参"
     },
+    "21020036": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020025_UI.T_IconWeapon21020025_UI",
+        "rank": 5,
+        "type": 2,
+        "en": "Unflickering Valor",
+        "desc": "Blistering winds and crashing waves, the sea devours all. Only a lonely boat lamp stands alight!\nOnwards! Towards the edge of the world you shall sail!",
+        "ko": "흔들리지 않는 용기",
+        "zh-Hans": "不灭航路",
+        "ja": "エンドレスボヤージュ"
+    },
     "21050026": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050026_UI.T_IconWeapon21050026_UI",
         "rank": 5,
@@ -798,6 +828,16 @@
         "ko": "원능의 증폭기 · 견습V",
         "zh-Hans": "源能音感仪·测五",
         "ja": "本源増幅器・試作伍"
+    },
+    "80080008": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050036_UI.T_IconWeapon21050036_UI",
+        "rank": 4,
+        "type": 5,
+        "en": "Projection: Ocean's Gift",
+        "desc": "To fishers, the sea is their field of harvest. Harvest means hope.",
+        "ko": "투영 · 바다의 선물",
+        "zh-Hans": "投影·大海的馈赠",
+        "ja": "投影・海の恩恵"
     },
     "21040011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040011_UI.T_IconWeapon21040011_UI",
