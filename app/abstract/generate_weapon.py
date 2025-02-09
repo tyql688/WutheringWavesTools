@@ -164,6 +164,12 @@ class Weapon_21020034(WeaponAbstract):
     name = "瞬斩刀-18型"
     
 
+class Weapon_21020036(WeaponAbstract):
+    id = 21020036
+    type = 2
+    name = "不灭航路"
+    
+
 class Weapon_21020043(WeaponAbstract):
     id = 21020043
     type = 2
@@ -446,6 +452,12 @@ class Weapon_21050026(WeaponAbstract):
     name = "琼枝冰绡"
     
 
+class Weapon_21050027(WeaponAbstract):
+    id = 21050027
+    type = 5
+    name = "大海的馈赠"
+    
+
 class Weapon_21050034(WeaponAbstract):
     id = 21050034
     type = 5
@@ -468,6 +480,12 @@ class Weapon_21050044(WeaponAbstract):
     id = 21050044
     type = 5
     name = "今州守望"
+    
+
+class Weapon_21050046(WeaponAbstract):
+    id = 21050046
+    type = 5
+    name = "和光回唱"
     
 
 class Weapon_21050053(WeaponAbstract):
@@ -527,6 +545,7 @@ WavesWeaponRegister.register_class(Weapon_21020023.id, Weapon_21020023)
 WavesWeaponRegister.register_class(Weapon_21020024.id, Weapon_21020024)
 WavesWeaponRegister.register_class(Weapon_21020026.id, Weapon_21020026)
 WavesWeaponRegister.register_class(Weapon_21020034.id, Weapon_21020034)
+WavesWeaponRegister.register_class(Weapon_21020036.id, Weapon_21020036)
 WavesWeaponRegister.register_class(Weapon_21020043.id, Weapon_21020043)
 WavesWeaponRegister.register_class(Weapon_21020044.id, Weapon_21020044)
 WavesWeaponRegister.register_class(Weapon_21020053.id, Weapon_21020053)
@@ -574,10 +593,12 @@ WavesWeaponRegister.register_class(Weapon_21050017.id, Weapon_21050017)
 WavesWeaponRegister.register_class(Weapon_21050023.id, Weapon_21050023)
 WavesWeaponRegister.register_class(Weapon_21050024.id, Weapon_21050024)
 WavesWeaponRegister.register_class(Weapon_21050026.id, Weapon_21050026)
+WavesWeaponRegister.register_class(Weapon_21050027.id, Weapon_21050027)
 WavesWeaponRegister.register_class(Weapon_21050034.id, Weapon_21050034)
 WavesWeaponRegister.register_class(Weapon_21050036.id, Weapon_21050036)
 WavesWeaponRegister.register_class(Weapon_21050043.id, Weapon_21050043)
 WavesWeaponRegister.register_class(Weapon_21050044.id, Weapon_21050044)
+WavesWeaponRegister.register_class(Weapon_21050046.id, Weapon_21050046)
 WavesWeaponRegister.register_class(Weapon_21050053.id, Weapon_21050053)
 WavesWeaponRegister.register_class(Weapon_21050064.id, Weapon_21050064)
 WavesWeaponRegister.register_class(Weapon_21050074.id, Weapon_21050074)
