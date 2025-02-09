@@ -83,6 +83,18 @@
         "zh-Hans": "长离",
         "ja": "長離"
     },
+    "1506": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.T_IconRoleHead256_45_UI",
+        "rank": 5,
+        "weapon": 5,
+        "element": 5,
+        "en": "Phoebe",
+        "nickname": "Phoebe",
+        "desc": "Coming Soon",
+        "ko": "페비",
+        "zh-Hans": "菲比",
+        "ja": "フィービー"
+    },
     "1104": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.T_IconRoleHead256_14_UI",
         "rank": 5,
@@ -274,6 +286,18 @@
         "ko": "상리요",
         "zh-Hans": "相里要",
         "ja": "相里要"
+    },
+    "1206": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.T_IconRoleHead256_44_UI",
+        "rank": 5,
+        "weapon": 2,
+        "element": 2,
+        "en": "Brant",
+        "nickname": "Brant",
+        "desc": "Coming Soon",
+        "ko": "브렌트",
+        "zh-Hans": "布兰特",
+        "ja": "ブラント"
     },
     "1204": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.T_IconRoleHead256_13_UI",
