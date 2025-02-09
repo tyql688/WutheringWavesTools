@@ -482,6 +482,31 @@ class Echo_6000092(EchoAbstract):
     name = "梦魇·哀声鸷"
     
 
+class Echo_6000093(EchoAbstract):
+    id = 6000093
+    name = "愚金幼岩"
+    
+
+class Echo_6000094(EchoAbstract):
+    id = 6000094
+    name = "釉变幼岩"
+    
+
+class Echo_6000095(EchoAbstract):
+    id = 6000095
+    name = "气动棱镜"
+    
+
+class Echo_6000096(EchoAbstract):
+    id = 6000096
+    name = "重塑雕像的拳砾"
+    
+
+class Echo_6000097(EchoAbstract):
+    id = 6000097
+    name = "飓力熊"
+    
+
 class Echo_6000145(EchoAbstract):
     id = 6000145
     name = "异相·哀声鸷"
@@ -588,5 +613,10 @@ WavesEchoRegister.register_class(Echo_6000089.id, Echo_6000089)
 WavesEchoRegister.register_class(Echo_6000090.id, Echo_6000090)
 WavesEchoRegister.register_class(Echo_6000091.id, Echo_6000091)
 WavesEchoRegister.register_class(Echo_6000092.id, Echo_6000092)
+WavesEchoRegister.register_class(Echo_6000093.id, Echo_6000093)
+WavesEchoRegister.register_class(Echo_6000094.id, Echo_6000094)
+WavesEchoRegister.register_class(Echo_6000095.id, Echo_6000095)
+WavesEchoRegister.register_class(Echo_6000096.id, Echo_6000096)
+WavesEchoRegister.register_class(Echo_6000097.id, Echo_6000097)
 WavesEchoRegister.register_class(Echo_6000145.id, Echo_6000145)
 WavesEchoRegister.register_class(Echo_6010052.id, Echo_6010052)
