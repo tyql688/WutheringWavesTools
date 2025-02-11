@@ -25,415 +25,415 @@
     },
     "Name": "菲比",
     "NickName": "菲比",
-    "Desc": "敬请期待",
+    "Desc": "隐海修会的教士菲比，友善而虔诚的圣职者少女，以纯粹之心修习，认真践行着身为教士的一切职责。她的祈祷恰如她手中的光芒，柔和明亮，为人们带来温暖与安宁。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.T_IconRoleHead256_45_UI",
     "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Feibi_UI.T_IconRole_Pile_Feibi_UI",
     "CharaInfo": {
-        "Birth": "敬请期待",
-        "Sex": "敬请期待",
-        "Country": "敬请期待",
-        "Influence": "敬请期待",
-        "Info": "敬请期待",
-        "TalentName": "敬请期待",
-        "TalentDoc": "敬请期待",
-        "TalentCertification": "敬请期待",
-        "CVNameCn": "敬请期待",
-        "CVNameJp": "敬请期待",
-        "CVNameKo": "敬请期待",
-        "CVNameEn": "敬请期待"
+        "Birth": "未知",
+        "Sex": "女",
+        "Country": "黎那汐塔",
+        "Influence": "隐海修会",
+        "Info": "隐海修会的教士菲比，友善而虔诚的圣职者少女，以纯粹之心修习，认真践行着身为教士的一切职责。她的祈祷恰如她手中的光芒，柔和明亮，为人们带来温暖与安宁。",
+        "TalentName": "圣祈凝辉",
+        "TalentDoc": "「摘自隐海孤儿院致修会的推荐信」\n在那时，我看到了她左腿上侧亮起的声痕，我想，这一定是英白拉多的赐福。\n……她的共鸣能力能够将光化作实体，以不同形态的棱晶折射，即使是在因暴风雨失去照明的黑夜，她仍能让每个房间都充满柔和明亮的光。那光如此令人心安，在至暗时刻仍能传递安宁与希望——恰如《隐海修记》中的箴言，光明一定本就存在于她的心中，在奉献中取之不竭……\n*本档案已由孤儿院移交至隐海修会档案馆。\n\n<i>我们有理由相信，菲比见习教士无与伦比的共鸣能力，正是来源自她的信仰之坚定。\n从「<ano=神使>声骸</ano>」对她的亲近也可见一斑，这一现象也加强了部分信众对菲比的信任，事实上，菲比见习教士在救济事务中的活跃表现早已使她获得了认可，因此我们一致同意她通过见习期，成为正式教士。\n但修会内部亦有人认为，与声骸过于亲近违背了修会的教义，神使的赐福与岁主的爱等同，应平等地垂怜每一个人，不能有任何偏颇，而过于亲近神使也会带来隐患，故而不建议菲比在驱役所任职，将她调往圣事部最为稳妥…… </i>",
+        "TalentCertification": "「隐海修会-圣事部共鸣者档案」\n……受试成员样本波形检测图呈椭圆形波动，时域表示稳定，未见任何异常波动倾向。检测结果判断为正常阶段。\n当前超频临界值较高，稳定性高，无超频风险，无过往超频史。\n<i>菲比教士始终恪守着“缄默”与“自制”的教义，因而其稳定性在同龄的教士中无出其右。经观察，菲比教士的共鸣能力具有稳定频率的效果，对声骸、回音生物有着较强的作用，而人也能一定程度受到其能力的影响，感受到心灵层面的“治愈”，这也使得她十分擅长安抚、调解等工作。</i>\n\n*最新批注：菲比教士的定期检测波形出现极短时间内的锯齿态波动，目前无异常情况，但仍建议持续观察，必要时予以重视。",
+        "CVNameCn": "CV：傅婷云",
+        "CVNameJp": "CV：本渡枫",
+        "CVNameKo": "CV：Lee Bo Yong",
+        "CVNameEn": "CV：Rebecca LaChance"
     },
     "Stories": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "教士的日常",
+            "Content": "一个寻常的午后，拉古那宽阔的街道上人来人往，看上去比往年更加热闹。\n阔别已久的狂欢节即将重新举办——这个消息早已传遍了拉古那的大街小巷，飞向海的彼岸，这几天城中已经出现了不少异国旅客的身影，即使还没到晚餐时间，玛格烈特餐厅仍然坐着不少慕名而来的食客。\n拉古那的美酒与它的美景一样令人流连忘返，蜜露果酒能够将人带入美梦，而过于沉醉偶尔也会导致意外。\n起初是一点小小的口味上的分歧，随后演化成一场热火朝天的争论。\n或许是厌倦了压抑，或许是令人昏昏欲睡的午后正需要一些振奋精神的娱乐，更多的人聚集起来，加入了这场争论。\n——争论愈演愈烈，最终变为了一场的决斗。\n一时间，餐厅仿佛成为了戏剧现场，披萨与蛋糕齐飞，海鲜从盘子中转移到路人的脸上，围观群众纷纷仓皇躲避，又忍不住远远回头关注战况。\n“客人！别这样啾，盘子要碎了啾，请放下餐具，很危险啾——！！”店主尾巴毛都炸了起来，拿着披萨铲急的上蹿下跳，却不敢靠近混乱的中心。\n就在这时，人群中窜出一个娇小的身影。\n“——请冷静一下！”\n高高抬起的手杖在空中挽出优雅的圆弧，破空落下的金色鸟儿仿佛有着千钧的力量，但最终只是在额头轻点一下，如同蜻蜓点过水面荡起圈圈涟漪。\n上一秒还在暴跳如雷的两人瞬间平静下来，带着受到圣光洗礼般的静谧微笑直直倒在桌子上，齐声打起鼾来。\n\n“请大家不用担心，他们只是睡着了。“\n那位娇小的金发教士收起手杖，正色道。“但根据修会的管理条例，破坏公共秩序的人需要接受相应的处罚。”\n“节制之美德是岁主赐予我们的礼物，也正因如此美食和蜜露才会更加香甜……希望这个小插曲不会影响大家继续享受在拉古那度过的时光。”\n金发教士的笑容温柔和煦，而四周鸦雀无声。\n\n在近卫所的教士们带着卫冕节使赶到现场的时候，这场骚乱已经结束了。\n“对对对，我亲眼看到她把那两个壮汉一杖子敲蒙了啊！然后不知道从哪窜出来一个超大个的布偶，把他们都给搬走了！她看上去年纪不大，真是人不可貌相……”\n留在餐厅帮忙收拾残局的客人手舞足蹈的描述着。\n为首的教士拿出终端正打算记录，却发现已经有一则报告发送到了修会，上面详细地记录着事情的起因经过，以及被带走的二人的安置情况。\n“……那个，这样就没事了吗？”\n“当然。”教士收起终端，笃定地回答。\n“交给菲比教士吧，她最有经验。”"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "家",
+            "Content": "<i>尊敬的克莱蒙特先生：\n很抱歉许久未联系您，这段时间事务繁忙，我有太多问题需要处理。我必须怀着无比沉痛的心情告诉您这个噩耗：我们的合作商——马里诺夫妇在前往新联邦途中遭遇残象潮袭击，已不幸遇难，愿他们在岁主的指引下获得安宁。\n……有关那批沉海商货的款项，按照之前签定的合约，我已经开始代为变卖马里诺家的剩余财产……这实在是无奈之举，您知道，我们几乎为那桩生意付出了一切，如今无以为继，只能这样填补空缺……\n您应该记得菲比——那个失去了双亲的可怜女孩，她现在无处可去，而我常年外出经商，实在力有不逮，听闻您与马里诺家的远亲颇有私交，希望您能收留她……</i>\n\n我收起信，确认地址无误，再次敲响了房门。\n接连的敲门声已经引得邻居侧目，而门内仍然毫无动静，那个小小的女孩安静地在我身后低头站着，似乎已经习惯了这样的状况。\n“他们前段时间全家去度假了。”路过的邻居状似无意般提起，“可能很久之后才会回来。”\n“我知道了，谢谢您……我们走吧，菲比。”\n离开时，我的余光瞟到侧窗留着一条缝的窗帘轻轻颤动了一下，我握紧菲比的手，带着她离开这片富丽堂皇的街区。\n拉古那城很大，但找到一个归宿却很难，我已经记不清这是这是我敲过的第几扇门，得到的第几次拒绝。\n在孤儿院任职多年，我早已习惯各式各样的拒绝，但我不能让菲比经历这些，她还太小，她需要的是一个能够抚平伤痛的，温暖稳定的家庭环境。\n“抱歉……我们很同情她的遭遇，但领养一个孩子可不是只添一副餐具的事情……这是我们的一点心意，你们再去别家问问吧。”\n“委托信？咳……我不记得有收到过这种信件。对了，她不是已经被孤儿院收留了吗？和很多同龄人同吃同住，这对孩子来说也是挺好的成长环境。”\n“……听说马里诺家的欠款至今没有结清，我们可不想被债主找上门，还请你理解。”\n……\n“伊莎贝拉嬷嬷……不要难过。”\n一个冰淇淋被高高举在面前，我的身边不知何时多了一堆小声骸，它们拿着分发给旅客的冰淇淋和甜点，挨挨挤挤的簇拥在我的——或者说，是菲比的身边。\n“我知道叔叔阿姨们都很忙，和爸爸妈妈一样，总是很久才回一次家。”\n我怔怔地接过有些融化的冰淇淋，没有想到会被这样小的孩子开口安慰。\n善良的马里诺夫妇曾资助孤儿院在黑潮的灾难中度过难关，我却连为他们的女儿找个值得托付的养父母都做不到。\n她本应在父母温暖的臂弯里自由地欢笑，在坚实的屋檐下过着安稳幸福的生活。\n“没事的，我可以……和大家住在一起，和大家在一起，很开心。”\n见我许久没有说话，年幼的女孩看着我，露出了安静的，在我看来近乎抚慰的笑容，我的心随之颤抖。\n“大家不会分开，对吗？教士们都说，岁主在我们身边，将我们联系在一起，不致分离。”\n她一字一句地念诵着，我最终只是忍住眼角的湿意，将她抱在怀中。\n”好……那我们回去，回我们的家。“"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "无数个深夜",
+            "Content": "深夜的暴风雨像是要倾洒尽拉古那全部的水，闪电在薄被上投下窗柩的形状，令交错的暗影压在蜷缩着的女孩身上。\n菲比没有入睡，只要闭上眼睛，她便会看到翻滚着惊涛骇浪的海面，其中有一只永远无法归家的孤船，她在与这艘船一起下沉。\n曾经在这样的夜晚，爸爸会将那个印着岁主像的相片盒放在她的枕下，告诉她岁主会在梦中带领她穿越风暴，抵达安全的港湾；妈妈会在她的床边放一束雏菊，为她讲述睡前故事，她说岁主会为勇敢而善良的孩子送来神使，护佑她平安幸福。\n而现在，教士们会摸着她的头，告诉她还有和她境况相似的孩子们，每个黎那汐塔人都要淌过苦难，才能在人生的尽头获得岁主的宽恕。\n越过教士的臂弯，她第一次看到了那样宏伟的岁主圣像，那巨大的鱼尾令她感到一瞬恐慌，而温柔的教士们轻轻扶住她的肩膀，念诵祷文的柔和声音令她逐渐平静。\n她被领进温暖明亮的房间，温柔的教士们待她很好，但她们一定更加喜欢不会带来麻烦的孩子。\n菲比努力回忆着母亲为她哼唱的歌谣，让它在脑海中回荡，借此盖过窗外暴雨的呼号。\n而不停歇的雷雨声仍然将她拉回那个黑夜。\n\n她偷偷溜上远航的商船，透过货仓的舷窗中看着船驶向远方的水平线——爸爸妈妈回来时，他们的船帆就是从那个方向出现，她不想再等着爸爸妈妈来接她了，她要勇敢地去找他们。\n而大海并不像母亲讲述的故事里那样温柔，她听到甲板上步伐匆忙，人们的喧闹逐渐变为此起彼伏的惊叫，船只被风暴吞没，又被海浪高高抛起。\n她哭着呼唤爸爸妈妈，而汹涌的海浪告诉她，她的父母早已不会归来。\n她被冰冷的海水淹没，逐渐模糊的视野中，她看到父亲留给自己的相片盒沉入漆黑的海底，继而消失不见。\n再次醒来时，她浑身湿透地躺在岸边，腿上的声痕闪烁着光芒，找到她的教士们说，从没有人能从那样危险的大海中生还，更何况是一个年纪那么小的女孩，这一定是岁主的赐福。\n可菲比依稀记得似乎有什么救了她，带着无比温柔的气息，像一缕和风托着她浮上海面，将她轻轻放在了岸边，告诉她……\n<i>不要害怕，我在这里。</i>\n有什么将菲比从深沉的梦境中拉回，她感到床微微一重，似乎是一个毛绒绒的东西靠了上来，带着雨夜的潮湿和雏菊的香气。\n随后菲比看到了一双纽扣眼睛和柔软的布耳朵——是她白天在拂风水畔遇到的流浪声骸，那时的她解下了缠绕在声骸身上的风筝线，给它取名叫贝尼，贝尼带她认识了许多新朋友，陪着她在山坡上看云，为她擦去眼角的泪痕，将好看的花环戴在她的头上。\n<i>菲比，不要难过。</i>\n布偶的身体温暖而柔软，恍惚间令她感受到了有些熟悉的气息，风的气息。\n她将头埋入它毛绒绒的肚皮，缓缓沉入梦乡。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "清晨依旧来临",
+            "Content": "醒来时，菲比感觉眼角似乎还残留着一丝湿意。\n“岁主在上，今天也要打起精神来！“\n她从床上跳起来，熟练地抻平床单，这个陪伴着她成长的小床仍然记忆中熟悉的模样。菲比拍了拍脸颊驱散清晨的困意，一头扎进了新一天的工作计划中。\n孤儿院要举办一个小小的庆典，她这次和前辈一起来帮忙筹备，这是她成为见习教士之后第一次回到这里，昨天和兄弟姐妹们说了很久的话，也许就是因为这样才会梦到以前的事情。\n所有人都说菲比看上去更像个独当一面的大人了，她不能辜负大家的期望。\n晨祷结束，菲比开始准备庆典需要的物品。教士的修习生活忙碌而充实，对她来说，按照计划完成工作，获得成果，这样的过程便会令她觉得安稳和满足。等到太阳高高悬在天空时，她已经和同行的教士们将原本朴素的餐厅装饰得缤纷多彩。菲比将茶和点心放在餐桌上，看着孩子们穿着声骸们浆洗熨平的新衣，兴高采烈地扑向嬷嬷们的怀抱，从她们手中接过悉心包装的礼物。\n被这样的温暖的画面所感染，菲比不由得也微笑起来。\n她记得远航经商的父亲一定会在启程的第一站为她购买礼物，在漫长的航路中，母亲会构思关于这次带回的礼物的故事，在回家后讲给她听。它们有时是险象环生的精彩冒险，有时是温暖可爱的枕边童话。她最喜欢的一个礼物是粉色的兔子布偶，在故事中，她是一个优雅的音乐家。\n灰暗的过往在她的记忆中逐渐模糊，她只会回忆起那些美好的事物。\n有小声骸拉了拉她的衣角，向她展示吹起来的好大一把气球，她习惯性地伸手想要摸摸它的头。\n“见习教士菲比！”\n前辈的轻喝令菲比猛地一哆嗦，她连忙背过手去，目送着有些落寞的小声骸摇摇晃晃的离开，前辈的如炬的目光仿佛要将她洞穿，“岁主在上，注意你的身份。”\n……她还没有完全习惯身份的转变带来的影响，尤其是作为教士，不能与声骸亲密接触这一点。\n岁主令她遇到了善良的人们，给予她食物与住所，也赐予了她新的责任，令她得以将收到的好意一一回报，无论如何，作为教士，她要履行好自己的责任。\n而在作为“菲比”的时候，她也有属于自己的，她的朋友们相会的时间。\n她下意识地抚摸着腰间挂着的相片盒，这是属于她的小小奇迹，她的朋友们将她最珍贵的回忆从漆黑的海底中找了回来，带回了她的身边。\n“菲比姐姐，我的气球飞到树上去了，我拿不下来……吉米说你会飞，可不可以……”\n“当然！”\n有孩子拉了拉她的衣角，令她回过神来，她收起纷繁的思绪，回到人群中，再次投身于庆典忙碌的工作里。\n\n夕阳挂在屋角，暮色从天边晕染。\n工作结束，人群散去，一切都安静了下来，菲比坐在长椅上，闭上眼睛感受着温柔吹拂的海风。\n时间仿佛在此刻慢了下来。\n小小的背影在夕阳下显得有些寂寥，来寻找菲比的前辈本想上前搭话，靠近时发现她的呼吸轻浅，已经进入了梦乡。\n女孩靠在长椅上安睡，小声骸们从角落悄悄靠近，挨挨挤挤地依偎在她的身边。\n年长的教士叹了口气，却又收回脚步，转身离开。\n“这次……就当没看到吧。”"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "遥远炫目的光辉中",
+            "Content": "菲比还能依稀回忆起她看到的最后一场狂欢节。\n她坐在父亲肩头看着高天讯使从头顶掠过，缤纷的彩带与花瓣飘落如雨，欢呼的浪潮席卷而来，幼时的记忆过于朦胧，以至于追忆狂欢节时，能回想起的只有柔和的光辉和遥远的回声。\n但她仍然记得那时的父母的神情，那些发自内心的欢笑——曾经回忆起来就会感到心痛的过往，如今仍在记忆深处仍闪着光。\n那些只存在于梦中的场景，终于真切地出现在了她的眼前。\n她站在人群里，看着黑发的「勇者」沐浴在光里，金色的桂冠缓缓降下，落在{TA}的头顶。\n——她的心随之怦然跳动，在震耳欲聋的欢呼声里，她的目光不受控制地追随着那道金色的光芒。\n\"是桂冠——！\"\n\"英白拉多在上——\"\n“岁主大人降下神迹了！”\n她的视线在一声声喜极而泣的呼唤中模糊。\n有谁不会被这样炫目的景象所触动？就连神明都会为此降下神迹，在这一刻她止不住地想，岁主又怎会因人们举办狂欢节而触怒？祂一定是热爱着狂欢节，热爱着人们的欢笑。\n那些自从云中庭院回来起便笼罩在心头的微茫阴影再度浮现，又转瞬被欢歌笑语冲淡。\n这一次，她抓住了那一丝缥缈流离的疑问，那些她曾经隐隐注意到，却被她遗忘的事情；那些她心生疑窦，却下意识令自己不去思考的事情。\n菲比用力眨了眨眼睛，拭去眼角的泪水，再次看向那个被人群簇拥着的身影。\n她隐隐觉得，如果是{TA} ，或许能够知晓答案，解答迷茫。\n总有一天，她会去找寻那些疑问的答案。"
         }
     ],
     "Voices": [
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·一",
+            "Content": "嘘……你们怎么也在这里呀？啊，{PlayerName}，很抱歉，我是不是打扰到了你的休息？我只是路过想来看看你，没想到这些小家伙们也一起跟过来了……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_toplayer01.play_favor_word_feibi_sys_toplayer01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·二",
+            "Content": "{PlayerName}和阿布是怎么认识的呢？抱歉……我并不是想要窥探你的过去，只是觉得……你们彼此形影不离，互相信任，互相关怀，真的很好，就像……家人一样。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_toplayer02.play_favor_word_feibi_sys_toplayer02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·三",
+            "Content": "我明白，神职人员不应对声骸抱有「情感」，可它们是我重要的朋友，这一点永远不会改变。所以，我会在不舍弃这份牵绊的同时，认真履行作为教士的职责，这是岁主的考验，也是属于我的修习……其实，每次见到它们时我都想紧紧抱住它们……不行不行不行，一定要忍耐……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_toplayer03.play_favor_word_feibi_sys_toplayer03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·四",
+            "Content": "{PlayerName}似乎每天都在做很多事情，但是很少见到你休息……难道是，睡不着吗？如果是这样的话，请让我来帮你吧，只要用这个手杖轻轻一点，你的精神就可以放松下来……诶？为什么要后退呀，一点也不疼啊……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_toplayer04.play_favor_word_feibi_sys_toplayer04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·五",
+            "Content": "气球飞上晴空，声骸与人们共舞，彩虹倒映在每个欢笑的人眼中……看到桂冠落在你的头上时，我真的非常非常开心，这次狂欢节对我来说……是难以忘怀的，最为炫目的光景。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_toplayer05.play_favor_word_feibi_sys_toplayer05"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "菲比的喜好",
+            "Content": "小的时候，我最喜欢去拂风水畔找我的朋友们，我们会一起躺在长满花的山坡上看云，听蒂蒂尔演奏好听的风琴曲，拉比贝尼编出各种样式的花环，让奔跑起来的风也带上月桂的味道……现在吗？现在……我会偷偷去。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_taste.play_favor_word_feibi_sys_taste"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "菲比的烦恼",
+            "Content": "我看到了……光辉下埋藏着的阴影。若曾经深信不疑的，其实并非正确的道路，那么……不，没什么，请不要在意……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_worry.play_favor_word_feibi_sys_worry"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "喜欢的食物",
+            "Content": "好香……是玛格烈特小姐和焙焙烤的披萨的味道……不行不行，这个月的披萨日已经过去了……嗯？你问什么是披萨日？其实是以前在孤儿院时，每个月里能吃到披萨的那一天，虽然现在已经不会再饿肚子，但作为教士仍应节制自我，不可沉迷口腹之欲，而且……在那天和大家一起分着吃的披萨，才是最好吃的呀。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_foodlike.play_favor_word_feibi_sys_foodlike"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "讨厌的食物",
+            "Content": "岁主赐予我们丰饶的土地，每一顿餐食都来之不易，祂亦言“身体乃是精神的宫殿”，我们应多食用对其有益之物，尤其是青枝果这样神圣的果实……对了，你要吃吗？这是从修会领受的圣餐，圣典曾言，分享之美德会令甜美加倍……\n呜……还是好酸……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_foodhate.play_favor_word_feibi_sys_foodhate"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "抱负和理想",
+            "Content": "孩子和父母团聚，远航的水手平安回到家乡，渴望自由的人能够像海鸥一样去往任何地方……大家即使怀抱着不同的信仰，仍然能够站在一起，悲鸣也不会致人分离……诶？关于我自己吗？我自己……我……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_dream.play_favor_word_feibi_sys_dream"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·一",
+            "Content": "这个相片盒是爸爸送给我的礼物，我原本以为它早已和那艘商船一起沉入大海，但它又回到了我的手中，这对于我来说……是不敢再奢望更多的奇迹了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_story_obj.play_favor_word_feibi_sys_story_obj"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·二",
+            "Content": "幼时的我从海岸边醒来，身边一片黑暗，我沿着海岸边走了很久很久，直到看到了提灯的光芒……温柔的教士们把我带到了明亮的屋子里，给予我食物和住所，我有了很多兄弟姐妹，他们都对我很好……在下着暴风雨的晚上，拉比和贝尼会悄悄来到我身边，陪我入睡，有它们在的夜晚很温暖，一点也不孤独……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_story_exp.play_favor_word_feibi_sys_story_exp"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于布兰特",
+            "Content": "小时候妈妈给我讲过一个在风暴中追求自由的探险家的故事，见到舞台上的布兰特先生时，他就好像是从那个故事里走出来的船长一样，洒脱、正直、无拘无束。只是我有时也会觉得……布兰特先生始终承载着与他带来的欢笑等量的思念和悲伤。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_about_bulante.play_favor_word_feibi_sys_about_bulante"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于洛可可",
+            "Content": "洛可可小姐或许看上去有些冷淡，但善意和温柔始终栖居于她的心中，又从她的心中满溢而出，变成欢笑温暖了周围的人。还有她的朋友佩洛……不知道，有没有机会和它成为朋友呢？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_about_luokeke.play_favor_word_feibi_sys_about_luokeke"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于卡提希娅",
+            "Content": "……我曾经做过一个梦，在梦中，漆黑的海面掀起风浪，在遮天蔽日的海潮之间，我似乎看到了圣女大人的身姿，她身上摇曳的影子像是她，却又仿佛不是她……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_about_katixiya.play_favor_word_feibi_sys_about_katixiya"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于赞妮",
+            "Content": "在拉古那，并非所有人都对岁主怀有虔诚的信仰，对于修会中的一些教士而言，对岁主是否虔敬能够反映出一个人的品行……但赞妮小姐的勇敢和忠诚足以令人改变这种偏见，她是一个可靠的，值得尊敬的人。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_about_zanni.play_favor_word_feibi_sys_about_zanni"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "生日祝福",
+            "Content": "锵锵——！祝你生日快乐！啊……这是，五彩纸屑！小时候过生日，爸爸妈妈都会这样为我庆祝，请收下这个，是用海蓝宝石镶嵌的青鸟，希望它能陪伴你跨越所有的惊涛骇浪，愿你的双眼永远明澈，愿幸运常伴你身旁……我深知你的命运并非神赐，而是由你亲手编织，无论你去往何方，我都会祈祷你能够平安喜乐。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_birthcele.play_favor_word_feibi_sys_birthcele"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·一",
+            "Content": "……愿您的爱永远长存，永不止息。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_idle_idle01.play_favor_word_feibi_idle_idle01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·二",
+            "Content": "咦……诶？原来你在这里呀……摸摸、摸摸……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_idle_idle02.play_favor_word_feibi_idle_idle02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·三",
+            "Content": "唔……啊……！呼……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_idle_idle03.play_favor_word_feibi_idle_idle03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "自我介绍",
+            "Content": "我是隐海修会的教士，菲比。岁主在上，愿你的旅途永远有爱与光明垂耀。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_introduction.play_favor_word_feibi_sys_introduction"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·一",
+            "Content": "交给我吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_jointeam_01.play_favor_word_feibi_sys_jointeam_01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·二",
+            "Content": "岁主在上，请允许我代为平息这场纷争。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_jointeam_02.play_favor_word_feibi_sys_jointeam_02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·三",
+            "Content": "愿岁主指引迷失者的归途。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_jointeam_03.play_favor_word_feibi_sys_jointeam_03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·一",
+            "Content": "这是……摇曳着波光的海面上，遥远的晴空。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_rankup01.play_favor_word_feibi_sys_rankup01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·二",
+            "Content": "我是否已有足够的力量，去面对那些令我迷茫的阴影？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_rankup02.play_favor_word_feibi_sys_rankup02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·三",
+            "Content": "因为你的光……让我看到了未曾见过的世界。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_rankup03.play_favor_word_feibi_sys_rankup03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·四",
+            "Content": "谢谢你，我会让从你这里得到的光辉，照亮更多的人。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_rankup04.play_favor_word_feibi_sys_rankup04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·五",
+            "Content": "自水中上升之后，我看到了金色的光芒……你给予我如此深重的恩典与教诲，也请允许我予以回应……你的愿望，亦是指引着我的福音。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_rankup05.play_favor_word_feibi_sys_rankup05"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重击·一",
+            "Content": "予以净化吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_atk_heavyatk02_01.play_favor_word_feibi_atk_heavyatk02_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重击·二",
+            "Content": "忏悔吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_atk_heavyatk02_02.play_favor_word_feibi_atk_heavyatk02_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·一",
+            "Content": "降临吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill02_01.play_favor_word_feibi_skill_skill02_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·二",
+            "Content": "肃静！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill02_02.play_favor_word_feibi_skill_skill02_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·三",
+            "Content": "风的方向。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill03_01.play_favor_word_feibi_skill_skill03_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·四",
+            "Content": "在那边！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill03_02.play_favor_word_feibi_skill_skill03_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·五",
+            "Content": "请回应我。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill01_01.play_favor_word_feibi_skill_skill01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能·六",
+            "Content": "审判！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_skill01_02.play_favor_word_feibi_skill_skill01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·一",
+            "Content": "光辉的结晶啊，请降下恩典。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_burst_burst_01.play_favor_word_feibi_burst_burst_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·二",
+            "Content": "光明，予以祝颂！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_burst_burst_02.play_favor_word_feibi_burst_burst_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "变奏技能",
+            "Content": "愿岁主护佑……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_qte.play_favor_word_feibi_skill_qte"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "延奏技能·一",
+            "Content": "请神侧耳聆听……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_exitskill_01.play_favor_word_feibi_skill_exitskill_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "延奏技能·二",
+            "Content": "敬请光明垂耀。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_exitskill_02.play_favor_word_feibi_skill_exitskill_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "延奏技能·三",
+            "Content": "以英白拉多之名。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_exitskill_03.play_favor_word_feibi_skill_exitskill_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·一",
+            "Content": "请小心！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_behitfly_01.play_favor_word_feibi_com_behitfly_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·二",
+            "Content": "别担心，并不疼。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_behitfly_03.play_favor_word_feibi_com_behitfly_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·一",
+            "Content": "即使是荆棘之路……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_hpdown01.play_favor_word_feibi_com_hpdown01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·二",
+            "Content": "庇护……是我的职责！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_hpdown02.play_favor_word_feibi_com_hpdown02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·三",
+            "Content": "咽下苦难，才能予以拯救……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_hpdown03.play_favor_word_feibi_com_hpdown03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·一",
+            "Content": "沉入……海底……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_die_01.play_favor_word_feibi_com_die_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·二",
+            "Content": "这不是离别……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_die_02.play_favor_word_feibi_com_die_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·三",
+            "Content": "愿光明……与你同在。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_die_03.play_favor_word_feibi_com_die_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·召唤",
+            "Content": "嗯，让我们一起！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_hxsummon.play_favor_word_feibi_skill_hxsummon"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·变身",
+            "Content": "这是岁主的赐福。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_skill_hxchange.play_favor_word_feibi_skill_hxchange"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "进战提醒",
+            "Content": "……阴霾渐近，要小心。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_engage.play_favor_word_feibi_com_engage"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "滑翔",
+            "Content": "像飞鸟那样……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_fly_01.play_favor_word_feibi_com_fly_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "感知",
+            "Content": "是指引的光芒。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_scan.play_favor_word_feibi_com_scan"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·一",
+            "Content": "珍惜来之不易的馈赠。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_openbox_01.play_favor_word_feibi_com_openbox_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·二",
+            "Content": "属于你的幸运。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_openbox_02.play_favor_word_feibi_com_openbox_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·三",
+            "Content": "……祂的赐福为我们带来喜乐。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_com_openbox_03.play_favor_word_feibi_com_openbox_03"
         }
     ],
     "Goods": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝固的时光",
+            "Content": "菲比随身携带的相片盒，由一个早已停转的航钟改造而成，里面装着一张全家福。它曾经在一次海难中沉入了海底，经过热心朋友们的不断寻找，最终又重新回到了菲比的手中。\n“那摇曳着流逝的时光中……美丽的浪花中，还有灯光里，都有我要和你述说的话语，一遍又一遍。”",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure88_UI.T_Treasure88_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "“信使”",
+            "Content": "一个产自大洋彼岸的工艺品，在变卖一空的家产里，菲比只留下了这个。\n在那些曾以为会永远讲述下去的睡前故事中，长着青色羽翼的鸟儿是神的信使，它有跨越风浪的力量，会将幸福带往那个在每晚忍耐着寂寞，乖乖入眠的小女孩身边。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure89_UI.T_Treasure89_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "遥远的愿景",
+            "Content": "陈旧褪色的旧版《隐海圣典》，由一位温柔而虔诚的母亲手工装订。一名合格、尽责、虔诚的教士应熟读圣典中的所有内容，谨记岁主的箴言。菲比始终恪守着心中的教义，而其实比起海洋，菲比更喜欢天空的颜色。\n“圣典曾言，苦难令我们更接近神，可我的孩子，我仍希望你的一生平安幸福。”",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure90_UI.T_Treasure90_UI"
         }
     ],
@@ -1182,7 +1182,7 @@
                         "Format": null
                     },
                     "5": {
-                        "Name": "下落攻击伤害",
+                        "Name": "空中攻击伤害",
                         "Param": [
                             [
                                 "23.25%*2",
@@ -1806,7 +1806,7 @@
                         "Format": null
                     },
                     "2": {
-                        "Name": "【镜之环】反射圣辉伤害",
+                        "Name": "【镜之环】折射圣辉伤害",
                         "Param": [
                             [
                                 "7.50%*2",

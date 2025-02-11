@@ -3,16 +3,17 @@
     "Rarity": 5,
     "Type": 6,
     "Tag": [
-        "任务道具"
+        "活动道具"
     ],
     "TagNum": [
-        21
+        48
     ],
     "Name": "《黎那汐塔渔艺指南·第一章》",
     "Desc": "偶然获得的小册子，可以提升漂泊者的捕捞技巧，增加出售鱼获时的价格。",
     "Bg": "接下来要演示的是，如何打窝。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation05_UI.T_IconA_Act_Navigation05_UI",
     "Source": [
-        "舵盘村码头商店购买"
+        "完成剧情获取",
+        "沉静湾码头商店购买"
     ]
 }

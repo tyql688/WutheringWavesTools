@@ -3,16 +3,16 @@
     "Rarity": 4,
     "Type": 0,
     "Tag": [
-        "特殊代币"
+        "活动道具"
     ],
     "TagNum": [
-        15
+        48
     ],
     "Name": "复仇的孤念",
     "Desc": "「拉结号」使用的船篷，可提高捕捉到极端尺寸个体的概率",
     "Bg": "最后是平静。到最后，只有我报信与你。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation11_UI.T_IconA_Act_Navigation11_UI",
     "Source": [
-        "黎那汐塔声匣回收获得"
+        "莱耶斯遗迹群码头商店购买"
     ]
 }

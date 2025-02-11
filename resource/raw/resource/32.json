@@ -3,10 +3,10 @@
     "Rarity": 4,
     "Type": 0,
     "Tag": [
-        "特殊代币"
+        "活动道具"
     ],
     "TagNum": [
-        15
+        48
     ],
     "Name": "“甜味烟花”",
     "Desc": "一种特殊的咕咕河豚，似乎可以用来当做炸弹使用，因而又被称为“砰砰河豚”。",
@@ -14,6 +14,7 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation21_UI.T_IconA_Act_Navigation21_UI",
     "Source": [
         "码头商店购买",
-        "捕捞砰砰河豚转换获得"
+        "捕捞砰砰河豚转换获得",
+        "商店「玫瑰蓓蕾号」购买"
     ]
 }

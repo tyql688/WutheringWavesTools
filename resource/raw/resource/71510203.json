@@ -3,16 +3,17 @@
     "Rarity": 5,
     "Type": 6,
     "Tag": [
-        "任务道具"
+        "活动道具"
     ],
     "TagNum": [
-        21
+        48
     ],
     "Name": "神秘经文的断章·第三章",
     "Desc": "偶然获得的经文断章，可以提升菲比的捕捞技巧，增加获得异变鱼的概率。",
     "Bg": "“复仇吧……为了神明……为了你自己。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation06_UI.T_IconA_Act_Navigation06_UI",
     "Source": [
+        "完成剧情获取",
         "莱耶斯遗迹群码头商店购买"
     ]
 }

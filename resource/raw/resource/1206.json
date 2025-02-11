@@ -31,433 +31,433 @@
     },
     "Name": "布兰特",
     "NickName": "布兰特",
-    "Desc": "敬请期待",
+    "Desc": "黎那汐塔愚人剧团的剧团长布兰特，为人浪漫洒脱，多变生动。是剧团的主心骨和领袖。\n舞台之上，他为故事更换面具，为戏剧调整表情。但在舞台之下，他待人只凭一颗真心。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.T_IconRoleHead256_44_UI",
     "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Bulante_UI.T_IconRole_Pile_Bulante_UI",
     "CharaInfo": {
-        "Birth": "敬请期待",
-        "Sex": "敬请期待",
-        "Country": "敬请期待",
-        "Influence": "敬请期待",
-        "Info": "敬请期待",
-        "TalentName": "敬请期待",
-        "TalentDoc": "敬请期待",
-        "TalentCertification": "敬请期待",
-        "CVNameCn": "敬请期待",
-        "CVNameJp": "敬请期待",
-        "CVNameKo": "敬请期待",
-        "CVNameEn": "敬请期待"
+        "Birth": "未知",
+        "Sex": "男",
+        "Country": "黎那汐塔",
+        "Influence": "愚人剧团",
+        "Info": "黎那汐塔愚人剧团的剧团长布兰特，为人浪漫洒脱，多变生动。是剧团的主心骨和领袖。\n舞台之上，他为故事更换面具，为戏剧调整表情。但在舞台之下，他待人只凭一颗真心。",
+        "TalentName": "戏焰领航",
+        "TalentDoc": "「剧团游医贝尼尔的笔记（无序号标记）」\n……我还记得自己登船不久的一个深夜，阴云压过整片大海，暴雨和巨浪要将整艘船掀翻。所有人都被大海掀翻到船的一侧，又滚到另外一边。舵手分不清航向，船好像在海中打转……我蜷在船舱里，恐惧蔓延到全身，让我发冷打颤……\n这时，船长直直站在桅杆的顶端。我看见他胸前的声痕亮起，船桅顶端亮起圣艾尔摩之火，照亮我们前进的航路。\n“放轻松，朋友们！”我听到船长坚定的声音，“现在，听我指挥！右满舵！……”\n我听见大家都行动起来，回到各自的岗位。而我也在笔记上记下：虽然船长没有用于检测的设备，但我能确定，布兰特船长是一位天生的共鸣者。他燃起的火焰能带着大家找到前进的方向！\n<i>值得一提的是，时常看到布兰特船长战斗时在空中转圈圈，难道他是在训练自己的方向感？这样作为船长才不会迷航？真的吗，有没有人去问问？</i>",
+        "TalentCertification": "「愚人剧团“自由狂欢”巡演-拉古那站 申请」\n……\n主演：布兰特\n受试人员样本波形检测图呈椭圆形波动，时域表示稳定，未见任何异常波动倾向。检测结果判断为正常阶段。\n当前超频临界值高，稳定性高，无超频风险。\n无过往超频史。\n……\n批复意见：稳定，同意剧团演出申请。演出中出现一切意外状况，由愚人剧团负责。\n<i>某位船长的备注：我敢打赌，不会出一点意外！</i>",
+        "CVNameCn": "CV：莫然",
+        "CVNameJp": "CV：岸尾大辅",
+        "CVNameKo": "CV：Lee Ju Seung",
+        "CVNameEn": "CV：Hyoie O'Grady"
     },
     "Stories": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "午后的酒馆即兴",
+            "Content": "突如其来的雷声打乱了酒保摇酒的节奏，随即而来的骤雨也浇灭了客人们最后一点心情。现在，这座被暴雨包裹的酒馆里并无任何有趣的故事。酒保缓慢地摇酒，冰块碰撞起来连声音都没有；客人呵欠连天，连酒水都变得乏味。\n“这可不像个酒馆啊，朋友们！”一位青年推开大门，腥咸的雨水溅入酒馆，潮湿的空气冲入客人们的鼻腔。他小跑到吧台，接过旁边客人的空酒杯。\n\n“嘿，你做什……”\n“嘘……”青年打断客人的疑问，在酒保的钱杯里丢入几个贝币，“满上一杯！朋友，好不容易来酒馆一次，不得聊些有意思的事情吗？”\n“有趣的事情？你在开玩笑吧！你看看外面天气，今天这雨怕是停不下来。再看看这菜单，毫无新意，还涨价了！”\n“当然啦，我从雨里来的。你看，我的头发还在向下淌水！但就算雨里也有新故事啊，朋友。就像你手中的通缉令。”他轻巧地拿过客人手里的纸张。\n“这都是我们上上个话题了，说的什么归亡者，戴着这奇怪的面具，他做了什么来着……”\n“他和船员一起穿越满是塞壬的迷雾，从海洋最深处的漩涡中打捞起满船的歌声。还有，他和朋友们一起去救下那些被巨浪打翻的朝圣船，从海盗口中抢下一笔笔物资！”\n“这……好像不对？你在这讲故事呢！”\n“哈哈哈，那当然啦。来吧，朋友，我们再喝一杯！然后，我来和大家讲讲这关于归亡者的故事！”他和客人碰杯，将客人的帽子戴在酒保的头上，又帮酒保把准备已久的玫瑰送到姑娘手中。在这座被暴雨包裹的酒馆里，戴帽子的酒保成了船上的舵手，光头的客人在大海上向残象开炮，收获玫瑰花的姑娘跳起一支即兴的舞蹈。青年讲述一个又一个关于大海的故事，每一个人都参与其中。\n但又有几个人推门而入，打断了这次即兴演出。\n\n“这可真像个酒馆啊，布兰特！”为首的人拿出通缉令，向手下下达命令，“抓住他！这回赏金翻倍！”\n“那还是存到下次吧！”青年已经鞠躬谢幕。他将手中燃起紫色火焰的面具抛出，在来人躲闪之时，他已经消失在了原地。\n而视线之内，只有无数彩带气球，以及一张张来自大海的礼物。\n人们将礼物捡起，却发现那居然是愚人剧团的演出戏票。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "黄昏，愚人欢唱",
+            "Content": "一天的彩排结束时，火红的云彩正烧到大海的尽头。\n船长招呼着几个船员在海滩上搭起晚饭用的桌子和烤架。巴蒂尔钓上好几条大鱼，拉维特猎来好几只野兔。洛可可大副带着佩洛去城里用「布兰特船长」的赏金换回满满一筐肉。\n船长则笑着把珍藏已久的蜜露果酒拿出来分给大家，他说：“就快到狂欢节了，排演了那么久，今天可以庆祝一下，每天都可以庆祝一下！”\n就要狂欢节了。\n所有人都期待这个日子，他们要在狂欢节的舞台上把属于愚人的故事讲给观众们听！为此，他们辛苦彩排了很久，拉维特在编曲时像要把灵魂都写进戏里，蒂娜在一个高音上磨了半宿……每一个人都为了狂欢节竭尽全力，因为他们相信自己的船长，相信他说的话——“我们将在狂欢节上向所有人询问：生命何以欢歌？我们也将告诉所有人属于我们的答案。我们更要让大家知道，我们不是一群疯子，只是一群愚人。”\n是的，只是一群愚人。那么对船长来说，愚人是什么？\n吃饭的时候，剧团新来的孩子们在船长身边围了一圈，他们都挤在一起询问：船长，愚人是什么？\n船长笑而不言，从兜里变出好些颗糖果放在孩子们手里。他看向自己的船员们，巴蒂尔正在和拉维特争论着什么，海默和巴德他们正在猜拳，蒂娜正教着洛可可如何在演唱时稳住气息。孩子们围在他身边，见他不说话，就把糖果都塞到他嘴里。\n“好了，好了！小卡提，我在想怎么回答你呢！”船长被糖果甜到牙齿，连忙在今晚要蛀牙前投降，“那我要给出自己的答案了，你们可要乖乖听好！”\n“在这里，每个追求自由的都是愚人！你是，我是，大家都是！”\n“就这样？听起来一点都不特别……”小卡提撇嘴，“那我们要在狂欢节证明什么呢？”\n“我们不用证明什么。”布兰特站起来，将船长帽稳稳戴好，“我们只要向大家歌唱，只要向大家展现自己！”\n“而现在，来吧愚人们，我们先饱餐一顿！”"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "营火前的思考",
+            "Content": "深夜，布兰特坐在营火前整理着演出要用到的东西。\n首先是表演要用到的面具。他将每一张面具擦拭干净，偶尔还会抽出一张戴上，即兴表演一段。布兰特演过很多角色，有无往直前的英雄主角，也有滑稽幽默的小丑。舞台上，他会是一掷千金的富家公子，也会是奸诈的佞臣，虔诚的教士……想到这里，他自嘲一笑。对他来说，那可算不上是什么愉快的体验。\n他痛恨佞臣，也讨厌教士。但在舞台上，他就是戏中的角色，他忠实地把自己藏在面具之后，去出演那一张张面具的人生。此时，他尊重舞台，尊重戏里的每一个角色。因为他知道，舞台就是他的大海。\n\n擦拭过面具之后， 他开始熨烫自己的戏服。\n站在舞台之上，戏服一定要妥帖得体。这不仅仅是为了角色，更是为了观众。要为观众带来笑容，首要的前提就是尊重。于是，他将戏服熨烫平整，不放过一个衣角。因为他知道，掌声就是他的大海。\n\n最后，他开始整理戏里要用到的舞台道具。\n英雄的佩剑，小丑的手鼓，富家公子的家族勋章，佞臣的权杖，教士的经文，还有……一个木质盒子。\n这个盒子是父母留给他的东西。盒子上刻着的燕鸥提醒着他始终记得被自己埋藏的名字。打开盒子后，菊石上的涡纹也提醒他要记住那场最初的冒险。而在被送上朝圣船后的每个昼夜，在眼见那些疫病、伤痛、别离的时候，这枚菊石陪伴着他，提醒他要去记住那些他亲眼见证的一切。\n它提醒着他去观察舞台之下的生活。\n它提醒着他去注视戏剧背后的真心。\n它提醒着他去凝视面具背后的自己。\n于是，他将这枚最重要的舞台道具好好收起。 \n因为他知道，只有尊重自己的时候，他所站的地方才是「<ano=舞台>大海</ano>」。"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "穿过海中风暴",
+            "Content": "惊雷在他耳边炸开，暴雨将所有的声音都隔绝在外。\n这是他们遇到过的最猛烈的风暴。风浪要将他们推上高空又狠狠摔下，巨兽在他们身后重重咆哮。大海要在这个晚上向他们展示自然的全部伟力，要让他们知道：在大海上，他们的生命不值一提。\n他睁开眼，看着眼前不羁的大海。\n\n“放弃吧，愚人！”「<ano=恐惧>风</ano>」在他的耳边呼啸，“看看你们这艘破船！你如何带着大家离开！”\n“结束了，愚人！”「<ano=舞台>海</ano>」在他的心底嘲笑，“瞧瞧你身后！那头巨兽已经张开大口准备给你们送上结局！”\n“下令吧，船长！”「<ano=家>剧团</ano>」在他的身边安慰，“下令吧，我们跟随你的航向！”\n“拉足马力！我们要以最快的速度前进！来吧，朋友们！”他的声音全无任何迷茫，眼前已不在乎任何风暴，“让我们驯服这片大海！”火焰从桅杆上燃起，向下迅速延伸，包裹住剧团的旗帜，包裹住愚人们的航船。在大海的咆哮中，这孤独的火焰迎着风浪进发。而在这浪火中，他荡起钩锁，飞跃向前，以笑声回应巨浪，像一只燕鸥一头扎入风暴深处。\n“而这头巨兽，就交给我吧！”\n………………\n…………\n……\n风安静下来。\n这艘小船只身在大海上航行，船身摇摇晃晃，船员们都站在甲板。在船长的带领下，他们穿过风暴，回到既定的航线。而此时，所有人在默念着一个名字：\n“他会没事的。”“船长……”“他会回来的。”“真的吗？”“我相信他。”“布兰特……”\n“布兰特！！船长！是船长！！！”\n人群欢呼，如同幕布在终场时再度拉开。\n在燃起的朝阳前，他们见到了一个奇迹——他们的船长布兰特站在巨兽的头顶，他骑着这头鳍龙归来。\n“朋友们，来见见我们的新朋友拉里奥！现在，我们有新的船了！”\n之后，他们会在这只鳍龙的身上建立属于他们的舞台。再之后，他们会知道，这只鳍龙是罕见的梦境鳍龙。他们会一起在黎那汐塔各处进行巡演，让所有人听到他们的故事。\n而现在，布兰特站在鳍龙身上向他们所有人致意：“多么完美的开场，朋友们！现在，尽情欢呼吧！”\n“BRAVO！BRAVO！”"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待"
+            "Title": "狂欢结束之后",
+            "Content": "彻夜的狂欢终于结束。拉古那广场上，纷飞的彩带碎屑还闪着微光。过路人们谈论着昨夜的演出，对他们来说，那只是一场戏剧的落幕。而对于舞台上的演员来说，这场落幕之后，是崭新的开始。\n他们终于可以大方走在拉古那的街道，终于可以回到过去被遗忘的家中。在舞台落幕的时候，他们为自己欢呼，因为这一刻，他们才终于能够踩在陆地上。\n而到了陆地上，愚人们应该做什么？那个晚上，船长和很多人谈了心。有些人离开剧团，回到自己的家中。船长给他们送上祝福和拥抱，希望他们以后的生活幸福美满。有些人想跟随剧团继续冒险，想要去新的天地看看，船长也都应下。还有些人迷茫无措，不知如何开展新的生活，船长就给所有人放了假。\n“毕竟狂欢之后，就需要时间去收拾地上的彩带碎屑。”船长是这样说的。\n\n也有人好奇船长的想法。船长大方地和他分享自己在拉古那的一日：\n狂欢节后的某天，他向大副请了个假。那天他没戴面具，没穿戏服，甚至没戴自己的船长帽。他首先去玛格烈特买了个披萨，又去广场上和鸽子打了个赌。之后，他甚至拐到水星天大教堂，指着岁主像说：“嘿！大家都没见过你呢！”\n最后，他回到自己原来的家看看。\n“但最后我也没进去。毕竟离开那么久，那座房子早就被变卖，已经不是我家了。我本想去告个别，到那才发现，连告别都不需要。但是，我听到了一阵钢琴声。”\n“那是我都不熟悉的钢琴曲。在那座房子里，有新的家庭开始了新的生活。而我，也早已走上自己的道路。我想起小时候父亲教我弹琴的时候和我说，你一定要找到自己喜欢的曲子。”\n“船长还会弹钢琴？”\n“很可惜，还没等我学会，修会就送了我一张朝圣船船票。但没关系，现在，我开始和大家一起学绞弦琴了！”\n\n“对我来说，这里才是家。大家唱的歌讲的故事，就是我找到的最好的曲子。所以，我不需要回到过去。因为对我来说，收拾完地上的彩带碎屑后，就要去迎接下一场狂欢了！”\n“朋友们，要和我一起，去新的地方看看吗？”\n船长发出邀请，因他早已确立新的航向。"
         }
     ],
     "Voices": [
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·一",
+            "Content": "正好今天有时间，一起去海滩散散步吧。吹吹海风，看看日落……怎么样？相信会有些新灵感！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_toplayer01.play_favor_word_bulante_sys_toplayer01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·二",
+            "Content": "在大海中航行的时候，第一步是要确定航向，第二步是……随机应变！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_toplayer02.play_favor_word_bulante_sys_toplayer02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·三",
+            "Content": "朋友，有来看我们的演出吗？来，这张票给你。不用带什么东西，你只需要带上笑容，拿上期待就好。要是还有什么的话……看到我出场的时候，多来点掌声和欢呼吧！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_toplayer03.play_favor_word_bulante_sys_toplayer03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·四",
+            "Content": "站在舞台上的时候，就只需要想着沉浸在角色里就好。此时，舞台就是「我」的整个世界。所有的灯光、音乐、舞蹈都是为了讲述「我」的故事！站在舞台上，剧演的主角就是我；而下台后，我也只是走进「<ano=世界>索拉</ano>」的故事。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_toplayer04.play_favor_word_bulante_sys_toplayer04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "心声·五",
+            "Content": "你看，再往前走点，绕过一个路口就到玛格烈特餐厅。大半个剧团的人都走过这条巷子，毕竟大家都从这里出生长大嘛。在海上的时候我会想，拉古那把我们抛弃、拒之门外，等我们回到这里，该做些什么呢。我想了好多要做的事情，但当我站在这里，只想着先去买个披萨试试口味……毕竟要说的话，我还是会想念拉古那的味道，我还是喜欢这里。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_toplayer05.play_favor_word_bulante_sys_toplayer05"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "布兰特的喜好",
+            "Content": "宽广的大海是最广阔的舞台，汹涌的巨浪是最澎湃的掌声！我们跟随洋流与信风的方向，四处掠夺欢呼与笑颜！所以，欢唱吧，庆贺吧，跳舞吧，我的朋友——为我，也为你自己，为我们活过的每一天！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_taste.play_favor_word_bulante_sys_taste"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "布兰特的烦恼",
+            "Content": "没钱啊……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_worry.play_favor_word_bulante_sys_worry"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "喜欢的食物",
+            "Content": "这酒给你，尝尝看……有些太甜了？哈哈哈，因为这是我的「烈度」啊！你别说，每个人酿出来的都不一样。巴蒂尔的「烈度」辣，蒂娜酿出的要清爽。「剧团烈度」、剧团的烈度……其中有的，是剧团大家的人生呀。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_foodlike.play_favor_word_bulante_sys_foodlike"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "讨厌的食物",
+            "Content": "哪有什么不能吃的？别顾及太多，想吃的时候就吃，这样就没有不喜欢的食物了！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_foodhate.play_favor_word_bulante_sys_foodhate"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "抱负和理想",
+            "Content": "总有一天，剧团会航遍世界的每一个角落。到时候，所有的海潮里都会高唱着一个共同的故事——那个故事的名字，叫做「<ano=自由>愚人</ano>」!",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_dream.play_favor_word_bulante_sys_dream"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·一",
+            "Content": "给你这个望远镜，来，透过它看看……再高的云都变得触手可及，怎么样，是不是很棒？观剧时有了它，你不会错过舞台上的任何一处惊喜；而出海时带上它，你就能发现大海上的每一块「新大陆」了！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_story_obj.play_favor_word_bulante_sys_story_obj"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "凝音·二",
+            "Content": "让我印象深刻的冒险？那可太多了，你要听哪一个？要不然，这回我们就从一次古老的持续了百年的审判开始讲起吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_story_exp.play_favor_word_bulante_sys_story_exp"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于洛可可",
+            "Content": "别看我们大副年纪小，你要是对演剧有什么疑问，都可以去找她。她不仅仅是我们剧团的大副，更是个了不起的舞台装置师！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_about_luokeke.play_favor_word_bulante_sys_about_luokeke"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于珂莱塔",
+            "Content": "她早已确定她的航向，也始终坚定地向她的航向进发。想作为莫塔里生活并不容易，但我知道她能做到最好。看着吧，当每一场属于她的戏剧落下帷幕，人们不仅仅会用莫塔里这个姓氏称呼她，人们会叫她「珂莱塔」！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_about_kelaita.play_favor_word_bulante_sys_about_kelaita"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于卡提希娅",
+            "Content": "有人称她为圣女，有人说她是罪人，却无人在乎她本身如何。她是个怎样的人，她如何对待自己的朋友，又如何看待自己的敌人？修会的故事里不会讲述这些她的心愿，民间的传说中不会记叙她的思考。人人都在谈论卡提希娅，又有谁真正认识她本身呢？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_about_katixiya.play_favor_word_bulante_sys_about_katixiya"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "关于赞妮",
+            "Content": "有很多人费尽心思让自己钻进一个会让他人满意的壳子里，而她不是。无论她之前是个怎样的人，有什么有意思的身份，现在的她只在扮演自己。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_about_zanni.play_favor_word_bulante_sys_about_zanni"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "生日祝福",
+            "Content": "生日快乐，我的朋友！今天有什么安排，要不要给自己放个假，一起去出海玩一玩？来，握紧舵盘。今天你做船长，我们一起朝着最远的天边出发！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_birthcele.play_favor_word_bulante_sys_birthcele"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·一",
+            "Content": "（语气词）",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_idle_idle01.play_favor_word_bulante_idle_idle01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·二",
+            "Content": "让我看看……有了。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_idle_idle02.play_favor_word_bulante_idle_idle02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "闲趣·三",
+            "Content": "乖……接着！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_idle_idle03.play_favor_word_bulante_idle_idle03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "自我介绍",
+            "Content": "愚人剧团的剧团长布兰特，向你致意。随便怎么称呼我都好，在你面前的只是一介追求自由的「愚人」。打招呼环节就到这里，接下来的时间就都留给自由和欢笑吧！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_introduction.play_favor_word_bulante_sys_introduction"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "初奏",
+            "Content": "剧目已经开场，就让我来掠夺你们的欢笑！布兰特，向你献上最诚挚的敬意！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_gacha.play_favor_word_bulante_sys_gacha"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·一",
+            "Content": "航向确定，该起航了！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_jointeam_01.play_favor_word_bulante_sys_jointeam_01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·二",
+            "Content": "来吧，前方就是迫近的风暴！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_jointeam_02.play_favor_word_bulante_sys_jointeam_02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "入队·三",
+            "Content": "为我欢呼吧，我的朋友！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_jointeam_03.play_favor_word_bulante_sys_jointeam_03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·一",
+            "Content": "有了这些，我们就能收获一个华丽的开场！来吧，把风帆拉紧！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_rankup01.play_favor_word_bulante_sys_rankup01"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·二",
+            "Content": "更多的力量……我们将无惧风浪！走，我们开足马力！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_rankup02.play_favor_word_bulante_sys_rankup02"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·三",
+            "Content": "平稳的过渡。接下来我们该去哪儿……左满舵！！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_rankup03.play_favor_word_bulante_sys_rankup03"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·四",
+            "Content": "让这巨浪更高一点！有了你的力量，这浪花不过是表演的小小助兴！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_rankup04.play_favor_word_bulante_sys_rankup04"
         },
         {
             "Type": 1,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "突破·五",
+            "Content": "哈哈哈，渡海的剑士就该如此！朋友，让我们一起航行到世界的尽头，去挑战世界颠倒的一瞬吧！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_sys_rankup05.play_favor_word_bulante_sys_rankup05"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·一",
+            "Content": "再热烈一些！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_airatk02_02.play_favor_word_bulante_atk_airatk02_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·二",
+            "Content": "仔细听！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_airatk_sp02_02.play_favor_word_bulante_atk_airatk_sp02_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·三",
+            "Content": "我的胜利！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_airatk_sp01_02.play_favor_word_bulante_atk_airatk_sp01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·四",
+            "Content": "完美谢幕！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_airatk_sp01_03.play_favor_word_bulante_atk_airatk_sp01_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·五",
+            "Content": "欢呼吧！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_fallingatk01_01.play_favor_word_bulante_atk_fallingatk01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "空中攻击·六",
+            "Content": "为我！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_fallingatk01_02.play_favor_word_bulante_atk_fallingatk01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重击·一",
+            "Content": "在你背后！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_heavyatk01_01.play_favor_word_bulante_atk_heavyatk01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重击·二",
+            "Content": "看哪呢？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_atk_heavyatk01_02.play_favor_word_bulante_atk_heavyatk01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣技能",
+            "Content": "别眨眼。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_skill_skill01_sp.play_favor_word_bulante_skill_skill01_sp"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·一",
+            "Content": "高光时刻！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_burst_burst01_01.play_favor_word_bulante_burst_burst01_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·二",
+            "Content": "戏演高潮！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_burst_burst01_02.play_favor_word_bulante_burst_burst01_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "共鸣解放·三",
+            "Content": "让火焰再盛大一些！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_burst_burst01_03.play_favor_word_bulante_burst_burst01_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "变奏技能·一",
+            "Content": "传说戏码。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_skill_qte_01.play_favor_word_bulante_skill_qte_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "变奏技能·二",
+            "Content": "我来掌舵。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_skill_qte_02.play_favor_word_bulante_skill_qte_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·一",
+            "Content": "小心！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_behitfly_01.play_favor_word_bulante_com_behitfly_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·二",
+            "Content": "别在意。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_behitfly_02.play_favor_word_bulante_com_behitfly_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "受击·三",
+            "Content": "小小意外。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_behitfly_03.play_favor_word_bulante_com_behitfly_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·一",
+            "Content": "不过是一点小波浪。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_hpdown01.play_favor_word_bulante_com_hpdown01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·二",
+            "Content": "没关系，让风浪再高一点！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_hpdown02.play_favor_word_bulante_com_hpdown02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "重伤·三",
+            "Content": "哈哈，真有意思！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_hpdown03.play_favor_word_bulante_com_hpdown03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·一",
+            "Content": "落幕的时候吗……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_die_01.play_favor_word_bulante_com_die_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·二",
+            "Content": "故事，不该结束……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_die_02.play_favor_word_bulante_com_die_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "力竭·三",
+            "Content": "愚人的结局吗……",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_die_03.play_favor_word_bulante_com_die_03"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·召唤",
+            "Content": "该你表演了！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_skill_hxsummon.play_favor_word_bulante_skill_hxsummon"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "声骸异能·变身",
+            "Content": "换个角色，卡司还是我！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_skill_hxchange.play_favor_word_bulante_skill_hxchange"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "进战提醒",
+            "Content": "布兰特，向你致意！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_engage.play_favor_word_bulante_com_engage"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "滑翔",
+            "Content": "去天边看看！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_fly_02.play_favor_word_bulante_com_fly_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "感知",
+            "Content": "罗盘说……在这里！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_scan.play_favor_word_bulante_com_scan"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "冲刺",
+            "Content": "看看谁先拿到宝藏！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_dash_01.play_favor_word_bulante_com_dash_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·一",
+            "Content": "有酒吗？",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_openbox_01.play_favor_word_bulante_com_openbox_01"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·二",
+            "Content": "这里面有故事啊。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_openbox_02.play_favor_word_bulante_com_openbox_02"
         },
         {
             "Type": 2,
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "获得补给·三",
+            "Content": "收好了，你应得的！",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_bulante_com_openbox_03.play_favor_word_bulante_com_openbox_03"
         }
     ],
     "Goods": [
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "最初的宝藏",
+            "Content": "一枚被细心保存的菊石化石。小小的布兰特站在桌上，向父亲骄傲宣布：自己在父亲的书海里找到了一件宝物！父亲摘下眼镜仔细观察，发现那是被放置在书架底部的菊石化石。于是，父亲给他讲述了一个关于挖掘过去、寻找真相的故事。\n那就是他冒险的起源，是他见证的最初的宝藏。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure86_UI.T_Treasure86_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "戏梦人生",
+            "Content": "堆叠的舞台面具造像，适用于不同的剧目和场合。\n他是剧目的主角、舞台的焦点，他为故事更换面具、为观众带来欢笑。而在舞台之下，他不需要遮掩真心。\n此时，他只是布兰特。",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure85_UI.T_Treasure85_UI"
         },
         {
-            "Title": "敬请期待",
-            "Content": "敬请期待",
+            "Title": "船长的证明",
+            "Content": "一顶三角帽，上面绣有愚人剧团的标志。\n布兰特始终记得他在愚人船上看到的第一场演出。船长不惧惊涛骇浪，带着所有船员穿过冥河峡湾，最终将一顶三角帽戴在这位对冒险充满期待的孩子头上，打趣一样地叫他：布兰特船长。\n他也记得属于自己的第一场演出。他站在船帆高处，告诉所有人拉帆转舵，带领大家平安从吞噬一切的海漩涡中归来。那一刻，船员将这顶三角帽庄重地戴在他头上。船员们高喊着他的名字：船长，布兰特船长！",
             "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/Treasure/T_Treasure87_UI.T_Treasure87_UI"
         }
     ],
@@ -5732,7 +5732,7 @@
             "Name": "布兰特",
             "TitleName": "海中戏幕",
             "SubDecName": "布兰特-初始服饰",
-            "BgDescription": "船长为参加狂欢节特别缝制的戏服。船上能看见的海与天的色彩，他尽数带回拉古那。",
+            "BgDescription": "陪伴船长远航的戏服，剧团的服饰设计都以此款为基础。船上能看见的海与天的色彩，他要带给每一个观众。",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Bulante_UI.T_IconRole_Pile_Bulante_UI"
         }
     }

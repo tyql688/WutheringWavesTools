@@ -3,16 +3,17 @@
     "Rarity": 4,
     "Type": 0,
     "Tag": [
-        "特殊代币"
+        "活动道具"
     ],
     "TagNum": [
-        15
+        48
     ],
     "Name": "沙虫",
     "Desc": "黎那汐塔最常见的鱼饵，通过「抛饵」技能释放该鱼饵后，可以生成一个优质的捕捞点。",
     "Bg": "黎那汐塔渔民们常用的鱼饵，富集于浅海，可以在海水中钓鱼。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation17_UI.T_IconA_Act_Navigation17_UI",
     "Source": [
-        "码头商店购买"
+        "码头商店购买",
+        "商店「玫瑰蓓蕾号」购买"
     ]
 }

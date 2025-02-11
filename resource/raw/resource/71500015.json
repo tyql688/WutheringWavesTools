@@ -9,7 +9,7 @@
         50
     ],
     "Name": "背信者—船长印章",
-    "Desc": "敌方的异常状态层数发生变化时，自身提升5%伤害加深，持续10秒，最多叠加6层\n\n该信物在冥歌海墟中最多使用<color=#fee388>1</color>次",
+    "Desc": "",
     "Bg": "因争夺印章而坠毁的船只，阴谋诡计将船帆点燃，桅杆推倒，到最后只剩印章。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_15.T_IconMowing_15",
     "Source": [

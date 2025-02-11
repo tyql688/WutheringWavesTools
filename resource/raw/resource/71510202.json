@@ -3,16 +3,17 @@
     "Rarity": 5,
     "Type": 6,
     "Tag": [
-        "任务道具"
+        "活动道具"
     ],
     "TagNum": [
-        21
+        48
     ],
     "Name": "神秘经文的断章·第二章",
     "Desc": "偶然获得的经文断章，可以提升菲比的捕捞技巧，增加船体耐久度。",
     "Bg": "“……昭告尔等，平静的大海上，永远没有顶尖的水手。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation06_UI.T_IconA_Act_Navigation06_UI",
     "Source": [
+        "完成剧情获取",
         "黎乔利港码头商店购买",
         "沉静湾码头商店购买"
     ]
