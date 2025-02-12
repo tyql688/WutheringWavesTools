@@ -37,6 +37,8 @@ def new_version():
     app.enhance.enhance_weapon()
     app.enhance.enhance_char()
     app.enhance.enhance_material()
+    app.enhance.enhance_role_chain()
+    app.enhance.enhance_role_skill()
 
 
 def generate():
