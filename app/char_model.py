@@ -75,9 +75,11 @@ class AscensionMaterial(BaseModel):
 # 定义模型
 class CharModel(BaseModel):
     name: str = Field(alias="Name")
+    attributeId: int = Field(alias="Element")
+    weaponTypeId: int = Field(alias="Weapon")
     starLevel: int = Field(alias="Rarity")
     stats: Stats = Field(alias="Stats")
-    levelExp: List[int] = Field(alias="LevelEXP")
+    # levelExp: List[int] = Field(alias="LevelEXP")
     skillTree: Dict[str, SkillNode] = Field(alias="SkillTrees")
     chains: Chains = Field(alias="Chains")
     ascensions: Dict[str, List[AscensionMaterial]] = Field(alias="Ascensions")
