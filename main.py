@@ -32,7 +32,7 @@ def download_url_attr():
 
 
 def new_version():
-    # app.api.download()
+    app.api.download()
     app.enhance.enhance()
     app.enhance.enhance_weapon()
     app.enhance.enhance_char()

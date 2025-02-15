@@ -37,7 +37,8 @@ RAW_ITEM_PATH = RAW_DATA_PATH / 'item.json'
 
 APP_PATH = Path(__file__).parents[1] / 'app'
 
-MATERIAL_TAG = ["共鸣者突破材料", "突破材料", "武器与技能素材", "技能升级材料", "突破材料", "通用货币"]
+MATERIAL_TAG = ["共鸣者突破材料", "突破材料", "武器与技能素材", "技能升级材料", "突破材料", "通用货币",
+                "共鸣者经验材料", "武器经验材料"]
 
 
 def init_dir():
