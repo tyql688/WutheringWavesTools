@@ -114,6 +114,9 @@ def enhance_char():
         with open(f"{RAW_RESOURCE_PATH}/{char_id}.json", 'r', encoding='utf-8') as f:
             char_detail = json.load(f)
 
+        if char_id in ["1501", "1502"]:
+            continue
+
         char_model = CharModel.parse_obj(char_detail)
         char_map[char_id] = lower_first_letter(char_model.dict(exclude_none=True))
         print(char_map[char_id])
