@@ -5730,7 +5730,9 @@
             "TitleName": "潜珑猎影",
             "SubDecName": "卡卡罗-初始服饰",
             "BgDescription": "为方便在瑝珑境内行动，卡卡罗所定制的瑝珑风格的作战服。应其要求，没有添加繁杂的饰物，以轻便耐用，易于隐匿的功能性为主。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleKakaluo.T_ActivityRoleKakaluo",
+            "SortIndex": 0
         }
     }
 }

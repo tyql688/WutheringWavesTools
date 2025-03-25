@@ -193,6 +193,12 @@
         },
         {
             "Type": 1,
+            "Title": "初奏",
+            "Content": "（语气词）",
+            "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_gacha.play_favor_word_feibi_sys_gacha"
+        },
+        {
+            "Type": 1,
             "Title": "入队·一",
             "Content": "交给我吧。",
             "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_feibi_sys_jointeam_01.play_favor_word_feibi_sys_jointeam_01"
@@ -4035,7 +4041,9 @@
             "TitleName": "隐海颂诗",
             "SubDecName": "菲比-初始服饰",
             "BgDescription": "菲比记忆中总是停留着一抹青蓝。幼时从枕边故事中振翅飞出的鸟儿，飘摇中给予她归所的教士们的衣袍，亦或是——将她从噩梦中托起的，那缕温柔的和风。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Feibi_UI.T_IconRole_Pile_Feibi_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Feibi_UI.T_IconRole_Pile_Feibi_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleFeibi.T_ActivityRoleFeibi",
+            "SortIndex": 0
         }
     }
 }

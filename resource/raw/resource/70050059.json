@@ -1,0 +1,16 @@
+{
+    "Id": 70050059,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "奇怪的书",
+    "Desc": "一本奇怪的书籍，有被海水侵蚀的痕迹。",
+    "Bg": "「幽灵之海」中浮现的奇怪书籍，似乎是开启某个书柜暗门的钥匙。\n书本无法打开，里面的内容无法查阅……这可能是件好事。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+    "Source": []
+}

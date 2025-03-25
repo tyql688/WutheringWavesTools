@@ -1,0 +1,16 @@
+{
+    "Id": 70140050,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "呼唤呼姆",
+    "Desc": "卡提希娅传授了使用方法的道具，装备到探索工具后，能够在水域附近召唤出贡多拉“呼姆”。（只能在阿维纽林区域使用）",
+    "Bg": "卡提希娅传授了使用方法的道具",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Gongduola_UI.T_IconA_Act_Gongduola_UI",
+    "Source": []
+}

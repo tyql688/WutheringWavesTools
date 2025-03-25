@@ -4669,7 +4669,9 @@
             "TitleName": "沉沉青脊",
             "SubDecName": "忌炎-初始服饰",
             "BgDescription": "继任夜归将军之时，由「角」授予的制服。以夜归军的制式军装为基准设计，象征青龙的墨绿长衣披挂其上，于风起时化作夜归的旗帜。质地强韧，历久弥坚，一如今州的脊梁。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.T_IconRole_Pile_jiyan_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.T_IconRole_Pile_jiyan_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
+            "SortIndex": 0
         }
     }
 }

@@ -1,0 +1,16 @@
+{
+    "Id": 70050058,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "童话绘本",
+    "Desc": "一本温馨的童话绘本，纸张有些泛黄，似乎是曾经的少女们所作。",
+    "Bg": "一本温馨的童话绘本，记录了公主们冒险的故事。即便身在囚笼，少女们的头脑中还是充满了积极的幻想。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+    "Source": []
+}

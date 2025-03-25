@@ -3739,7 +3739,9 @@
             "TitleName": "至热静点",
             "SubDecName": "莫特斐-初始服饰",
             "BgDescription": "华胥研究院常用的科研实验服。红龙的火焰不曾熄灭，但他已经找到自己的静点——那也是他终生的热忱。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.T_IconRole_Pile_baer_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.T_IconRole_Pile_baer_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleMofeite.T_ActivityRoleMofeite",
+            "SortIndex": 0
         }
     }
 }

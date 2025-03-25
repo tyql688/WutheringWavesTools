@@ -1,0 +1,16 @@
+{
+    "Id": 70050063,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "星空之上",
+    "Desc": "一张由布偶小队偷偷拍下的照片，它们目睹了你登上最高处时的模样。",
+    "Bg": "一张由布偶小队偷偷拍下的照片，它们目睹了你登上最高处时的模样。\n可放大查看。",
+    "Icon": "/Game/Aki/UI/UIResources/UiInformation/Image/T_InformationA22.T_InformationA22",
+    "Source": []
+}

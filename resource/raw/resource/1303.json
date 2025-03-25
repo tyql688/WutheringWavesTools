@@ -4838,7 +4838,9 @@
             "TitleName": "得体剪裁",
             "SubDecName": "渊武-初始服饰",
             "BgDescription": "高级定制西装下穿着贴身的拳术练功服，衬得身材修长而健硕。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.T_IconRole_Pile_yuanwu_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.T_IconRole_Pile_yuanwu_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
+            "SortIndex": 0
         }
     }
 }

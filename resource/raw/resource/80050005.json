@@ -14,6 +14,7 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A10_UI.T_IconCook_A10_UI",
     "Source": [
         "马和杂货购买",
-        "库默尼商行购买"
+        "库默尼商行购买",
+        "贡多拉水市购买"
     ]
 }

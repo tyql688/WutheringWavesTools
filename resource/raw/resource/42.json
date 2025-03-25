@@ -1,0 +1,16 @@
+{
+    "Id": 42,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "星图晶块",
+    "Desc": "程序后台所生成的数据结晶，记录了挑战的相关数据，可在本期「虚域危局」中兑换活动奖励。",
+    "Bg": "泰缇斯系统忠实地记录了模拟情景中的每一次行动。这些数据将化为实体，成为星图演算的燃料——即使并非现实，所有的成功与失败也将通往未来。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_BabelTower_UI.T_IconA_Act_BabelTower_UI",
+    "Source": []
+}

@@ -1,0 +1,68 @@
+{
+    "Id": 6000103,
+    "Code": "H28-",
+    "Name": "小翼龙·冷凝",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31057_UI.T_IconMonsterHead_31057_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤小翼龙·冷凝，造成五次每次{0}的冷凝伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤小翼龙·冷凝，对敌人造成冷凝伤害。",
+        "Param": [
+            [
+                "14.40%",
+                "8"
+            ],
+            [
+                "17.28%",
+                "8"
+            ],
+            [
+                "20.16%",
+                "8"
+            ],
+            [
+                "23.04%",
+                "8"
+            ],
+            [
+                "25.92%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31057_UI.T_Mstskil_31057_UI"
+    },
+    "Group": {
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000570
+}

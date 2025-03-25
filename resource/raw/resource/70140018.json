@@ -1,0 +1,16 @@
+{
+    "Id": 70140018,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「奥特尔」",
+    "Desc": "长剑上没有丝毫岁月的痕迹。",
+    "Bg": "人权剑——「奥特尔」\n卡提希娅曾经的佩剑，如今解开封印的关键之一。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_138_UI.T_IconTask_Task_138_UI",
+    "Source": []
+}

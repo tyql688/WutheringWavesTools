@@ -5248,7 +5248,9 @@
             "TitleName": "烂漫时",
             "SubDecName": "椿-初始服饰",
             "BgDescription": "极热烈、极张扬的赤色逐渐烧向洁白，一如椿在界限边缘舞蹈的自我。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_chun_UI.T_IconRole_Pile_chun_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_chun_UI.T_IconRole_Pile_chun_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChun.T_ActivityRoleChun",
+            "SortIndex": 0
         }
     }
 }

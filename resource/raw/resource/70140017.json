@@ -1,0 +1,16 @@
+{
+    "Id": 70140017,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「赫格利」",
+    "Desc": "长剑上散发着如深海般幽邃的气息。",
+    "Bg": "异权剑——「赫格利」\n无人知晓来历的长剑，根据卡提希娅的记忆，似乎是解开颠倒塔封印的关键道具。\n长剑上散发着如深海般幽邃的气息。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_139_UI.T_IconTask_Task_139_UI",
+    "Source": []
+}

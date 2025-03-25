@@ -13,6 +13,7 @@
     "Bg": "强大呓语种残象的声核结构，星形轮廓上有尖锐的凸起，正如其尖锐刺耳的频率能量一样。或许它们的拟人程度已经形成恐怖谷效应了吧。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_3_UI.T_IconMout_O_002_3_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-纯化",
         "合成-置换",
         "呓语种残象掉落"

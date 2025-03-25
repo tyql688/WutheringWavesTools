@@ -4866,7 +4866,9 @@
             "TitleName": "情报卖家",
             "SubDecName": "秋水-初始服饰",
             "BgDescription": "交易最后的底牌？在……这里。那就是如何转动头脑，将有限的信息变作与买家无限的周旋。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
+            "SortIndex": 0
         }
     }
 }

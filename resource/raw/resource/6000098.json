@@ -1,0 +1,105 @@
+{
+    "Id": 6000098,
+    "Code": "W32-",
+    "Name": "卫冕节使",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31052_UI.T_IconMonsterHead_31052_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为卫冕节使，对周围目标造成一次{0}的物理伤害\n长按声骸技能，持续幻形，一定时间后挥剑并向前施放一道远程斩击，挥剑造成{1}的物理伤害，斩击可持续造成最多{2}次每次{3}的物理伤害。\n技能冷却：{4}秒",
+        "SimpleDesc": "幻形为卫冕节使，对敌人造成物理伤害。长按声骸技能可施放远程攻击，对敌人造成物理伤害。",
+        "Param": [
+            [
+                "149.00%",
+                "149.00%",
+                "15",
+                "9.93%",
+                "15"
+            ],
+            [
+                "178.80%",
+                "178.80%",
+                "15",
+                "11.92%",
+                "15"
+            ],
+            [
+                "208.60%",
+                "208.60%",
+                "15",
+                "13.90%",
+                "15"
+            ],
+            [
+                "238.40%",
+                "238.40%",
+                "15",
+                "15.89%",
+                "15"
+            ],
+            [
+                "268.20%",
+                "268.20%",
+                "15",
+                "17.87%",
+                "15"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_31052_UI.T_MstSkil_31052_UI"
+    },
+    "Group": {
+        "12": {
+            "Id": 12,
+            "Name": "幽夜隐匿之帷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkAssist.T_IconElementAttriDarkAssist",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "湮灭属性伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色触发延奏技能离场时，额外对周围敌人造成{0}的湮灭伤害，该伤害为延奏技能伤害，并使下一个登场角色湮灭属性伤害加成提升{1}，持续{2}秒。",
+                    "Param": [
+                        "480%",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000520
+}

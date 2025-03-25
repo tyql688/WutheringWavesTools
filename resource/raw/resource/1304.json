@@ -5375,7 +5375,9 @@
             "TitleName": "桃夭灼灼",
             "SubDecName": "今汐-典藏套装",
             "BgDescription": "花前月下，清歌曼舞。为典仪，更为——\n纪念你们最初的相会，同途的相知，以及共济风雪的相伴。\n“春回岁往谁与共，桃夭灼灼牵丝动。”",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.T_IconRole_Pile_jinxi2_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.T_IconRole_Pile_jinxi2_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi2.T_ActivityRoleJinxi2",
+            "SortIndex": 10
         },
         "81001304": {
             "Id": 81001304,
@@ -5385,7 +5387,9 @@
             "TitleName": "洄天溯海",
             "SubDecName": "今汐-初始服饰",
             "BgDescription": "两片薄如水纹的裁剪微微泛蓝，温柔地包裹着纯白的少女。正如逆流的潮汐将她推回岸边，而她平静地捧起整个今州。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.T_ActivityRoleJinxi",
+            "SortIndex": 0
         }
     }
 }

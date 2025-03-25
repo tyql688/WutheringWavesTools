@@ -4023,7 +4023,9 @@
             "TitleName": "如始亦终",
             "SubDecName": "守岸人-初始服饰",
             "BgDescription": "她以与人类无异的姿态显现，回应“唤醒”自己的生命。这是你赋予她的最初，也是关乎她一切的起点……你总是，不止一次地赋予她“新生”。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shouanren_UI.T_IconRole_Pile_shouanren_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shouanren_UI.T_IconRole_Pile_shouanren_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleShouanren.T_ActivityRoleShouanren",
+            "SortIndex": 0
         }
     }
 }

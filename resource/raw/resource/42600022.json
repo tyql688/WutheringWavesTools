@@ -1,0 +1,18 @@
+{
+    "Id": 42600022,
+    "Rarity": 5,
+    "Type": 5,
+    "Tag": [
+        "材料"
+    ],
+    "TagNum": [
+        9
+    ],
+    "Name": "缚誓之核",
+    "Desc": "以螺旋状排列的奇异黑石花，可用于提高血誓盟约的谐振等级。",
+    "Bg": "这枚形状奇异的黑石花束缚着一颗古老而强大的核心，你从中感受到了熟悉的力量。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_019_UI.T_IconWup_019_UI",
+    "Source": [
+        "任务获得"
+    ]
+}

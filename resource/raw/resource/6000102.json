@@ -1,0 +1,90 @@
+{
+    "Id": 6000102,
+    "Code": "H27-",
+    "Name": "小翼龙·导电",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31056_UI.T_IconMonsterHead_31056_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤小翼龙·导电，造成三次每次{0}的导电伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤小翼龙·导电，对敌人造成导电伤害。",
+        "Param": [
+            [
+                "24.00%",
+                "8"
+            ],
+            [
+                "28.80%",
+                "8"
+            ],
+            [
+                "33.60%",
+                "8"
+            ],
+            [
+                "38.40%",
+                "8"
+            ],
+            [
+                "43.20%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31056_UI.T_Mstskil_31056_UI"
+    },
+    "Group": {
+        "12": {
+            "Id": 12,
+            "Name": "幽夜隐匿之帷",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkAssist.T_IconElementAttriDarkAssist",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "湮灭属性伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色触发延奏技能离场时，额外对周围敌人造成{0}的湮灭伤害，该伤害为延奏技能伤害，并使下一个登场角色湮灭属性伤害加成提升{1}，持续{2}秒。",
+                    "Param": [
+                        "480%",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000560
+}

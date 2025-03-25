@@ -1,0 +1,16 @@
+{
+    "Id": 80130000,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "虚域的境界线",
+    "Desc": "在「虚域危局·原型解算」中所获得的特殊奖励，记录着曾在挑战中达成的最高总负荷等级。",
+    "Bg": "此处是解算的边界，而并非你的极限。危机不曾断绝，但炬火从未熄灭。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_03_UI.T_IconA_Title_03_UI",
+    "Source": []
+}

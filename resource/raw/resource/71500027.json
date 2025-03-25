@@ -1,0 +1,18 @@
+{
+    "Id": 71500027,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "那赞颂交融的福音",
+    "Desc": "施放变奏技能后，使队伍角色暴击率提升40%，暴击伤害提升80%，持续15秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "“他在一众惊惶的「愚人」中格外显眼，虔诚地向眼前的异象跪服。他将胸前的胸针举起颂唱圣歌，温顺地任由潮水将他吞噬，直至与万物交融……”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_19.T_IconMowing_19",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

@@ -14,6 +14,9 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_001_UI.T_IconMout_001_UI",
     "Source": [
         "合成-置换",
-        "残星会掉落"
+        "残星会掉落",
+        "海市兑换",
+        "凝素领域获得",
+        "锻造商店购买（印造台旁）"
     ]
 }

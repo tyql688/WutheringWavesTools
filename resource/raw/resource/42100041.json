@@ -13,6 +13,7 @@
     "Bg": "使用先进工艺装填的加压罐装药物，能够在使用者体表形成阻抗层，将敌人的力量转化为自身抗性，提高对指定属性伤害的抵抗能力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_003_UI.T_IconCook_YJ_003_UI",
     "Source": [
-        "合成-药剂制作"
+        "合成-药剂制作",
+        "药剂商店「迷迭香」购买"
     ]
 }

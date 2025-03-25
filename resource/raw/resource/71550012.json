@@ -1,0 +1,16 @@
+{
+    "Id": 71550012,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "玛格烈特赠送的面粉",
+    "Desc": "用于烹饪的材料。",
+    "Bg": "由小麦研磨制成的食物，富含淀粉，常被用于制作主食。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A05_UI.T_IconCook_A05_UI",
+    "Source": []
+}

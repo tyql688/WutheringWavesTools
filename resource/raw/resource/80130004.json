@@ -1,0 +1,16 @@
+{
+    "Id": 80130004,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "坠入深境",
+    "Desc": "你触碰到了深塔的边界，真理距你一墙之隔。",
+    "Bg": "累计1期在「逆境深塔·深境区」获得全部印记",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_01_UI.T_IconA_Title_01_UI",
+    "Source": []
+}

@@ -13,6 +13,7 @@
     "Bg": "弱小呓语种残象的声核结构，呈现残破的星形，其中微弱低沉的频率能量尚未消散，但无人能听清它们究竟想传达什么信息。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_1_UI.T_IconMout_O_002_1_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-置换",
         "呓语种残象掉落",
         "海市兑换",

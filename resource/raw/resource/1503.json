@@ -4196,7 +4196,9 @@
             "TitleName": "新绿致意",
             "SubDecName": "维里奈-初始服饰",
             "BgDescription": "维里奈科学考察时常穿的装束。所有抽芽生长的新蕊说的话，她都记在心里。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJueyuan.T_ActivityRoleJueyuan",
+            "SortIndex": 0
         }
     }
 }

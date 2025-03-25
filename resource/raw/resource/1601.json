@@ -3886,7 +3886,9 @@
             "TitleName": "静谧此时",
             "SubDecName": "桃祈-初始服饰",
             "BgDescription": "工作时常见的服装，与桃桃龟颜色相符。慵懒的她总忘记穿天工制服，久而久之，私服也就成了制服。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
+            "SortIndex": 0
         }
     }
 }

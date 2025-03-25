@@ -4283,7 +4283,9 @@
             "TitleName": "瑞狮呈祥",
             "SubDecName": "凌阳-初始服饰",
             "BgDescription": "瑞狮团精神干练的演出用服，祥纹如狮鬃般热烈奋起，似少年不变的初心。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleLingyang.T_ActivityRoleLingyang",
+            "SortIndex": 0
         }
     }
 }

@@ -1,0 +1,16 @@
+{
+    "Id": 71550010,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "营养面粉",
+    "Desc": "呜呜代购采购材料",
+    "Bg": "贡多拉水市新进的特制营养面粉，能够为身体提供能量，减缓饥饿。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A05_UI.T_IconCook_A05_UI",
+    "Source": []
+}

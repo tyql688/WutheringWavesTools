@@ -1,0 +1,16 @@
+{
+    "Id": 70050056,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「过去」",
+    "Desc": "一本奇怪的书籍，陈旧而斑驳，有被海水侵蚀的痕迹。",
+    "Bg": "「幽灵之海」中浮现的奇怪书籍，似乎记录着过去的事。封面被海水侵蚀得很严重，死死黏住书页，无法打开。往事不可追，而深渊偏要你们深陷过往。\n「过去」和「现在」共同延续，可以通向「未来」。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+    "Source": []
+}

@@ -4079,7 +4079,9 @@
             "TitleName": "春山墨卷",
             "SubDecName": "折枝-初始服饰",
             "BgDescription": "墨色引染、绘布成衣。美景无处不在，画意无处不生。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhezhi_UI.T_IconRole_Pile_zhezhi_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhezhi_UI.T_IconRole_Pile_zhezhi_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhezhi.T_ActivityRoleZhezhi",
+            "SortIndex": 0
         }
     }
 }

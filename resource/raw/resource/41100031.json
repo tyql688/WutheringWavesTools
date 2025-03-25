@@ -13,6 +13,7 @@
     "Bg": "材质简陋的镣环，比起实用价值，更多是充当身份证明，用于标榜自己与文明社会彻底决裂的态度。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_1_UI.T_IconMout_O_003_1_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-置换",
         "流放者掉落",
         "海市兑换",

@@ -13,6 +13,7 @@
     "Bg": "经过加工改造的镣环，并非一般人能获得。其中记载了大量的野外生存信息，某些关于稀有植物和特殊矿物的描述甚至有着堪比研究院论文的价值。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_3_UI.T_IconMout_O_003_3_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-纯化",
         "合成-置换",
         "流放者掉落"

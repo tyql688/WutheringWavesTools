@@ -13,6 +13,7 @@
     "Bg": "特殊呓语种残象的声核结构，交错复杂的星形结构中蕴藏着熟悉而陌生的频率能量，似乎暗示人类对自身的理解程度亦不过如此。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_4_UI.T_IconMout_O_002_4_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-纯化",
         "合成-置换",
         "呓语种残象掉落"

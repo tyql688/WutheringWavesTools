@@ -4420,7 +4420,9 @@
             "TitleName": "玲珑",
             "SubDecName": "釉瑚-初始服饰",
             "BgDescription": "一颗玲珑心，雪花般剔透晶莹，铭刻青史在万物上留下的痕迹。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_youhu_UI.T_IconRole_Pile_youhu_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_youhu_UI.T_IconRole_Pile_youhu_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYouhu.T_ActivityRoleYouhu",
+            "SortIndex": 0
         }
     }
 }

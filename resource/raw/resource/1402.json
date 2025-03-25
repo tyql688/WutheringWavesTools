@@ -4039,7 +4039,9 @@
             "TitleName": "裁羽行歌",
             "SubDecName": "秧秧-初始服饰",
             "BgDescription": "片羽为织，柔软却也坚韧，顺着流息的指引，云雀将奏响独属于自己的行板。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang",
+            "SortIndex": 0
         }
     }
 }

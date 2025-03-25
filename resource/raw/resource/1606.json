@@ -3860,7 +3860,9 @@
             "TitleName": "箱中奇藏",
             "SubDecName": "洛可可-初始服饰",
             "BgDescription": "造型独特的即兴喜剧演出服。由洛可可日常捡拾的物品，搭配佩洛日积月累的收藏，精心缝制而成。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.T_IconRole_Pile_luokeke_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.T_IconRole_Pile_luokeke_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleLuokeke.T_ActivityRoleLuokeke",
+            "SortIndex": 0
         }
     }
 }

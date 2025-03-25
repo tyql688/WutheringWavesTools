@@ -3763,7 +3763,9 @@
             "TitleName": "昙生妙华",
             "SubDecName": "白芷-初始服饰",
             "BgDescription": "裁剪合宜的科考套装，最大程度保证了行动的便利。世间真理难得，唯闻道者上下求索、不忘始终。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian",
+            "SortIndex": 0
         }
     }
 }

@@ -1,0 +1,16 @@
+{
+    "Id": 80130003,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "逐暗前行",
+    "Desc": "于无数次数据颠覆中重写属于你的挑战——这还远非你的极限。",
+    "Bg": "累计5期在「逆境深塔·深境区」获得全部印记",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_01_UI.T_IconA_Title_01_UI",
+    "Source": []
+}

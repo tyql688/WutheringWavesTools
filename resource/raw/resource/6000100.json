@@ -1,0 +1,68 @@
+{
+    "Id": 6000100,
+    "Code": "W34-",
+    "Name": "慈悲节使",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31054_UI.T_IconMonsterHead_31054_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤慈悲节使，造成两次每次{0}的气动伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "召唤慈悲节使，对敌人造成气动伤害。",
+        "Param": [
+            [
+                "36.00%",
+                "8"
+            ],
+            [
+                "43.20%",
+                "8"
+            ],
+            [
+                "50.40%",
+                "8"
+            ],
+            [
+                "57.60%",
+                "8"
+            ],
+            [
+                "64.80%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31054.T_Mstskil_31054"
+    },
+    "Group": {
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000540
+}

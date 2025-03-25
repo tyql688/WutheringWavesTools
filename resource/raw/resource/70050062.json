@@ -1,0 +1,16 @@
+{
+    "Id": 70050062,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "重组之匙",
+    "Desc": "通过回音试炼后获得的钥匙。利用它，或许能得知答案。",
+    "Bg": "通过回音试炼后获得的钥匙。利用它，或许能得知答案。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_150_UI.T_IconTask_Task_150_UI",
+    "Source": []
+}

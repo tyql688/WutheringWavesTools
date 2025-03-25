@@ -4540,7 +4540,9 @@
             "TitleName": "玄朱烬明",
             "SubDecName": "长离-初始服饰",
             "BgDescription": "长离最常穿着的衣物。外袍参考瑝珑朝服的形制用离火所化，随其主人自荒山枯水行至春和景明，如今触之已与寻常布料无异。\n已识乾坤大，犹怜草木青。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_changli_UI.T_IconRole_Pile_changli_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_changli_UI.T_IconRole_Pile_changli_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChangli.T_ActivityRoleChangli",
+            "SortIndex": 0
         }
     }
 }

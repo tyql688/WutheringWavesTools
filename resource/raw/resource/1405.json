@@ -4270,7 +4270,9 @@
             "TitleName": "气贯风仪",
             "SubDecName": "鉴心-初始服饰",
             "BgDescription": "道馆里分发的练功服，鉴心穿着它总能记得师父的教导，一步一动神影无踪，一呼一吸绵厚悠长。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJianxin.T_ActivityRoleJianxin",
+            "SortIndex": 0
         }
     }
 }

@@ -1,0 +1,102 @@
+{
+    "Id": 6000099,
+    "Code": "W33-",
+    "Name": "赦罪节使",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31053_UI.T_IconMonsterHead_31053_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为赦罪节使，位移一段距离后进行一次远程攻击，造成{0}的衍射伤害。\n位移期间受到攻击，可以规避伤害并触发强化反击，造成一次{1}和五次每次{2}的衍射伤害。\n技能冷却：{3}秒",
+        "SimpleDesc": "幻形为赦罪节使，位移并对敌人造成衍射伤害，位移期间受到攻击，可以规避伤害并触发强化反击。",
+        "Param": [
+            [
+                "149.00%",
+                "149.00%",
+                "29.80%",
+                "15"
+            ],
+            [
+                "178.80%",
+                "178.80%",
+                "35.76%",
+                "15"
+            ],
+            [
+                "208.60%",
+                "208.60%",
+                "41.72%",
+                "15"
+            ],
+            [
+                "238.40%",
+                "238.40%",
+                "47.68%",
+                "15"
+            ],
+            [
+                "268.20%",
+                "268.20%",
+                "53.64%",
+                "15"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_31053.T_Mstskil_31053"
+    },
+    "Group": {
+        "11": {
+            "Id": 11,
+            "Name": "此间永驻之光",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.T_IconElementAttriLightError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "衍射伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【光噪效应】时，自身暴击提升{0}，持续{1}秒；攻击存在{2}层【光噪效应】的敌人时，自身衍射伤害加成提升{3}，持续{4}秒。",
+                    "Param": [
+                        "20%",
+                        "15",
+                        "10",
+                        "15%",
+                        "15"
+                    ]
+                }
+            }
+        },
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000530
+}

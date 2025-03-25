@@ -3633,7 +3633,9 @@
             "TitleName": "远方旅人",
             "SubDecName": "漂泊者-初始服饰",
             "BgDescription": "漂泊者常见的装束。这是他的起点，也将陪伴他至终点。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
+            "SortIndex": 0
         }
     }
 }

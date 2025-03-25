@@ -1,0 +1,16 @@
+{
+    "Id": 70050057,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「现在」",
+    "Desc": "一本奇怪的书籍，形态不稳定，有被海水侵蚀的痕迹。",
+    "Bg": "「幽灵之海」中浮现的奇怪书籍，似乎书写着现在的事。这本书很奇怪，封面的形态极不稳定，无法打开。无需多看，你们正在书写「现在」。\n「过去」和「现在」共同延续，可以通向「未来」。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+    "Source": []
+}

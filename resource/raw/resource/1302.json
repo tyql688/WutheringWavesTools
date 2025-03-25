@@ -4220,7 +4220,9 @@
             "TitleName": "魆影立裁",
             "SubDecName": "吟霖-初始服饰",
             "BgDescription": "吟霖在自己最喜爱的旗袍店定制的衣装，艳丽、张扬……一切与潜入调查员相悖的形容，凝聚成了面具后真正的她。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
+            "SortIndex": 0
         }
     }
 }

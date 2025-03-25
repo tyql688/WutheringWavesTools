@@ -13,6 +13,7 @@
     "Bg": "质量勉强过关的镣环，除了用于同伙之间互相识别身份之外，还能够实现简单的通讯、定位和感知等功能，便于他们在远离城市的野外环境中生存。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_2_UI.T_IconMout_O_003_2_UI",
     "Source": [
+        "开启物资箱获得",
         "合成-纯化",
         "合成-置换",
         "流放者掉落",

@@ -4771,7 +4771,9 @@
             "TitleName": "尽微穷理",
             "SubDecName": "相里要-初始服饰",
             "BgDescription": "干练轻简的装束，专为远行考察而裁剪缝制。探索者不畏荆棘困厄，怀求真之心轻装前行，万难可破。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiangliyao_UI.T_IconRole_Pile_xiangliyao_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiangliyao_UI.T_IconRole_Pile_xiangliyao_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiangliyao.T_ActivityRoleXiangliyao",
+            "SortIndex": 0
         }
     }
 }

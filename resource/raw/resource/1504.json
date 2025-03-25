@@ -4262,7 +4262,9 @@
             "TitleName": "山野长旅",
             "SubDecName": "灯灯-初始服饰",
             "BgDescription": "轻便、安全，呜呜物流的领航员装束，陪伴着灯灯行过万里长路。",
-            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_dengdeng_UI.T_IconRole_Pile_dengdeng_UI"
+            "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_dengdeng_UI.T_IconRole_Pile_dengdeng_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDengdeng.T_ActivityRoleDengdeng",
+            "SortIndex": 0
         }
     }
 }

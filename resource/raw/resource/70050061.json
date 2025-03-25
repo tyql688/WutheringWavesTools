@@ -1,0 +1,16 @@
+{
+    "Id": 70050061,
+    "Rarity": 4,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "诡异绘本",
+    "Desc": "一本诡异的绘本，上面的字迹混乱而扭曲。",
+    "Bg": "一本诡异的绘本，上面用歪歪扭扭的字迹写着诡异的歌谣。曾经那些幻想都化为无声的哭泣，落到纸上，化成干枯的泪滴。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+    "Source": []
+}
