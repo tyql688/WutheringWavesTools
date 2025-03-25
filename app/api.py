@@ -60,10 +60,13 @@ def download_all_avatar_pic(all_character: Dict, is_force: bool = False):
             continue
         resource_path = temp['icon'].split('.')[0].replace('/Game/Aki/', '')
         url = f'https://api.hakush.in/ww/{resource_path}.webp'
-        res = _session.get(url)
-        res.raise_for_status()
-        with open(path, 'wb') as f:
-            f.write(res.content)
+        try:
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except Exception as _:
+            continue
 
     print(f'{len(all_character)} avatars downloaded')
 
@@ -78,10 +81,13 @@ def download_all_pile_pic(all_character: Dict, is_force: bool = False):
             temp = json.load(f)
         resource_path = temp['Background'].split('.')[0].replace('/Game/Aki/', '')
         url = f'https://api.hakush.in/ww/{resource_path}.webp'
-        res = _session.get(url)
-        res.raise_for_status()
-        with open(path, 'wb') as f:
-            f.write(res.content)
+        try:
+            res = _session.get(url)
+            res.raise_for_status()
+            with open(path, 'wb') as f:
+                f.write(res.content)
+        except Exception as _:
+            continue
 
     print(f'{len(all_character)} pile downloaded')
 

@@ -182,6 +182,12 @@ class Weapon_21020044(WeaponAbstract):
     name = "不归孤军"
     
 
+class Weapon_21020046(WeaponAbstract):
+    id = 21020046
+    type = 2
+    name = "血誓盟约"
+    
+
 class Weapon_21020053(WeaponAbstract):
     id = 21020053
     type = 2
@@ -494,6 +500,12 @@ class Weapon_21050053(WeaponAbstract):
     name = "戍关音感仪·留光"
     
 
+class Weapon_21050056(WeaponAbstract):
+    id = 21050056
+    type = 5
+    name = "海的呢喃"
+    
+
 class Weapon_21050064(WeaponAbstract):
     id = 21050064
     type = 5
@@ -548,6 +560,7 @@ WavesWeaponRegister.register_class(Weapon_21020034.id, Weapon_21020034)
 WavesWeaponRegister.register_class(Weapon_21020036.id, Weapon_21020036)
 WavesWeaponRegister.register_class(Weapon_21020043.id, Weapon_21020043)
 WavesWeaponRegister.register_class(Weapon_21020044.id, Weapon_21020044)
+WavesWeaponRegister.register_class(Weapon_21020046.id, Weapon_21020046)
 WavesWeaponRegister.register_class(Weapon_21020053.id, Weapon_21020053)
 WavesWeaponRegister.register_class(Weapon_21020064.id, Weapon_21020064)
 WavesWeaponRegister.register_class(Weapon_21020074.id, Weapon_21020074)
@@ -600,6 +613,7 @@ WavesWeaponRegister.register_class(Weapon_21050043.id, Weapon_21050043)
 WavesWeaponRegister.register_class(Weapon_21050044.id, Weapon_21050044)
 WavesWeaponRegister.register_class(Weapon_21050046.id, Weapon_21050046)
 WavesWeaponRegister.register_class(Weapon_21050053.id, Weapon_21050053)
+WavesWeaponRegister.register_class(Weapon_21050056.id, Weapon_21050056)
 WavesWeaponRegister.register_class(Weapon_21050064.id, Weapon_21050064)
 WavesWeaponRegister.register_class(Weapon_21050074.id, Weapon_21050074)
 WavesWeaponRegister.register_class(Weapon_21050084.id, Weapon_21050084)
