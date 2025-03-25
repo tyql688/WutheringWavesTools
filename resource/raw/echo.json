@@ -152,6 +152,24 @@
         "zh-Hans": "幻昼骑士",
         "ja": "炎昼の騎士"
     },
+    "6000100": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31054_UI.T_IconMonsterHead_31054_UI",
+        "code": "W34-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            16
+        ],
+        "en": "Sacerdos",
+        "intensity": 0,
+        "ko": "사체르도스",
+        "zh-Hans": "慈悲节使",
+        "ja": "サケルドス"
+    },
     "390077012": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_151_UI.T_IconMonsterGoods_151_UI",
         "code": "N12-",
@@ -287,6 +305,25 @@
         "ko": "거대 인형",
         "zh-Hans": "巨布偶",
         "ja": "ビッグベア"
+    },
+    "6000105": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34013_UI.T_IconMonsterHead_34013_UI",
+        "code": "N74-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            10,
+            13
+        ],
+        "en": "Nightmare: Lampylumen Myriad",
+        "intensity": 2,
+        "ko": "악몽 · 반디의 군세",
+        "zh-Hans": "梦魇·辉萤军势",
+        "ja": "ナイトメア・輝き蛍の軍勢"
     },
     "6000095": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31051_UI.T_IconMonsterHead_31051_UI",
@@ -441,6 +478,25 @@
         "zh-Hans": "无妄者",
         "ja": "無妄者"
     },
+    "6000101": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31055_UI.T_IconMonsterHead_31055_UI",
+        "code": "H26-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            14,
+            16
+        ],
+        "en": "Aero Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 기류",
+        "zh-Hans": "小翼龙·气动",
+        "ja": "ドレイクの幼体・気動"
+    },
     "6000097": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32032_UI.T_IconMonsterHead_32032_UI",
         "code": "H47-",
@@ -451,7 +507,8 @@
             5
         ],
         "group": [
-            14
+            14,
+            16
         ],
         "en": "Hurriclaw",
         "intensity": 1,
@@ -787,6 +844,26 @@
         "zh-Hans": "箭簇熊",
         "ja": "黒棘熊"
     },
+    "6000104": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32033_UI.T_IconMonsterHead_32033_UI",
+        "code": "W71-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            16
+        ],
+        "en": "Capitaneus",
+        "intensity": 1,
+        "child": 6010104,
+        "ko": "카피타네우스",
+        "zh-Hans": "荣光节使",
+        "ja": "カピタネウス"
+    },
     "6000044": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_994_UI.T_IconMonsterGoods_994_UI",
         "code": "N74-",
@@ -892,6 +969,61 @@
         "ko": "이상 · 애곡하는 아익스",
         "zh-Hans": "异相·哀声鸷",
         "ja": "異相・哀切の凶鳥"
+    },
+    "6000106": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34012_1_UI.T_IconMonsterHead_34012_1_UI",
+        "code": "Z02-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            16
+        ],
+        "en": "Reminiscence: Fleurdelys",
+        "intensity": 3,
+        "ko": "공명의 메아리 · 플뢰르 드 리스",
+        "zh-Hans": "共鸣回响·芙露德莉斯",
+        "ja": "響き渡る共鳴・フルールドリス"
+    },
+    "6000099": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31053_UI.T_IconMonsterHead_31053_UI",
+        "code": "W33-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            11,
+            16
+        ],
+        "en": "Sagittario",
+        "intensity": 0,
+        "ko": "사지타리오",
+        "zh-Hans": "赦罪节使",
+        "ja": "サジタリオ"
+    },
+    "6000103": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31057_UI.T_IconMonsterHead_31057_UI",
+        "code": "H28-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            16
+        ],
+        "en": "Glacio Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 응결",
+        "zh-Hans": "小翼龙·冷凝",
+        "ja": "ドレイクの幼体・凝縮"
     },
     "6000088": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33016_UI.T_IconMonsterHead_YZ_33016_UI",
@@ -1287,6 +1419,25 @@
         "ko": "지옥불 기사",
         "zh-Hans": "燎照之骑",
         "ja": "燎原の炎騎"
+    },
+    "6000098": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31052_UI.T_IconMonsterHead_31052_UI",
+        "code": "W32-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            16
+        ],
+        "en": "La Guardia",
+        "intensity": 0,
+        "ko": "라 과디어",
+        "zh-Hans": "卫冕节使",
+        "ja": "ガルディア"
     },
     "6000083": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33012_UI.T_IconMonsterHead_33012_UI",
@@ -1787,6 +1938,25 @@
         "zh-Hans": "振铎乐师",
         "ja": "金鈴の楽手"
     },
+    "6000102": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31056_UI.T_IconMonsterHead_31056_UI",
+        "code": "H27-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            12,
+            16
+        ],
+        "en": "Electro Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 전도",
+        "zh-Hans": "小翼龙·导电",
+        "ja": "ドレイクの幼体・電導"
+    },
     "6000066": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31042_UI.T_IconMonsterHead_31042_UI",
         "code": "R03-",
@@ -1816,7 +1986,8 @@
             5
         ],
         "group": [
-            11
+            11,
+            16
         ],
         "en": "Rage Against the Statue",
         "intensity": 1,

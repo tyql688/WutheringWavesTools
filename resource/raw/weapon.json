@@ -149,6 +149,16 @@
         "zh-Hans": "投影·心之锚",
         "ja": "投影・心の錨"
     },
+    "21020046": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020026_UI.T_IconWeapon21020026_UI",
+        "rank": 5,
+        "type": 2,
+        "en": "Bloodpact's Pledge",
+        "desc": "This weapon is a testament to the unbreakable blood pact: One shall never betray, never surrender, and fight until the last drop of blood is shed.",
+        "ko": "혈맹의 약속",
+        "zh-Hans": "血誓盟约",
+        "ja": "血の盟約"
+    },
     "21030094": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030094_UI.T_IconWeapon21030094_UI",
         "rank": 4,
@@ -528,6 +538,16 @@
         "ko": "수행자의 직검 · 행적",
         "zh-Hans": "远行者迅刀·旅迹",
         "ja": "探索者迅刀・旅路"
+    },
+    "21050056": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050030_UI.T_IconWeapon21050030_UI",
+        "rank": 5,
+        "type": 5,
+        "en": "Whispers of Sirens",
+        "desc": "From the sea, some see stars, some catch the moon, and some hear countless whispers and murmurs.\n\nThose murmurs seep into her venom, flowing through every winding river.\n\nIn the end, the murmurs envelope, like the bell of a jellyfish, like the sea.",
+        "ko": "바다의 속삭임",
+        "zh-Hans": "海的呢喃",
+        "ja": "深海の囁き"
     },
     "21030064": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030064_UI.T_IconWeapon21030064_UI",

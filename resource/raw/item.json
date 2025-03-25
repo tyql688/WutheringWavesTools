@@ -1,4 +1,16 @@
 {
+    "80110423": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "泅溺幽海的迷离"
+    },
     "42100021": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_020_UI.T_IconCook_YJ_020_UI",
         "rank": 5,
@@ -107,6 +119,18 @@
         "type": 7,
         "name": "归港时分"
     },
+    "70050062": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_150_UI.T_IconTask_Task_150_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "重组之匙"
+    },
     "50000045": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_08_UI.T_IconGiftPack_dj_08_UI",
         "rank": 4,
@@ -178,6 +202,18 @@
         ],
         "type": 1,
         "name": "糖醋里脊"
+    },
+    "80130002": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_02_UI.T_IconA_Title_02_UI",
+        "rank": 5,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "我来自深海"
     },
     "42100013": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_013_UI.T_IconCook_YJ_013_UI",
@@ -359,6 +395,30 @@
         "type": 1,
         "name": "玛格烈特牛排"
     },
+    "41400204": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_017_UI.T_IconMout_L_017_UI",
+        "rank": 4,
+        "tag": [
+            "技能升级材料"
+        ],
+        "tagnum": [
+            8
+        ],
+        "type": 4,
+        "name": "鸢尾盛开之日"
+    },
+    "71500032": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_26.T_IconMowing_26",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那未能传达的终局"
+    },
     "43010003": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_3_UI.T_IconRup_exp_3_UI",
         "rank": 4,
@@ -478,6 +538,18 @@
         ],
         "type": 4,
         "name": "初级密音筒"
+    },
+    "71500028": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_24.T_IconMowing_24",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那亘古不息的凝视"
     },
     "70130003": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_060_UI.T_IconTask_Task_060_UI",
@@ -646,6 +718,18 @@
         ],
         "type": 1,
         "name": "清芬茶"
+    },
+    "80110420": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "垂落星夜的涟漪"
     },
     "10802": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_04_UI.T_IconA_04_UI",
@@ -1477,6 +1561,18 @@
         "type": 6,
         "name": "破平的筹码"
     },
+    "71550010": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A05_UI.T_IconCook_A05_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "营养面粉"
+    },
     "70010001": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_014_UI.T_IconWup_Mo_014_UI",
         "rank": 3,
@@ -2008,7 +2104,7 @@
         "name": "蓝棘蜥"
     },
     "42601170": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_035_UI.T_IconC_035_UI",
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_144_UI.T_IconTask_Task_144_UI",
         "rank": 1,
         "tag": [
             "突破材料"
@@ -2163,6 +2259,30 @@
         "type": 4,
         "name": "含杂晶化燃素"
     },
+    "71500027": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_19.T_IconMowing_19",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那赞颂交融的福音"
+    },
+    "70140018": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_138_UI.T_IconTask_Task_138_UI",
+        "rank": 5,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "「奥特尔」"
+    },
     "71500014": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_14.T_IconMowing_14",
         "rank": 4,
@@ -2175,6 +2295,18 @@
         "type": 0,
         "name": "掠夺者—船长印章"
     },
+    "70050059": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "奇怪的书"
+    },
     "80000011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_012_UI.T_IconCook_012_UI",
         "rank": 3,
@@ -2186,6 +2318,18 @@
         ],
         "type": 1,
         "name": "辛香肉片"
+    },
+    "71550005": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_148_UI.T_IconTask_Task_148_UI",
+        "rank": 5,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "秘药瓶"
     },
     "70140035": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_101_UI.T_IconTask_Task_101_UI",
@@ -2450,6 +2594,18 @@
         ],
         "type": 5,
         "name": "虚饰的华尔兹的印造配方"
+    },
+    "80110422": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "风吹月影的独步"
     },
     "70010015": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_012_1_UI.T_IconTask_Task_012_1_UI",
@@ -2936,6 +3092,18 @@
         ],
         "type": 7,
         "name": "黑花的浮金驰援"
+    },
+    "80130000": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_03_UI.T_IconA_Title_03_UI",
+        "rank": 5,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "虚域的境界线"
     },
     "41300005": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_002_1_UI.T_IconMout_L_002_1_UI",
@@ -3599,6 +3767,18 @@
         "type": 1,
         "name": "凉拌香苏"
     },
+    "80110418": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "愿戴荣光坠入天渊"
+    },
     "34": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_B6_UI.T_IconRup_B6_UI",
         "rank": 5,
@@ -3864,6 +4044,18 @@
         ],
         "type": 6,
         "name": "存在异常，如有疑问请联系官方客服"
+    },
+    "80110419": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "誓约之枷，应许之愿"
     },
     "71500003": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_06.T_IconMowing_06",
@@ -4143,6 +4335,18 @@
         "type": 5,
         "name": "渊海回声的印造配方"
     },
+    "70050056": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "「过去」"
+    },
     "10811": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Navigation25_UI.T_IconA_Act_Navigation25_UI",
         "rank": 4,
@@ -4239,6 +4443,18 @@
         "type": 7,
         "name": "山霁浮古今"
     },
+    "70140017": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_139_UI.T_IconTask_Task_139_UI",
+        "rank": 5,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "「赫格利」"
+    },
     "41400094": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_003_1_UI.T_IconMout_L_003_1_UI",
         "rank": 4,
@@ -4262,6 +4478,18 @@
         ],
         "type": 7,
         "name": "深空耀变武器箱"
+    },
+    "70140050": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Gongduola_UI.T_IconA_Act_Gongduola_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 7,
+        "name": "呼唤呼姆"
     },
     "50000164": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_003_UI.T_IconGiftPack_003_UI",
@@ -4671,6 +4899,18 @@
         "type": 1,
         "name": "碎金饭"
     },
+    "42": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_BabelTower_UI.T_IconA_Act_BabelTower_UI",
+        "rank": 4,
+        "tag": [
+            "特殊代币"
+        ],
+        "tagnum": [
+            15
+        ],
+        "type": 0,
+        "name": "星图晶块"
+    },
     "80110314": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
         "rank": 4,
@@ -4925,6 +5165,18 @@
         "type": 1,
         "name": "迎春酥"
     },
+    "71500030": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_18.T_IconMowing_18",
+        "rank": 4,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "狂欢者—船长印章"
+    },
     "50002": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_jzmy_UI.T_IconA_jzmy_UI",
         "rank": 5,
@@ -5021,6 +5273,18 @@
         "type": 7,
         "name": "毁灭的回声"
     },
+    "70050060": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_30A_UI.T_IconC_SM_Gat_30A_UI",
+        "rank": 5,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "“深梦信使”"
+    },
     "42500060": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Ele_UI.T_IconRup_Ele_UI",
         "rank": 1,
@@ -5068,6 +5332,18 @@
         ],
         "type": 6,
         "name": "吸热装置"
+    },
+    "52005": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI.T_IconGiftPack_dj_19_UI",
+        "rank": 5,
+        "tag": [
+            "补给包"
+        ],
+        "tagnum": [
+            16
+        ],
+        "type": 7,
+        "name": "优选冒险支援包"
     },
     "80000033": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_038_UI.T_IconCook_038_UI",
@@ -5153,6 +5429,18 @@
         "type": 7,
         "name": "高级拾遗封装箱"
     },
+    "80130006": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_02_UI.T_IconA_Title_02_UI",
+        "rank": 4,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "听潮之人"
+    },
     "43020022": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_02_UI.T_IconWup_02_UI",
         "rank": 3,
@@ -5227,6 +5515,18 @@
         "type": 6,
         "name": "形状奇怪的钥匙"
     },
+    "80130003": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_01_UI.T_IconA_Title_01_UI",
+        "rank": 5,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "逐暗前行"
+    },
     "80000052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_059_UI.T_IconCook_059_UI",
         "rank": 2,
@@ -5299,6 +5599,18 @@
         "type": 7,
         "name": "奇藏测探仪授权凭证·今州"
     },
+    "80001049": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_074_UI.T_IconCook_074_UI",
+        "rank": 3,
+        "tag": [
+            "菜肴"
+        ],
+        "tagnum": [
+            23
+        ],
+        "type": 1,
+        "name": "秘制帕尼尼"
+    },
     "80110407": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
         "rank": 4,
@@ -5322,6 +5634,18 @@
         ],
         "type": 0,
         "name": "那侵髓蚀骨的血盟"
+    },
+    "80110421": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+        "rank": 4,
+        "tag": [
+            "鸣奏之匣"
+        ],
+        "tagnum": [
+            49
+        ],
+        "type": 7,
+        "name": "虚悬高阁的昏晓"
     },
     "42601140": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_045_UI.T_IconC_045_UI",
@@ -5997,6 +6321,18 @@
         "type": 1,
         "name": "青枝月桂沙拉"
     },
+    "80130001": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_01_UI.T_IconA_Title_01_UI",
+        "rank": 5,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "深塔的霸者"
+    },
     "31000011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_SM_Gat_01A_UI.T_IconC_SM_Gat_01A_UI",
         "rank": 1,
@@ -6428,6 +6764,18 @@
         ],
         "type": 0,
         "name": "万用指南针"
+    },
+    "71500026": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_18.T_IconMowing_18",
+        "rank": 4,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "狂欢者—船长印章"
     },
     "51016": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI.T_IconGiftPack_dj_19_UI",
@@ -6897,6 +7245,18 @@
         "type": 4,
         "name": "低频聚方声核"
     },
+    "70050058": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "童话绘本"
+    },
     "72010011": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
         "rank": 3,
@@ -7209,6 +7569,18 @@
         "type": 6,
         "name": "洛可可的礼物：海萤石"
     },
+    "70140016": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_137_UI.T_IconTask_Task_137_UI",
+        "rank": 5,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "「提尔芬」"
+    },
     "80110411": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
         "rank": 4,
@@ -7256,6 +7628,18 @@
         ],
         "type": 6,
         "name": "亚哈的日记本"
+    },
+    "71550011": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A10_UI.T_IconCook_A10_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "玛格烈特赠送的牛奶"
     },
     "50000039": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_02_UI.T_IconGiftPack_dj_02_UI",
@@ -7701,6 +8085,18 @@
         "type": 7,
         "name": "所有找回的故事"
     },
+    "80130004": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_01_UI.T_IconA_Title_01_UI",
+        "rank": 4,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "坠入深境"
+    },
     "80110324": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
         "rank": 4,
@@ -8039,6 +8435,18 @@
         "type": 5,
         "name": "米"
     },
+    "71500033": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_27.T_IconMowing_27",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那孤注一掷的决意"
+    },
     "41200031": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_001_UI.T_IconMout_001_UI",
         "rank": 2,
@@ -8302,6 +8710,30 @@
         ],
         "type": 6,
         "name": "波蒂维诺之徽"
+    },
+    "71500029": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_25.T_IconMowing_25",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那遗落之境的召唤"
+    },
+    "80130005": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_02_UI.T_IconA_Title_02_UI",
+        "rank": 5,
+        "tag": [
+            "称号"
+        ],
+        "tagnum": [
+            51
+        ],
+        "type": 0,
+        "name": "与海同眠"
     },
     "41100052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_005_2_UI.T_IconMout_O_005_2_UI",
@@ -8889,6 +9321,18 @@
         "type": 6,
         "name": "残鸣余律"
     },
+    "70050063": {
+        "icon": "/Game/Aki/UI/UIResources/UiInformation/Image/T_InformationA22.T_InformationA22",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "星空之上"
+    },
     "70139307": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_050_UI.T_IconTask_Task_050_UI",
         "rank": 3,
@@ -9200,6 +9644,18 @@
         ],
         "type": 7,
         "name": "源塑计划武器补给箱"
+    },
+    "70050057": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "「现在」"
     },
     "42100036": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_YJ_001_UI.T_IconCook_YJ_001_UI",
@@ -9903,6 +10359,18 @@
         "type": 5,
         "name": "云凝乳香"
     },
+    "71500031": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_23.T_IconMowing_23",
+        "rank": 5,
+        "tag": [
+            "信物"
+        ],
+        "tagnum": [
+            50
+        ],
+        "type": 0,
+        "name": "那隐而不发的野心"
+    },
     "80110104": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
         "rank": 4,
@@ -9989,6 +10457,18 @@
         "type": 5,
         "name": "糖醋汁"
     },
+    "42600022": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_019_UI.T_IconWup_019_UI",
+        "rank": 5,
+        "tag": [
+            "材料"
+        ],
+        "tagnum": [
+            9
+        ],
+        "type": 5,
+        "name": "缚誓之核"
+    },
     "53001": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.T_IconRoleHead256_24_a_UI",
         "rank": 5,
@@ -10012,6 +10492,18 @@
         ],
         "type": 4,
         "name": "中级调谐器"
+    },
+    "70050061": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_002_1_UI.T_IconTask160_Task_002_1_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "诡异绘本"
     },
     "36000003": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_12_UI.T_IconA_12_UI",
@@ -10096,6 +10588,18 @@
         ],
         "type": 0,
         "name": "深境记录"
+    },
+    "71550012": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_A05_UI.T_IconCook_A05_UI",
+        "rank": 4,
+        "tag": [
+            "任务道具"
+        ],
+        "tagnum": [
+            21
+        ],
+        "type": 6,
+        "name": "玛格烈特赠送的面粉"
     },
     "44010032": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33011_UI.T_IconMonsterGoods_SG_33011_UI",
