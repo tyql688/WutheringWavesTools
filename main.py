@@ -22,6 +22,7 @@ url_attr = {
     "attr_无惧浪涛之勇.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.webp",
     "attr_此间永驻之光.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.webp",
     "attr_高天共奏之曲.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCooperate.webp",
+    "attr_流云逝尽之空.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.webp"
 }
 
 
