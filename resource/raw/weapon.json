@@ -649,6 +649,26 @@
         "zh-Hans": "诸方玄枢",
         "ja": "万端の枢機"
     },
+    "21030026": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030026_UI.T_IconWeapon21030026_UI",
+        "rank": 5,
+        "type": 3,
+        "en": "Woodland Aria",
+        "desc": "All things exist within the lines of poetry. Every sound has its meters and rhymes.\nThe forest's melodies ascend in spirals toward the moon's silvered grace, harmonized by the nightingales' chorus. When the final note falls and vanishes into the silent earth, a flawless chord echoes endlessly in the depths of this boundless realm.",
+        "ko": "숲속의 아리아",
+        "zh-Hans": "林间的咏叹调",
+        "ja": "森のアリア"
+    },
+    "21040036": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040019_UI.T_IconWeapon21040019_UI",
+        "rank": 5,
+        "type": 4,
+        "en": "Blazing Justice",
+        "desc": "It heralds justice, precise and inexorable as a clock's toll. All sins are cleansed in flame, dissipating like night beneath the dawn's gaze.",
+        "ko": "불빛의 심판",
+        "zh-Hans": "焰光裁定",
+        "ja": "焔光の裁き"
+    },
     "21020026": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020017_UI.T_IconWeapon21020017_UI",
         "rank": 5,

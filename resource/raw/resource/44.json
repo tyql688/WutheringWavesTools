@@ -1,0 +1,18 @@
+{
+    "Id": 44,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "奇异骰子",
+    "Desc": "为热身赛准备的骰子，可在活动「小团快跑·热身赛」中使用。",
+    "Bg": "一枚看起来有些奇怪的骰子，似乎是为了保证某些比赛的趣味性而创造出来的——在它们的创造者看来，比拼运气比单纯的力量对抗要更有趣一些，特别是在占据劣势的一方莫名其妙地因为好运翻盘的时候。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Monopoly01_UI.T_IconA_Act_Monopoly01_UI",
+    "Source": [
+        "「小团快跑·热身赛」活动获得"
+    ]
+}

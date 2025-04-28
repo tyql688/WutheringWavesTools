@@ -13,6 +13,7 @@
     "Bg": "覆盖在飞廉之猩臂膊上的岩壳，因飞廉的重拳挥落之际的千钧呼啸而得名。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_011_UI.T_IconMout_L_011_UI",
     "Source": [
-        "飞廉之猩挑战获得"
+        "飞廉之猩挑战获得",
+        "飞廉之猩-提前开放"
     ]
 }

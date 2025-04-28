@@ -1,0 +1,16 @@
+{
+    "Id": 80130037,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "命运的独奏者",
+    "Desc": "星空的前奏在锵鸣，少女的歌谣即使在黑夜中也生出似火的骄阳，与夏日一般生命昌盛，却又比夏日温婉。吹啊吹啊，风将故事带去了黎明升起的远方。",
+    "Bg": "激活夏空的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

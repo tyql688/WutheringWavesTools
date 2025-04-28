@@ -8,10 +8,10 @@
     "TagNum": [
         50
     ],
-    "Name": "那隐而不发的野心",
-    "Desc": "每对目标施放一层光噪效应，使衍射伤害提升12.5%，最多叠加10层，持续15秒\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
-    "Bg": "第一幕，岌岌无名的少年带着一把匕首上了船。最终幕，臭名昭著的海盗头子被亲信背刺，和一把匕首一起沉入海底。",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_23.T_IconMowing_23",
+    "Name": "那涤净尘世的浪潮",
+    "Desc": "角色施放共鸣解放时，自身衍射伤害加成每秒提升36%，最多叠加4层。15秒后移除该加成效果\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "某些教士认为，黑潮并不是灾难，而是能够筛选出义人，并清洗无信者的试炼。这些离经叛道的想法很快就湮没在了历史之中，但他们模仿黑潮之力所制造的禁忌武器，依然有一部分失落在海底深处。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_28.T_IconMowing_28",
     "Source": [
         "冥歌海墟玩法中获得"
     ]

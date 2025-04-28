@@ -570,6 +570,7 @@
         ],
         "en": "Nightmare: Crownless",
         "intensity": 2,
+        "child": 6010090,
         "ko": "악몽 · 크라운리스",
         "zh-Hans": "梦魇·无冠者",
         "ja": "ナイトメア・無冠者"
@@ -1567,6 +1568,7 @@
         ],
         "en": "Crownless",
         "intensity": 2,
+        "child": 6010042,
         "ko": "크라운리스",
         "zh-Hans": "无冠者",
         "ja": "無冠者"
@@ -1741,6 +1743,7 @@
         ],
         "en": "Nimbus Wraith",
         "intensity": 0,
+        "child": 6010068,
         "ko": "구름 바다 요정",
         "zh-Hans": "云海妖精",
         "ja": "雲の妖精"
@@ -2011,6 +2014,7 @@
         ],
         "en": "Chest Mimic",
         "intensity": 0,
+        "child": 6010072,
         "ko": "미믹",
         "zh-Hans": "欺诈奇藏",
         "ja": "秘蔵ミミック"

@@ -1,0 +1,16 @@
+{
+    "Id": 80130027,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "墨染云水间",
+    "Desc": "她偏爱丹青色，虽非最绚丽的色彩，却也能画出惊艳万变之姿。\n这是画中折枝自己的颜色，她期盼着有一天，那个普通的自己也能爆发出引人惊叹的力量。\n至少，从见面的自我介绍开始……",
+    "Bg": "激活折枝的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

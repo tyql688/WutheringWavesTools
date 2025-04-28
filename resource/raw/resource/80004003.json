@@ -1,0 +1,16 @@
+{
+    "Id": 80004003,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "鸣奏之匣"
+    ],
+    "TagNum": [
+        49
+    ],
+    "Name": "偶祝你生日快乐！",
+    "Desc": "2025生日纪念曲，由布偶小队倾情演奏。",
+    "Bg": "布偶村的布偶们为你演奏的庆生乐曲，加入了鲜明的黎那汐塔曲风和真诚的祝福。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_009_UI.T_IconMst_009_UI",
+    "Source": []
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 80130036,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "坠于幻梦之海",
+    "Desc": "哪一侧是梦，哪一侧是现实？触碰到水母的那一刻就像坠入深海，不断下落，下落……回过神来，只是她那深邃的眼眸在望着你。",
+    "Bg": "激活坎特蕾拉的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

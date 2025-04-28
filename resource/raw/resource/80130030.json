@@ -1,0 +1,16 @@
+{
+    "Id": 80130030,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "赤染椿华",
+    "Desc": "盛开、凋零，再次盛开，连同过去的记忆一同绽放。当赤色与白色交汇之际……这朵椿花会以怎样的姿态在你眼中再度盛放？",
+    "Bg": "激活椿的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

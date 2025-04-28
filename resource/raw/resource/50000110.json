@@ -1,0 +1,18 @@
+{
+    "Id": 50000110,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "战歌重奏物资箱",
+    "Desc": "开启后可自选获得一种高级技能材料：\n<color=Rare4>碑趺古钟*1</color>\n<color=Rare4>不息坏灭*1</color>\n<color=Rare4>无妄之羽*1</color>\n<color=Rare4>岁时之角刃*1</color>\n<color=Rare4>冥扉的欢觑*1</color>\n<color=Rare4>鸢尾盛开之日*1</color>",
+    "Bg": "触摸箱体时，你仿佛听见了战歌在奏响……",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_012_UI.T_IconGiftPack_012_UI",
+    "Source": [
+        "活动获得"
+    ]
+}

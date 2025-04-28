@@ -1,0 +1,16 @@
+{
+    "Id": 80200007,
+    "Rarity": 1,
+    "Type": 7,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "未解析的模块 Ⅵ",
+    "Desc": "开启后可随机获得一个6级模块",
+    "Bg": "缓存、待删除注释以及未正式化的测试内容集合体，通过解析可以获得难辨真假的情报。\n“不是，这内容我都没见过……不要啊，本王的惊喜！”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgChipQuality/T_ChipQualityDColour.T_ChipQualityDColour",
+    "Source": []
+}

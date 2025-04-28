@@ -89,5 +89,6 @@
         5
     ],
     "IntensityCode": 2,
-    "MonsterInfo": 340000010
+    "MonsterInfo": 340000010,
+    "Child": 6010042
 }

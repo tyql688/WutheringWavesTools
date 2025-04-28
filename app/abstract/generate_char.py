@@ -128,6 +128,12 @@ class Char_1406(CharAbstract):
     starLevel = 5
     
 
+class Char_1407(CharAbstract):
+    id = 1407
+    name = "夏空"
+    starLevel = 5
+    
+
 class Char_1408(CharAbstract):
     id = 1408
     name = "漂泊者·气动"
@@ -167,6 +173,12 @@ class Char_1505(CharAbstract):
 class Char_1506(CharAbstract):
     id = 1506
     name = "菲比"
+    starLevel = 5
+    
+
+class Char_1507(CharAbstract):
+    id = 1507
+    name = "赞妮"
     starLevel = 5
     
 
@@ -233,6 +245,7 @@ WavesCharRegister.register_class(Char_1403.id, Char_1403)
 WavesCharRegister.register_class(Char_1404.id, Char_1404)
 WavesCharRegister.register_class(Char_1405.id, Char_1405)
 WavesCharRegister.register_class(Char_1406.id, Char_1406)
+WavesCharRegister.register_class(Char_1407.id, Char_1407)
 WavesCharRegister.register_class(Char_1408.id, Char_1408)
 WavesCharRegister.register_class(Char_1501.id, Char_1501)
 WavesCharRegister.register_class(Char_1502.id, Char_1502)
@@ -240,6 +253,7 @@ WavesCharRegister.register_class(Char_1503.id, Char_1503)
 WavesCharRegister.register_class(Char_1504.id, Char_1504)
 WavesCharRegister.register_class(Char_1505.id, Char_1505)
 WavesCharRegister.register_class(Char_1506.id, Char_1506)
+WavesCharRegister.register_class(Char_1507.id, Char_1507)
 WavesCharRegister.register_class(Char_1601.id, Char_1601)
 WavesCharRegister.register_class(Char_1602.id, Char_1602)
 WavesCharRegister.register_class(Char_1603.id, Char_1603)

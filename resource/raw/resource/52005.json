@@ -3,14 +3,14 @@
     "Rarity": 5,
     "Type": 7,
     "Tag": [
-        "补给包"
+        "物资箱"
     ],
     "TagNum": [
         16
     ],
-    "Name": "优选冒险支援包",
+    "Name": "溯回者的浮金驰援",
     "Desc": "/test",
     "Bg": "/test",
-    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_19_UI.T_IconGiftPack_dj_19_UI",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_057_UI.T_IconGiftPack_057_UI",
     "Source": []
 }

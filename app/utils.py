@@ -1,3 +1,6 @@
+import re
+
+
 def lower_first_letter(data):
     if isinstance(data, dict):
         new_dict = {}
@@ -9,3 +12,11 @@ def lower_first_letter(data):
         return [lower_first_letter(item) for item in data]
     else:
         return data
+
+
+def remove_text_inside_brackets(text: str) -> str:
+    # 移除尖括号及其内容
+    text = re.sub(r'<[^>]*>', '', text)
+    # 移除所有换行符
+    text = text.replace(' ', '')
+    return text

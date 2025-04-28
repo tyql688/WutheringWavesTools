@@ -1,0 +1,18 @@
+{
+    "Id": 44010034,
+    "Rarity": 5,
+    "Type": 4,
+    "Tag": [
+        "声骸异相"
+    ],
+    "TagNum": [
+        47
+    ],
+    "Name": "异相·无冠者",
+    "Desc": "获得后可以解锁对应残象的声骸异相，使声骸获得不同的外观。",
+    "Bg": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_9991_UI.T_IconMonsterGoods_SG_9991_UI",
+    "Source": [
+        "「浸梦海床」活动获得"
+    ]
+}

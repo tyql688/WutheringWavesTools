@@ -1,0 +1,16 @@
+{
+    "Id": 71600002,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "岁主真身石板",
+    "Desc": "刻有岁主英白拉多天马真容的石板画。",
+    "Bg": "刻有岁主英白拉多真容的石板画，被诗社人藏在埃格拉镇某处，他们推测这是黎那汐塔先民留下的遗物。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xia02_UI.T_IconA_Act_Xia02_UI",
+    "Source": []
+}

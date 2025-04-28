@@ -260,6 +260,12 @@ class Weapon_21030024(WeaponAbstract):
     name = "华彩乐段"
     
 
+class Weapon_21030026(WeaponAbstract):
+    id = 21030026
+    type = 3
+    name = "林间的咏叹调"
+    
+
 class Weapon_21030034(WeaponAbstract):
     id = 21030034
     type = 3
@@ -360,6 +366,12 @@ class Weapon_21040034(WeaponAbstract):
     id = 21040034
     type = 4
     name = "钢影拳-21丁型"
+    
+
+class Weapon_21040036(WeaponAbstract):
+    id = 21040036
+    type = 4
+    name = "焰光裁定"
     
 
 class Weapon_21040043(WeaponAbstract):
@@ -573,6 +585,7 @@ WavesWeaponRegister.register_class(Weapon_21030015.id, Weapon_21030015)
 WavesWeaponRegister.register_class(Weapon_21030016.id, Weapon_21030016)
 WavesWeaponRegister.register_class(Weapon_21030023.id, Weapon_21030023)
 WavesWeaponRegister.register_class(Weapon_21030024.id, Weapon_21030024)
+WavesWeaponRegister.register_class(Weapon_21030026.id, Weapon_21030026)
 WavesWeaponRegister.register_class(Weapon_21030034.id, Weapon_21030034)
 WavesWeaponRegister.register_class(Weapon_21030043.id, Weapon_21030043)
 WavesWeaponRegister.register_class(Weapon_21030044.id, Weapon_21030044)
@@ -590,6 +603,7 @@ WavesWeaponRegister.register_class(Weapon_21040023.id, Weapon_21040023)
 WavesWeaponRegister.register_class(Weapon_21040024.id, Weapon_21040024)
 WavesWeaponRegister.register_class(Weapon_21040026.id, Weapon_21040026)
 WavesWeaponRegister.register_class(Weapon_21040034.id, Weapon_21040034)
+WavesWeaponRegister.register_class(Weapon_21040036.id, Weapon_21040036)
 WavesWeaponRegister.register_class(Weapon_21040043.id, Weapon_21040043)
 WavesWeaponRegister.register_class(Weapon_21040044.id, Weapon_21040044)
 WavesWeaponRegister.register_class(Weapon_21040053.id, Weapon_21040053)

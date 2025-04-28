@@ -1,0 +1,16 @@
+{
+    "Id": 80130031,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "太阳升起之时",
+    "Desc": "呜呜物流，使命必达。\n灯灯带着她与生俱来的光辉，穿越索拉里斯辽阔的土地，向途径的人们送去遥远处的讯息。",
+    "Bg": "激活灯灯的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

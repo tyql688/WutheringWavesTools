@@ -1,0 +1,16 @@
+{
+    "Id": 80200001,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "团子特制曲奇",
+    "Desc": "能够在团子世界中找到的曲奇，可用于提升团子的经验。",
+    "Bg": "按理说这么高油高糖又好吃的点心简直是身材管理的大敌……但毕竟这是游戏嘛。无论吃多少都没关系！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xia04_UI.T_IconA_Act_Xia04_UI",
+    "Source": []
+}

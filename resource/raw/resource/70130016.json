@@ -1,0 +1,16 @@
+{
+    "Id": 70130016,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "活动道具"
+    ],
+    "TagNum": [
+        48
+    ],
+    "Name": "首届小团快跑留念",
+    "Desc": "先行公约赠送的赛事纪念照片，可放大查阅。",
+    "Bg": "大家的激情将赛事推向白热化，正如那句名言，比赛第一……我是说，友谊第一！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Racehorse02_UI.T_IconA_Act_Racehorse02_UI",
+    "Source": []
+}

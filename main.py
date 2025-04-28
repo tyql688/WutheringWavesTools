@@ -22,7 +22,7 @@ url_attr = {
     "attr_无惧浪涛之勇.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriEnergy.webp",
     "attr_此间永驻之光.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriLightError.webp",
     "attr_高天共奏之曲.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCooperate.webp",
-    "attr_流云逝尽之空.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.webp"
+    "attr_流云逝尽之空.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.webp",
 }
 
 
@@ -37,6 +37,7 @@ def new_version():
     app.enhance.enhance()
     app.enhance.enhance_weapon()
     app.enhance.enhance_char()
+    app.enhance.enhance_echo()
     app.enhance.enhance_material()
     app.enhance.enhance_role_chain()
     app.enhance.enhance_role_skill()
@@ -44,12 +45,13 @@ def new_version():
 
 def generate():
     import app.generate
+
     app.generate.generate_weapon()
     app.generate.generate_echo()
     app.generate.generate_char()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     new_version()
     generate()
     # download_url_attr()

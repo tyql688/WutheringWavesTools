@@ -1,0 +1,16 @@
+{
+    "Id": 52008,
+    "Rarity": 4,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "溯回者的贝币驰援",
+    "Desc": "/test",
+    "Bg": "/test",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_056_UI.T_IconGiftPack_056_UI",
+    "Source": []
+}

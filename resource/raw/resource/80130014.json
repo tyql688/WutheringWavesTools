@@ -1,0 +1,16 @@
+{
+    "Id": 80130014,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "灼热思维",
+    "Desc": "许多人点燃了火，却无法控制它。\n他曾创造过火，控制过火，也威慑过火。",
+    "Bg": "激活莫特斐的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

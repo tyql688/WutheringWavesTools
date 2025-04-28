@@ -1,0 +1,16 @@
+{
+    "Id": 71600001,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "《黄金之歌》诗稿",
+    "Desc": "《黄金之歌》的诗稿，由克里斯托弗抄录。",
+    "Bg": "「黄金之歌」诗社遗作的一份手抄稿，由克里斯托弗手抄，上面记录着诗篇与乐谱的内容。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xia03_UI.T_IconA_Act_Xia03_UI",
+    "Source": []
+}

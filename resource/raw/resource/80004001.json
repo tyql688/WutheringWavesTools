@@ -1,0 +1,16 @@
+{
+    "Id": 80004001,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "生日大蛋糕！（2025）",
+    "Desc": "生日纪念入口道具，使用后可以回顾友人的祝福。",
+    "Bg": "匿名赠送的生日蛋糕，饱含祝福与情谊。诱人的巧克力加上缤纷果酱，搭配一只栩栩如生的棉花糖阿布，美好得让人不忍下嘴！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_152_UI.T_IconTask_Task_152_UI",
+    "Source": []
+}

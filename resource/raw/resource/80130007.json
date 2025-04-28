@@ -1,0 +1,16 @@
+{
+    "Id": 80130007,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "调律者",
+    "Desc": "当你把记忆里所有的声音串联在一起时，你听见了那波澜壮阔的回音，它跨越时间来到了你的耳边。身份、使命在旅途中慢慢地拼凑完整，你再次回到了舞台的中央，群星的调律者。",
+    "Bg": "激活漂泊者·衍射的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

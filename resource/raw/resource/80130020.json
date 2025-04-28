@@ -1,0 +1,16 @@
+{
+    "Id": 80130020,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "瑞狮起舞",
+    "Desc": "一步一舞，他一定会跃上最高桩。",
+    "Bg": "激活凌阳的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

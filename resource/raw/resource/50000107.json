@@ -1,0 +1,18 @@
+{
+    "Id": 50000107,
+    "Rarity": 3,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "电台特约中级物资箱",
+    "Desc": "开启后可自选一种类型的中级资源奖励：\n<color=Rare3>中级共鸣促剂*5</color>\n<color=Rare3>中级能源核心*5</color>\n<color=Rare3>中级密音筒*3</color>\n<color=Rare3>贝币*15000</color>",
+    "Bg": "由先约电台为长期听众定制的物资补给箱，包含了探索旅途上所需的各类物资。愿您对这个广阔的世界永远留有好奇心。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_Pass02_UI.T_IconGiftPack_Pass02_UI",
+    "Source": [
+        "先约电台获得"
+    ]
+}

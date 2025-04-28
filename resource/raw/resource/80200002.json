@@ -1,0 +1,16 @@
+{
+    "Id": 80200002,
+    "Rarity": 3,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "1周年纪念币",
+    "Desc": "纪念用电子货币，能够在布大王的兑换所换取物资和奖励。",
+    "Bg": "《第二索拉》为纪念内测一周年所发行的活动货币，原本背面应该印有先行公约的标志，但不知为何被替换成了布大王的头像。布大王似乎对它们很感兴趣。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xia06_UI.T_IconA_Act_Xia06_UI",
+    "Source": []
+}

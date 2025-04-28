@@ -23,6 +23,18 @@
         "zh-Hans": "漂泊者·湮灭",
         "ja": "漂泊者・消滅"
     },
+    "1407": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_37_UI.T_IconRoleHead256_37_UI",
+        "rank": 5,
+        "weapon": 3,
+        "element": 4,
+        "en": "Ciaccona",
+        "nickname": "Ciaccona",
+        "desc": "A wandering bard from Rinascita, Ciaccona. She sings not only for the Divinity, but also for the common folk.\n \nShe records stories along her journeys, turning them into songs that evoke laughter, emotion, and tears in both the storytellers and the audience.",
+        "ko": "샤콘",
+        "zh-Hans": "夏空",
+        "ja": "シャコンヌ"
+    },
     "1303": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.T_IconRoleHead256_15_UI",
         "rank": 4,
@@ -58,6 +70,18 @@
         "ko": "금희",
         "zh-Hans": "今汐",
         "ja": "今汐"
+    },
+    "1507": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_38_UI.T_IconRoleHead256_38_UI",
+        "rank": 5,
+        "weapon": 4,
+        "element": 5,
+        "en": "Zani",
+        "nickname": "Zani",
+        "desc": "A member of Averardo Vault's security team and holder of \"Best Employee\" for longer than she cares to count.\n \nShe has made plenty of plans for her free time, but for now, her biggest mission is simple: clocking out on time.",
+        "ko": "젠니",
+        "zh-Hans": "赞妮",
+        "ja": "ザンニー"
     },
     "1505": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.T_IconRoleHead256_28_UI",
@@ -391,9 +415,9 @@
         "en": "Rover: Spectro",
         "nickname": "Vessel of Sounds",
         "desc": "A mysterious Resonator with the power to absorb all sounds. Currently journeying to find their lost memories.",
-        "ko": "방랑자",
+        "ko": "방랑자 · 회절",
         "zh-Hans": "漂泊者·衍射",
-        "ja": "漂泊者·回折"
+        "ja": "漂泊者・回折"
     },
     "1404": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.T_IconRoleHead256_11_UI",

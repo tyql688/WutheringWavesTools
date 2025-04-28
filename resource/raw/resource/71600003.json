@@ -1,0 +1,16 @@
+{
+    "Id": 71600003,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "诗与乐章",
+    "Desc": "夏空赠予你的乐谱本，上面记录着她过往旅行时记录的旋律。",
+    "Bg": "夏空赠予你的乐谱本，上面记录着她过往旅行时记录的旋律。夏空通过共鸣能力能将旋律背后承载的故事复现出来。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xiakong01_UI.T_IconA_Act_Xiakong01_UI",
+    "Source": []
+}

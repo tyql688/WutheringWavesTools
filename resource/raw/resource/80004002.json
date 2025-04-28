@@ -1,0 +1,16 @@
+{
+    "Id": 80004002,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「为你闪烁的星光」",
+    "Desc": "2025年漂泊者专属生日纪念饰品。回过神来，已静静躺在背包中的冠冕。",
+    "Bg": "回过神来，已静静躺在背包中的冠冕——我们的情谊如星光般璀璨，我们的故事如星河般绚烂。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_153_UI.T_IconTask_Task_153_UI",
+    "Source": []
+}

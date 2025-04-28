@@ -9,7 +9,7 @@
         50
     ],
     "Name": "那未能传达的终局",
-    "Desc": "每次击杀敌方单位，使暴击率提升2%，暴击伤害提升4%，最多叠加20层\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Desc": "每次击杀敌方单位，使队伍中所有角色攻击提升9%，最多叠加10层\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
     "Bg": "“玛丽，当你收到这封信时，一切应该早已尘埃落定。不要为我悲伤，因为我是和同袍一起，为了捍卫岁主之荣光而自愿牺牲。我们必会升入高天之上，与祂并肩。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_26.T_IconMowing_26",
     "Source": [

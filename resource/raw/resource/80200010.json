@@ -1,0 +1,16 @@
+{
+    "Id": 80200010,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "未解析的觉醒模块",
+    "Desc": "开启后可随机获得一个觉醒模块",
+    "Bg": "缓存、待删除注释以及未正式化的测试内容集合体，通过解析可以获得难辨真假的情报。\n“不是，这内容我都没见过……不要啊，本王的惊喜！”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/ImgChipQuality/T_ChipQualityDRed.T_ChipQualityDRed",
+    "Source": []
+}

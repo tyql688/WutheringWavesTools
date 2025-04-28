@@ -1,0 +1,16 @@
+{
+    "Id": 70050064,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "“焰光之爪”",
+    "Desc": "赞妮曾经使用的指虎，「焰光的夜行者」传说的一部分。",
+    "Bg": "这枚指虎曾陪伴她独自穿过无尽长夜，让她成为照亮阴影的唯一的光。而现在，黎明即将到来。「焰光的夜行者」终会成为传说，随后被人渐渐淡忘。但至少你会记住和她一同经历的一切。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Xia05_UI.T_IconA_Act_Xia05_UI",
+    "Source": []
+}

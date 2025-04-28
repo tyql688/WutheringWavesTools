@@ -1,0 +1,16 @@
+{
+    "Id": 80130016,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "买与卖家",
+    "Desc": "秋水游离在市场买与卖的边界间，扮演着不同的身份，投资者、取巧者、大卖家，他将手中的筹码散落在各个角落。\n每一笔投资，都将是未来的财富。",
+    "Bg": "激活秋水的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

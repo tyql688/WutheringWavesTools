@@ -1,0 +1,16 @@
+{
+    "Id": 80130017,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "花间灵语",
+    "Desc": "埋下种子、浇水施肥、等待生芽开花……这是维里奈对“生命”这个名词最初的想象。",
+    "Bg": "激活维里奈的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

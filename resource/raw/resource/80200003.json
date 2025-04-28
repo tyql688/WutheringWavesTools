@@ -1,0 +1,16 @@
+{
+    "Id": 80200003,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "被遗忘的钥匙",
+    "Desc": "一把莫名其妙出现的钥匙，能够解锁深渊的下层区域。",
+    "Bg": "“……你们……你们还没有准备好！”\n——布霸王",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Rogue01_UI.T_IconA_Act_Rogue01_UI",
+    "Source": []
+}

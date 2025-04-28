@@ -1,0 +1,18 @@
+{
+    "Id": 43,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "人气值",
+    "Desc": "数值化的影响力指标，用来应援自己支持的团子，限定在第二索拉内使用。",
+    "Bg": "我将万众的瞩目分享给你，尽情去享受比赛，享受场上的强风，享受终点的成功与失败吧。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Racehorse01_UI.T_IconA_Act_Racehorse01_UI",
+    "Source": [
+        "小团快跑积攒人气获取"
+    ]
+}

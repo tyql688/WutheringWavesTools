@@ -1,0 +1,18 @@
+{
+    "Id": 71500036,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "信物"
+    ],
+    "TagNum": [
+        50
+    ],
+    "Name": "那虚荣繁饰的烙印",
+    "Desc": "队伍中的角色处于空中时，伤害加深80%\n\n该信物在冥歌海墟中最多使用<color=#fee388>2</color>次",
+    "Bg": "“人们应该回归过去的生活，并停留在那里，拒绝一切傲慢的所谓变革。昨天永远比今天更好，今天永远比明天更好。唯有如此，我们才不会对陌生之物感到恐惧，亦不会迷惘。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMowing/T_IconMowing_31.T_IconMowing_31",
+    "Source": [
+        "冥歌海墟玩法中获得"
+    ]
+}

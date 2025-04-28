@@ -1,0 +1,16 @@
+{
+    "Id": 50020,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "礼券"
+    ],
+    "TagNum": [
+        53
+    ],
+    "Name": "服饰通用礼券·300月相",
+    "Desc": "索拉里斯通用的消费礼券，使用一张礼券购买服饰时可抵消<color=Highlight>300</color>月相。\n<color=#c25757>（「轻掷欢呼之冕」版本开启后可用，敬请期待）</color>",
+    "Bg": "人类的文明中，不少人钟情于收集票劵。票劵，印证了一个时代的记忆。独特的字体、花样的图案组合在一起，让票劵本身也成了历史的服饰。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Discount01_UI.T_IconA_Act_Discount01_UI",
+    "Source": []
+}

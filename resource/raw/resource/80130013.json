@@ -1,0 +1,16 @@
+{
+    "Id": 80130013,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "悠然见四时",
+    "Desc": "慢半拍，也意味着桃祈拥有了更多的时间观察世界，她渐渐注意到街市中的细微变化，哪里少了一块砖，哪里又凋谢了一朵花。下一个季节什么时候会到来。",
+    "Bg": "激活桃祈的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

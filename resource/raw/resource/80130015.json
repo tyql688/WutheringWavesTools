@@ -1,0 +1,16 @@
+{
+    "Id": 80130015,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "点到为止",
+    "Desc": "传说，踢馆者平均被渊武击败的时间为三分钟，一分钟走上擂台，一分钟抱拳行礼，最后一分钟水壶烧开。\n“来吧，朋友，比武者皆友，饮杯茶再走吧。”",
+    "Bg": "激活渊武的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

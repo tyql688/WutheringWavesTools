@@ -1,0 +1,16 @@
+{
+    "Id": 52009,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "溯回者的凝素驰援",
+    "Desc": "/test",
+    "Bg": "/test",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_059_UI.T_IconGiftPack_059_UI",
+    "Source": []
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 80130039,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "湮灭万律",
+    "Desc": "黑暗、阴影、恐惧，直面它们的勇气即是你最重要的武器。",
+    "Bg": "激活漂泊者·湮灭的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

@@ -1,0 +1,16 @@
+{
+    "Id": 80130029,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "慧眼览古物",
+    "Desc": "年纪虽小，但釉瑚的眼睛早已能分辨古物真伪。它们背后承载的岁月之重，唯有交付给理解其价值的人，才能得到珍惜与爱护。",
+    "Bg": "激活釉瑚的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

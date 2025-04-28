@@ -1,16 +1,9 @@
 # 定义消耗资源的模型
-import re
 from typing import List, Dict, Optional
 
 from pydantic import BaseModel, Field, RootModel, field_validator
 
-
-def remove_text_inside_brackets(text: str) -> str:
-    # 移除尖括号及其内容
-    text = re.sub(r'<[^>]*>', '', text)
-    # 移除所有换行符
-    text = text.replace(' ', '')
-    return text
+from app.utils import remove_text_inside_brackets
 
 
 class SkillLevelDetail(BaseModel):

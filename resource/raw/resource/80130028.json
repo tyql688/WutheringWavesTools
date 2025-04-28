@@ -1,0 +1,16 @@
+{
+    "Id": 80130028,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "漫步于星海",
+    "Desc": "群星的影子坠入深海，填补了她所有的等候与空白。漫长地、寂寥地，守望着这片因{TA}而存在的海岸……这是她与生俱来的使命，是过去也是未来。",
+    "Bg": "激活守岸人的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

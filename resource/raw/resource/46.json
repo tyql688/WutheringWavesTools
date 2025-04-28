@@ -1,0 +1,16 @@
+{
+    "Id": 46,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "特殊代币"
+    ],
+    "TagNum": [
+        15
+    ],
+    "Name": "黑金通筹",
+    "Desc": "黑金色的金属铸筹，可凭此在黑金秘市兑换各种道具。",
+    "Bg": "一枚来自「黑街」的铸筹，而关于铸造它的原料，有人说来自于败者的匕首，也有人说来自被人用蛮力翘下的瓶盖……无论如何，「黑街」里的秘市商人认可它的价值。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_AnniversaryStore_01_UI.T_IconA_AnniversaryStore_01_UI",
+    "Source": []
+}
