@@ -1054,6 +1054,8 @@
                 "Name": "四拍的舞曲",
                 "Desc": "<size=40><color=Title> 普攻</color></size>\n进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。普攻第4段可为命中的目标添加一层<color=Highlight>【风蚀效应】</color>。\n·使用闪避打断普攻前三段时，一定时间内短按普攻，将会施放对应段数的普攻。\n·普攻第4段结束后，夏空会进入<color=Highlight>音律独奏</color>状态。夏空在主动或被动打断普攻第4段或<color=Highlight>音律独奏</color>状态时，会生成一个<color=Highlight>合奏音影</color>。\n\n<size=40><color=Title>音律独奏</color></size>\n夏空或合奏音影在进入音律独奏状态时能够以自身为中心，使附近队伍中所有角色的气动伤害加成提升24%，该效果不可叠加。\n\n<size=40><color=Title>合奏音影</color></size>\n场上最多存在2个合奏音影。\n若夏空的<color=Highlight>普攻第4段</color>被打断，合奏音影将代替夏空完成这次攻击，并进入<color=Highlight>音律独奏</color>状态。\n若夏空的<color=Highlight>音律独奏</color>状态被打断，合奏音影将代替夏空继续<color=Highlight>音律独奏</color>状态。\n通过<color=Highlight>共鸣技能</color>生成合奏音影时，除上述两种情况外，合奏音影将代替夏空完成这次攻击，但不进入<color=Highlight>音律独奏</color>状态。\n\n<size=40><color=Title>重击</color></size>\n消耗耐力并跃向空中，攻击目标，造成<color=Wind>气动伤害</color>。\n\n<size=40><color=Title>瞄准攻击</color></size>\n短按瞄准键，进入瞄准状态，可以进行射击。\n蓄力完成后攻击目标，造成<color=Wind>气动伤害</color>，此次伤害为重击伤害。\n\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行最多2段的攻击，造成<color=Wind>气动伤害</color>。\n施放第2段空中攻击后一定时间内短按普攻，将会施放第4段普攻。\n\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>时，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>，<color=Highlight>普攻第4段</color>可对目标附加<color=Highlight>【风蚀效应】</color>。\n<color=Highlight>普攻第4段</color>被打断时会生成<color=Highlight>合奏音影</color>。\n<size=10></size>\n<size=40><color=Title>合奏音影</color></size>\n生成时会代替夏空完成被打断的攻击。\n当夏空或<color=Highlight>合奏音影</color>脚下出现绿色光圈时，可使附近队伍中所有角色的气动伤害加成提升。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>瞄准攻击</color></size>\n造成<color=Wind>气动伤害</color>，此次伤害为<color=Highlight>重击伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun",
                 "Type": "常态攻击",
                 "Level": {
@@ -2276,6 +2278,8 @@
                 "Name": "谐律速奏",
                 "Desc": "进行一段位移，对目标造成<color=Wind>气动伤害</color>，为命中的目标添加一层<color=Highlight>【风蚀效应】</color>。\n施放后一定时间内短按普攻，将会施放第2段普攻。\n·夏空使用共鸣技能打断普攻、重击、空中攻击和<color=Highlight>音律独奏</color>状态时，可生成一个<color=Highlight>合奏音影</color>。\n·夏空的共鸣技能可以在空中施放。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>，对目标附加<color=Highlight>【风蚀效应】</color>。\n打断部分常态攻击时，会生成<color=Highlight>合奏音影</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongB1.SP_IconXiakongB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2600,6 +2604,8 @@
                 "Param": [
                     "50%"
                 ],
+                "SimpleDesc": "<size=40><color=Title>共鸣解放</color></size>\n造成<color=Wind>气动伤害</color>，进入<color=Highlight>强化状态</color>。\n<size=10></size>\n<size=40><color=Title>强化状态</color></size>\n在恰当时机点击按钮可造成<color=Wind>气动伤害</color>，并根据点击按钮颜色附加效果：\n·绿色：对目标附加<color=Highlight>【风蚀效应】</color>。\n·黄色：对目标附加<color=Highlight>【光噪效应】</color>。\n切换至其他角色，夏空将保持<color=Highlight>强化状态</color>，自动触发切换前最后一次点击按钮的效果。\n<color=Highlight>强化状态</color>下可触发<color=Highlight>合奏音影</color>的气动伤害加成提升效果。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongC1.SP_IconXiakongC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3011,6 +3017,8 @@
                     "100%",
                     "4"
                 ],
+                "SimpleDesc": "施放<color=Highlight>共鸣解放</color>时，获得护盾。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongD1.SP_IconXiakongD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3064,6 +3072,8 @@
                 "Param": [
                     "30%"
                 ],
+                "SimpleDesc": "<color=Highlight>强化重击</color>造成的伤害提升。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongD2.SP_IconXiakongD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3113,6 +3123,8 @@
                 "Name": "携风吟游",
                 "Desc": "攻击目标，造成<color=Wind>气动伤害</color>，为目标添加一层<color=Highlight>【风蚀效应】</color>。\n施放后一定时间内短按普攻，将会施放第3段普攻。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>，对目标附加<color=Highlight>【风蚀效应】</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongQTE.SP_IconXiakongQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3376,6 +3388,8 @@
                 "Name": "风与诗乐的交响",
                 "Desc": "<size=40><color=Title> 重击·四拍重奏</color></size>\n持有3格【音律】时，夏空的重击替换为<color=Highlight>重击·四拍重奏</color>。\n向前射出<color=Highlight>重奏音符</color>，消耗所有【音律】，造成<color=Wind>气动伤害</color>，持续牵引周围的目标，并为命中的目标添加一层<color=Highlight>【风蚀效应】</color>。\n<color=Highlight>重击·四拍重奏</color>可在低空施放。\n\n<size=40><color=Title> 【音律】的获取规则</color></size>\n【音律】上限3格。\n施放<color=Highlight>普攻第4段</color>和<color=Highlight>变奏技能</color>时，可获得1格【音律】。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>特殊能量机制</color></size>\n<color=Highlight>普攻</color>和<color=Highlight>变奏技能</color>可获得<color=Highlight>特殊能量</color>。\n<color=Highlight>特殊能量</color>满时，可施放<color=Highlight>强化重击</color>。\n<size=10></size>\n<size=40><color=Title>强化重击</color></size>\n造成<color=Wind>气动伤害</color>，对目标附加<color=Highlight>【风蚀效应】</color>，并持续牵引周围目标。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongY.SP_IconXiakongY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3673,6 +3687,8 @@
                     "100%",
                     "30"
                 ],
+                "SimpleDesc": "附近范围内的目标受到<color=Highlight>【风蚀效应】</color>伤害加深。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiakong/SP_IconXiakongT.SP_IconXiakongT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4108,5 +4124,49 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiakong.T_ActivityRoleXiakong",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "140701": {
+                "Desc": "使用<color=Highlight>希音</color>进行<color=Highlight>音律独奏</color>：{0}+{0}+{0}+{0} 或 变奏技能+{0}+{0}。",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140702": {
+                "Desc": "使用<color=Highlight>寰响</color>进行<color=Highlight>音律独奏</color>：在空中时：{0}+{0}+{0}。",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140703": {
+                "Desc": "使用<color=Highlight>奏弦</color>进行<color=Highlight>音律独奏</color>：{1}+{0}+{0}+{0} 或 闪避反击后+{0}+{0}。",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140704": {
+                "Desc": "重击·四拍重奏：特殊能量满时，长按{0}。",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140705": {
+                "Desc": "施放共鸣解放后，根据提示，在恰当时机点击按钮。",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreexiakong.T_RoleSkillTreexiakong",
+        "DescList": [
+            "第4段普攻结束后，夏空会根据连段的不同，使用不同乐器进行<color=Highlight>音律独奏</color>。夏空的第4段普攻和<color=Highlight>音律独奏</color>在主动或被动打断时，会生成<color=Highlight>合奏音影</color>继续夏空原本的行为。",
+            "施放第4段普攻和变奏技能时，可获得1格特殊能量。\n特殊能量满时，可施放强化重击"
+        ]
     }
 }

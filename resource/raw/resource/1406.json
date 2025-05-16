@@ -927,6 +927,8 @@
                 "Name": "刻雾裁风",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Wind>气动伤害</color>。\n·施放后短时间内短按<color=Highlight>普攻</color>，可直接施放<color=Highlight>普攻第3段</color>。\n<size=10></size>\n<size=40><color=Title>重击·绞息</color></size>\n施放<color=Highlight>普攻第3段</color>、<color=Highlight>闪避反击</color>或<color=Highlight>重击</color>后一定时间内长按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>绞息</color>攻击目标，消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Wind>气动伤害</color>。\n·落地后一段时间内短按<color=Highlight>普攻</color>，会施放<color=Highlight>普攻第4段</color>。\n·【弦风息】达到上限时，落地后一段时间内短按<color=Highlight>普攻</color>，会施放共鸣技能<color=Highlight>缥缈无相</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·绞息</color></size>\n施放<color=Highlight>普攻第3段</color>、<color=Highlight>闪避反击</color>或<color=Highlight>重击</color>后一定时间内长按<color=Highlight>普攻</color>，消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1755,6 +1757,8 @@
                 "Name": "裂象",
                 "Desc": "<size=40><color=Title>苍息破象</color></size>\n腾空进行斩击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>碧霄断行</color></size>\n处于空中时，短按<color=Highlight>共鸣技能</color>，造成<color=Wind>气动伤害</color>。命中目标后，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>苍息破象</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>碧霄断行</color></size>\n处于空中时，短按<color=Highlight>共鸣技能</color>，造成<color=Wind>气动伤害</color>。命中目标后，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuB1.SP_IconFengzhuB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2223,6 +2227,8 @@
                 "Name": "万象归墟",
                 "Desc": "解放风瞳，造成<color=Wind>气动伤害</color>，并回复附近队伍中所有角色的生命值。\n可以在低空中施放。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>，并回复附近队伍中所有角色的生命值。\n可以在低空中施放。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuC1.SP_IconFengzhuC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2668,6 +2674,11 @@
                     "20%",
                     "10"
                 ],
+                "SimpleDesc": "施放变奏技能时，攻击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "20%",
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuD1.SP_IconFengzhuD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2721,6 +2732,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "共鸣解放治疗量提升{0}。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuD2.SP_IconFengzhuD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2770,6 +2785,8 @@
                 "Name": "狂岚未尽",
                 "Desc": "造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuQTE.SP_IconFengzhuQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3064,6 +3081,8 @@
                 "Name": "风息流转",
                 "Desc": "<size=40><color=Title>空中攻击·抃风儛润</color></size>\n进行下述3种操作时，可施放该技能攻击目标，最多进行2段的连续攻击，造成<color=Wind>气动伤害</color>，回复附近队伍中所有角色的生命值。此次伤害为共鸣技能伤害。\n·施放共鸣技能<color=Highlight>苍息破象</color>后一定时间内短按<color=Highlight>普攻</color>。\n·施放<color=Highlight>变奏技能</color>后一定时间内短按<color=Highlight>普攻</color>。\n·施放重击<color=Highlight>绞息</color>后一定时间内短按<color=Highlight>普攻</color>。\n施放空中攻击<color=Highlight>抃风儛润</color>期间，可长按<color=Highlight>普攻</color>施放常态攻击<color=Highlight>空中攻击</color>。\n<size=10></size>\n<size=40><color=Title>共鸣技能·缥缈无相</color></size>\n【弦风息】达到上限时，共鸣技能<color=Highlight>苍息破象</color>替换为共鸣技能<color=Highlight>缥缈无相</color>，最多进行2段的连续攻击，每段消耗60点特殊能量，造成<color=Wind>气动伤害</color>，此次伤害为共鸣技能伤害。\n施放第1段攻击后一定时间内，若切换至其他角色，将自动施放第2段攻击。\n<size=10></size>\n<size=40><color=Title>【弦风息】获取规则</color></size>\n【弦风息】上限120点。\n空中攻击<color=Highlight>抃风儛润</color>每段命中时，获得25点【弦风息】。\n施放<color=Highlight>变奏技能</color>时，获得20点【弦风息】。\n<color=Highlight>普攻第3段</color>、<color=Highlight>普攻第4段</color>、<color=Highlight>闪避反击</color>命中时，获得10点【弦风息】。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>空中攻击·抃风儛润</color></size>\n施放共鸣技能<color=Highlight>苍息破象</color>、<color=Highlight>变奏技能</color>、重击<color=Highlight>绞息</color>后，可施放空中攻击<color=Highlight>抃风儛润</color>，造成<color=Wind>气动伤害</color>，回复附近队伍中所有角色的生命值。\n<size=10></size>\n<size=40><color=Title>共鸣技能·缥缈无相</color></size>\n空中攻击<color=Highlight>抃风儛润</color>、<color=Highlight>变奏技能</color>、<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>可获得【弦风息】。\n【弦风息】达到上限时，可施放共鸣技能<color=Highlight>缥缈无相</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuY.SP_IconFengzhuY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3877,6 +3896,12 @@
                     "3",
                     "10"
                 ],
+                "SimpleDesc": "附近队伍中所有角色攻击命中后，使目标【风蚀效应】层数上限增加{1}层。",
+                "SimpleParam": [
+                    "30",
+                    "3",
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFengzhu/SP_IconFengzhuT.SP_IconFengzhuT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4314,5 +4339,33 @@
             "Portrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "140601": {
+                "Desc": "空中攻击·抃风儛润：处于地面短按{0}，跃向空中后，短按{1}。",
+                "InputList": [
+                    "技能1",
+                    "攻击"
+                ]
+            },
+            "140602": {
+                "Desc": "缥缈无相：积攒特殊能量充满时，短按{0}。",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "140603": {
+                "Desc": "碧霄断行：处于空中短按{0}，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhefeng.T_RoleSkillTreePiaobozhefeng",
+        "DescList": [
+            "强化空中攻击、变奏技能、普攻回复特殊能量。",
+            "特殊能量充满时，可以施放强化共鸣技能。"
+        ]
     }
 }

@@ -1072,6 +1072,8 @@
                 "Name": "执刃",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，发动连续攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击·逐影</color></size>\n闪避反击成功后，丹瑾可使用共鸣技能<color=Highlight>朱华残章</color>，施放共鸣技能<color=Highlight>朱蚀</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击·逐影</color></size>\n闪避反击成功后，丹瑾可使用共鸣技能<color=Highlight>朱华残章</color>，施放共鸣技能<color=Highlight>朱蚀</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1716,6 +1718,12 @@
                 "Name": "朱华残章",
                 "Desc": "施放<color=Highlight>朱华残章</color>时，每次攻击消耗丹瑾生命上限{0}的生命值；当丹瑾生命低于{1}时，不消耗生命值。\n<size=10> </size>\n<size=40><color=Title>赤华</color></size>\n攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>朱蚀</color></size>\n在<color=Highlight>第2段普攻</color>、<color=Highlight>闪避反击</color>或变奏技能<color=Highlight>击雠</color>施放后，短按<color=Highlight>共鸣技能</color>，可进行最多2段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<color=Highlight>第2段朱蚀</color>命中时目标时，对目标附加<color=Highlight>朱蚀之刻</color>。\n<size=10> </size>\n<size=40><color=Title>朱蚀之刻</color></size>\n丹瑾攻击携带<color=Highlight>朱蚀之刻</color>的目标时，造成的伤害提升{2}。\n<size=10> </size>\n<size=40><color=Title>烬灭</color></size>\n在<color=Highlight>第3段普攻</color>后短按<color=Highlight>共鸣技能</color>，可进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [
+                    "3%",
+                    "1%",
+                    "20%"
+                ],
+                "SimpleDesc": "施放<color=Highlight>朱华残章</color>时，每次攻击消耗丹瑾生命上限{0}的生命值；当丹瑾生命低于{1}时，不消耗生命值。\n<size=10></size>\n<size=40><color=Title>赤华</color></size>\n攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>朱蚀</color></size>\n在<color=Highlight>第2段普攻</color>、<color=Highlight>闪避反击</color>或<color=Highlight>变奏技能</color>施放后，连续短按<color=Highlight>共鸣技能</color>，造成<color=Dark>湮灭伤害</color>。\n<color=Highlight>第2段朱蚀</color>命中时目标时，对目标附加<color=Highlight>朱蚀之刻</color>。\n<size=10></size>\n<size=40><color=Title>朱蚀之刻</color></size>\n丹瑾攻击携带<color=Highlight>朱蚀之刻</color>的目标时，造成的伤害提升{2}。\n<size=10></size>\n<size=40><color=Title>烬灭</color></size>\n在<color=Highlight>第3段普攻</color>后连续短按<color=Highlight>共鸣技能</color>，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
                     "3%",
                     "1%",
                     "20%"
@@ -2523,6 +2531,10 @@
                 "Param": [
                     "1"
                 ],
+                "SimpleDesc": "进行多段快速连续攻击，及{0}段绯刹爆发攻击，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/SP_IconMicaiC1.SP_IconMicaiC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2899,6 +2911,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "以<color=Highlight>闪避反击·逐影</color>触发的共鸣技能<color=Highlight>朱蚀</color>伤害提升{0}，且其消耗的生命值和回复的【彤华】翻倍。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/SP_IconMicaiD1.SP_IconMicaiD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2953,6 +2969,11 @@
                     "30%",
                     "5"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>烬灭</color>后，丹瑾的重击伤害提升{0}，效果持续{1}秒。",
+                "SimpleParam": [
+                    "30%",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/SP_IconMicaiD2.SP_IconMicaiD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3002,6 +3023,8 @@
                 "Name": "击雠",
                 "Desc": "将战意托于刃上，发动攻击，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/SP_IconMicaiQTE.SP_IconMicaiQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3294,6 +3317,13 @@
                 "Name": "丹心昭瑾",
                 "Desc": "<size=40><color=Title>重击·缭乱</color></size>\n【彤华】积攒{0}点以上时，长按<color=Highlight>普攻</color>，将会消耗所有【彤华】施放<color=Highlight>缭乱</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害，并回复自身生命值。\n若【彤华】积攒至{1}点时，则消耗{2}点【彤华】，此次<color=Highlight>缭乱</color>和<color=Highlight>纷落</color>的伤害倍率提升。\n<size=10> </size>\n<size=40><color=Title>重击·纷落</color></size>\n重击<color=Highlight>缭乱</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>纷落</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>彤华获取规则</color></size>\n【彤华】上限{3}点。\n施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。",
                 "Param": [
+                    "60",
+                    "120",
+                    "120",
+                    "120"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·缭乱</color></size>\n【彤华】积攒{0}点以上时，长按<color=Highlight>普攻</color>，将会消耗所有【彤华】施放<color=Highlight>缭乱</color>攻击目标，造成<color=Dark>湮灭伤害</color>，并回复自身生命值。\n若【彤华】积攒至{1}点时，则消耗{2}点【彤华】，此次<color=Highlight>缭乱</color>和<color=Highlight>纷落</color>的伤害倍率提升。\n<size=10></size>\n<size=40><color=Title>重击·纷落</color></size>\n重击<color=Highlight>缭乱</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>纷落</color>，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>彤华获取规则</color></size>\n【彤华】上限{3}点。\n施放共鸣技能<color=Highlight>朱华残章</color>时，回复【彤华】。",
+                "SimpleParam": [
                     "60",
                     "120",
                     "120",
@@ -3828,6 +3858,11 @@
                     "23%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色湮灭伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "23%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/SP_IconMicaiT.SP_IconMicaiT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4266,5 +4301,41 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160201": {
+                "Desc": "缭乱：特殊能量充至一半后长按{0} + {0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160202": {
+                "Desc": "逐影：闪避反击 + {1} + {1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "160203": {
+                "Desc": "朱蚀：{1} + {1} + {0} + {0}",
+                "InputList": [
+                    "技能1",
+                    "攻击"
+                ]
+            },
+            "160204": {
+                "Desc": "烬灭：{1} + {1} + {1} + {0} + {0} + {0}",
+                "InputList": [
+                    "技能1",
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeDanjin.T_RoleSkillTreeDanjin",
+        "DescList": [
+            "共鸣技能命中目标时，回复特殊能量",
+            "特殊能量充至一半及以上时，长按普攻施放强化重击，并回复生命值"
+        ]
     }
 }

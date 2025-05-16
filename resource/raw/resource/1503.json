@@ -1072,6 +1072,8 @@
                 "Name": "育苗",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n培育藤蔓进行最多5段攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力往前冲刺，并造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，在空中进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中重击</color></size>\n在空中长按<color=Highlight>普攻</color>，消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中重击</color></size>\n在空中长按<color=Highlight>普攻</color>，消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1981,6 +1983,8 @@
                 "Name": "扩繁试验",
                 "Desc": "向前方集聚能量，让部分植物急速生长，在范围内造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanB1.SP_IconJueyuanB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2301,6 +2305,8 @@
                 "Name": "草木生长",
                 "Desc": "促使周围的草木急速生长，造成<color=Light>衍射伤害</color>，回复附近队伍中所有角色的生命值，命中目标时给目标附加<color=Highlight>光合标记</color>。\n<size=10> </size>\n<size=40><color=Title>光合标记</color></size>\n附近队伍中所有角色攻击命中携带<color=Highlight>光合标记</color>的目标时，维里奈都会进行协同攻击，造成<color=Light>衍射伤害</color>，并为造成伤害的附近队伍登场角色回复生命值，每秒可触发1次。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>，回复附近队伍中所有角色的生命值，给命中目标附加<color=Highlight>光合标记</color>。\n<size=10></size>\n<size=40><color=Title>光合标记</color></size>\n队伍中所有角色攻击命中携带光合标记的目标时，进行协同攻击，造成<color=Light>衍射伤害</color>，为造成伤害的附近队伍登场角色回复生命值。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanC1.SP_IconJueyuanC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2859,6 +2865,11 @@
                     "20%",
                     "20"
                 ],
+                "SimpleDesc": "施放重击<color=Highlight>星星花绽放</color>、空中攻击<color=Highlight>星星花绽放</color>、共鸣解放<color=Highlight>草木生长</color>或延奏技能<color=Highlight>盛放</color>时，队伍中的角色攻击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "20%",
+                    "20"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanD2.SP_IconJueyuanD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2914,6 +2925,12 @@
                     "10",
                     "10"
                 ],
+                "SimpleDesc": "队伍中有角色受到致死伤害时，此次伤害不会使该角色倒下，并获得基于维里奈{0}攻击的护盾，护盾持续{1}秒，该效果每{2}分钟可触发1次。",
+                "SimpleParam": [
+                    "120%",
+                    "10",
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanD1.SP_IconJueyuanD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2963,6 +2980,8 @@
                 "Name": "蔓延",
                 "Desc": "攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanQTE.SP_IconJueyuanQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3224,6 +3243,14 @@
                 "Name": "星星花绽放",
                 "Desc": "<size=40><color=Title>重击·星星花绽放</color></size>\n施放<color=Highlight>重击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；\n重击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>，此次伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>空中攻击·星星花绽放</color></size>\n施放<color=Highlight>空中攻击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；\n空中攻击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>，此次伤害为普攻伤害。\n施放重击<color=Highlight>星星花绽放</color>后短按<color=Highlight>普攻</color>，可以施放空中攻击<color=Highlight>星星花绽放</color>。\n<size=10> </size>\n<size=40><color=Title>光合能量获取规则</color></size>\n【光合能量】上限{1}层。\n<color=Highlight>第5段普攻</color>命中目标时，获得{2}层【光合能量】。\n施放共鸣技能<color=Highlight>扩繁试验</color>时，获得{3}层【光合能量】。\n施放变奏技能<color=Highlight>蔓延</color>时，获得{4}层【光合能量】。",
                 "Param": [
+                    "1",
+                    "4",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·星星花绽放</color></size>\n施放<color=Highlight>重击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；\n重击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击·星星花绽放</color></size>\n施放<color=Highlight>空中攻击</color>时，若拥有【光合能量】，则消耗{0}层【光合能量】，回复协奏能量，并回复附近队伍中所有角色的生命值；\n空中攻击<color=Highlight>星星花绽放</color>命中目标时，造成<color=Light>衍射伤害</color>。\n施放重击<color=Highlight>星星花绽放</color>后短按<color=Highlight>普攻</color>，可以施放空中攻击<color=Highlight>星星花绽放</color>。\n<size=10></size>\n<size=40><color=Title>光合能量获取规则</color></size>\n【光合能量】上限{1}层。\n【光合能量】的获取途径：<color=Highlight>普攻</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。",
+                "SimpleParam": [
                     "1",
                     "4",
                     "1",
@@ -3763,6 +3790,13 @@
                     "15%",
                     "30"
                 ],
+                "SimpleDesc": "持续为下一位登场角色回复生命值。附近队伍中所有角色全伤害加深{2}。",
+                "SimpleParam": [
+                    "19%",
+                    "6",
+                    "15%",
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanT.SP_IconJueyuanT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4200,5 +4234,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJueyuan.T_ActivityRoleJueyuan",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150301": {
+                "Desc": "重击·星星花绽放：拥有特殊能量时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "150302": {
+                "Desc": "空中攻击·星星花绽放：拥有特殊能量时，空中状态 + {0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeWeilinai.T_RoleSkillTreeWeilinai",
+        "DescList": [
+            "普攻第五段、共鸣技能和变奏技能命中目标时，回复1点特殊能量，上限4点",
+            "每消耗1点特殊能量，附近队伍中所有角色恢复1次生命值"
+        ]
     }
 }

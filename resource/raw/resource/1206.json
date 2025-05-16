@@ -1090,6 +1090,8 @@
                 "Name": "船长的狂想演出",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·狂想即兴</color></size>\n消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>。\n·施放普攻<color=Highlight>第2段</color>或<color=Highlight>第4段</color>后，长按普攻，可以释放<color=Highlight>重击·狂想即兴</color>。\n·施放<color=Highlight>空中攻击第4段</color>后，短按普攻，可以施放<color=Highlight>重击·狂想即兴</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n进行最多4段连续攻击，造成<color=Fire>热熔伤害</color>。<color=Highlight>空中攻击第1段</color>或<color=Highlight>第2段</color>按下普攻时，布兰特向目标发起钩索冲荡，触及目标后会向目标发起攻击，若在动作持续期间松开普攻，则会在攻击命中目标后向后<color=Highlight>空翻</color>；若持续按住，则会持续攻击目标，持续时间结束后，向后<color=Highlight>空翻</color>。<color=Highlight>空中攻击第3段</color>攻击后会向后<color=Highlight>空翻</color>。<color=Highlight>空中攻击</color>每次<color=Highlight>空翻</color>后，按下普攻可施放下一段<color=Highlight>空中攻击</color>，<color=Highlight>空翻</color>可重置空中闪避次数。\n·若<color=Highlight>空中攻击第1段</color>钩索冲荡未触及目标，则向前进行一次斩击，造成<color=Fire>热熔伤害</color>。\n·若<color=Highlight>空中攻击第1段</color>或<color=Highlight>第2段</color>钩索冲荡触及目标，但是发起攻击未命中目标，则会短暂悬停后下落。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·狂想即兴</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n·可以在普攻<color=Highlight>第2段</color>、<color=Highlight>第4段</color>后长按普攻施放或在空中攻击<color=Highlight>第4段</color>后短按普攻施放。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n造成<color=Fire>热熔伤害</color>。<color=Highlight>空中攻击第1段</color>或<color=Highlight>第2段</color>可以短按或保持按住持续攻击目标，前3段<color=Highlight>空中攻击</color>每次攻击都会向后<color=Highlight>空翻</color>。<color=Highlight>空中攻击</color>每次<color=Highlight>空翻</color>后，按下普攻可施放下一段<color=Highlight>空中攻击</color>。\n·<color=Highlight>空中攻击第1段</color>攻击没有命中敌人，则向前进行一次斩击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -3187,6 +3189,8 @@
                 "Name": "起锚！",
                 "Desc": "布兰特将自己弹飞至空中，并对范围内的目标造成<color=Fire>热熔伤害</color>。处于空中时，若【喝彩】未充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>空中下落攻击</color>\n<size=10> </size>\n<size=40><color=Title>空中下落攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>。\n·<color=Highlight>空中攻击第1段</color>钩索冲荡未触及目标，向前斩击后，可以短按普攻施放<color=Highlight>空中下落攻击</color>。\n·<color=Highlight>空中攻击第1段</color>或<color=Highlight>第2段</color>钩索冲荡触及目标，但是发起攻击未命中后，可以在悬停期间短按普攻施放<color=Highlight>空中下落攻击</color>。\n<size=10> </size>",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。处于空中时，若【喝彩】未充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>空中下落攻击</color>\n<size=10> </size>\n<size=40><color=Title>空中下落攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBulante/SP_IconBulanteB1.SP_IconBulanteB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -3596,6 +3600,15 @@
                 "Name": "直到世界尽头",
                 "Desc": "对范围内的目标造成<color=Fire>热熔伤害</color>，并回复附近队伍所有角色的生命值，施放结束后进入<color=Highlight>燃焰</color>状态。\n可以在空中施放。\n<size=10> </size>\n<size=40><color=Title>燃焰</color></size>\n<color=Highlight>常态攻击</color>、共鸣技能<color=Highlight>起锚！</color>命中时获取【喝彩】效率提升{1}。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。\n<size=10> </size>\n<size=40><color=Title>「我」的人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{2}时，每超过{3}的共鸣效率计算为{4}点攻击提升，上限为{5}。\n<size=10> </size>",
                 "Param": [
+                    "12",
+                    "100%",
+                    "150%",
+                    "1%",
+                    "20",
+                    "2600"
+                ],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>，并回复附近队伍所有角色的生命值，施放结束后进入<color=Highlight>燃焰</color>状态。\n可以在空中释放。\n<size=10> </size>\n<size=40><color=Title>燃焰</color></size>\n常态攻击、共鸣技能命中时获取【喝彩】效率提升。共鸣回路<color=Highlight>戏中人生</color>替换为<color=Highlight>「我」的人生</color>。\n<size=10> </size>\n<size=40><color=Title>「我」的人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{2}时，每超过{3}的共鸣效率计算为{4}点攻击提升，上限为{5}。\n<size=10> </size>",
+                "SimpleParam": [
                     "12",
                     "100%",
                     "150%",
@@ -4044,6 +4057,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "<color=Highlight>涛声喝彩</color>的治疗量提升{0}。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBulante/SP_IconBulanteD1.SP_IconBulanteD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -4097,6 +4114,10 @@
                 "Param": [
                     "15%"
                 ],
+                "SimpleDesc": "布兰特<color=Highlight>空中攻击</color>抗打断提升，<color=Fire>热熔伤害加成</color>提升{0}。",
+                "SimpleParam": [
+                    "15%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBulante/SP_IconBulanteD2.SP_IconBulanteD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -4146,6 +4167,8 @@
                 "Name": "为我！",
                 "Desc": "攻击目标，造成<color=Fire>热熔伤害</color>，并获得<color=Highlight>幕间掌声</color>效果。\n<size=10> </size>\n<size=40><color=Title>幕间掌声</color></size>\n下一次空中攻击从<color=Highlight>第2段</color>开始，提前落地后或切换至其他角色失去该效果。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>，并获得<color=Highlight>幕间掌声</color>效果。\n<size=10> </size>\n<size=40><color=Title>幕间掌声</color></size>\n下一次空中攻击从<color=Highlight>第2段</color>开始，提前落地后或切换至其他角色失去该效果。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBulante/SP_IconBulanteQTE.SP_IconBulanteQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -4440,6 +4463,17 @@
                 "Name": "海中戏剧",
                 "Desc": "<size=40><color=Title>戏中人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{0}时，每超过1%的共鸣效率计算为{1}点攻击提升，上限为{2}。\n<size=10> </size>\n<size=40><color=Title>涛声喝彩</color></size>\n当【喝彩】达到{3}、{4}、{5}、{6}点后，会回复附近队伍所有角色的生命值。\n<size=10> </size>\n<size=40><color=Title>火焰归亡曲</color></size>\n当【喝彩】充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>火焰归亡曲</color>。\n施放<color=Highlight>火焰归亡曲</color>时，消耗全部【喝彩】，造成<color=Fire>热熔伤害</color>，此次伤害为<color=Highlight>普攻伤害</color>，附近队伍中所有角色获得护盾。若在<color=Highlight>燃焰</color>状态中施放，则在<color=Highlight>火焰归亡曲</color>结束后失去<color=Highlight>燃焰</color>状态。\n·切换至其他角色不会继承该护盾。\n<size=10> </size>\n<size=40><color=Title>喝彩获取规则</color></size>\n【喝彩】上限{7}点。\n常态攻击命中目标时，获得【喝彩】。\n变奏技能命中目标时，获得【喝彩】。\n共鸣技能命中目标时，获得【喝彩】。",
                 "Param": [
+                    "150%",
+                    "12",
+                    "1560",
+                    "25",
+                    "50",
+                    "75",
+                    "100",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>戏中人生</color></size>\n布兰特基于共鸣效率获得额外攻击：当自身共鸣效率大于{0}时，每超过1%的共鸣效率计算为{1}点攻击提升，上限为{2}。\n<size=10> </size>\n<size=40><color=Title>涛声喝彩</color></size>\n布兰特达到{3}、{4}、{5}、{6}点【喝彩】后，回复附近队伍所有角色的生命值。\n<size=10> </size>\n<size=40><color=Title>火焰归亡曲</color></size>\n当【喝彩】充满，共鸣技能<color=Highlight>起锚！</color>替换为<color=Highlight>火焰归亡曲</color>。\n施放<color=Highlight>火焰归亡曲</color>时，消耗全部【喝彩】，造成<color=Fire>热熔伤害</color>，附近队伍中所有角色获得护盾。\n<size=10> </size>\n<size=40><color=Title>【喝彩】获取规则</color></size>\n【喝彩】上限{7}点。\n【喝彩】获取途径：常态攻击、变奏技能和共鸣技能。",
+                "SimpleParam": [
                     "150%",
                     "12",
                     "1560",
@@ -5296,6 +5330,12 @@
                     "25%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色热熔伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBulante/SP_IconBulanteT.SP_IconBulanteT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -5737,5 +5777,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBulante.T_ActivityRoleBulante",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "120601": {
+                "Desc": "空中攻击：处于空中按下{0}进行普攻，每次普攻结束后会跳跃，并可以按下{0}进行下一段普攻。前2段普攻可以长按{0}进行持续攻击",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "120602": {
+                "Desc": "重击·狂想即兴：释放第2段、第4段地面普攻后，长按{0}。释放空中第4段攻击落地后，短按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeBulante.T_RoleSkillTreeBulante",
+        "DescList": [
+            "常态攻击、共鸣技能和变奏技能命中目标时，回复特殊能量",
+            "每获得一定特殊能量可以为附近队友中所有角色恢复1次生命值。特殊能量充满时，可以短按共鸣技能释放强化共鸣技能"
+        ]
     }
 }

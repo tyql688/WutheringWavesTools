@@ -969,6 +969,8 @@
                 "Name": "裁羽弑音",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Dark>湮灭伤害</color>。\n施放重击后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功闪避后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n施放重击后一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1793,6 +1795,8 @@
                 "Name": "行刃",
                 "Desc": "化音成羽造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "化音成羽造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkB1.SP_IconZhujueDarkB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2111,6 +2115,8 @@
                 "Name": "临渊死寂",
                 "Desc": "聚拢回响于掌间，攻击前方的目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "聚拢回响于掌间，攻击前方的目标，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkC1.SP_IconZhujueDarkC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2428,6 +2434,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "处于<color=Highlight>暗涌</color>状态时，湮灭伤害加成提升{0}。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkD1.SP_IconZhujueDarkD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2481,6 +2491,10 @@
                 "Param": [
                     "1"
                 ],
+                "SimpleDesc": "处于<color=Highlight>暗涌</color>状态时，<color=Highlight>普攻</color>命中目标时额外回复{0}点共鸣能量，该效果每秒可触发1次。",
+                "SimpleParam": [
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkD2.SP_IconZhujueDarkD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2530,6 +2544,8 @@
                 "Name": "化刹",
                 "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkQTE.SP_IconZhujueDarkQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2791,6 +2807,8 @@
                 "Name": "永夜开明",
                 "Desc": "<size=40><color=Title>灭音</color></size>\n【暗流】充满时，长按<color=Highlight>普攻</color>将会施放<color=Highlight>灭音</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>暗涌状态</color></size>\n施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：\n·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>，可进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>； \n·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；\n·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害；\n·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>攻击目标，造成<color=Dark>湮灭伤害</color>；\n·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，化音为刃攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>暗流获取规则</color></size>\n【暗流】上限100点。\n常态攻击<color=Highlight>裁羽弑音</color>命中目标时，可积攒【暗流】。\n施放共鸣技能<color=Highlight>行刃</color>时，可积攒【暗流】。\n施放共鸣技能<color=Highlight>破命</color>时，可积攒【暗流】。\n施放变奏技能<color=Highlight>化刹</color>时，可积攒【暗流】。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>灭音</color></size>\n【暗流】充满时，长按<color=Highlight>普攻</color>将会施放<color=Highlight>灭音</color>，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>暗涌状态</color></size>\n施放<color=Highlight>灭音</color>后，进入<color=Highlight>暗涌</color>状态，在该状态下：\n·<color=Highlight>普攻</color>替换为<color=Highlight>强化普攻</color>；\n·<color=Highlight>重击</color>替换为<color=Highlight>强化重击</color>；\n·施放<color=Highlight>强化重击</color>后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣刃</color>攻击目标，造成<color=Dark>湮灭伤害</color>；\n·施放重击<color=Highlight>鸣刃</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段强化普攻</color>，造成<color=Dark>湮灭伤害</color>；\n·共鸣技能<color=Highlight>行刃</color>替换为共鸣技能<color=Highlight>破命</color>，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>暗流获取规则</color></size>\n【暗流】上限100点。\n【暗流】获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkY.SP_IconZhujueDarkY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3972,6 +3990,12 @@
                     "143.3%",
                     "6"
                 ],
+                "SimpleDesc": "召唤湮灭场攻击目标，每{0}秒造成{1}攻击的<color=Dark>湮灭伤害</color>，持续{2}秒。",
+                "SimpleParam": [
+                    "2",
+                    "143.3%",
+                    "6"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujueDark/SP_IconZhujueDarkT.SP_IconZhujueDarkT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4402,5 +4426,32 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160501": {
+                "Desc": "重击·灭音：特殊能量充满时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160502": {
+                "Desc": "第4段普攻：长按{0}+短按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160503": {
+                "Desc": "重击·鸣刃：强化状态长按{0}+短按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhean.T_RoleSkillTreePiaobozhean",
+        "DescList": [
+            "普攻命中目标或施放变奏技能、共鸣技能时，回复特殊能量",
+            "特殊能量充满时，长按普攻施放重击，可进入强化状态"
+        ]
     }
 }

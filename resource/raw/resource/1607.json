@@ -1120,6 +1120,8 @@
                 "Name": "虚像陷落",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·浮潜幻海</color></size>\n拥有【迷离】时，<color=Highlight>重击</color>替换为<color=Highlight>浮潜幻海</color>，造成<color=Dark>湮灭伤害</color>，并进入<color=Highlight>蜃境状态</color>。若当前已处于<color=Highlight>蜃境状态</color>，施放<color=Highlight>浮潜幻海</color>不会重新进入<color=Highlight>蜃境状态</color>。\n可在水中施放。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·浮潜幻海</color></size>\n拥有【迷离】时，<color=Highlight>重击</color>替换为<color=Highlight>浮潜幻海</color>，造成<color=Dark>湮灭伤害</color>，并进入<color=Highlight>蜃境状态</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -2089,6 +2091,10 @@
                 "Param": [
                     "6.5"
                 ],
+                "SimpleDesc": "<size=40><color=Title>翩跹</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>斑驳幻梦</color></size>\n处于<color=Highlight>蜃境状态</color>时，<color=Highlight>共鸣技能</color>替换为<color=Highlight>斑驳幻梦</color>。施放此技能时，同时视为施放<color=Highlight>声骸技能</color>。\n造成<color=Dark>湮灭伤害</color>，使目标进入<color=Highlight>迷梦</color>。\n<size=10> </size>\n<size=40><color=Title>迷梦</color></size>\n降低目标的行动速度，目标受到伤害时，将触发一次<color=Highlight>惊醒</color>，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
+                    "6.5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaB1.SP_IconKanteleilaB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2870,6 +2876,11 @@
                     "21",
                     "30"
                 ],
+                "SimpleDesc": "<size=40><color=Title>陷溺</color></size>\n造成<color=Dark>湮灭伤害</color>，并为队伍中所有角色附加<color=Highlight>弥漫</color>。\n施放此技能时，同时视为施放<color=Highlight>声骸技能</color>。\n<size=10> </size>\n<size=40><color=Title>弥漫</color></size>\n队伍中在场角色造成伤害时，会召唤<color=Highlight>织梦水母</color>进行协同攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害。\n·每次造成伤害可召唤{0}只<color=Highlight>织梦水母</color>，最多可召唤{1}只<color=Highlight>织梦水母</color>，<color=Highlight>织梦水母</color>每秒最多出现1次。",
+                "SimpleParam": [
+                    "3",
+                    "21"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaC1.SP_IconKanteleilaC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3283,6 +3294,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "治疗效果加成提升{0}。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaD1.SP_IconKanteleilaD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3338,6 +3353,12 @@
                     "10",
                     "2"
                 ],
+                "SimpleDesc": "施放<color=Highlight>声骸技能</color>时，自身的湮灭伤害加成提升{0}，持续{1}秒，可叠加{2}层。",
+                "SimpleParam": [
+                    "6%",
+                    "10",
+                    "2"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaD2.SP_IconKanteleilaD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3387,6 +3408,8 @@
                 "Name": "游弋",
                 "Desc": "<size=40><color=Title>点水</color></size>\n攻击目标，造成<color=Dark>湮灭伤害</color>。\n施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第3段</color>。\n<size=10> </size>\n<size=40><color=Title>逐浪</color></size>\n处于<color=Highlight>蜃境状态</color>时，<color=Highlight>变奏技能</color>替换为<color=Highlight>逐浪</color>，<color=Highlight>逐浪</color>攻击目标时会进行3次协同攻击，造成<color=Dark>湮灭伤害</color>。施放<color=Highlight>逐浪</color>后重置普攻<color=Highlight>蛰幻</color>连击段数。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>点水</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>逐浪</color></size>\n处于<color=Highlight>蜃境状态</color>时，<color=Highlight>变奏技能</color>替换为<color=Highlight>逐浪</color>，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaQTE.SP_IconKanteleilaQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3923,6 +3946,25 @@
                 "Name": "虚实之间",
                 "Desc": "<size=40><color=Title>蜃境状态</color></size>\n·<color=Highlight>普攻</color>替换为普攻<color=Highlight>蛰幻</color>，进行最多3段连续攻击，造成<color=Dark>湮灭伤害</color>，可在空中施放，在空中施放普攻<color=Highlight>蛰幻</color>，将会消耗耐力。此外，普攻<color=Highlight>蛰幻</color>连击段数不会被重置。\n·普攻<color=Highlight>蛰幻</color>命中目标时，消耗{0}点【迷离】，获得{1}点【颤栗】，并为附近队伍中所有角色回复生命值。\n·普攻<color=Highlight>第3段蛰幻</color>攻击目标时会进行3次协同攻击，造成<color=Dark>湮灭伤害</color>。\n·<color=Highlight>空中攻击</color>替换为<color=Highlight>暗涌漩涡</color>，短按<color=Highlight>跳跃</color>，消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>掠影</color>，攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻蛰幻第2段</color>。\n·空中攻击<color=Highlight>暗涌漩涡</color>或<color=Highlight>闪避反击·掠影</color>命中目标时，消耗{0}点【迷离】，获得{1}点【颤栗】，并为附近队伍中所有角色回复生命值。\n·蜃境状态持续{2}秒；\n·消耗完所有【迷离】时结束<color=Highlight>蜃境状态</color>。\n<size=10> </size>\n<size=40><color=Title>共鸣回路·感知汲取</color></size>\n处于<color=Highlight>蜃境状态</color>时，若持有{3}点【颤栗】，<color=Highlight>共鸣技能</color>替换为<color=Highlight>感知汲取</color>。\n施放<color=Highlight>感知汲取</color>时，消耗所有【颤栗】，攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害，使敌人进入<color=Highlight>迷梦</color>，并为附近队伍中所有角色回复生命值。\n施放此技能时，同时视为施放<color=Highlight>声骸技能</color>。\n可在空中施放。\n<size=10> </size>\n<size=40><color=Title>溟海苏生</color></size>\n施放<color=Highlight>变奏技能</color>后，队伍中的角色施放<color=Highlight>声骸技能</color>时，坎特蕾拉回复{4}点协奏能量，同名声骸只可触发一次，最多可触发6次，持续{5}秒。该效果25秒内最多生效1次。\n自身在水中时，游泳速度增加，耐力消耗降低。\n<size=10> </size>\n<size=40><color=Title>迷离获取途径</color></size>\n上限{6}点。\n施放<color=Highlight>变奏技能</color>时，回复{7}点【迷离】。\n<color=Highlight>普攻第三段</color>命中目标时，回复{8}点【迷离】。\n施放共鸣技能<color=Highlight>翩跹</color>时，回复{9}点【迷离】。\n施放共鸣解放<color=Highlight>陷溺</color>时，回复{10}点【迷离】。\n自身在水中时，每{11}秒回复{12}点【迷离】。\n<size=10> </size>\n<size=40><color=Title>颤栗获取途径</color></size>\n上限{13}点。\n普攻<color=Highlight>蛰幻</color>命中时，回复{14}点【颤栗】。\n空中攻击<color=Highlight>暗涌漩涡</color>或<color=Highlight>闪避反击·掠影</color>命中目标时，回复{15}点【颤栗】。",
                 "Param": [
+                    "1",
+                    "1",
+                    "8",
+                    "3",
+                    "6",
+                    "25",
+                    "5",
+                    "1",
+                    "1",
+                    "1",
+                    "3",
+                    "5",
+                    "1",
+                    "3",
+                    "1",
+                    "1"
+                ],
+                "SimpleDesc": "<size=40><color=Title>蜃境状态</color></size>\n·<color=Highlight>普攻</color>替换为普攻<color=Highlight>蛰幻</color>，进行最多3段连续攻击，造成<color=Dark>湮灭伤害</color>。\n·普攻<color=Highlight>蛰幻</color>命中目标时，消耗{0}点【迷离】，获得{1}点【颤栗】，并为附近队伍中所有角色回复生命值。\n·<color=Highlight>空中攻击</color>替换为<color=Highlight>暗涌漩涡</color>，短按<color=Highlight>跳跃</color>，消耗耐力，造成<color=Dark>湮灭伤害</color>。\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>掠影</color>，造成<color=Dark>湮灭伤害</color>。\n·空中攻击<color=Highlight>暗涌漩涡</color>或闪避反击<color=Highlight>掠影</color>命中目标时，消耗{0}点【迷离】，获得{1}点【颤栗】，并为附近队伍中所有角色回复生命值。\n·消耗完所有【迷离】时结束<color=Highlight>蜃境状态</color>。\n<size=10> </size>\n<size=40><color=Title>共鸣回路·感知汲取</color></size>\n处于<color=Highlight>蜃境状态</color>时，若持有{3}点【颤栗】，<color=Highlight>共鸣技能</color>替换为<color=Highlight>感知汲取</color>。\n造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害，使敌人进入<color=Highlight>迷梦</color>，并为附近队伍中所有角色回复生命值。\n施放此技能时，同时视为施放<color=Highlight>声骸技能</color>。\n<size=10> </size>\n<size=40><color=Title>溟海苏生</color></size>\n施放<color=Highlight>变奏技能</color>后，队伍中的角色施放<color=Highlight>声骸技能</color>时，回复{4}点协奏能量，同名声骸只可触发一次，最多可触发6次。\n<size=10> </size>\n<size=40><color=Title>迷离获取途径</color></size>\n上限{6}点。\n施放<color=Highlight>变奏技能</color>时，回复{7}点【迷离】。\n<color=Highlight>普攻第三段</color>命中目标时，回复{8}点【迷离】。\n施放共鸣技能<color=Highlight>翩跹</color>时，回复{9}点【迷离】。\n施放共鸣解放<color=Highlight>陷溺</color>时，回复{10}点【迷离】。\n自身在水中时，每{11}秒回复{12}点【迷离】。\n<size=10> </size>\n<size=40><color=Title>颤栗获取途径</color></size>\n上限{13}点。\n普攻<color=Highlight>蛰幻</color>命中时，回复{14}点【颤栗】。\n空中攻击<color=Highlight>暗涌漩涡</color>或闪避反击<color=Highlight>掠影</color>命中目标时，回复{15}点【颤栗】。",
+                "SimpleParam": [
                     "1",
                     "1",
                     "8",
@@ -5042,6 +5084,12 @@
                     "25%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色湮灭伤害加深{0}，共鸣技能伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKanteleila/SP_IconKanteleilaT.SP_IconKanteleilaT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -5477,5 +5525,30 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleKanteleila.T_ActivityRoleKanteleila",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160701": {
+                "Desc": "共鸣技能斑驳幻梦、感知汲取使目标进入迷梦",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "160702": {
+                "Desc": "持有【迷离】时，可以施放重击浮潜幻海，可在水中施放。",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160703": {
+                "Desc": "蜃境状态期间短按跳跃，可施放空中攻击",
+                "InputList": []
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeKanteleila.T_RoleSkillTreeKanteleila",
+        "DescList": [
+            "变奏技能、共鸣技能、共鸣解放回复【迷离】，持有【迷离】时，使用重击进入强化状态",
+            "强化状态期间，普攻命中目标回复【颤栗】，持有3点【颤栗】时可施放强化共鸣技能"
+        ]
     }
 }

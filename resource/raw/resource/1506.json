@@ -1072,6 +1072,8 @@
                 "Name": "敬请光辉降落",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n释放圣辉，进行最多3段的连续攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，乘着手杖向下俯冲，滑翔并进行攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中重击</color></size>\n消耗耐力，乘着手杖往前滑翔一段距离。\n·空中闪避或使用钩索后可以重新施放。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>时，一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。\n·菲比处于【镜之环】内时，替换为<color=Highlight>夏弥尔之星·闪避反击</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中重击</color></size>\n消耗耐力，滑翔一段距离。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1780,6 +1782,12 @@
                     "0.5",
                     "2"
                 ],
+                "SimpleDesc": "在目标位置召唤【镜之环】，使命中的目标停滞，造成<color=Light>衍射伤害</color>。施放后短按<color=Highlight>共鸣技能</color>，传送至【镜之环】位置，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>【镜之环】</color></size>\n·【镜之环】持续{0}秒；菲比召唤新的【镜之环】时，会移除之前的【镜之环】。\n·菲比处于【镜之环】外时，<color=Highlight>普攻</color>、<color=Highlight>闪避反击</color>命中【镜之环】时造成额外伤害，并牵引目标至<color=Highlight>【镜之环】</color>中央。\n·菲比处于【镜之环】内时，<color=Highlight>普攻</color>替换为普攻<color=Highlight>夏弥尔之星</color>，造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [
+                    "30",
+                    "0.5",
+                    "2"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiB1.SP_IconFeibiB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2313,6 +2321,11 @@
                     "255%",
                     "8"
                 ],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。\n·<color=Highlight>赦罪</color>状态：伤害倍率更高。\n·<color=Highlight>告解</color>状态：附加<color=Highlight>【光噪效应】</color>。",
+                "SimpleParam": [
+                    "255%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiC1.SP_IconFeibiC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2729,6 +2742,10 @@
                 "Param": [
                     "1"
                 ],
+                "SimpleDesc": "空中重击每次可施放的次数增加{0}次。",
+                "SimpleParam": [
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiD1.SP_IconFeibiD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2782,6 +2799,10 @@
                 "Param": [
                     "12%"
                 ],
+                "SimpleDesc": "处于<color=Highlight>赦罪</color>状态、<color=Highlight>告解</color>状态时，衍射伤害加成提升{0}。",
+                "SimpleParam": [
+                    "12%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiD2.SP_IconFeibiD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2831,6 +2852,8 @@
                 "Name": "金色恩典",
                 "Desc": "击退附近目标并造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiQTE.SP_IconFeibiQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3094,6 +3117,19 @@
                 "Name": "交错星辉的祝祷",
                 "Desc": "若菲比【祈愿】满时，可消耗所有【祈愿】，选择两个技能中的一个施放：\n重击<color=Highlight>圣祷赦罪</color>：长按<color=Highlight>普攻</color>，造成<color=Light>衍射伤害</color>，为命中的目标附加{0}层<color=Highlight>【光噪效应】</color>，进入更擅长输出的<color=Highlight>赦罪</color>状态。\n共鸣技能<color=Highlight>显明告解</color>：长按<color=Highlight>共鸣技能</color>，造成<color=Light>衍射伤害</color>，为命中的目标附加{0}层<color=Highlight>【光噪效应】</color>，进入更擅长运用【光噪效应】的<color=Highlight>告解</color>状态。\n·<color=Highlight>赦罪</color>状态、<color=Highlight>告解</color>状态不能同时存在，进入新状态时将取代旧状态。\n·未消耗完所有【福音】时，无法施放重击<color=Highlight>圣祷赦罪</color>、共鸣技能<color=Highlight>显明告解</color>。\n·消耗完所有【福音】时，不会退出<color=Highlight>赦罪</color>或<color=Highlight>告解</color>状态。\n<size=10> </size>\n<size=40><color=Title>重击·星辉</color></size>\n若菲比拥有【福音】，施放<color=Highlight>普攻第3段</color>或<color=Highlight>闪避反击</color>时，下一次<color=Highlight>重击</color>替换为重击<color=Highlight>星辉</color>。\n消耗{2}点【福音】，造成<color=Light>衍射伤害</color>。\n·<color=Highlight>赦罪</color>状态：施放时所消耗的【福音】减少{3}点，命中的目标拥有<color=Highlight>【光噪效应】</color>时，伤害加深{4}。\n·<color=Highlight>告解</color>状态：为命中的目标附加{5}层<color=Highlight>【光噪效应】</color>。\n<size=10> </size>\n<size=40><color=Title>【祈愿】获取规则</color></size>\n【祈愿】上限{6}点。\n随时间持续获得，每秒获得{7}点。\n<size=10> </size>\n<size=40><color=Title>【福音】获取规则</color></size>\n【福音】上限{8}点。\n施放重击<color=Highlight>圣祷赦罪</color>、共鸣技能<color=Highlight>显明告解</color>时，回复{9}点。",
                 "Param": [
+                    "1",
+                    "0",
+                    "30",
+                    "15",
+                    "256%",
+                    "5",
+                    "120",
+                    "5",
+                    "60",
+                    "60"
+                ],
+                "SimpleDesc": "若菲比【祈愿】满时，可消耗所有【祈愿】，选择两个技能中的一个施放：\n重击<color=Highlight>圣祷赦罪</color>：长按<color=Highlight>普攻</color>，造成<color=Light>衍射伤害</color>，附加<color=Highlight>【光噪效应】</color>，进入更擅长输出的<color=Highlight>赦罪</color>状态。\n共鸣技能<color=Highlight>显明告解</color>：长按<color=Highlight>共鸣技能</color>，造成<color=Light>衍射伤害</color>，附加{0}层<color=Highlight>【光噪效应】</color>，进入更擅长运用【光噪效应】的<color=Highlight>告解</color>状态。\n<size=10> </size>\n<size=40><color=Title>重击·星辉</color></size>\n若菲比拥有【福音】，施放<color=Highlight>普攻第3段</color>或<color=Highlight>闪避反击</color>时，下一次<color=Highlight>重击</color>替换为重击<color=Highlight>星辉</color>。\n消耗{2}点【福音】，造成<color=Light>衍射伤害</color>。\n·<color=Highlight>赦罪</color>状态：消耗的【福音】减少{3}点，对拥有<color=Highlight>【光噪效应】</color>的目标造成更高伤害。\n·<color=Highlight>告解</color>状态：为目标附加<color=Highlight>【光噪效应】</color>。\n<size=10> </size>\n<size=40><color=Title>【祈愿】获取规则</color></size>\n【祈愿】上限{6}点。\n随时间持续获得，每秒获得{7}点。\n<size=10> </size>\n<size=40><color=Title>【福音】获取规则</color></size>\n【福音】上限{8}点。\n【福音】的获取途径：<color=Highlight>圣祷赦罪</color>、<color=Highlight>显明告解</color>。",
+                "SimpleParam": [
                     "1",
                     "0",
                     "30",
@@ -3611,6 +3647,15 @@
                     "50%",
                     "30"
                 ],
+                "SimpleDesc": "造成总计菲比攻击{0}的<color=Light>衍射伤害</color>。\n·<color=Highlight>赦罪</color>状态：伤害倍率提升。\n·<color=Highlight>告解</color>状态：使一定范围内的目标衍射伤害抗性减少{2}，<color=Highlight>【光噪效应】</color>伤害加深{3}。目标身上的<color=Highlight>【光噪效应】</color>触发伤害后，<color=Highlight>【光噪效应】</color>下一次造成伤害的周期延长{4}。效果持续{5}秒，若菲比进入<color=Highlight>赦罪</color>状态则该效果提前结束。",
+                "SimpleParam": [
+                    "528.41%",
+                    "255%",
+                    "10%",
+                    "100%",
+                    "50%",
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconFeibi/SP_IconFeibiT.SP_IconFeibiT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4076,5 +4121,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleFeibi.T_ActivityRoleFeibi",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150601": {
+                "Desc": "重击·星辉：处于赦罪或告解状态时，普攻第3段后长按{0}，消耗【福音】攻击目标。赦罪状态下消耗减少，伤害增加；告解状态下附加【光噪效应】。",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "150602": {
+                "Desc": "共鸣技能：短按{0}可召唤【镜之环】，牵引目标并使目标停滞；限时内再次短按{0}，可传送至【镜之环】内。菲比在【镜之环】内外的普攻方式不同。",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeFeibi.T_RoleSkillTreeFeibi",
+        "DescList": [
+            "【祈愿】充满时，可选择进入赦罪状态或告解状态。",
+            "长按普攻进入赦罪状态，更擅长输出。\n长按共鸣技能进入告解状态，更擅长附加【光噪效应】。"
+        ]
     }
 }

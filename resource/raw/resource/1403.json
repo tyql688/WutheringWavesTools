@@ -1092,6 +1092,10 @@
                 "Param": [
                     "1.5"
                 ],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>，普攻第4段会向前方扩散出【雾气】\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [
+                    "1.5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun",
                 "Type": "常态攻击",
                 "Level": {
@@ -3039,6 +3043,11 @@
                     "1",
                     "6"
                 ],
+                "SimpleDesc": "<size=40><color=Title>雾化幻影</color></size>\n施放【雾气】和{0}个【雾化分身】嘲讽周围的目标，分身会继承秋水部分生命值，并生成{1}颗【雾化子弹】，造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [
+                    "1",
+                    "6"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiB1.SP_IconQiushuiB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -3386,6 +3395,10 @@
                 "Name": "雾里观花",
                 "Desc": "在面前生成【虚实之门】，造成<color=Wind>气动伤害</color>且当攻击穿过【虚实之门】时攻击提升，【虚实之门】持续{0}秒。",
                 "Param": [
+                    "10"
+                ],
+                "SimpleDesc": "在面前生成【虚实之门】，造成<color=Wind>气动伤害</color>且当攻击穿过【虚实之门】时攻击提升。",
+                "SimpleParam": [
                     "10"
                 ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiC1.SP_IconQiushuiC1",
@@ -3739,6 +3752,10 @@
                 "Param": [
                     "30"
                 ],
+                "SimpleDesc": "秋水的<color=Highlight>重击</color>必定暴击，每{0}秒可触发1次。",
+                "SimpleParam": [
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiD1.SP_IconQiushuiD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3790,6 +3807,8 @@
                 "Name": "中场休息时间",
                 "Desc": "秋水进入共鸣回路<color=Highlight>迷雾潜行</color>时会持续回复耐力。",
                 "Param": [],
+                "SimpleDesc": "秋水进入共鸣回路<color=Highlight>迷雾潜行</color>时会持续回复耐力。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiD2.SP_IconQiushuiD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3839,6 +3858,8 @@
                 "Name": "虚晃一枪",
                 "Desc": "秋水神出鬼没，进行快速的连续射击，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiQTE.SP_IconQiushuiQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -4169,6 +4190,13 @@
                     "6",
                     "1"
                 ],
+                "SimpleDesc": "当秋水穿过【雾气】或【虚实之门】时，会进入<color=Highlight>迷雾潜行</color>状态。\n<size=10></size>\n<size=40><color=Title>迷雾潜行</color></size>\n·移动速度提升；\n·期间可持续消耗【雾滴】，生成【雾化子弹】。\n<size=10></size>\n<size=40><color=Title>雾滴获取规则</color></size>\n【雾滴】上限{2}点。\n【雾滴】获取途径：<color=Highlight>普攻</color>或<color=Highlight>空中攻击</color>穿过【雾气】命中目标。",
+                "SimpleParam": [
+                    "1",
+                    "1",
+                    "6",
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiY.SP_IconQiushuiY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -4432,6 +4460,11 @@
                 "Name": "雾解",
                 "Desc": "下一位登场角色气动伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。",
                 "Param": [
+                    "23%",
+                    "14"
+                ],
+                "SimpleDesc": "下一位登场角色气动伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
                     "23%",
                     "14"
                 ],
@@ -4870,5 +4903,20 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "140301": {
+                "Desc": "雾化状态：穿过【雾气】后进入雾化状态",
+                "InputList": [
+                    "闪避"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeQiushui.T_RoleSkillTreeQiushui",
+        "DescList": [
+            "普攻或空中攻击穿过【雾气】命中目标时，回复特殊能量",
+            "秋水穿过【雾气】时，消耗特殊能量生成雾化子弹攻击目标"
+        ]
     }
 }

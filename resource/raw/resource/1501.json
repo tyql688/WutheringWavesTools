@@ -975,6 +975,8 @@
                 "Name": "化声为形",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·鸣奏</color></size>\n<color=Highlight>第3段普攻</color>或<color=Highlight>重击</color>后，恰当时机短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣奏</color>攻击目标，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·余音</color></size>\n重击<color=Highlight>鸣奏</color>或<color=Highlight>闪避反击</color>命中目标后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>余音</color>，攻击目标，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·鸣奏</color></size>\n<color=Highlight>第3段普攻</color>或<color=Highlight>重击</color>后，恰当时机短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>鸣奏</color>，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·余音</color></size>\n重击<color=Highlight>鸣奏</color>或<color=Highlight>闪避反击</color>命中目标后短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>余音</color>，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1734,6 +1736,8 @@
                 "Name": "浮声千斩",
                 "Desc": "向前方发动攻击，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "向前方发动攻击，造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueB1.SP_IconZhujueB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2021,6 +2025,8 @@
                 "Name": "回响奏鸣",
                 "Desc": "聚集衍射能量攻击目标区域，短暂延迟后，目标区域将发生爆炸，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueC1.SP_IconZhujueC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2369,6 +2375,10 @@
                 "Param": [
                     "60%"
                 ],
+                "SimpleDesc": "普攻<color=Highlight>浮声千斩·回声</color>的伤害提升{0}。",
+                "SimpleParam": [
+                    "60%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueD1.SP_IconZhujueD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2423,6 +2433,11 @@
                     "15%",
                     "5"
                 ],
+                "SimpleDesc": "施放重击<color=Highlight>鸣奏</color>后，漂泊者的攻击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "15%",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueD2.SP_IconZhujueD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2472,6 +2487,8 @@
                 "Name": "震声",
                 "Desc": "攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueQTE.SP_IconZhujueQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2733,6 +2750,12 @@
                 "Name": "万物微尘",
                 "Desc": "<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>\n施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，向前方发动回旋攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>普攻·浮声千斩·回声</color></size>\n共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。\n向前发动攻击，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>尘微之声获取规则</color></size>\n【尘微之声】上限{2}点。\n常态攻击<color=Highlight>化声为形</color>命中目标时，回复【尘微之声】。\n重击<color=Highlight>余音</color>命中目标时，回复【尘微之声】。\n施放变奏技能<color=Highlight>震声</color>时，回复【尘微之声】。",
                 "Param": [
+                    "50",
+                    "50",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>共鸣技能·浮声千斩·旋音</color></size>\n施放<color=Highlight>共鸣技能</color>时，若【尘微之声】超过{0}点，则消耗{1}点【尘微之声】，施放<color=Highlight>浮声千斩·旋音</color>，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>普攻·浮声千斩·回声</color></size>\n共鸣技能<color=Highlight>浮声千斩·旋音</color>结束后，短按<color=Highlight>普攻</color>，可施放<color=Highlight>浮声千斩·回声</color>。\n向前发动攻击，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>尘微之声获取规则</color></size>\n【尘微之声】上限{2}点。\n【尘微之声】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>。",
+                "SimpleParam": [
                     "50",
                     "50",
                     "100"
@@ -3203,6 +3226,10 @@
                 "Param": [
                     "3"
                 ],
+                "SimpleDesc": "生成停滞区域。",
+                "SimpleParam": [
+                    "3"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhujue/SP_IconZhujueT.SP_IconZhujueT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -3637,5 +3664,40 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150101": {
+                "Desc": "浮声千斩·旋音：拥有50点特殊能量时{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150102": {
+                "Desc": "浮声千斩·回声：浮声千斩·旋音 + {0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150103": {
+                "Desc": "重击·鸣奏：第三段普攻或重击后，恰当时机{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "150104": {
+                "Desc": "重击·余音：重击·鸣奏命中后{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreePiaobozhe.T_RoleSkillTreePiaobozhe",
+        "DescList": [
+            "常态攻击、共鸣技能、变奏技能命中目标时可回复特殊能量",
+            "特殊能量回复过半时，可施放强化共鸣技能"
+        ]
     }
 }

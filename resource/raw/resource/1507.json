@@ -1150,6 +1150,8 @@
                 "Name": "例行交涉",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。\n<color=Highlight>第3段普攻</color>后恰当时机短按<color=Highlight>普攻</color>，将施放普攻<color=Highlight>突破性进展</color>，之后短按普攻可施放<color=Highlight>第4段普攻</color>。\n\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Light>衍射伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>第3段普攻</color>。\n\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Light>衍射伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>第3段普攻</color>。\n\n<size=40><color=Title>闪避反击</color></size>\n成功闪避后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。之后恰当时机短按<color=Highlight>普攻</color>，将施放普攻<color=Highlight>突破性进展</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>派生普攻</color></size>\n施放普攻第3段后，恰当时机短按<color=Highlight>普攻</color>可施放<color=Highlight>派生普攻</color>，造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n造成<color=Light>衍射伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -2511,6 +2513,14 @@
                     "30%",
                     "20%"
                 ],
+                "SimpleDesc": "<size=40><color=Title>共鸣技能</color></size>\n造成<color=Light>衍射伤害</color>。一定时间内可格挡攻击，格挡成功时，受到伤害降低，并进行反击。\n<size=10></size>\n<size=40><color=Title>特殊能量【冗余动能】</color></size>\n·<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>可获得<color=Highlight>【冗余动能】</color>。\n·<color=Highlight>【冗余动能】</color>满时，可施放<color=Highlight>强化共鸣技能</color>。\n<size=10></size>\n<size=40><color=Title>强化共鸣技能</color></size>\n·按住<color=Highlight>共鸣技能</color>可进行<color=Highlight>蓄力</color>，期间免疫打断。一定时间内可格挡攻击，格挡成功时，受到伤害降低，并进行反击。提前松开或<color=Highlight>蓄力</color>结束后可直接攻击目标。\n·造成<color=Light>衍射伤害</color>，同时视为<color=Highlight>【光噪效应】</color>伤害。对目标附加<color=Highlight>【烈阳余烬】</color>，自身<color=Highlight>【光噪效应】</color>伤害加深。",
+                "SimpleParam": [
+                    "5%",
+                    "5%",
+                    "2",
+                    "30%",
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniB1.SP_IconZanniB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -3283,6 +3293,14 @@
                     "30",
                     "8"
                 ],
+                "SimpleDesc": "<size=40><color=Title>共鸣解放</color></size>\n造成<color=Light>衍射伤害</color>，进入<color=Highlight>强化状态</color>，普攻倍率提升，解锁<color=Highlight>重斩</color>和<color=Highlight>终结共鸣解放</color>。\n<size=10></size>\n<size=40><color=Title>终结共鸣解放</color></size>\n特殊能量<color=Highlight>【焰光】</color>低于刻度线或<color=Highlight>强化状态</color>持续一段时间后可释放，造成大量<color=Light>衍射伤害</color>，并退出<color=Highlight>强化状态</color>。",
+                "SimpleParam": [
+                    "100",
+                    "150",
+                    "50",
+                    "30",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniC1.SP_IconZanniC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3812,6 +3830,11 @@
                     "12%",
                     "14"
                 ],
+                "SimpleDesc": "施放<color=Highlight>变奏技能</color>时，衍射伤害加成提升。",
+                "SimpleParam": [
+                    "12%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniD1.SP_IconZanniD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3865,6 +3888,10 @@
                 "Param": [
                     "40%"
                 ],
+                "SimpleDesc": "<color=Highlight>蓄力</color>时，受到伤害降低。",
+                "SimpleParam": [
+                    "40%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniD2.SP_IconZanniD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3914,6 +3941,8 @@
                 "Name": "即刻执行",
                 "Desc": "攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniQTE.SP_IconZanniQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -4239,6 +4268,16 @@
                 "Name": "黯夜将明",
                 "Desc": "<size=40><color=Title>烈阳余烬</color></size>\n赞妮处于编队时，附近队伍中的角色对目标附加<color=Highlight>【光噪效应】</color>时，将立刻结算全部层数伤害并转化为相同层数的【烈阳余烬】。每次发生转化，赞妮根据转化层数汲取【焰光】。【烈阳余烬】层数上限为{0}层，每层持续{1}秒。该层数可触发「此间永驻之光」 合鸣效果。\n\n<size=40><color=Title>引燃明灯</color></size>\n赞妮处于<color=Highlight>灼焰形态</color>时，解锁<color=Highlight>重斩·破晓</color>、<color=Highlight>重斩·将明</color>、<color=Highlight>重斩·终夜</color>、<color=Highlight>重斩·闪裂</color>，造成<color=Light>衍射伤害</color>，此次伤害为重击伤害，同时视为<color=Highlight>【光噪效应】</color>伤害。\n【焰光】不少于{2}点时，共鸣技能<color=Highlight>标准防卫预案</color>替换为共鸣技能<color=Highlight>引燃明灯</color>。\n按住<color=Highlight>共鸣技能</color>可进入<color=Highlight>准备架势</color>，<color=Highlight>准备架势</color>期间免疫打断，若切换至其他角色则提前退出。<color=Highlight>准备架势</color>期间一定时间内松开<color=Highlight>共鸣技能</color>，可施放<color=Highlight>重斩·破晓</color>并消耗【焰光】。\n若进入<color=Highlight>准备架势</color>一定时间内受到敌方目标攻击，此次伤害降低100%同时停滞周围的目标，可施放<color=Highlight>重斩·闪裂</color>并消耗【焰光】，额外削减其{3}共振度。赞妮在{4}秒内受到伤害降低{5}。施放<color=Highlight>重斩·闪裂</color>后，<color=Highlight>普攻</color>替换为<color=Highlight>重斩·终夜</color>。\n<color=Highlight>重斩·终夜</color>命中时可以消耗赞妮至多{6}点【焰光】，每消耗1点【焰光】，使本次<color=Highlight>重斩·终夜</color>的伤害倍率额外增加。施放<color=Highlight>第1段重斩·终夜</color>期间若被打断，可继续短按<color=Highlight>普攻</color>施放<color=Highlight>第2段重斩·终夜</color>。\n<color=Highlight>准备架势</color>一定时间后松开或持续时间结束直接施放<color=Highlight>重斩·终夜</color>。\n【焰光】不少于{2}点时，<color=Highlight>普攻</color>替换为<color=Highlight>重斩·破晓</color>。进入<color=Highlight>灼焰形态</color>后，若立即施放<color=Highlight>普攻</color>，此次<color=Highlight>普攻</color>替换为共鸣技能<color=Highlight>引燃明灯</color>，若按住<color=Highlight>普攻</color>可进入<color=Highlight>准备架势</color>。\n施放<color=Highlight>重斩·破晓</color>后若立即施放<color=Highlight>普攻</color>，可施放普攻<color=Highlight>重斩·将明</color>并消耗【焰光】。\n施放<color=Highlight>重斩·将明</color>后，<color=Highlight>普攻</color>替换为<color=Highlight>重斩·终夜</color>。\n成功闪避后，若此时<color=Highlight>普攻</color>没有替换为<color=Highlight>重斩·终夜</color>且【焰光】不少于{2}点，则一定时间内短按<color=Highlight>普攻</color>，可施放<color=Highlight>重斩·闪裂</color>并消耗【焰光】。\n\n<size=40><color=Title>冗余动能获取规则</color></size>\n【冗余动能】上限100点。\n常态攻击命中目标时，获得【冗余动能】。\n施放变奏技能<color=Highlight>即刻执行</color>时，获得【冗余动能】。\n施放共鸣技能<color=Highlight>标准防卫预案</color>时，获得【冗余动能】。\n<color=Highlight>精准反击</color>命中目标时，获得【冗余动能】。\n处于<color=Highlight>灼焰形态</color>时，无法获得【冗余动能】。\n\n<size=40><color=Title>焰光获取规则</color></size>\n赞妮未处于<color=Highlight>灼焰形态</color>时，【焰光】上限为100点。\n赞妮处于<color=Highlight>灼焰形态</color>时，【焰光】上限为150点。\n施放<color=Highlight>集中压制</color>或<color=Highlight>破袭反击</color>后，获得10点【焰光】。\n每1层<color=Highlight>【光噪效应】</color>转化为【烈阳余烬】时，获得5点【焰光】。\n施放共鸣解放<color=Highlight>重燃</color>时，获得50点【焰光】。",
                 "Param": [
+                    "60",
+                    "6",
+                    "30",
+                    "10%",
+                    "2",
+                    "30%",
+                    "40"
+                ],
+                "SimpleDesc": "<size=40><color=Title>特殊能量【焰光】</color></size>\n·附近队伍中的角色对目标附加<color=Highlight>【光噪效应】</color>将立即结算伤害，并对目标附加<color=Highlight>烈阳余烬</color>，同时赞妮获得<color=Highlight>【焰光】</color>。\n·<color=Highlight>共鸣解放</color>、<color=Highlight>强化共鸣技能</color>也可获得<color=Highlight>【焰光】</color>。\n·处于<color=Highlight>强化状态</color>且<color=Highlight>【焰光】</color>高于刻度线时，可施放<color=Highlight>重斩</color>。\n<size=10></size>\n<size=40><color=Title>【烈阳余烬】</color></size>\n用于提高延奏技能的伤害。该层数可触发「此间永驻之光」合鸣效果。\n<size=10></size>\n<size=40><color=Title>重斩</color></size>\n·可通过短按<color=Highlight>普攻</color>或按住<color=Highlight>共鸣技能</color>施放。\n·按住<color=Highlight>共鸣技能</color>可进行<color=Highlight>蓄力</color>，期间免疫打断。一定时间内可格挡攻击，格挡成功时，受到伤害降低，并进行反击。提前松开或<color=Highlight>蓄力</color>结束后可直接攻击目标。\n·造成<color=Light>衍射伤害</color>，此次伤害为<color=Highlight>重击伤害</color>，同时视为<color=Highlight>【光噪效应】伤害</color>。",
+                "SimpleParam": [
                     "60",
                     "6",
                     "30",
@@ -5554,6 +5593,13 @@
                     "20%",
                     "20"
                 ],
+                "SimpleDesc": "造成<color=Light>衍射伤害</color>，目标<color=Highlight>【烈阳余烬】</color>层数越高，受到本次伤害越高。\n此次伤害同时视为<color=Highlight>【光噪效应】伤害</color>。\n队伍中其他角色对拥有<color=Highlight>【烈阳余烬】</color>的目标造成的衍射伤害加深。",
+                "SimpleParam": [
+                    "150%",
+                    "10%",
+                    "20%",
+                    "20"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZanni/SP_IconZanniT.SP_IconZanniT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -6006,5 +6052,99 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZanni.T_ActivityRoleZanni",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150701": {
+                "Desc": "普攻·突破性进展：{0}+{0}+{0}+恰当时机{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150702": {
+                "Desc": "标准防卫预案：{1}+{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150703": {
+                "Desc": "精准反击：按住{1}，受到攻击自动施放",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150704": {
+                "Desc": "共鸣解放·终绝将至之刻：灼焰形态下，【焰光】低于30或灼焰形态8秒后，按{2}",
+                "InputList": [
+                    "攻击",
+                    "技能1",
+                    "大招"
+                ]
+            },
+            "150710": {
+                "Desc": "不处于灼焰形态，【冗余动能】满时，可解锁下列招式",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150711": {
+                "Desc": "集中压制：{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150712": {
+                "Desc": "破袭反击：按住{1}，受到攻击自动施放",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150705": {
+                "Desc": "灼焰形态下，【焰光】不低于30，可解锁下列招式",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150706": {
+                "Desc": "普攻·重斩·破晓：{0}或{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150707": {
+                "Desc": "普攻·重斩·将明：{0}+{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150708": {
+                "Desc": "普攻·重斩·终夜：{0}+{0}+{0}或按住{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "150709": {
+                "Desc": "普攻·重斩·闪裂：按住{1}，受到攻击自动施放",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeZanni.T_RoleSkillTreeZanni",
+        "DescList": [
+            "攻击命中敌人回复特殊能量，消耗特殊能量施放强化共鸣技能。",
+            "队友附加光噪的技能为赞妮回复强化特殊能量。\n施放共鸣解放进入强化状态，可消耗强化特殊能量施放强化普攻。"
+        ]
     }
 }

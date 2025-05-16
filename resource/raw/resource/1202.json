@@ -1126,6 +1126,8 @@
                 "Name": "砰砰",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段连续射击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n进入瞄准状态，可以进行更强力的射击。\n蓄力完成后攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，在空中进行连续攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n进入瞄准状态，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun",
                 "Type": "常态攻击",
                 "Level": {
@@ -1926,6 +1928,10 @@
                 "Param": [
                     "2"
                 ],
+                "SimpleDesc": "高速连射，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<color=Highlight>咻咻斗意</color>初始拥有2次可使用次数。",
+                "SimpleParam": [
+                    "2"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangB1.SP_IconMaxiaofangB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2213,6 +2219,8 @@
                 "Name": "炽烈焰火",
                 "Desc": "体内热流涌现，对附近目标进行快速射击，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangC1.SP_IconMaxiaofangC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2562,6 +2570,11 @@
                     "10",
                     "50%"
                 ],
+                "SimpleDesc": "【热压弹】容量上限扩充{0}发，共鸣技能<color=Highlight>轰轰</color>伤害提升{1}。",
+                "SimpleParam": [
+                    "10",
+                    "50%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangD1.SP_IconMaxiaofangD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2617,6 +2630,12 @@
                     "10",
                     "30"
                 ],
+                "SimpleDesc": "共鸣技能<color=Highlight>咔咔压制</color>持续期间，每发【热压弹】命中可使攻击提升{0}，持续{1}秒，可叠加{2}层。",
+                "SimpleParam": [
+                    "1%",
+                    "10",
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangD2.SP_IconMaxiaofangD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2666,6 +2685,8 @@
                 "Name": "堂堂登场",
                 "Desc": "飒爽登场，对目标进行快速射击，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangQTE.SP_IconMaxiaofangQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2958,6 +2979,12 @@
                 "Name": "英魂炽火流",
                 "Desc": "<size=40><color=Title>共鸣技能·咔咔压制</color></size>\n长按共鸣技能<color=Highlight>咻咻斗意</color>，进入<color=Highlight>咔咔压制</color>状态，在该状态下：\n·持续消耗【热压弹】攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害；\n·短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害，并退出咔咔压制；\n·若短按<color=Highlight>普攻</color>时已消耗{0}发【热压弹】，将会施放共鸣技能<color=Highlight>轰轰</color>，并退出咔咔压制；\n·当【热压弹】消耗完毕后，退出咔咔压制。\n<size=10> </size>\n<size=40><color=Title>共鸣技能·轰轰</color></size>\n造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>热压弹获取规则</color></size>\n【热压弹】容量上限{1}发。\n固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充{2}发。\n常态攻击<color=Highlight>砰砰</color>命中目标时，可积攒【热压弹】。\n施放变奏技能<color=Highlight>堂堂登场</color>时，可积攒【热压弹】。\n施放共鸣技能<color=Highlight>咻咻斗意</color>时，可积攒【热压弹】。",
                 "Param": [
+                    "30",
+                    "60",
+                    "10"
+                ],
+                "SimpleDesc": "<size=40><color=Title>共鸣技能·咔咔压制</color></size>\n长按共鸣技能<color=Highlight>咻咻斗意</color>，进入<color=Highlight>咔咔压制</color>状态，在该状态下：\n\n·持续消耗【热压弹】攻击目标，造成<color=Fire>热熔伤害</color>；\n·短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第4段普攻</color>攻击目标，造成<color=Fire>热熔伤害</color>，并退出咔咔压制；\n·若短按<color=Highlight>普攻</color>时已消耗{0}发【热压弹】，将会施放共鸣技能<color=Highlight>轰轰</color>，并退出咔咔压制；\n·当【热压弹】消耗完毕后，退出咔咔压制。\n<size=10></size>\n<size=40><color=Title>共鸣技能·轰轰</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>热压弹获取规则</color></size>\n【热压弹】容量上限{1}发。\n固有技能<color=Highlight>灼热弹匣</color>可将【热压弹】容量上限扩充{2}发。\n【热压弹】获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣技能</color>。",
+                "SimpleParam": [
                     "30",
                     "60",
                     "10"
@@ -3308,6 +3335,10 @@
                 "Name": "跃焰",
                 "Desc": "以技能目标为中心，释放冲击波，对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。",
                 "Param": [
+                    "530.00%"
+                ],
+                "SimpleDesc": "对范围内的目标造成炽霞{0}攻击的<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [
                     "530.00%"
                 ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMaxiaofang/SP_IconMaxiaofangT.SP_IconMaxiaofangT",
@@ -3743,5 +3774,21 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "120201": {
+                "Desc": "咔咔压制：长按{0}，消耗30点特殊能量时{1}",
+                "InputList": [
+                    "技能1",
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeZhixia.T_RoleSkillTreeZhixia",
+        "DescList": [
+            "常态攻击、共鸣技能、变奏技能可回复特殊能量",
+            "长按共鸣技能，可持续消耗特殊能量进行攻击"
+        ]
     }
 }

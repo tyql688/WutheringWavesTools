@@ -1048,6 +1048,8 @@
                 "Name": "问难",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段连续攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -1969,6 +1971,8 @@
                 "Name": "基本推衍",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "攻击目标，造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoB1.SP_IconXiangliyaoB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2260,6 +2264,11 @@
                 "Name": "思维矩阵",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>洞见</color>状态。\n在<color=Highlight>洞见</color>状态下：\n·获得{0}个幻方，施放共鸣技能<color=Highlight>万方法则</color>时消耗{1}个幻方，消耗完所有幻方时结束<color=Highlight>洞见</color>状态；\n·<color=Highlight>普攻</color>和<color=Highlight>重击</color>替换为普攻<color=Highlight>枢机·勘破</color>，进行最多3段连续攻击，造成<color=Thunder>导电伤害</color>；\n·共鸣技能<color=Highlight>基本推衍</color>替换为共鸣技能<color=Highlight>一相万殊</color>，造成<color=Thunder>导电伤害</color>；\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>知无定形</color>，此次伤害为共鸣解放伤害。",
                 "Param": [
+                    "3",
+                    "1"
+                ],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>洞见</color>状态。\n在<color=Highlight>洞见</color>状态下：\n·获得{0}个幻方，施放共鸣技能<color=Highlight>万方法则</color>时消耗{1}个幻方，消耗完所有幻方时结束<color=Highlight>洞见</color>状态；\n·<color=Highlight>普攻</color>和<color=Highlight>重击</color>替换为普攻<color=Highlight>枢机·勘破</color>，造成<color=Thunder>导电伤害</color>；\n·共鸣技能<color=Highlight>基本推衍</color>替换为共鸣技能<color=Highlight>一相万殊</color>，造成<color=Thunder>导电伤害</color>；\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>知无定形</color>。",
+                "SimpleParam": [
                     "3",
                     "1"
                 ],
@@ -3277,6 +3286,12 @@
                     "8",
                     "4"
                 ],
+                "SimpleDesc": "施放共鸣技能时，导电伤害加成提升{0}，持续{1}秒，可叠加{2}层。",
+                "SimpleParam": [
+                    "5%",
+                    "8",
+                    "4"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoD1.SP_IconXiangliyaoD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3328,6 +3343,8 @@
                 "Name": "潜心",
                 "Desc": "共鸣解放<color=Highlight>洞见</color>期间抗打断能力提升。",
                 "Param": [],
+                "SimpleDesc": "共鸣解放<color=Highlight>洞见</color>期间抗打断能力提升。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoD2.SP_IconXiangliyaoD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3377,6 +3394,8 @@
                 "Name": "正理",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoQTE.SP_IconXiangliyaoQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3640,6 +3659,20 @@
                 "Name": "察类明故",
                 "Desc": "<size=40><color=Title>共鸣技能·应刃</color></size>\n当【演算效能】达到{0}点时，共鸣技能<color=Highlight>基本推衍</color>替换为<color=Highlight>应刃</color>；\n施放共鸣技能<color=Highlight>应刃</color>时，消耗{8}点【演算效能】，攻击目标，造成<color=Thunder>导电伤害</color>，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>共鸣技能·万方法则</color></size>\n共鸣解放<color=Highlight>洞见</color>状态期间，当【超算效能】达到{1}点时，共鸣技能<color=Highlight>一相万殊</color>替换为<color=Highlight>万方法则</color>；\n施放共鸣技能<color=Highlight>万方法则</color>时，消耗{9}点【超算效能】，攻击目标，造成<color=Thunder>导电伤害</color>，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>空中攻击·解裂重构</color></size>\n施放共鸣技能<color=Highlight>应刃</color>或共鸣技能<color=Highlight>一相万殊</color>后一定时间内短按<color=Highlight>普攻</color>，将消耗耐力施放空中攻击<color=Highlight>解裂重构</color>，造成<color=Thunder>导电伤害</color>，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>演算效能获取规则</color></size>\n上限{2}点。\n常态攻击<color=Highlight>问难</color>命中目标时，回复【演算效能】。\n共鸣技能<color=Highlight>基本推衍</color>命中目标时，回复【演算效能】。\n<size=10> </size>\n<size=40><color=Title>超算效能获取规则</color></size>\n上限{3}点。\n共鸣解放<color=Highlight>洞见</color>状态期间：\n普攻<color=Highlight>枢机·勘破第1段</color>命中目标时，回复{4}点【超算效能】。\n普攻<color=Highlight>枢机·勘破第2、3段</color>命中目标时，回复{5}点【超算效能】。\n施放共鸣技能<color=Highlight>一相万殊</color>时，回复{6}点【超算效能】。\n空中攻击<color=Highlight>解裂重构</color>命中目标时，回复{7}点【超算效能】。\n闪避反击<color=Highlight>知无定形</color>命中目标时，回复{10}点【超算效能】。",
                 "Param": [
+                    "100",
+                    "5",
+                    "100",
+                    "5",
+                    "1",
+                    "2",
+                    "2",
+                    "3",
+                    "100",
+                    "5",
+                    "2"
+                ],
+                "SimpleDesc": "<size=40><color=Title>共鸣技能·应刃</color></size>\n当【演算效能】达到{0}点时，共鸣技能<color=Highlight>基本推衍</color>替换为<color=Highlight>应刃</color>；\n施放共鸣技能<color=Highlight>应刃</color>时，消耗{8}点【演算效能】，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>共鸣技能·万方法则</color></size>\n共鸣解放<color=Highlight>洞见</color>状态期间，当【超算效能】达到{1}点时，共鸣技能<color=Highlight>一相万殊</color>替换为<color=Highlight>万方法则</color>；\n施放共鸣技能<color=Highlight>万方法则</color>时，消耗{9}点【超算效能】，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击·解裂重构</color></size>\n施放共鸣技能<color=Highlight>应刃</color>或共鸣技能<color=Highlight>一相万殊</color>后一定时间内短按<color=Highlight>普攻</color>，将消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>演算效能获取规则</color></size>\n上限{2}点。\n【演算效能】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>\n<size=10></size>\n<size=40><color=Title>超算效能获取规则</color></size>\n上限{3}点。\n【超算效能】的获取途径：<color=Highlight>洞见</color>状态期间：<color=Highlight>普攻</color>、空中攻击<color=Highlight>解裂重构</color>、共鸣技能<color=Highlight>一相万殊</color>、闪避反击<color=Highlight>知无定形</color>",
+                "SimpleParam": [
                     "100",
                     "5",
                     "100",
@@ -4338,6 +4371,12 @@
                     "237.63%",
                     "8"
                 ],
+                "SimpleDesc": "下一位登场角色<color=Highlight>普攻</color>命中目标时，相里要将攻击目标，造成相里要{1}攻击的<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [
+                    "2",
+                    "237.63%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoT.SP_IconXiangliyaoT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4775,5 +4814,28 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiangliyao.T_ActivityRoleXiangliyao",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "130501": {
+                "Desc": "应刃：特殊能量充满后 {1} + {0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "130502": {
+                "Desc": "万方法则：共鸣解放洞见状态期间，特殊能量充满后 {1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeXiangliyao.T_RoleSkillTreeXiangliyao",
+        "DescList": [
+            "常态攻击命中目标及施放共鸣技能都可回复特殊能量",
+            "特殊能量充满时，可以施放强化共鸣技能"
+        ]
     }
 }

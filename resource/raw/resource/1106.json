@@ -1072,6 +1072,8 @@
                 "Name": "霜坠",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n·当【霜色】达到上限时，长按<color=Highlight>普攻</color>，将施放<color=Highlight>落霜坠</color>。\n·处于<color=Highlight>摇匣</color>状态并攒满【霜色】时，松开<color=Highlight>普攻</color>，将直接施放<color=Highlight>落霜坠</color>。若釉瑚此时无法施放<color=Highlight>落霜坠</color>，则直接进行一次<color=Highlight>问祯</color>。\n<color=Highlight>【霜色】的获取规则：</color>\n·当【霜色】未达到上限时，按住<color=Highlight>普攻</color>，进入<color=Highlight>摇匣</color>状态，持续积攒【霜色】。\n·<color=Highlight>普攻</color>命中敌人时，获得【霜色】。\n<size=10> </size>\n<size=40><color=Title>重击·落霜坠</color></size>\n釉瑚将向前冲击，造成<color=Ice>冷凝伤害</color>，并进行一次<color=Highlight>问祯</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后，釉瑚未拥有<color=Highlight>祯祥</color>的情况下，一定时间内短按<color=Highlight>普攻</color>，将会向前冲击，造成<color=Ice>冷凝伤害</color>，并进行一次<color=Highlight>问祯</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n·当【霜色】达到上限时，长按<color=Highlight>普攻</color>，将施放<color=Highlight>落霜坠</color>。\n<color=Highlight>【霜色】的获取规则：</color>\n·当【霜色】未达到上限时，按住<color=Highlight>普攻</color>，进入<color=Highlight>摇匣</color>状态，持续积攒【霜色】。\n·<color=Highlight>普攻</color>命中敌人时，获得【霜色】。\n<size=10></size>\n<size=40><color=Title>重击·落霜坠</color></size>\n造成<color=Ice>冷凝伤害</color>，并进行一次<color=Highlight>问祯</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>，并进行一次<color=Highlight>问祯</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -1751,6 +1753,8 @@
                 "Name": "匣中问祯",
                 "Desc": "釉瑚掷出匣子，造成<color=Ice>冷凝伤害</color>，回复附近队伍中所有角色的生命值，并进行一次<color=Highlight>问祯</color>。\n<size=10> </size>\n<size=40><color=Title>问祯</color></size>\n进行<color=Highlight>问祯</color>后，有概率获得不同的<color=Highlight>祯祥</color>。\n拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。\n拥有<color=Highlight>祯祥</color>的状态下获得新的<color=Highlight>祯祥</color>，则会用新的<color=Highlight>祯祥</color>替换掉旧的<color=Highlight>祯祥</color>。\n<size=10> </size>\n<size=40><color=Title>奇珍赏</color></size>\n·<color=Highlight>编钟</color>：使用编钟进行攻击，造成<color=Ice>冷凝伤害</color>。编钟削减怪物共振度的能力较强。\n·<color=Highlight>如意</color>：使用如意对前方进行挥打，造成<color=Ice>冷凝伤害</color>。如意的伤害倍率较高。\n·<color=Highlight>鼎</color>：跳上鼎往前位移撞击敌人，造成<color=Ice>冷凝伤害</color>。鼎的打断能力较强。\n·<color=Highlight>面具</color>：丢出面具对前方敌人进行攻击，造成<color=Ice>冷凝伤害</color>。面具可牵引飞行路径上的目标。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，回复附近队伍中所有角色的生命值，并进行一次<color=Highlight>问祯</color>。\n<size=10></size>\n<size=40><color=Title>问祯</color></size>\n进行<color=Highlight>问祯</color>后，获得不同的<color=Highlight>祯祥</color>。\n拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>。\n<size=10></size>\n<size=40><color=Title>奇珍赏</color></size>\n·<color=Highlight>编钟</color>：造成<color=Ice>冷凝伤害</color>。削减怪物共振度的能力较强。\n·<color=Highlight>如意</color>：造成<color=Ice>冷凝伤害</color>。伤害倍率较高。\n·<color=Highlight>鼎</color>：造成<color=Ice>冷凝伤害</color>。打断能力较强。\n·<color=Highlight>面具</color>：造成<color=Ice>冷凝伤害</color>。可牵引飞行路径上的目标。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuB4.SP_IconYouhuB4",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2666,6 +2670,8 @@
                 "Name": "如意卜",
                 "Desc": "釉瑚把匣子用力丢出去，对范围内的敌人造成<color=Ice>冷凝伤害</color>。\n爆炸期间会出现按钮， 限时内点击按钮可获得对应<color=Highlight>祯祥</color>，若限时内未点击按钮，则会随机获得一个<color=Highlight>祯祥</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>。\n爆炸期间会出现按钮，限时内点击按钮可获得对应<color=Highlight>祯祥</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuC1.SP_IconYouhuC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2989,6 +2995,10 @@
                 "Param": [
                     "30%"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>奇珍赏</color>时，回复附近队伍中所有角色的生命值，回复量为共鸣技能<color=Highlight>匣中问祯</color>治疗量的{0}。",
+                "SimpleParam": [
+                    "30%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuD1.SP_IconYouhuD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3043,6 +3053,11 @@
                     "15%",
                     "14"
                 ],
+                "SimpleDesc": "施放变奏技能<color=Highlight>遂心匣</color>时，釉瑚的冷凝伤害加成提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "15%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuD2.SP_IconYouhuD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3092,6 +3107,8 @@
                 "Name": "遂心匣",
                 "Desc": "釉瑚掷出匣子，并进行一次<color=Highlight>问祯</color>。",
                 "Param": [],
+                "SimpleDesc": "进行一次<color=Highlight>问祯</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuQTE.SP_IconYouhuQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3386,6 +3403,11 @@
                 "Name": "诗中物",
                 "Desc": "釉瑚拥有四个【吉兆】时，长按<color=Highlight>普攻</color>将施放<color=Highlight>诗中物</color>，造成<color=Ice>冷凝伤害</color>，此次伤害为共鸣技能伤害，并且回复附近队伍中所有角色的生命值。\n釉瑚最多同时拥有四个【吉兆】。\n<size=10> </size>\n<size=40><color=Title>诗中物</color></size>\n对范围敌人造成<color=Ice>冷凝伤害</color>，并且根据【吉兆】组合的不同获得以下的一种额外效果：\n·<color=Highlight>飞白</color>：每种【吉兆】都拥有时。对命中的敌人造成额外共振值伤害。\n·<color=Highlight>对偶</color>：拥有一对相同的【吉兆】时。<color=Highlight>诗中物</color>造成的伤害提升{0}。\n·<color=Highlight>双关</color>：拥有两对相同的【吉兆】时。额外回复附近队伍中所有角色的生命值。\n·<color=Highlight>联珠</color>：拥有三个相同的【吉兆】时。<color=Highlight>诗中物</color>造成的伤害提升{1}。\n·<color=Highlight>合说</color>：拥有四个相同的【吉兆】时。同时触发<color=Highlight>飞白</color>、<color=Highlight>双关</color>、<color=Highlight>联珠</color>的效果。\n施放<color=Highlight>诗中物</color>后，清除所有【吉兆】。\n<size=10> </size>\n<size=40><color=Title>【吉兆】的获取规则</color></size>\n·施放共鸣技能<color=Highlight>匣中问祯</color>、变奏技能<color=Highlight>遂心匣</color>、重击<color=Highlight>落霜坠</color>、共鸣解放<color=Highlight>如意卜</color>、<color=Highlight>闪避反击</color>时，获得<color=Highlight>祯祥</color>。\n·釉瑚拥有<color=Highlight>祯祥</color>的状态下，点击<color=Highlight>普攻</color>时，根据<color=Highlight>祯祥</color>进行对应的<color=Highlight>奇珍赏</color>，并获得对应的【吉兆】。",
                 "Param": [
+                    "70%",
+                    "175%"
+                ],
+                "SimpleDesc": "釉瑚拥有四个【吉兆】时，长按<color=Highlight>普攻</color>将施放<color=Highlight>诗中物</color>，造成<color=Ice>冷凝伤害</color>，并且回复附近队伍中所有角色的生命值。\n釉瑚最多同时拥有四个【吉兆】。\n<size=10></size>\n<size=40><color=Title>诗中物</color></size>\n造成<color=Ice>冷凝伤害</color>，并且根据【吉兆】组合的不同获得以下的一种额外效果：\n·<color=Highlight>飞白</color>：每种【吉兆】都拥有时。造成额外共振值伤害。\n·<color=Highlight>对偶</color>：拥有一对相同的【吉兆】时。造成的伤害提升{0}。\n·<color=Highlight>双关</color>：拥有两对相同的【吉兆】时。额外回复附近队伍中所有角色的生命值。\n·<color=Highlight>联珠</color>：拥有三个相同的【吉兆】时。造成的伤害提升{1}。\n·<color=Highlight>合说</color>：拥有四个相同的【吉兆】时。同时触发<color=Highlight>飞白</color>、<color=Highlight>双关</color>、<color=Highlight>联珠</color>的效果。\n施放<color=Highlight>诗中物</color>后，清除所有【吉兆】。\n<size=10></size>\n<size=40><color=Title>【吉兆】的获取规则</color></size>\n【吉兆】的获取途径：施放<color=Highlight>奇珍赏</color>，获得对应的【吉兆】。",
+                "SimpleParam": [
                     "70%",
                     "175%"
                 ],
@@ -3990,6 +4012,11 @@
                     "100%",
                     "28"
                 ],
+                "SimpleDesc": "下一位登场角色的协同攻击伤害加深{0}。",
+                "SimpleParam": [
+                    "100%",
+                    "28"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYouhu/SP_IconYouhuT.SP_IconYouhuT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4424,5 +4451,34 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYouhu.T_ActivityRoleYouhu",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110601": {
+                "Desc": "匣中问祯：点击{1}，造成伤害并回复生命值，并随机获得一个祯祥",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "110602": {
+                "Desc": "如意卜：施放后，点击对应按键，选择一个祯祥",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "110603": {
+                "Desc": "诗中物：拥有4个吉兆时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYouhu.T_RoleSkillTreeYouhu",
+        "DescList": [
+            "长按普攻持续回复特殊能量，满特殊能量时松开普攻可释放重击，随机获得一个祯祥。",
+            "拥有祯祥时，点击普攻施放对应奇珍赏技能，获得对应的吉兆。\n拥有四个吉兆时，长按普攻释放诗中物，根据吉兆的类型和数量获得不同的额外效果。"
+        ]
     }
 }

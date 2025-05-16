@@ -1078,6 +1078,8 @@
                 "Name": "应许",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n指挥忧昙进行最多4段的连续攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n持续消耗耐力，牵引忧昙攻击目标，造成<color=Ice>冷凝伤害</color>。重击期间可控制忧昙进行移动。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，在空中召唤忧昙进行下落攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n持续消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1754,6 +1756,8 @@
                 "Name": "应急预案",
                 "Desc": "呼唤忧昙攻击目标，造成<color=Ice>冷凝伤害</color>，并立即为附近队伍中所有角色回复生命值。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，为附近队伍中所有角色回复生命值。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianB1.SP_IconBailianB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2102,6 +2106,12 @@
                 "Name": "刹那合弥",
                 "Desc": "召唤忧昙瞬间为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。\n<size=10> </size>\n<size=40><color=Title>频隙回响</color></size>\n频隙回响会跟随队伍中登场角色，每{1}秒会消耗{2}段<color=Highlight>频隙回响</color>进行协同攻击，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。",
                 "Param": [
+                    "4",
+                    "2.5",
+                    "1"
+                ],
+                "SimpleDesc": "为附近队伍中所有角色回复生命值，并依次产生{0}段<color=Highlight>频隙回响</color>。\n<size=10></size>\n<size=40><color=Title>频隙回响</color></size>\n频隙回响会跟随队伍中登场角色，持续消耗<color=Highlight>频隙回响</color>攻击目标，命中目标时造成<color=Ice>冷凝伤害</color>，并以命中点为中心，为附近队伍中所有角色回复生命值。",
+                "SimpleParam": [
                     "4",
                     "2.5",
                     "1"
@@ -2578,6 +2588,12 @@
                     "15%",
                     "20"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>应急预案</color>时，忧昙会留下一片<color=Highlight>天籁</color>，存在时间{0}秒。\n<size=10> </size>\n<size=40><color=Title>天籁</color></size>\n拾取天籁的角色攻击提升{1}，持续{2}秒。",
+                "SimpleParam": [
+                    "15",
+                    "15%",
+                    "20"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianD2.SP_IconBailianD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2631,6 +2647,10 @@
                 "Param": [
                     "0.25%"
                 ],
+                "SimpleDesc": "<color=Highlight>重击</color>每次命中目标时，都能为附近队伍中生命值最少的角色回复生命值，回复量为白芷自身{0}生命上限。",
+                "SimpleParam": [
+                    "0.25%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianD1.SP_IconBailianD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2680,6 +2700,8 @@
                 "Name": "覆雪流盈",
                 "Desc": "白芷召唤忧昙，进行1次俯冲攻击，造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，并为附近队伍中所有角色回复生命值。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianQTE.SP_IconBailianQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3006,6 +3028,14 @@
                     "4",
                     "1"
                 ],
+                "SimpleDesc": "<size=40><color=Title>忧昙</color></size>\n忧昙继承白芷的全部属性。白芷闪避时，忧昙会回到白芷身边。\n<size=10></size>\n<size=40><color=Title>念意</color></size>\n施放<color=Highlight>重击</color>或共鸣技能<color=Highlight>应急预案</color>时，消耗所有【念意】，根据消耗的数量，持续为附近队伍的角色回复生命值。\n<color=Highlight>重击</color>消耗【念意】时，白芷额外回复协奏能量和共鸣能量。\n共鸣技能<color=Highlight>应急预案</color>消耗【念意】时，白芷额外回复协奏能量。\n<size=10></size>\n<size=40><color=Title>念意获取规则</color></size>\n【念意】上限{3}点。\n【念意】的获取途径：<color=Highlight>普攻</color>。",
+                "SimpleParam": [
+                    "1",
+                    "1",
+                    "2",
+                    "4",
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianY.SP_IconBailianY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3321,6 +3351,14 @@
                 "Name": "命源输送",
                 "Desc": "持续为下一位登场角色回复生命值，每{0}秒回复白芷{1}生命上限的生命值，持续{2}秒。受到此治疗效果时，角色全伤害加深{3}，持续{4}秒。",
                 "Param": [
+                    "3",
+                    "1.54%",
+                    "30",
+                    "15%",
+                    "6"
+                ],
+                "SimpleDesc": "持续为下一位登场角色回复生命值。受到此治疗效果时，角色全伤害加深{3}。",
+                "SimpleParam": [
                     "3",
                     "1.54%",
                     "30",
@@ -3767,5 +3805,27 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110301": {
+                "Desc": "重击消耗特殊能量：拥有特殊能量时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "110302": {
+                "Desc": "共鸣技能消耗特殊能量：拥有特殊能量时，按{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeBaizhi.T_RoleSkillTreeBaizhi",
+        "DescList": [
+            "普攻命中目标时，回复1点特殊能量",
+            "施放共鸣技能或重击会消耗特殊能量，并回复生命值"
+        ]
     }
 }

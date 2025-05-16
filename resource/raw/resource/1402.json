@@ -1060,6 +1060,8 @@
                 "Name": "风羽为刃",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·风吟</color></size>\n<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>风吟</color>攻击目标，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·风吟</color></size>\n<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后一定时间内短按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>风吟</color>攻击目标，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1919,6 +1921,8 @@
                 "Name": "流风载域",
                 "Desc": "使用迅刀划分风场，并将周围的目标牵引至风场中心，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "牵引目标，造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangB1.SP_IconYangyangB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2459,6 +2463,8 @@
                 "Name": "朔风旋涌",
                 "Desc": "挥刃制造旋风，将周围的目标牵引至旋风中心，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "牵引目标，造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangC1.SP_IconYangyangC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2813,6 +2819,10 @@
                 "Param": [
                     "30"
                 ],
+                "SimpleDesc": "施放空中攻击<color=Highlight>释羽</color>后，回复{0}点耐力。",
+                "SimpleParam": [
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangD1.SP_IconYangyangD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2867,6 +2877,11 @@
                     "8%",
                     "8"
                 ],
+                "SimpleDesc": "施放变奏技能<color=Highlight>湛蓝礼赞</color>后，秧秧的气动伤害加成提升{0}，效果持续{1}秒。",
+                "SimpleParam": [
+                    "8%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangD2.SP_IconYangyangD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2916,6 +2931,8 @@
                 "Name": "湛蓝礼赞",
                 "Desc": "使用迅刀击飞目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangQTE.SP_IconYangyangQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3151,6 +3168,16 @@
                 "Name": "覆声裁羽",
                 "Desc": "<size=40><color=Title>重击·风袭</color></size>\n当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击·释羽</color></size>\n当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，发动连续攻击，并自空中俯冲造成<color=Wind>气动伤害</color>。落地后，秧秧将收刀攻击，造成<color=Wind>气动伤害</color>，此次伤害为普攻伤害。\n<size=10> </size>\n<size=40><color=Title>流响获取规则</color></size>\n【流响】上限{2}声。\n<color=Highlight>第4段普攻</color>命中目标时，获取{3}声【流响】。\n重击<color=Highlight>风吟</color>命中目标时，获取{4}声【流响】。\n共鸣技能<color=Highlight>流风载域</color>命中目标时，获取{5}声【流响】。\n施放变奏技能<color=Highlight>湛蓝礼赞</color>时，获取{6}声【流响】。",
                 "Param": [
+                    "3",
+                    "3",
+                    "3",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·风袭</color></size>\n当秧秧持有{0}声【流响】时，施放<color=Highlight>重击</color>或<color=Highlight>闪避反击</color>后可触发<color=Highlight>风袭</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击·释羽</color></size>\n当秧秧持有{1}声【流响】时，在空中使用<color=Highlight>普攻</color>，将消耗所有【流响】，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>流响获取规则</color></size>\n【流响】上限{2}点。\n【流响】的获取途径：<color=Highlight>普攻</color>、<color=Highlight>重击·风吟</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>。",
+                "SimpleParam": [
                     "3",
                     "3",
                     "3",
@@ -3608,6 +3635,11 @@
                     "4",
                     "5"
                 ],
+                "SimpleDesc": "持续为下一位登场角色回复共鸣能量。",
+                "SimpleParam": [
+                    "4",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYangyang/SP_IconYangyangT.SP_IconYangyangT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4043,5 +4075,34 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "140201": {
+                "Desc": "重击·风袭：拥有3点特殊能量时，长按{0}",
+                "InputList": [
+                    "攻击",
+                    "攻击"
+                ]
+            },
+            "140202": {
+                "Desc": "空中攻击·释羽：拥有3点特殊能量时，空中状态 + {0}",
+                "InputList": [
+                    "攻击",
+                    "攻击"
+                ]
+            },
+            "140203": {
+                "Desc": "重击·风吟：重击期间，点按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYangyang.T_RoleSkillTreeYangyang",
+        "DescList": [
+            "普攻第4段、重击派生、共鸣技能或变奏技能命中目标时，回复特殊能量",
+            "攒满特殊能量时，在空中可施放强化攻击"
+        ]
     }
 }

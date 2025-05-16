@@ -1060,6 +1060,8 @@
                 "Name": "寒光",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段的连续攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力发动攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -1793,6 +1795,10 @@
                 "Param": [
                     "1"
                 ],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，剑气会留下{0}道【冰棱】。",
+                "SimpleParam": [
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaB1.SP_IconSanhuaB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2080,6 +2086,11 @@
                 "Name": "焦瞑冻土",
                 "Desc": "造成<color=Ice>冷凝伤害</color>，并形成{0}道【冰川】。",
                 "Param": [
+                    "1",
+                    "5"
+                ],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，并形成{0}道【冰川】。",
+                "SimpleParam": [
                     "1",
                     "5"
                 ],
@@ -2401,6 +2412,11 @@
                     "20%",
                     "8"
                 ],
+                "SimpleDesc": "施放变奏技能时，散华的共鸣技能伤害提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "20%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaD1.SP_IconSanhuaD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2455,6 +2471,11 @@
                     "20%",
                     "8"
                 ],
+                "SimpleDesc": "施放<color=Highlight>第5段普攻</color>后，散华共鸣回路<color=Highlight>冰绽</color>造成的伤害提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "20%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaD2.SP_IconSanhuaD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2504,6 +2525,8 @@
                 "Name": "凛刺",
                 "Desc": "挥刀坠击 ，造成<color=Ice>冷凝伤害</color>，留下1道【冰棘】。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，留下1道【冰棘】。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaQTE.SP_IconSanhuaQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2765,6 +2788,16 @@
                 "Name": "无明心音",
                 "Desc": "<size=40><color=Title>重击·爆裂</color></size>\n按住<color=Highlight>普攻</color>时，指针将会移动，若指针在【冰痕】区域时松开<color=Highlight>普攻</color>，散华将施放重击<color=Highlight>爆裂</color>攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>冰绽</color></size>\n重击<color=Highlight>爆裂</color>会引爆攻击范围内的【冰棘】、【冰棱】和【冰川】，造成<color=Ice>冷凝伤害</color>，<color=Highlight>冰绽</color>造成的伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>冰痕区域扩大规则</color></size>\n每拥有{0}层【透视】都会扩大【冰痕】区域，最多可拥有{1}层【透视】。\n施放<color=Highlight>第5段普攻</color>时，获得{2}层【透视】。\n施放变奏技能<color=Highlight>凛刺</color>时，获得{3}层【透视】。\n施放共鸣技能<color=Highlight>朔雪永冻</color>时，获得{4}层【透视】。\n施放共鸣解放<color=Highlight>焦瞑冻土</color>时，获得{5}层【透视】。\n施放重击<color=Highlight>爆裂</color>时，移除所有【透视】。",
                 "Param": [
+                    "1",
+                    "2",
+                    "1",
+                    "1",
+                    "1",
+                    "2",
+                    "5"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·爆裂</color></size>\n按住<color=Highlight>普攻</color>时，指针将会移动，若指针在【冰痕】区域时松开<color=Highlight>普攻</color>，散华将施放重击<color=Highlight>爆裂</color>，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>冰绽</color></size>\n重击<color=Highlight>爆裂</color>会引爆攻击范围内的【冰棘】、【冰棱】和【冰川】，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>冰痕区域扩大规则</color></size>\n每拥有{0}层【透视】都会扩大【冰痕】区域，最多可拥有{1}层【透视】。\n【透视】获取途径：<color=Highlight>第5段普攻</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>共鸣解放</color>。\n施放重击<color=Highlight>爆裂</color>时，移除所有【透视】。",
+                "SimpleParam": [
                     "1",
                     "2",
                     "1",
@@ -3370,6 +3403,11 @@
                     "38%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色普攻伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "38%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconSanhua/SP_IconSanhuaT.SP_IconSanhuaT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -3820,5 +3858,35 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleSanhua.T_ActivityRoleSanhua",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110201": {
+                "Desc": "重击·爆裂：长按{0}，指针在【冰痕】区域内松开{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1",
+                    "大招"
+                ]
+            },
+            "110202": {
+                "Desc": "冰绽：使用重击·爆裂穿过冰棘、冰棱或冰川",
+                "InputList": [
+                    "攻击",
+                    "技能1",
+                    "大招"
+                ]
+            },
+            "110203": {
+                "Desc": "重击：长按{0}后松开{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeSanhua.T_RoleSkillTreeSanhua",
+        "DescList": [
+            "长按普攻时，特殊能量上的光标将会移动"
+        ]
     }
 }

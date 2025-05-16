@@ -1084,6 +1084,8 @@
                 "Name": "孤枪止戈",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行至多5段的连续攻击，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力进行突刺攻击，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·凌空击</color></size>\n若在<color=Highlight>重击</color>期间按住<color=Highlight>普攻</color>，会在<color=Highlight>重击</color>结束后施放<color=Highlight>凌空击</color>，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·潜渊斩</color></size>\n若在<color=Highlight>重击</color>期间松开<color=Highlight>普攻</color>，会在<color=Highlight>重击</color>结束后施放<color=Highlight>潜渊斩</color>，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Wind>气动伤害</color>。\n在<color=Highlight>下落攻击</color>后一定时间内短按<color=Highlight>普攻</color>，将会追击目标，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击·长空不坠</color></size>\n施放重击<color=Highlight>凌空击</color>或在空中施放共鸣技能<color=Highlight>枪扫风定</color>一定时间内，可以进行浮空攻击，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·凌空击</color></size>\n若在<color=Highlight>重击</color>期间按住<color=Highlight>普攻</color>，会在<color=Highlight>重击</color>结束后施放<color=Highlight>凌空击</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·潜渊斩</color></size>\n若在<color=Highlight>重击</color>期间松开<color=Highlight>普攻</color>，会在<color=Highlight>重击</color>结束后施放<color=Highlight>潜渊斩</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n在<color=Highlight>下落攻击</color>后一定时间内短按<color=Highlight>普攻</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击·长空不坠</color></size>\n施放重击<color=Highlight>凌空击</color>或在空中施放共鸣技能<color=Highlight>枪扫风定</color>一定时间内，短按<color=Highlight>普攻</color>，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword",
                 "Type": "常态攻击",
                 "Level": {
@@ -2334,6 +2336,8 @@
                 "Name": "枪扫风定",
                 "Desc": "向前突进一定距离，造成<color=Wind>气动伤害</color>。\n<size=10> </size>\n可在空中施放。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanB1.SP_IconJiyanB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2656,6 +2660,10 @@
                 "Name": "苍躣八荒·谋定",
                 "Desc": "施放苍躣八荒·谋定后，忌炎进入<color=Highlight>破阵状态</color>。\n<size=10> </size>\n<size=40><color=Title>破阵状态</color></size>\n·忌炎的抗打断能力提升;\n·<color=Highlight>普攻</color>、<color=Highlight>重击</color>和<color=Highlight>闪避反击</color>替换为重击<color=Highlight>破阵之枪</color>。\n<size=10> </size>\n<size=40><color=Title>重击·破阵之枪</color></size>\n进行最多3段的连续攻击，造成<color=Wind>气动伤害</color>，此次伤害为重击伤害。",
                 "Param": [
+                    "10"
+                ],
+                "SimpleDesc": "施放苍躣八荒·谋定后，忌炎进入<color=Highlight>破阵状态</color>。\n<size=10></size>\n<size=40><color=Title>破阵状态</color></size>\n·忌炎的抗打断能力提升;\n·<color=Highlight>普攻</color>、<color=Highlight>重击</color>和<color=Highlight>闪避反击</color>替换为重击<color=Highlight>破阵之枪</color>。\n<size=10></size>\n<size=40><color=Title>重击·破阵之枪</color></size>\n造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [
                     "10"
                 ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanC1.SP_IconJiyanC1",
@@ -3312,6 +3320,11 @@
                     "10%",
                     "15"
                 ],
+                "SimpleDesc": "施放变奏技能<color=Highlight>攻其不备</color>后，忌炎的攻击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "10%",
+                    "15"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanD1.SP_IconJiyanD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3366,6 +3379,11 @@
                     "12%",
                     "8"
                 ],
+                "SimpleDesc": "攻击命中目标时，忌炎的暴击伤害提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "12%",
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanD2.SP_IconJiyanD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3415,6 +3433,8 @@
                 "Name": "攻其不备",
                 "Desc": "忌炎手持长枪，自空中刺向目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Wind>气动伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanQTE.SP_IconJiyanQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3709,6 +3729,17 @@
                 "Name": "苍龙破阵",
                 "Desc": "施放共鸣技能<color=Highlight>枪扫风定</color>时，若积攒{0}点以上【破阵值】，则消耗{1}点【破阵值】，此次共鸣技能<color=Highlight>枪扫风定</color>伤害提升{2}。\n处于<color=Highlight>破阵状态</color>时，共鸣技能<color=Highlight>枪扫风定</color>伤害提升{3}，且不再消耗【破阵值】。\n<size=10> </size>\n<size=40><color=Title>共鸣解放·苍躣八荒·后动</color></size>\n施放共鸣解放<color=Highlight>苍躣八荒·谋定</color>时，若积攒{4}点以上【破阵值】，则消耗{5}点【破阵值】，施放苍躣八荒·后动，造成<color=Wind>气动伤害</color>，此次伤害为重击伤害。\n可在低空中施放苍躣八荒·后动。\n<size=10> </size>\n<size=40><color=Title>破阵值的获取规则</color></size>\n【破阵值】上限{6}点。\n常态攻击<color=Highlight>孤枪止戈</color>命中目标时积攒【破阵值】。\n变奏技能<color=Highlight>攻其不备</color>命中目标时积攒【破阵值】。\n若在{7}秒内，忌炎没有命中目标，【破阵值】会逐渐减少。",
                 "Param": [
+                    "30",
+                    "30",
+                    "20%",
+                    "20%",
+                    "30",
+                    "30",
+                    "60",
+                    "15"
+                ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>枪扫风定</color>时，若积攒{0}点以上【破阵值】，则消耗{1}点【破阵值】，此次共鸣技能<color=Highlight>枪扫风定</color>伤害提升{2}。\n处于<color=Highlight>破阵状态</color>时，共鸣技能<color=Highlight>枪扫风定</color>伤害提升{3}，且不再消耗【破阵值】。\n<size=10></size>\n<size=40><color=Title>共鸣解放·苍躣八荒·后动</color></size>\n施放共鸣解放<color=Highlight>苍躣八荒·谋定</color>时，若积攒{4}点以上【破阵值】，则消耗{5}点【破阵值】，施放苍躣八荒·后动，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>破阵值获取规则</color></size>\n【破阵值】上限{6}点。\n【破阵值】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>\n若在{7}秒内，忌炎没有命中目标，【破阵值】会逐渐减少。",
+                "SimpleParam": [
                     "30",
                     "30",
                     "20%",
@@ -4205,6 +4236,12 @@
                     "8",
                     "1"
                 ],
+                "SimpleDesc": "下一位登场角色重击命中目标时，忌炎将协同攻击，造成忌炎{0}攻击的<color=Wind>气动伤害</color>。",
+                "SimpleParam": [
+                    "313.40%",
+                    "8",
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanT.SP_IconJiyanT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4673,5 +4710,49 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "140401": {
+                "Desc": "苍躣八荒·后动：特殊能量大于30时，使用{0}",
+                "InputList": [
+                    "大招",
+                    "技能1"
+                ]
+            },
+            "140402": {
+                "Desc": "重击：长按{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140403": {
+                "Desc": "凌空击：在重击期间，按住{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140404": {
+                "Desc": "潜渊斩：在重击期间，松开{0}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            },
+            "140405": {
+                "Desc": "苍躣八荒·谋定：特殊能量小于30时，使用{0}",
+                "InputList": [
+                    "大招",
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeJiyan.T_RoleSkillTreeJiyan",
+        "DescList": [
+            "常态攻击和变奏技能命中目标时，回复特殊能量",
+            "特殊能量回复过半时，可施放强化共鸣技能或强化共鸣解放"
+        ]
     }
 }

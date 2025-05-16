@@ -1180,6 +1180,8 @@
                 "Name": "常态·凛凛威风拳",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>普攻·崩拳·当头咆哮</color></size>\n施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>后，<color=Highlight>普攻第5段</color>替换为<color=Highlight>崩拳·当头咆哮</color>，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>普攻·崩拳·当头咆哮</color></size>\n施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>后，<color=Highlight>普攻第5段</color>替换为<color=Highlight>崩拳·当头咆哮</color>，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -2067,6 +2069,8 @@
                 "Name": "冲掌·势式相承",
                 "Desc": "<size=40><color=Title>冲掌·势式相承</color></size>\n攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>惊跃·郁怒追逃</color></size>\n<color=Highlight>第3、4、5段普攻</color>或普攻<color=Highlight>崩拳·当头咆哮</color>命中目标时，共鸣技能<color=Highlight>冲掌·势式相承</color>替换为共鸣技能<color=Highlight>惊跃·郁怒追逃</color>。\n在普攻<color=Highlight>崩拳·当头咆哮</color>后施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>，短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段普攻</color>。\n<size=10> </size>\n凌阳的共鸣技能不会打断普攻循环段数。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>惊跃·郁怒追逃</color></size>\n<color=Highlight>第3、4、5段普攻</color>或普攻<color=Highlight>崩拳·当头咆哮</color>命中目标时，共鸣技能替换为<color=Highlight>惊跃·郁怒追逃</color>。\n在普攻<color=Highlight>崩拳·当头咆哮</color>后施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>，短按<color=Highlight>普攻</color>，将会施放<color=Highlight>第3段普攻</color>。\n<size=10></size>\n凌阳的共鸣技能不会打断普攻循环段数。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangB1.SP_IconLingyangB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2389,6 +2393,10 @@
                 "Name": "奋进·狮子奋迅，俱足万行",
                 "Desc": "攻击目标，造成<color=Ice>冷凝伤害</color>，并受到<color=Highlight>狮子奋迅</color>祝福。\n<size=10> </size>\n<size=40><color=Title>狮子奋迅</color></size>\n凌阳的<color=Ice>冷凝伤害加成</color>提升{0}。",
                 "Param": [
+                    "50%"
+                ],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，获得<color=Highlight>狮子奋迅</color>。\n<size=10></size>\n<size=40><color=Title>狮子奋迅</color></size>\n凌阳的<color=Ice>冷凝伤害加成</color>提升{0}。",
+                "SimpleParam": [
                     "50%"
                 ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangC1.SP_IconLingyangC1",
@@ -2740,6 +2748,10 @@
                 "Param": [
                     "50%"
                 ],
+                "SimpleDesc": "变奏技能<color=Highlight>出洞·睡狮蛰醒</color>的伤害提升{0}。",
+                "SimpleParam": [
+                    "50%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangD1.SP_IconLingyangD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2794,6 +2806,11 @@
                     "3",
                     "150%"
                 ],
+                "SimpleDesc": "在共鸣回路<color=Highlight>行狮</color>状态下，每次施放<color=Highlight>普攻</color>后{0}秒内，下次共鸣回路<color=Highlight>飞身式·翻山越涧</color>将额外造成1次<color=Ice>冷凝伤害</color>，伤害为共鸣回路<color=Highlight>飞身式·翻山越涧</color>的{1}，此次伤害为共鸣技能伤害。",
+                "SimpleParam": [
+                    "3",
+                    "150%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangD2.SP_IconLingyangD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2843,6 +2860,8 @@
                 "Name": "出洞·睡狮蛰醒",
                 "Desc": "凌阳出场造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangQTE.SP_IconLingyangQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3104,6 +3123,14 @@
                 "Name": "形神合一",
                 "Desc": "<size=40><color=Title>重击·起势·纵地金光</color></size>\n施放<color=Highlight>重击</color>时，若满【狮魂】，将会施放<color=Highlight>起势·纵地金光</color>攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击·登楼·尾坠千斤</color></size>\n在自身【狮魂】未满时，<color=Highlight>重击</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>登楼·尾坠千斤</color>攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>行狮</color></size>\n施放重击<color=Highlight>起势·纵地金光</color>后，进入<color=Highlight>行狮</color>状态；\n施放变奏技能<color=Highlight>出洞·睡狮蛰醒</color>或共鸣解放<color=Highlight>奋进·狮子奋迅，俱足万行</color>后，若满【狮魂】，短按<color=Highlight>普攻</color>可进入<color=Highlight>行狮</color>状态。\n在行狮状态中：\n·可在空中进行攻击，若回到地面，施放重击<color=Highlight>起势·纵地金光</color>可再次回到空中；\n·持续消耗【狮魂】，消耗完后将结束<color=Highlight>行狮</color>状态，<color=Highlight>行狮</color>状态可维持{0}秒；\n·若同时处于共鸣解放<color=Highlight>狮子奋迅</color>状态，【狮魂】消耗速率降低{1}，<color=Highlight>行狮</color>状态最多可延长至{2}秒；\n·凌阳的<color=Highlight>普攻</color>替换为普攻<color=Highlight>狂态·摇光金狮舞</color>，进行最多2段的连续攻击，造成<color=Ice>冷凝伤害</color>；\n·凌阳的<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>飞身式·翻山越涧</color>，造成<color=Ice>冷凝伤害</color>；\n·当【狮魂】消耗至{3}点以下时，短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>凌云式·腿打连环</color>攻击目标，造成<color=Ice>冷凝伤害</color>；施放普攻<color=Highlight>凌云式·腿打连环</color>后，可施放空中攻击<color=Highlight>登楼·尾坠千斤</color>；\n·消耗【狮魂】时回复协奏能量。\n<size=10> </size>\n<size=40><color=Title>狮魂的获取规则</color></size>\n【狮魂】上限{4}点。\n施放共鸣技能<color=Highlight>惊跃·郁怒追逃</color>时，回复【狮魂】。\n施放变奏技能<color=Highlight>出洞·睡狮蛰醒</color>时，回复【狮魂】。\n施放共鸣解放<color=Highlight>奋进·狮子奋迅，俱足万行</color>时，回复【狮魂】。",
                 "Param": [
+                    "5",
+                    "50%",
+                    "10",
+                    "10",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·起势·纵地金光</color></size>\n施放<color=Highlight>重击</color>时，若满【狮魂】，将会施放<color=Highlight>起势·纵地金光</color>攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击·登楼·尾坠千斤</color></size>\n在自身【狮魂】未满时，<color=Highlight>重击</color>后短按<color=Highlight>普攻</color>，将会施放<color=Highlight>登楼·尾坠千斤</color>攻击目标，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>行狮</color></size>\n施放重击<color=Highlight>起势·纵地金光</color>后，进入<color=Highlight>行狮</color>状态；\n施放变奏技能<color=Highlight>出洞·睡狮蛰醒</color>或共鸣解放<color=Highlight>奋进·狮子奋迅，俱足万行</color>后，若满【狮魂】，短按<color=Highlight>普攻</color>可进入<color=Highlight>行狮</color>状态。\n在行狮状态中：\n·可在空中进行攻击，若回到地面，施放重击<color=Highlight>起势·纵地金光</color>可再次回到空中；\n·持续消耗【狮魂】，消耗完后将结束<color=Highlight>行狮</color>状态；\n·处于<color=Highlight>狮子奋迅</color>状态，【狮魂】消耗速率降低；\n·凌阳的<color=Highlight>普攻</color>替换为普攻<color=Highlight>狂态·摇光金狮舞</color>，造成<color=Ice>冷凝伤害</color>；\n·凌阳的<color=Highlight>共鸣技能</color>替换为共鸣技能<color=Highlight>飞身式·翻山越涧</color>，造成<color=Ice>冷凝伤害</color>；\n·当【狮魂】消耗至{3}点以下时，短按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>凌云式·腿打连环</color>攻击目标，造成<color=Ice>冷凝伤害</color>；施放普攻<color=Highlight>凌云式·腿打连环</color>后，可施放空中攻击<color=Highlight>登楼·尾坠千斤</color>；\n·消耗【狮魂】时回复协奏能量。\n<size=10></size>\n<size=40><color=Title>狮魂的获取规则</color></size>\n【狮魂】上限{4}点。\n【狮魂】的获取途径：<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣解放</color>。",
+                "SimpleParam": [
                     "5",
                     "50%",
                     "10",
@@ -3854,6 +3881,10 @@
                 "Param": [
                     "587.94%"
                 ],
+                "SimpleDesc": "造成凌阳{0}攻击的<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [
+                    "587.94%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLingyang/SP_IconLingyangT.SP_IconLingyangT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4287,5 +4318,32 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleLingyang.T_ActivityRoleLingyang",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110401": {
+                "Desc": "【行狮】状态：特殊能量达到上限时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "110402": {
+                "Desc": "【行狮】状态：施放变奏技能或共鸣解放后，特殊能量达到上限，则点按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "110403": {
+                "Desc": "普攻·凌云式·腿打连环：在【行狮】状态下，特殊能量消耗至不满10点时，点按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeLingyang.T_RoleSkillTreeLingyang",
+        "DescList": [
+            "施放强化共鸣技能、变奏技能和共鸣解放时，回复特殊能量",
+            "特殊能量充满，长按普攻或者在满足条件下点按普攻，可进入强化状态"
+        ]
     }
 }

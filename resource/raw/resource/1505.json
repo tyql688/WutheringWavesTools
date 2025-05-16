@@ -1072,6 +1072,8 @@
                 "Name": "真源构演",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Light>衍射伤害</color>。攻击命中目标时生成<color=Highlight>坍缩核</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n长按<color=Highlight>普攻</color>持续消耗耐力，进入<color=Highlight>解限状态</color>，在该状态下：\n·每1秒积蓄1段<color=Highlight>演算数据</color>。\n·可以自动采集一定范围内的植物类采集物。\n·耐力不足或通过点按<color=Highlight>普攻</color>等方式结束<color=Highlight>解限状态</color>时，对目标造成<color=Light>衍射伤害</color>，同时已积累的每1段<color=Highlight>演算数据</color>转化为1段【实论数据】并生成1枚<color=Highlight>坍缩核</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击。攻击命中目标时生成1枚<color=Highlight>坍缩核</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第2段</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功闪避后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Light>衍射伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Light>衍射伤害</color>。攻击命中目标时生成<color=Highlight>坍缩核</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n持续消耗耐力，进入<color=Highlight>解限状态</color>，在该状态下：\n·每秒积蓄<color=Highlight>演算数据</color>。\n·可以自动采集一定范围内的植物类采集物。\n·耐力不足或通过点按<color=Highlight>普攻</color>等方式结束<color=Highlight>解限状态</color>时，对目标造成<color=Light>衍射伤害</color>，同时已积累的每1段<color=Highlight>演算数据</color>转化为1段【实论数据】并生成1枚<color=Highlight>坍缩核</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力攻击命中目标时生成1枚<color=Highlight>坍缩核</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第2段</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Light>衍射伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1810,6 +1812,8 @@
                 "Name": "混沌理论",
                 "Desc": "回复附近队伍中所有角色的生命值，并召唤5只<color=Highlight>黯星·蝶</color>。<color=Highlight>黯星·蝶</color>将自动追踪目标，造成<color=Light>衍射伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第2段</color>。\n可在空中施放。",
                 "Param": [],
+                "SimpleDesc": "回复附近队伍中所有角色的生命值，并召唤5只<color=Highlight>黯星·蝶</color>。<color=Highlight>黯星·蝶</color>将自动追踪目标，造成<color=Light>衍射伤害</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第2段</color>。\n可在空中施放。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenB1.SP_IconShouanrenB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2160,6 +2164,15 @@
                 "Name": "终末回环",
                 "Desc": "<size=40><color=Title>浅析星域</color></size>\n展开<color=Highlight>浅析星域</color>，持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值，每3秒可触发1次。\n<size=10> </size>\n<size=40><color=Title>深潜星域</color></size>\n<color=Highlight>浅析星域</color>持续期间，当附近队伍中的角色使用<color=Highlight>变奏技能</color>时，将进入<color=Highlight>深潜星域</color>。<color=Highlight>深潜星域</color>生效范围内附近队伍中所有角色暴击提升：守岸人自身每{0}共鸣效率计算为{1}暴击提升，上限{2}。\n<color=Highlight>深潜星域</color>继承<color=Highlight>浅析星域</color>的所有效果。\n<size=10> </size>\n<size=40><color=Title>解限星域</color></size>\n<color=Highlight>深潜星域</color>持续期间，当附近队伍中的角色使用<color=Highlight>变奏技能</color>时，将进入<color=Highlight>解限星域</color>。<color=Highlight>解限星域</color>生效范围内附近队伍中所有角色暴击伤害提升：守岸人自身每{3}共鸣效率计算为{4}暴击伤害提升，上限{5}。\n<color=Highlight>解限星域</color>继承<color=Highlight>浅析星域</color>和<color=Highlight>深潜星域</color>的所有效果。",
                 "Param": [
+                    "0.2%",
+                    "0.01%",
+                    "12.5%",
+                    "0.1%",
+                    "0.01%",
+                    "25%"
+                ],
+                "SimpleDesc": "<size=40><color=Title>浅析星域</color></size>\n展开<color=Highlight>浅析星域</color>，持续为处于<color=Highlight>星域</color>生效范围内的附近队伍中登场角色回复生命值。\n<size=10></size>\n<size=40><color=Title>深潜星域</color></size>\n<color=Highlight>浅析星域</color>持续期间，当附近队伍中的角色使用<color=Highlight>变奏技能</color>时，将进入<color=Highlight>深潜星域</color>。<color=Highlight>深潜星域</color>生效范围内附近队伍中所有角色暴击提升。\n<color=Highlight>深潜星域</color>继承<color=Highlight>浅析星域</color>的所有效果。\n<size=10></size>\n<size=40><color=Title>解限星域</color></size>\n<color=Highlight>深潜星域</color>持续期间，当附近队伍中的角色使用<color=Highlight>变奏技能</color>时，将进入<color=Highlight>解限星域</color>。<color=Highlight>解限星域</color>生效范围内附近队伍中所有角色暴击伤害提升。\n<color=Highlight>解限星域</color>继承<color=Highlight>浅析星域</color>和<color=Highlight>深潜星域</color>的所有效果。",
+                "SimpleParam": [
                     "0.2%",
                     "0.01%",
                     "12.5%",
@@ -2518,6 +2531,10 @@
                 "Param": [
                     "50%"
                 ],
+                "SimpleDesc": "队伍中有守岸人自身以外的角色受到致死伤害时，此次伤害不会使该角色倒下并获得守岸人当前{0}生命值，守岸人扣除等量生命值。守岸人最少保留1点生命值，该效果每10分钟可触发1次。",
+                "SimpleParam": [
+                    "50%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenD1.SP_IconShouanrenD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2572,6 +2589,11 @@
                     "10%",
                     "10%"
                 ],
+                "SimpleDesc": "队伍中登场角色处于<color=Highlight>星域</color>生效范围内时，守岸人共鸣效率提升{0}，若漂泊者处于同一编队中，漂泊者共鸣效率提升{1}。",
+                "SimpleParam": [
+                    "10%",
+                    "10%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenD2.SP_IconShouanrenD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2621,6 +2643,8 @@
                 "Name": "故此证明",
                 "Desc": "<size=40><color=Title>启迪</color></size>\n守岸人出现，回复附近队伍中所有角色的生命值，并召唤5只<color=Highlight>黯星·蝶</color>。<color=Highlight>黯星·蝶</color>将自动追踪目标，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>洞悉</color></size>\n<color=Highlight>解限星域</color>持续期间，守岸人的变奏技能<color=Highlight>启迪</color>替换为变奏技能<color=Highlight>洞悉</color>。施放时对应星域状态结束，回复附近队伍中所有角色的生命值，并攻击目标造成<color=Light>衍射伤害</color>。此次伤害为共鸣解放伤害，并且必定暴击。同一个<color=Highlight>解限星域</color>中仅可触发1次变奏技能<color=Highlight>洞悉</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>启迪</color></size>\n回复附近队伍中所有角色的生命值，并召唤5只<color=Highlight>黯星·蝶</color>。<color=Highlight>黯星·蝶</color>将自动追踪目标，造成<color=Light>衍射伤害</color>，此次伤害为共鸣技能伤害。\n<size=10></size>\n<size=40><color=Title>洞悉</color></size>\n<color=Highlight>解限星域</color>持续期间，变奏技能<color=Highlight>启迪</color>替换为变奏技能<color=Highlight>洞悉</color>。施放时对应星域状态结束，回复附近队伍中所有角色的生命值，并攻击目标造成<color=Light>衍射伤害</color>。此次伤害为共鸣解放伤害，并且必定暴击。同一个<color=Highlight>解限星域</color>中仅可触发1次变奏技能<color=Highlight>洞悉</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenQTE.SP_IconShouanrenQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3123,6 +3147,11 @@
                     "6",
                     "5"
                 ],
+                "SimpleDesc": "<size=40><color=Title>耀星·蝶</color></size>\n常态攻击命中目标时，生成<color=Highlight>坍缩核</color>，并在{0}秒后演化为<color=Highlight>耀星·蝶</color>。<color=Highlight>耀星·蝶</color>将自动追踪目标，造成<color=Light>衍射伤害</color>。若场上<color=Highlight>坍缩核</color>的数量已达到{1}枚，守岸人下一次<color=Highlight>普攻</color>会催生<color=Highlight>坍缩核</color>，使之提前演化为<color=Highlight>耀星·蝶</color>。\n<size=10></size>\n<size=40><color=Title>演绎</color></size>\n持有5段【实论数据】时，施放<color=Highlight>重击</color>将消耗所有【实论数据】，牵引周围的目标，造成<color=Light>衍射伤害</color>，并使所有<color=Highlight>坍缩核</color>立即演化为<color=Highlight>耀星·蝶</color>。\n<size=10></size>\n<size=40><color=Title>衍变</color></size>\n持有5段【实论数据】时，施放<color=Highlight>空中攻击</color>将消耗所有【实论数据】，造成<color=Light>衍射伤害</color>，并使所有<color=Highlight>坍缩核</color>立即演化为<color=Highlight>耀星·蝶</color>。一定时间内短按<color=Highlight>普攻</color>将会施放<color=Highlight>普攻第2段</color>。\n<size=10></size>\n<size=40><color=Title>实论数据获取规则</color></size>\n【实论数据】上限5段。\n【实论数据】的获取途径：<color=Highlight>常态攻击</color>。",
+                "SimpleParam": [
+                    "6",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenY.SP_IconShouanrenY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3592,6 +3621,12 @@
                     "5",
                     "15%"
                 ],
+                "SimpleDesc": "守岸人召唤一只<color=Highlight>耀星·蝶</color>和一只<color=Highlight>黯星·蝶</color>环绕队伍中登场角色，并获得以下效果：\n·若队伍中登场角色处于受击或被击飞状态中，点按<color=Highlight>闪避</color>将脱离受击状态或被击飞状态，并视为闪避成功，若处于低空，则会回到地面。该效果最多可触发{1}次。\n·队伍中的角色全伤害加深{2}。",
+                "SimpleParam": [
+                    "30",
+                    "5",
+                    "15%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconShouanren/SP_IconShouanrenT.SP_IconShouanrenT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4027,5 +4062,42 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleShouanren.T_ActivityRoleShouanren",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150501": {
+                "Desc": "解限状态：特殊能量未达到上限时，长按{0}，持续消耗体力飞行并自动采集一定范围内的植物类采集物",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "150502": {
+                "Desc": "演绎：特殊能量达到上限时，长按{0}，牵引周围的目标并使所有坍缩核立即演化为耀星·蝶",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "150503": {
+                "Desc": "星域：施放{0}后展开星域获得增益效果，星域持续期间附近队伍中的角色施放变奏技能可以获得额外增益效果",
+                "InputList": [
+                    "大招"
+                ]
+            },
+            "150504": {
+                "Desc": "洞悉：解限星域持续期间，守岸人施放变奏技能",
+                "InputList": []
+            },
+            "150505": {
+                "Desc": "双联合相：守岸人延奏技能生效期间，角色处于受击或被击飞状态时，点按{0}视为闪避成功，有次数限制",
+                "InputList": [
+                    "闪避"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeShouanren.T_RoleSkillTreeShouanren",
+        "DescList": [
+            "常态攻击命中目标时，回复特殊能量并生成坍缩核",
+            "特殊能量达到上限时，长按普攻或下落攻击施放强化攻击，并使所有坍缩核立即演化为耀星·蝶"
+        ]
     }
 }

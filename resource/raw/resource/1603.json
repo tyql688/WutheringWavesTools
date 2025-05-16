@@ -1084,6 +1084,8 @@
                 "Name": "育种",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n施放<color=Highlight>第3段普攻</color>或重击<color=Highlight>修枝</color>后，长按<color=Highlight>普攻</color>，将会持续攻击目标，造成<color=Dark>湮灭伤害</color>。\n<color=Highlight>第4段普攻</color>结束后，将会自动施放<color=Highlight>第5段普攻</color>。\n<size=10> </size>\n<size=40><color=Title>重击·修枝</color></size>\n消耗耐力攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n施放<color=Highlight>第3段普攻</color>或重击<color=Highlight>修枝</color>后，长按<color=Highlight>普攻</color>，将会持续攻击目标，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·修枝</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorKnife.SP_IconNorKnife",
                 "Type": "常态攻击",
                 "Level": {
@@ -2315,6 +2317,8 @@
                 "Name": "盛放与凋零的轮舞",
                 "Desc": "<size=40><color=Title>红椿盛绽</color></size>\n攻击目标，造成<color=Dark>湮灭伤害</color>，并进入<color=Highlight>盛绽状态</color>，此次伤害为普攻伤害。\n可在空中施放。\n<size=10> </size>\n<size=40><color=Title>盛绽状态</color></size>\n·椿缠绕藤蔓期间无法移动；\n·<color=Highlight>普攻</color>和重击<color=Highlight>修枝</color>替换为普攻<color=Highlight>蔓舞</color>，进行最多4段的连续攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害;\n·施放普攻<color=Highlight>第3段蔓舞</color>时，长按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>烬华蔓舞</color>，造成<color=Dark>湮灭伤害</color>，并自动施放普攻<color=Highlight>第4段蔓舞</color>;\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>偿赎</color>，成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害；\n·共鸣技能替换为共鸣技能<color=Highlight>黯蕊猎心</color>，施放<color=Highlight>黯蕊猎心</color>时，将会攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害；\n·可在空中施放共鸣技能<color=Highlight>黯蕊猎心</color>；\n·施放共鸣技能<color=Highlight>黯蕊猎心</color>后，将会退出<color=Highlight>盛绽状态</color>;\n·施放<color=Highlight>控物</color>时，将会退出<color=Highlight>盛绽状态</color>；\n·跳跃替换为普攻<color=Highlight>旋舞</color>，短按跳跃，将会消耗耐力攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害，并退出<color=Highlight>盛绽状态</color>；\n·在空中施放普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>，将会消耗耐力；\n·施放共鸣技能<color=Highlight>黯蕊猎心</color>时，无法回复耐力；\n·在空中缠绕藤蔓期间，持续消耗耐力。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>红椿盛绽</color></size>\n造成<color=Dark>湮灭伤害</color>，并进入<color=Highlight>盛绽状态</color>。\n<size=10></size>\n<size=40><color=Title>盛绽状态</color></size>\n·椿缠绕藤蔓期间无法移动；\n·<color=Highlight>普攻</color>和重击<color=Highlight>修枝</color>替换为普攻<color=Highlight>蔓舞</color>，造成<color=Dark>湮灭伤害</color>;\n·施放普攻<color=Highlight>第3段蔓舞</color>时，长按<color=Highlight>普攻</color>，将会施放普攻<color=Highlight>烬华蔓舞</color>，造成<color=Dark>湮灭伤害</color>;\n·<color=Highlight>闪避反击</color>替换为闪避反击<color=Highlight>偿赎</color>，造成<color=Dark>湮灭伤害</color>；\n·共鸣技能替换为共鸣技能<color=Highlight>黯蕊猎心</color>，施放<color=Highlight>黯蕊猎心</color>时，造成<color=Dark>湮灭伤害</color>;\n·施放共鸣技能<color=Highlight>黯蕊猎心</color>后，将会退出<color=Highlight>盛绽状态</color>;\n·施放<color=Highlight>控物</color>时，将会退出<color=Highlight>盛绽状态</color>；\n·跳跃替换为普攻<color=Highlight>旋舞</color>，短按跳跃，消耗耐力造成<color=Dark>湮灭伤害</color>，并退出<color=Highlight>盛绽状态</color>；\n·在空中施放普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>，将会消耗耐力；\n·施放共鸣技能<color=Highlight>黯蕊猎心</color>时，无法回复耐力；\n·在空中缠绕藤蔓期间，持续消耗耐力。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunB1.SP_IconChunB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -3643,6 +3647,8 @@
                 "Name": "芳华绽烬",
                 "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。\n可在低空中施放。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunC1.SP_IconChunC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3997,6 +4003,10 @@
                 "Param": [
                     "15%"
                 ],
+                "SimpleDesc": "湮灭伤害加成提升{0}，重击<color=Highlight>修枝</color>伤害视为普攻伤害。",
+                "SimpleParam": [
+                    "15%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunD1.SP_IconChunD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -4050,6 +4060,10 @@
                 "Param": [
                     "15%"
                 ],
+                "SimpleDesc": "普攻伤害加成提升{0}，<color=Highlight>普攻</color>和普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>的抗打断能力提升。",
+                "SimpleParam": [
+                    "15%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunD2.SP_IconChunD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -4099,6 +4113,8 @@
                 "Name": "八千春秋",
                 "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunQTE.SP_IconChunQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -4393,6 +4409,27 @@
                 "Name": "植物性宇宙",
                 "Desc": "<color=Highlight>常态攻击</color>、普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>、普攻<color=Highlight>旋舞</color>、闪避反击<color=Highlight>偿赎</color>、共鸣技能<color=Highlight>红椿盛绽</color>、共鸣技能<color=Highlight>黯蕊猎心</color>命中目标时，消耗【红椿·蕊】，此次攻击的基础共鸣能量回复效率提升{0}。\n每消耗{1}点【红椿·蕊】，回复{2}点协奏能量，并获得{3}层红椿·蕾，持续{4}秒，可叠加{5}层。\n<size=10> </size>\n<size=40><color=Title>共鸣回路·一日花</color></size>\n当协奏能量充满时，若<color=Highlight>一日花</color>不处于冷却状态，共鸣技能替换为<color=Highlight>一日花</color>。\n施放<color=Highlight>一日花</color>时，消耗{6}点协奏能量，并攻击目标，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害。\n施放<color=Highlight>一日花</color>时，进入<color=Highlight>含苞状态</color>。\n可在空中施放。\n<size=10> </size>\n<size=40><color=Title>含苞状态</color></size>\n·<color=Highlight>酣梦</color>：<color=Highlight>常态攻击</color>、普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>、普攻<color=Highlight>旋舞</color>、闪避反击<color=Highlight>偿赎</color>、共鸣技能<color=Highlight>红椿盛绽</color>、共鸣技能<color=Highlight>黯蕊猎心</color>的伤害倍率提升{8}；\n·施放<color=Highlight>一日花</color>时，清除所有红椿·蕾，每层红椿·蕾使<color=Highlight>酣梦</color>的伤害倍率提升效果额外提升{9}，最多可额外提升{10}； \n·<color=Highlight>含苞状态</color>期间，无法获得红椿·蕾；\n·<color=Highlight>含苞状态</color>期间，<color=Highlight>常态攻击</color>、普攻<color=Highlight>蔓舞</color>、普攻<color=Highlight>烬华蔓舞</color>、普攻<color=Highlight>旋舞</color>、闪避反击<color=Highlight>偿赎</color>、共鸣技能<color=Highlight>红椿盛绽</color>、共鸣技能<color=Highlight>黯蕊猎心</color>的基础共鸣能量回复效率降低至{11}；\n·切换至其他角色时，将提前结束<color=Highlight>含苞状态</color>；\n·消耗完【红椿·蕊】时，将提前结束<color=Highlight>含苞状态</color>。\n<size=10> </size>\n<size=40><color=Title>红椿·蕊获取规则</color></size>\n上限{12}点。\n施放变奏技能<color=Highlight>八千春秋</color>时，回复{13}点【红椿·蕊】。\n施放共鸣回路<color=Highlight>一日花</color>时，回复{17}点【红椿·蕊】。",
                 "Param": [
+                    "150%",
+                    "10",
+                    "4",
+                    "1",
+                    "15",
+                    "10",
+                    "70",
+                    "100",
+                    "50%",
+                    "5%",
+                    "50%",
+                    "0%",
+                    "100",
+                    "100",
+                    "50",
+                    "20",
+                    "20",
+                    "100"
+                ],
+                "SimpleDesc": "<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>可消耗【红椿·蕊】，获得额外的协奏能量和<color=Highlight>红椿·蕾</color>。\n协奏能量充满时，可消耗协奏能量，施放共鸣回路<color=Highlight>一日花</color>，回复【红椿·蕊】并强化椿输出能力。\n\n<size=40><color=Title>共鸣回路·一日花</color></size>\n当协奏能量充满时，若<color=Highlight>一日花</color>不处于冷却状态，<color=Highlight>共鸣技能</color>替换为<color=Highlight>一日花</color>。\n消耗协奏能量，造成<color=Dark>湮灭伤害</color>，进入<color=Highlight>含苞状态</color>。\n<size=10></size>\n<size=40><color=Title>含苞状态</color></size>\n·<color=Highlight>酣梦</color>：常态攻击、共鸣技能的伤害倍率提升、基础共鸣能量回复效率降低；\n·施放<color=Highlight>一日花</color>时，清除所有<color=Highlight>红椿·蕾</color>，每层红椿·蕾使<color=Highlight>酣梦</color>的伤害倍率额外提升{9}，最多可额外提升{10}；\n·<color=Highlight>含苞状态</color>期间，无法获得红椿·蕾；\n·切换至其他角色时，将会提前结束<color=Highlight>含苞状态</color>；\n·消耗完【红椿·蕊】时，将提前结束<color=Highlight>含苞状态</color>。\n<size=10></size>\n<size=40><color=Title>红椿·蕊获取规则</color></size>\n上限{12}点。\n【红椿·蕊】的获取途径：<color=Highlight>变奏技能</color>、共鸣回路<color=Highlight>一日花</color>。",
+                "SimpleParam": [
                     "150%",
                     "10",
                     "4",
@@ -4734,6 +4771,11 @@
                 "Name": "缠绕",
                 "Desc": "攻击目标，造成椿{0}攻击的<color=Dark>湮灭伤害</color>。\n施放共鸣回路<color=Highlight>一日花</color>后，下次延奏技能<color=Highlight>缠绕</color>额外造成椿{1}攻击的<color=Dark>湮灭伤害</color>。",
                 "Param": [
+                    "329.24%",
+                    "459.02%"
+                ],
+                "SimpleDesc": "造成椿{0}攻击的<color=Dark>湮灭伤害</color>。\n施放共鸣回路<color=Highlight>一日花</color>后，下次延奏技能<color=Highlight>缠绕</color>额外造成椿{1}攻击的<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
                     "329.24%",
                     "459.02%"
                 ],
@@ -5252,5 +5294,32 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChun.T_ActivityRoleChun",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160301": {
+                "Desc": "普攻派生：施放第3段普攻后，长按{0}，可持续攻击目标",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160302": {
+                "Desc": "蔓舞派生：施放第3段普攻时，长按{0}，可持续攻击目标",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160304": {
+                "Desc": "一日花：协奏能量充满时，短按{0}，可进入含苞状态",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeChun.T_RoleSkillTreeChun",
+        "DescList": [
+            "施放变奏技能回复特殊能量\n常态攻击、蔓舞等攻击命中目标时，消耗特殊能量",
+            "协奏能量充满时，可以施放共鸣回路一日花，进入含苞状态\n含苞状态期间，伤害倍率提升"
+        ]
     }
 }

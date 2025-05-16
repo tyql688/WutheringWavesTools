@@ -1068,6 +1068,10 @@
                 "Param": [
                     "100"
                 ],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。命中目标时若【想象力】至少有{0}点，则将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。可通过持续按住<color=Highlight>普攻</color>进行蓄力，蓄力越久能获得越多的【想象力】。蓄力中途松开<color=Highlight>普攻</color>，或者达到蓄力的最大时间时，会自动施放重击。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
+                    "100"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -1803,6 +1807,8 @@
                 "Name": "高难度设计",
                 "Desc": "洛可可投影出自己脑中的思维风暴，牵引附近目标，造成<color=Dark>湮灭伤害</color>，并且把洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。",
                 "Param": [],
+                "SimpleDesc": "牵引附近目标，造成<color=Dark>湮灭伤害</color>，并且把洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeB1.SP_IconLuokekeB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2094,6 +2100,14 @@
                 "Name": "即兴喜剧，开场",
                 "Desc": "洛可可的即兴喜剧开场！对目标造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。洛可可暴击高于{0}时，每多出{1}暴击，施放该技能时，使队伍中的角色攻击提升{2}点，持续{3}秒。最高可提升{4}点。",
                 "Param": [
+                    "50%",
+                    "0.1%",
+                    "1",
+                    "30",
+                    "200"
+                ],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。洛可可暴击高于{0}时，每多出{1}暴击，施放该技能时，使队伍中的角色攻击提升{2}点，持续{3}秒。最高可提升{4}点。",
+                "SimpleParam": [
                     "50%",
                     "0.1%",
                     "1",
@@ -2455,6 +2469,11 @@
                     "20%",
                     "12"
                 ],
+                "SimpleDesc": "施放共鸣技能或重击时，洛可可攻击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "20%",
+                    "12"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeD2.SP_IconLuokekeD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2509,6 +2528,11 @@
                     "14",
                     "100"
                 ],
+                "SimpleDesc": "施放延奏技能后，下一个登场角色的探索工具，替换为【珍奇箱】。\n<size=10> </size>\n<size=40><color=Title>【珍奇箱】</color></size>\n·使用后以【珍奇箱】为中心牵引周围目标，造成<color=Dark>湮灭伤害</color>。\n·【珍奇箱】持续{0}秒，若切换至其他角色则【珍奇箱】提前消失。",
+                "SimpleParam": [
+                    "14",
+                    "100"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeD1.SP_IconLuokekeD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2558,6 +2582,8 @@
                 "Name": "佩洛，来帮忙",
                 "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。",
                 "Param": [],
+                "SimpleDesc": "攻击目标，造成<color=Dark>湮灭伤害</color>。施放该技能后在一定时间内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>普攻第4段</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeQTE.SP_IconLuokekeQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2821,6 +2847,13 @@
                 "Name": "道具师的自我修养",
                 "Desc": "<size=40><color=Title>飞跃幻想</color></size>\n·洛可可处于<color=Highlight>飞跃幻想</color>状态时，若至少拥有{0}点【想象力】，可短按<color=Highlight>普攻</color>，消耗{0}点【想象力】施放普攻<color=Highlight>幻想照进现实</color>。\n·该状态会在洛可可不处于空中状态、或处于后台时解除。\n<size=10> </size>\n<size=40><color=Title>普攻·幻想照进现实</color></size>\n·进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为重击伤害。第1段、第2段攻击落地后，若【想象力】大于{0}点，会将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。\n<size=10> </size>\n<size=40><color=Title>【想象力】获取规则</color></size>\n·【想象力】上限{1}点\n·常态攻击造成伤害可回复【想象力】。\n·持续按住<color=Highlight>普攻</color>进行蓄力可获得【想象力】。\n·施放共鸣技能<color=Highlight>高难度设计</color>时，回复{2}点【想象力】\n·施放变奏技能<color=Highlight>佩洛，来帮忙</color>时，回复{3}点【想象力】。",
                 "Param": [
+                    "100",
+                    "300",
+                    "100",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>飞跃幻想</color></size>\n·洛可可处于<color=Highlight>飞跃幻想</color>状态时，若至少拥有{0}点【想象力】，可短按<color=Highlight>普攻</color>，消耗{0}点【想象力】施放普攻<color=Highlight>幻想照进现实</color>。\n·该状态会在洛可可不处于空中状态、或处于后台时解除。\n<size=10> </size>\n<size=40><color=Title>普攻·幻想照进现实</color></size>\n·进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>。第1段、第2段攻击落地后会将洛可可送上空中，进入<color=Highlight>飞跃幻想</color>状态。\n<size=10> </size>\n<size=40><color=Title>【想象力】获取规则</color></size>\n·【想象力】上限{1}点\n·【想象力】获取途径：常态攻击、共鸣技能<color=Highlight>高难度设计</color>、变奏技能<color=Highlight>佩洛，来帮忙</color>。",
+                "SimpleParam": [
                     "100",
                     "300",
                     "100",
@@ -3546,6 +3579,12 @@
                     "25%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色湮灭伤害加深{0}，普攻伤害加深{1}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLuokeke/SP_IconLuokekeT.SP_IconLuokekeT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -3988,5 +4027,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleLuokeke.T_ActivityRoleLuokeke",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160601": {
+                "Desc": "短按{0}牵引周围目标，并且让洛可可飞到空中，进入飞跃幻想状态",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "160602": {
+                "Desc": "处于飞跃幻想状态时，若特殊能量足够：短按{0}发动派生下落攻击。最多连续施放3次。",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeLuokeke.T_RoleSkillTreeLuokeke",
+        "DescList": [
+            "特殊能量充足时，若处于飞跃幻想状态，可施放派生下落攻击",
+            "施放延奏技能后，会给下一个登场角色一个可以聚怪的探索工具"
+        ]
     }
 }

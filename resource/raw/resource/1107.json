@@ -1135,6 +1135,17 @@
                     "1",
                     "3"
                 ],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>普攻·必要性手段</color></size>\n拥有【可塑晶质】时，施放的<color=Highlight>普攻</color>将替换为<color=Highlight>必要性手段</color>。\n造成<color=Ice>冷凝伤害</color>，每段<color=Highlight>必要性手段</color>将消耗{1}个【可塑晶质】。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击·限制性策略</color></size>\n珂莱塔【灵萃】充满时，施放的<color=Highlight>重击</color>将替换为<color=Highlight>限制性策略</color>，消耗所有【灵萃】，造成<color=Ice>冷凝伤害</color>，并使共鸣技能冷却时间减少。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n造成<color=Ice>冷凝伤害</color>。施放空中攻击落地后一定时间内短按<color=Highlight>普攻</color>，可施放<color=Highlight>礼节性问候</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击·礼节性问候</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>，并消耗{6}个【可塑晶质】。",
+                "SimpleParam": [
+                    "3",
+                    "1",
+                    "50%",
+                    "6",
+                    "3",
+                    "3",
+                    "1",
+                    "3"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun",
                 "Type": "常态攻击",
                 "Level": {
@@ -2453,6 +2464,11 @@
                     "3",
                     "1.5"
                 ],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，对命中的目标附加<color=Highlight>变彩</color>效果。施放后一定时间内短按<color=Highlight>共鸣技能</color>，可施放<color=Highlight>示我璀璨</color>。\n<size=10> </size>\n<size=40><color=Title>变彩</color></size>\n效果持续时间内无法进行任何动作。\n<size=10> </size>\n<size=40><color=Title>示我璀璨</color></size>\n消耗所有【可塑晶质】，造成<color=Ice>冷凝伤害</color>。\n若一定时间内没有施放共鸣技能<color=Highlight>示我璀璨</color>或者切换至其他角色，则技能进入冷却状态。",
+                "SimpleParam": [
+                    "3",
+                    "1.5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKelaita/SP_IconKelaitaB1.SP_IconKelaitaB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -3079,6 +3095,15 @@
                 "Name": "新浪潮时代",
                 "Desc": "对范围内的目标造成<color=Ice>冷凝伤害</color>，为命中的目标附加<color=Highlight>解离</color>效果，进入<color=Highlight>枪花轮舞</color>状态，此次伤害为共鸣技能伤害。\n可以在低空中施放。\n<size=10> </size>\n<size=40><color=Title>解离</color></size>\n珂莱塔攻击携带<color=Highlight>解离</color>效果的目标，造成伤害时忽视目标{1}防御。\n<size=10> </size>\n<size=40><color=Title>枪花轮舞</color></size>\n<color=Highlight>枪花轮舞</color>状态下按下<color=Highlight>普攻</color>或<color=Highlight>共鸣解放</color>可施放<color=Highlight>死兆</color>。\n每次施放<color=Highlight>死兆</color>时，获得{3}点【镜向箔】。\n【镜向箔】达到{4}点时，按下<color=Highlight>普攻</color>或<color=Highlight>共鸣解放</color>可施放<color=Highlight>致死以终</color>。\n·进入和退出<color=Highlight>枪花轮舞</color>状态时，清空灵萃，<color=Highlight>枪花轮舞</color>状态下无法施放普攻<color=Highlight>必要性手段</color>、重击<color=Highlight>限制性策略</color>、重击<color=Highlight>末路见行</color>。\n<size=10> </size>\n<size=40><color=Title>死兆</color></size>\n珂莱塔使用铳枪射击并召唤{5}枚晶体攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为共鸣技能伤害。\n·每次施放<color=Highlight>死兆</color>时，可以朝方向键方向移动一段距离。\n<size=10> </size>\n<size=40><color=Title>致死以终</color></size>\n对范围内的目标造成<color=Ice>冷凝伤害</color>，此次伤害为共鸣技能伤害。\n·施放<color=Highlight>致死以终</color>后结束<color=Highlight>枪花轮舞</color>状态。",
                 "Param": [
+                    "4",
+                    "18%",
+                    "4",
+                    "1",
+                    "4",
+                    "4"
+                ],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>，附加<color=Highlight>解离</color>效果，进入<color=Highlight>枪花轮舞</color>状态。\n可以在空中施放。\n<size=10> </size>\n<size=40><color=Title>解离</color></size>\n珂莱塔攻击携带<color=Highlight>解离</color>效果的目标，造成伤害时忽视目标{1}防御。\n<size=10> </size>\n<size=40><color=Title>枪花轮舞</color></size>\n<color=Highlight>枪花轮舞</color>状态下按下<color=Highlight>普攻</color>或<color=Highlight>共鸣解放</color>可施放<color=Highlight>死兆</color>。\n每次施放<color=Highlight>死兆</color>时，获得{3}点【镜向箔】。\n【镜向箔】达到{4}点时，按下<color=Highlight>普攻</color>或<color=Highlight>共鸣解放</color>可施放<color=Highlight>致死以终</color>。\n·进入和退出<color=Highlight>枪花轮舞</color>状态时，清空灵萃，<color=Highlight>枪花轮舞</color>状态下无法施放普攻<color=Highlight>必要性手段</color>、重击<color=Highlight>限制性策略</color>、重击<color=Highlight>末路见行</color>。\n<size=10> </size>\n<size=40><color=Title>死兆</color></size>\n造成<color=Ice>冷凝伤害</color>。\n·每次施放<color=Highlight>死兆</color>时，可以朝方向键方向移动一段距离。\n<size=10> </size>\n<size=40><color=Title>致死以终</color></size>\n对范围内的目标造成<color=Ice>冷凝伤害</color>，此次伤害为共鸣技能伤害。\n·施放<color=Highlight>致死以终</color>后结束<color=Highlight>枪花轮舞</color>状态。",
+                "SimpleParam": [
                     "4",
                     "18%",
                     "4",
@@ -4073,6 +4098,10 @@
                 "Param": [
                     "20%"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>示我璀璨</color>后一定时间内施放<color=Highlight>空中攻击</color>，该次空中攻击在造成伤害前免疫伤害和受击。\n珂莱塔在队伍中时，减少队伍中登场角色{0}翱翔耐力消耗。",
+                "SimpleParam": [
+                    "20%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKelaita/SP_IconKelaitaD1.SP_IconKelaitaD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -4124,6 +4153,8 @@
                 "Name": "艺术至上",
                 "Desc": "变奏技能<color=Highlight>入冬叹调</color>、共鸣技能<color=Highlight>示我璀璨</color>、共鸣解放<color=Highlight>死兆</color>、重击<color=Highlight>末路见行</color>可以为命中的目标附加<color=Highlight>解离</color>效果。",
                 "Param": [],
+                "SimpleDesc": "变奏技能<color=Highlight>入冬叹调</color>、共鸣技能<color=Highlight>示我璀璨</color>、共鸣解放<color=Highlight>死兆</color>、重击<color=Highlight>末路见行</color>可以为命中的目标附加<color=Highlight>解离</color>效果。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKelaita/SP_IconKelaitaD2.SP_IconKelaitaD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -4173,6 +4204,10 @@
                 "Name": "入冬叹调",
                 "Desc": "攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [
+                    "30"
+                ],
+                "SimpleDesc": "攻击目标，造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [
                     "30"
                 ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKelaita/SP_IconKelaitaQTE.SP_IconKelaitaQTE",
@@ -4469,6 +4504,24 @@
                 "Name": "艺间巡礼",
                 "Desc": "<size=40><color=Title>重击·末路见行</color></size>\n珂莱塔每{0}秒可激活<color=Highlight>【镀色晶】</color>。\n当【灵萃】充满，且<color=Highlight>【镀色晶】</color>处于激活状态时，长按<color=Highlight>普攻</color>可消耗所有【灵萃】，施放重击<color=Highlight>末路见行</color>，施放后<color=Highlight>【镀色晶】</color>进入冷却状态，此次伤害为共鸣技能伤害。\n造成<color=Ice>冷凝伤害</color>，使共鸣技能<color=Highlight>暴力美学</color>的冷却时间减少{1}秒。\n<size=10> </size>\n<size=40><color=Title>揭幕者</color></size>\n【灵萃】达到上限时，获得<color=Highlight>揭幕者</color>效果。\n共鸣解放<color=Highlight>新浪潮时代</color>、共鸣解放<color=Highlight>死兆</color>、共鸣解放<color=Highlight>致死以终</color>的伤害倍率提升{14}，<color=Highlight>枪花轮舞</color>状态时若切换至其他角色或<color=Highlight>枪花轮舞</color>状态结束时，效果结束。\n<size=10> </size>\n<size=40><color=Title>【灵萃】获取规则</color></size>\n【灵萃】上限{2}点。\n共鸣解放<color=Highlight>枪花轮舞</color>状态下，无法获得【灵萃】。\n施放变奏技能<color=Highlight>入冬叹调</color>时，回复{3}点【灵萃】。\n施放共鸣技能<color=Highlight>示我璀璨</color>时，每消耗{4}颗【可塑晶质】，回复{5}点【灵萃】。\n施放普攻<color=Highlight>必要性手段</color>时，每消耗{4}颗【可塑晶质】，回复{5}点【灵萃】。\n施放<color=Highlight>闪避反击</color>时，消耗{4}颗【可塑晶质】，回复{12}点【灵萃】。\n<size=10> </size>\n<size=40><color=Title>【可塑晶质】获取规则</color></size>\n【可塑晶质】上限{6}颗。\n共鸣解放<color=Highlight>枪花轮舞</color>状态下，无法获得【可塑晶质】。\n施放<color=Highlight>第2段普攻</color>时，回复{7}个【可塑晶质】。\n施放<color=Highlight>重击</color>时，回复{11}个【可塑晶质】。\n施放空中攻击<color=Highlight>礼节性问候</color>时，回复{8}个【可塑晶质】。\n施放变奏技能<color=Highlight>入冬叹调</color>时，回复{13}个【可塑晶质】。\n施放共鸣技能<color=Highlight>暴力美学</color>时，回复{9}个【可塑晶质】。\n成功<color=Highlight>闪避</color>时，回复{10}个【可塑晶质】。",
                 "Param": [
+                    "22",
+                    "6",
+                    "120",
+                    "30",
+                    "1",
+                    "10",
+                    "6",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "10",
+                    "3",
+                    "80%"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·末路见行</color></size>\n珂莱塔每{0}秒可激活<color=Highlight>【镀色晶】</color>。\n当【灵萃】充满，且<color=Highlight>【镀色晶】</color>处于激活状态时，长按<color=Highlight>普攻</color>可消耗所有【灵萃】，施放重击<color=Highlight>末路见行</color>，施放后<color=Highlight>【镀色晶】</color>进入冷却状态。\n造成<color=Ice>冷凝伤害</color>，使共鸣技能<color=Highlight>暴力美学</color>的冷却时间减少{1}秒。\n<size=10> </size>\n<size=40><color=Title>揭幕者</color></size>\n【灵萃】达到上限时，获得<color=Highlight>揭幕者</color>效果。\n共鸣解放<color=Highlight>新浪潮时代</color>、共鸣解放<color=Highlight>死兆</color>、共鸣解放<color=Highlight>致死以终</color>的伤害倍率提升{14}，<color=Highlight>枪花轮舞</color>状态时若切换至其他角色或<color=Highlight>枪花轮舞</color>状态结束时，效果结束。\n<size=10> </size>\n<size=40><color=Title>【灵萃】获取规则</color></size>\n上限{2}点。\n共鸣解放<color=Highlight>枪花轮舞</color>状态下，无法获得【灵萃】。\n【灵萃】的获取途径：<color=Highlight>变奏技能</color>、共鸣技能<color=Highlight>示我璀璨</color>消耗【可塑晶质】、普攻<color=Highlight>必要性手段</color>、<color=Highlight>闪避反击</color>。\n<size=10> </size>\n<size=40><color=Title>【可塑晶质】获取规则</color></size>\n上限{6}颗。\n共鸣解放<color=Highlight>枪花轮舞</color>状态下，无法获得【可塑晶质】。\n【可塑晶质】的获取途径：<color=Highlight>变奏技能</color>、<color=Highlight>第2段普攻</color>、<color=Highlight>重击</color>、空中攻击<color=Highlight>礼节性问候</color>、共鸣技能<color=Highlight>暴力美学</color>、成功<color=Highlight>闪避</color>。",
+                "SimpleParam": [
                     "22",
                     "6",
                     "120",
@@ -4961,6 +5014,10 @@
                 "Param": [
                     "794.2%"
                 ],
+                "SimpleDesc": "造成珂莱塔{0}攻击的<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [
+                    "794.2%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKelaita/SP_IconKelaitaT.SP_IconKelaitaT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -5424,5 +5481,33 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleKelaita.T_ActivityRoleKelaita",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110701": {
+                "Desc": "暴力美学：短按{0}攻击并控制目标，回复【可塑晶质】，限时内再次短按{0}消耗当前所有【可塑晶质】攻击目标，根据消耗【可塑晶质】的数量获得特殊能量。",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "110702": {
+                "Desc": "重击·末路见行：【镀色晶】不处于冷却中且特殊能量充满时，长按{0}攻击目标，减少共鸣技能冷却时间。",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "110703": {
+                "Desc": "新浪潮时代：短按{0}攻击目标并进入特殊状态。期间短按{0}或{1}可进行最多4次特殊射击，此后再次短按{0}或{1}可施放致死以终。",
+                "InputList": [
+                    "大招",
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeKelaita.T_RoleSkillTreeKelaita",
+        "DescList": [
+            "释放变奏技能、共鸣技能、重击等技能时，可获得【可塑晶质】。\n释放变奏技能、闪避反击，或消耗【可塑晶质】时，可获得【灵萃】。",
+            "【灵萃】用于提升共鸣解放倍率、施放重击·末路见行、缩短共鸣技能冷却时间。\n共鸣解放状态下进行特殊射击可获得【镜向箔】，充满后可释放致死以终。"
+        ]
     }
 }

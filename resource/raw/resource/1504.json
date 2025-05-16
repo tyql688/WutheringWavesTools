@@ -1012,6 +1012,8 @@
                 "Name": "前路领航",
                 "Desc": "<size=40><color=Title>黄灯·普攻</color></size>\n召唤啾啾进行三连射击，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>黄灯·加速</color></size>\n短按闪避，可施放<color=Highlight>加速</color>，并进入<color=Highlight>疾奔</color>状态，<color=Highlight>加速</color>无法成功闪避敌人的攻击。\n\n<size=40><color=Title>黄灯·疾奔</color></size>\n该状态下，自动释放<color=Highlight>飞星</color>攻击被锁定的敌人，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。\n\n<size=40><color=Title>黄灯·下落攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·普攻</color></size>\n进行最多3段的连续攻击，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·重击</color></size>\n消耗耐力，啾啾和灯灯一同下砸，攻击目标，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。\n\n<size=40><color=Title>红灯·下落攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·闪避反击</color></size>\n成功闪避后一定时间内短按普攻，攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>黄灯·普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>黄灯·加速</color></size>\n短按闪避，可施放<color=Highlight>加速</color>，并进入<color=Highlight>疾奔</color>状态，<color=Highlight>加速</color>无法成功闪避敌人的攻击。\n\n<size=40><color=Title>黄灯·疾奔</color></size>\n该状态下，自动释放<color=Highlight>飞星</color>攻击被锁定的敌人，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>黄灯·下落攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·重击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·下落攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n\n<size=40><color=Title>红灯·闪避反击</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword",
                 "Type": "常态攻击",
                 "Level": {
@@ -1927,6 +1929,8 @@
                 "Name": "灯光探照",
                 "Desc": "<size=40><color=Title>前扑</color></size>\n<color=Highlight>黄灯</color>模式期间，共鸣技能转换为前扑，消耗耐力，灯灯朝技能目标位置进行前冲爪击，并切换为<color=Highlight>红灯</color>模式。\n灯灯登场时会施放一次不消耗耐力的<color=Highlight>前扑</color>。\n\n<size=40><color=Title>后撤</color></size>\n<color=Highlight>红灯</color>模式期间，共鸣技能转换为后撤，消耗耐力，灯灯朝后方撤退，攻击目标，并切换为<color=Highlight>黄灯</color>模式。\n\n<size=40><color=Title>黄灯模式</color></size>\n黄灯模式期间，进行远程攻击。\n\n<size=40><color=Title>红灯模式</color></size>\n红灯模式期间，进行近战攻击。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>前扑</color></size>\n<color=Highlight>黄灯</color>模式期间，共鸣技能转换为前扑，消耗耐力，前冲爪击，并切换为<color=Highlight>红灯</color>模式。\n灯灯登场时会施放一次不消耗耐力的<color=Highlight>前扑</color>。\n\n<size=40><color=Title>后撤</color></size>\n<color=Highlight>红灯</color>模式期间，共鸣技能转换为后撤，消耗耐力，攻击目标，并切换为<color=Highlight>黄灯</color>模式。\n\n<size=40><color=Title>黄灯模式</color></size>\n黄灯模式期间，进行远程攻击。\n\n<size=40><color=Title>红灯模式</color></size>\n红灯模式期间，进行近战攻击。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengB1.SP_IconDengdengB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2277,6 +2281,8 @@
                 "Name": "啾啾专送",
                 "Desc": "灯灯将啾啾巨大化之后投掷出去，攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengC1.SP_IconDengdengC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2600,6 +2606,10 @@
                 "Param": [
                     "10%"
                 ],
+                "SimpleDesc": "红灯模式期间，灯灯导电伤害加成提升{0}。",
+                "SimpleParam": [
+                    "10%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengD1.SP_IconDengdengD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2654,6 +2664,11 @@
                     "5",
                     "10%"
                 ],
+                "SimpleDesc": "施放<color=Highlight>强化·前扑</color>或<color=Highlight>强化·后撤</color>时，{0}秒内灯灯攻击力提升{1}。",
+                "SimpleParam": [
+                    "5",
+                    "10%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengD2.SP_IconDengdengD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2703,6 +2718,8 @@
                 "Name": "专项派送",
                 "Desc": "进入<color=Highlight>黄灯</color>模式，攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "进入<color=Highlight>黄灯</color>模式，造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengQTE.SP_IconDengdengQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2966,6 +2983,13 @@
                 "Name": "信号闪耀",
                 "Desc": "<size=40><color=Title>强化·前扑</color></size>\n当【黄灯光能】满时，共鸣技能替换为<color=Highlight>强化·前扑</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>红灯聚光</color>模式，此次伤害为普攻伤害。\n<color=Highlight>红灯聚光</color>模式期间，<color=Highlight>红灯·普攻</color>和<color=Highlight>红灯·重击</color>造成伤害的倍率提升，回复的【光能】增加。\n施放4次普攻或重击后，退出<color=Highlight>红灯聚光</color>模式。\n\n<size=40><color=Title>强化·后撤</color></size>\n当【红灯光能】满时，共鸣技能替换为<color=Highlight>强化·后撤</color>，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>黄灯聚光</color>模式，此次伤害为普攻伤害。\n<color=Highlight>黄灯聚光</color>模式期间，<color=Highlight>飞星</color>替换为<color=Highlight>强光</color>，造成伤害的倍率提升，回复的【光能】增加。\n施放6次<color=Highlight>强光</color>后，退出<color=Highlight>黄灯聚光</color>模式。\n\n<size=40><color=Title>强光穿射</color></size>\n灯灯施放延奏技能时，消耗当前模式的全部【光能】。\n消耗的【光能】大于等于{0}点时，可施放强光穿射，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。\n每{0}点【光能】可使强光穿射的伤害段数加{1}，最多{2}段。\n\n<size=40><color=Title>黄灯光能获取规则</color></size>\n上限{3}点。\n<color=Highlight>黄灯·普攻</color>命中目标，可获得【黄灯光能】。\n<color=Highlight>飞星</color>命中目标，可获得【黄灯光能】。\n<color=Highlight>强光</color>命中目标，可获得【黄灯光能】。\n共鸣技能<color=Highlight>强化·后撤</color>命中目标，可获得【黄灯光能】。\n施放变奏技能<color=Highlight>专项派送</color>时，可获得【黄灯光能】。\n\n<size=40><color=Title>红灯光能获取规则</color></size>\n上限{3}点。\n<color=Highlight>红灯</color>或<color=Highlight>红灯聚光</color>模式期间，常态攻击<color=Highlight>前路领航</color>命中目标，可获得【红灯光能】。",
                 "Param": [
+                    "25",
+                    "1",
+                    "4",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>强化·前扑</color></size>\n当【黄灯光能】满时，共鸣技能替换为<color=Highlight>强化·前扑</color>，造成<color=Thunder>导电伤害</color>，并进入强化版的<color=Highlight>红灯模式</color>：<color=Highlight>红灯聚光</color>模式。\n\n<size=40><color=Title>强化·后撤</color></size>\n当【红灯光能】满时，共鸣技能替换为<color=Highlight>强化·后撤</color>，造成<color=Thunder>导电伤害</color>，并进入强化版的<color=Highlight>黄灯模式</color>：<color=Highlight>黄灯聚光</color>模式。\n\n<size=40><color=Title>强光穿射</color></size>\n灯灯施放延奏技能时，消耗当前模式的全部【光能】。\n消耗的【光能】大于等于{0}点时，可施放强光穿射，造成<color=Thunder>导电伤害</color>，并且消耗的【光能】越多，伤害段数越高。\n\n<size=40><color=Title>黄灯光能获取规则</color></size>\n上限{3}点。\n<color=Highlight>黄灯·普攻</color>、<color=Highlight>飞星</color>、<color=Highlight>强光</color>、<color=Highlight>强化·后撤</color>命中目标；施放<color=Highlight>变奏技能</color>，可获得【黄灯光能】。\n\n<size=40><color=Title>红灯光能获取规则</color></size>\n上限{3}点。\n<color=Highlight>红灯</color>或<color=Highlight>红灯聚光</color>模式期间，<color=Highlight>常态攻击</color>命中目标，可获得【红灯光能】。",
+                "SimpleParam": [
                     "25",
                     "1",
                     "4",
@@ -3833,6 +3857,11 @@
                     "38%",
                     "10"
                 ],
+                "SimpleDesc": "下一位登场角色共鸣技能伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "38%",
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconDengdeng/SP_IconDengdengT.SP_IconDengdengT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4266,5 +4295,32 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDengdeng.T_ActivityRoleDengdeng",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "150401": {
+                "Desc": "疾奔：黄灯模式期间，短按闪避。",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "150402": {
+                "Desc": "强化·前扑：【黄灯光能】充满时，短按{0}。",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "150403": {
+                "Desc": "强化·后撤：【红灯光能】充满时，短按{0}。",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeDengdeng.T_RoleSkillTreeDengdeng",
+        "DescList": [
+            "灯灯拥有黄灯和红灯两种模式，可以通过共鸣技能进行切换。\n常态攻击命中目标时，积攒对应模式的特殊能量；施放变奏技能时，回复黄灯光能量。",
+            "特殊能量充满时，短按共鸣技能，施放强化共鸣技能，并进入强化状态"
+        ]
     }
 }

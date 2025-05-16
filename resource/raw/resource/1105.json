@@ -1066,6 +1066,8 @@
                 "Name": "轻云淡墨",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多3段的连续攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Ice>冷凝伤害</color>。\n重击不会打断普攻段数。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力在空中进行最多2段的连续攻击，造成<color=Ice>冷凝伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Ice>冷凝伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1801,6 +1803,8 @@
                 "Name": "以形写神",
                 "Desc": "造成<color=Ice>冷凝伤害</color>。若折枝至少拥有60点【灵韵】，则会消耗60点【灵韵】，召唤<color=Highlight>鹤影·左</color>以及<color=Highlight>鹤影·右</color>。\n·在地面短按时，鹤影会召唤在地面。\n·在地面长按或空中短按时，鹤影会召唤在空中。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>。若折枝至少拥有60点【灵韵】，则会消耗60点【灵韵】，召唤2个<color=Highlight>鹤影</color>",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiB1.SP_IconZhezhiB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2361,6 +2365,13 @@
                     "21",
                     "30"
                 ],
+                "SimpleDesc": "折枝召唤<color=Highlight>墨鹤</color>协助战斗。\n<size=10></size>\n<size=40><color=Title>墨鹤</color></size>\n队伍中在场角色造成伤害时，会召唤<color=Highlight>墨鹤</color>对目标进行协同攻击，造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [
+                    "3",
+                    "1",
+                    "21",
+                    "30"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiC1.SP_IconZhezhiC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2716,6 +2727,12 @@
                     "3",
                     "27"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>神来之笔</color>或共鸣技能<color=Highlight>极意·神来之笔</color>时，攻击提升{0}，可叠加{1}层，持续{2}秒。",
+                "SimpleParam": [
+                    "6%",
+                    "3",
+                    "27"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiD1.SP_IconZhezhiD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2769,6 +2786,10 @@
                 "Param": [
                     "15"
                 ],
+                "SimpleDesc": "施放延奏技能后，为下一位登场角色回复{0}点共鸣能量。",
+                "SimpleParam": [
+                    "15"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiD2.SP_IconZhezhiD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2818,6 +2839,8 @@
                 "Name": "柔翰生辉",
                 "Desc": "攻击目标，造成<color=Ice>冷凝伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Ice>冷凝伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiQTE.SP_IconZhezhiQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3080,6 +3103,13 @@
                 "Name": "妙笔丹青",
                 "Desc": "<size=40><color=Title>鹤影</color></size>\n折枝施放共鸣技能<color=Highlight>以形写神</color>或重击<color=Highlight>构形</color>时，消耗【灵韵】可召唤<color=Highlight>鹤影</color>。\n<color=Highlight>鹤影</color>分为<color=Highlight>鹤影·左</color>，<color=Highlight>鹤影·中</color>，<color=Highlight>鹤影·右</color>三种，每种最多存在1幅，持续{0}秒。\n<size=10> </size>\n<size=40><color=Title>重击·构形</color></size>\n进行下述5种操作时，可消耗耐力施放该技能攻击目标，造成<color=Ice>冷凝伤害</color>。\n·<color=Highlight>普攻第3段</color>后一定时间内长按<color=Highlight>普攻</color>\n·施放共鸣技能<color=Highlight>以形写神</color>后一定时间内短按<color=Highlight>普攻</color>\n·施放共鸣技能<color=Highlight>神来之笔</color>、共鸣技能<color=Highlight>极意·神来之笔</color>后一定时间内长按<color=Highlight>普攻</color>\n·处于空中状态时长按<color=Highlight>普攻</color>\n·成功<color=Highlight>闪避</color>后长按<color=Highlight>普攻</color>\n若施放时折枝至少拥有30点【灵韵】，则消耗30点【灵韵】在场上召唤<color=Highlight>鹤影·中</color>。\n<size=10> </size>\n<size=40><color=Title>共鸣技能·神来之笔</color></size>\n折枝附近存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：\n·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。\n·获得1层【极意】，持续{1}秒，可叠加2层。\n·可在空中施放。\n<size=10> </size>\n<size=40><color=Title>共鸣技能·极意·神来之笔</color></size>\n折枝附近存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：\n·移除全部【极意】。\n·移动到<color=Highlight>鹤影</color>的位置并将它清除，然后召唤白鹤攻击目标，造成更高的<color=Ice>冷凝伤害</color>，此次伤害为普攻伤害，并且让折枝的普攻伤害加成提升{2}，持续{3}秒。若移动到处于空中的<color=Highlight>鹤影</color>，可重置空中闪避次数。\n·可在空中施放。\n<size=10> </size>\n<size=40><color=Title>【灵韵】获取规则</color></size>\n【灵韵】上限为90点。\n常态攻击造成伤害可回复【灵韵】。\n施放变奏技能可回复【灵韵】。",
                 "Param": [
+                    "15",
+                    "8",
+                    "18%",
+                    "27"
+                ],
+                "SimpleDesc": "<size=40><color=Title>鹤影</color></size>\n折枝施放共鸣技能<color=Highlight>以形写神</color>或重击<color=Highlight>构形</color>时，消耗【灵韵】可召唤<color=Highlight>鹤影</color>。\n\n<size=40><color=Title>重击·构形</color></size>\n进行下述5种操作时，可消耗耐力，造成<color=Ice>冷凝伤害</color>。\n·<color=Highlight>普攻第3段</color>后一定时间内长按<color=Highlight>普攻</color>\n·施放共鸣技能<color=Highlight>以形写神</color>后一定时间内短按<color=Highlight>普攻</color>\n·施放共鸣技能<color=Highlight>神来之笔</color>、共鸣技能<color=Highlight>极意·神来之笔</color>后一定时间内长按<color=Highlight>普攻</color>\n·处于空中状态时长按<color=Highlight>普攻</color>\n·成功<color=Highlight>闪避</color>后长按<color=Highlight>普攻</color>\n若施放时折枝至少拥有30点【灵韵】，则消耗30点【灵韵】在场上召唤<color=Highlight>鹤影·中</color>。\n\n<size=40><color=Title>共鸣技能·神来之笔</color></size>\n存在<color=Highlight>鹤影</color>时，共鸣技能替换为<color=Highlight>神来之笔</color>。施放时：\n·造成<color=Ice>冷凝伤害</color>。\n·获得1层【极意】。\n\n<size=40><color=Title>共鸣技能·极意·神来之笔</color></size>\n存在<color=Highlight>鹤影</color>，且【极意】层数为2时，<color=Highlight>神来之笔</color>替换为<color=Highlight>极意·神来之笔</color>。施放时：\n·造成更高的<color=Ice>冷凝伤害</color>，并使折枝普攻伤害加成提升。\n\n<size=10></size>\n<size=40><color=Title>【灵韵】获取规则</color></size>\n【灵韵】上限为90点。\n【灵韵】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>。",
+                "SimpleParam": [
                     "15",
                     "8",
                     "18%",
@@ -3647,6 +3677,12 @@
                     "25%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色冷凝伤害加深{0}，共鸣技能伤害加深{1}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconZhezhi/SP_IconZhezhiT.SP_IconZhezhiT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4083,5 +4119,21 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhezhi.T_ActivityRoleZhezhi",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "110501": {
+                "Desc": "特殊能量满时：短按{1}+短按{0}，召唤3个鹤影，然后短按{1}+短按{1}+短按{1}",
+                "InputList": [
+                    "攻击",
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeZhezhi.T_RoleSkillTreeZhezhi",
+        "DescList": [
+            "常态攻击命中目标或施放变奏技能时，回复特殊能量",
+            "特殊能量满时，短按共鸣技能且在施放后短按普攻，可召唤3个鹤影。每个鹤影可以使折枝施放1次派生共鸣技能。"
+        ]
     }
 }

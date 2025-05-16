@@ -1093,6 +1093,11 @@
                     "35%",
                     "3"
                 ],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n若长按普攻，则进入<color=Highlight>磐岩守势</color>状态。\n<size=10></size>\n<size=40><color=Title>磐岩守势</color></size>\n·受到的伤害降低{0}；\n·若<color=Highlight>磐岩守势</color>期间受到攻击，将会自动施放<color=Highlight>后发制人</color>；\n·<color=Highlight>磐岩守势</color>持续{1}秒后，将会自动施放<color=Highlight>后发制人</color>；\n<size=10></size>\n<size=40><color=Title>后发制人</color></size>\n造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Dark>湮灭伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
+                    "35%",
+                    "3"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword",
                 "Type": "常态攻击",
                 "Level": {
@@ -1845,6 +1850,11 @@
                     "3",
                     "1"
                 ],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>，回复桃祈生命值，同时生成{0}个【磐岩护壁】。\n若在施放<color=Highlight>固若金汤</color>期间受到攻击，将会自动施放普攻<color=Highlight>后发制人</color>。\n<size=10></size>\n<size=40><color=Title>磐岩护壁</color></size>\n当队伍中登场角色受到攻击时，消耗{1}个【磐岩护壁】，降低此次受到的伤害。",
+                "SimpleParam": [
+                    "3",
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaoHuaB1.SP_IconTaoHuaB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2211,6 +2221,10 @@
                 "Param": [
                     "2"
                 ],
+                "SimpleDesc": "对目标发动一次基于桃祈防御力的攻击，造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [
+                    "2"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaoHuaC1.SP_IconTaoHuaC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2528,6 +2542,10 @@
                 "Param": [
                     "15%"
                 ],
+                "SimpleDesc": "共鸣技能<color=Highlight>磐岩护壁</color>持续期间，角色的防御提升{0}。",
+                "SimpleParam": [
+                    "15%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaoHuaD1.SP_IconTaoHuaD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2581,6 +2599,10 @@
                 "Param": [
                     "25"
                 ],
+                "SimpleDesc": "成功触发重击<color=Highlight>后发制人</color>时，回复{0}耐力值。",
+                "SimpleParam": [
+                    "25"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaoHuaD2.SP_IconTaoHuaD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2630,6 +2652,8 @@
                 "Name": "携攻守阵",
                 "Desc": "攻击目标，造成<color=Dark>湮灭伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Dark>湮灭伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaoHuaQTE.SP_IconTaoHuaQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -2891,6 +2915,12 @@
                 "Name": "攻防转换",
                 "Desc": "<size=40><color=Title>御反之隙</color></size>\n拥有【刚柔化势】时，施放重击<color=Highlight>后发制人</color>或变奏技能<color=Highlight>携攻守阵</color>后一定时间内，短按<color=Highlight>普攻</color>，可施放<color=Highlight>御反之隙</color>。\n进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>，此次伤害为普攻伤害。\n<color=Highlight>御反之隙</color>命中目标时消耗{0}点【刚柔化势】，同时获得护盾。\n在施放变奏技能<color=Highlight>携攻守阵</color>后使用<color=Highlight>普攻</color>，可直接施放<color=Highlight>御反之隙</color>。\n<size=10> </size>\n<size=40><color=Title>刚柔化势获取规则</color></size>\n【刚柔化势】上限{1}点。\n<color=Highlight>第4段普攻</color>会消耗桃祈所有的【磐岩护壁】，并获得同等数量的【刚柔化势】。\n<color=Highlight>磐岩护壁</color>持续期间，队伍中登场角色受到攻击时，消耗{2}个【磐岩护壁】，回复【刚柔化势】。\n<color=Highlight>磐岩护壁</color>结束后，会消耗剩余的【磐岩护壁】，并获得等同数量的【刚柔化势】。",
                 "Param": [
+                    "1",
+                    "3",
+                    "1"
+                ],
+                "SimpleDesc": "<size=40><color=Title>御反之隙</color></size>\n施放重击<color=Highlight>后发制人</color>或变奏技能<color=Highlight>携攻守阵</color>后一定时间内，短按<color=Highlight>普攻</color>，可施放<color=Highlight>御反之隙</color>。\n进行最多3段的连续攻击，造成<color=Dark>湮灭伤害</color>。\n<color=Highlight>御反之隙</color>命中目标时消耗{0}点【刚柔化势】，同时获得护盾。\n在施放变奏技能<color=Highlight>携攻守阵</color>后使用<color=Highlight>普攻</color>，可直接施放<color=Highlight>御反之隙</color>。\n<size=10></size>\n<size=40><color=Title>刚柔化势获取规则</color></size>\n【刚柔化势】上限{1}点。\n【刚柔化势】获取途径：【磐岩护壁】结束或被消耗时获得。\n<color=Highlight>第4段普攻</color>可消耗所有【磐岩护壁】。",
+                "SimpleParam": [
                     "1",
                     "3",
                     "1"
@@ -3454,6 +3484,11 @@
                     "38%",
                     "14"
                 ],
+                "SimpleDesc": "下一位登场角色共鸣技能伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
+                    "38%",
+                    "14"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconTaohua/SP_IconTaohuaT.SP_IconTaohuaT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -3890,5 +3925,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "160101": {
+                "Desc": "御反之隙：后发制人 + {0} + {0} + {0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "160102": {
+                "Desc": "后发制人：磐岩守势持续期间受到攻击或满蓄触发",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeTaoqi.T_RoleSkillTreeTaoqi",
+        "DescList": [
+            "受到攻击或普攻第4段命中会将共鸣技能生成的护盾转化为特殊能量",
+            "触发反击时，连续点击普攻，可以消耗特殊能量使用追加攻击"
+        ]
     }
 }

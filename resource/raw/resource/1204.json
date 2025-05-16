@@ -1084,6 +1084,8 @@
                 "Name": "即兴发挥",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n使用双枪和火焰对目标进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n进入瞄准状态，可以进行更强力的射击。\n蓄力完成后攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，在空中进行连续攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorGun.SP_IconNorGun",
                 "Type": "常态攻击",
                 "Level": {
@@ -1974,6 +1976,8 @@
                 "Name": "激昂变奏",
                 "Desc": "向正前方打出高速火焰闪电，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMotefei/SP_IconMotefeiB1.SP_IconMotefeiB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2263,6 +2267,12 @@
                 "Name": "暴烈终曲",
                 "Desc": "造成<color=Fire>热熔伤害</color>，并为队伍中所有角色附加<color=Highlight>浮翼狂想</color>。\n<size=10> </size>\n<size=40><color=Title>浮翼狂想</color></size>\n·队伍中登场角色的<color=Highlight>普攻</color>命中目标时，进行协同攻击，打出{0}发<color=Highlight>加强音</color>；\n·队伍中登场角色的<color=Highlight>重击</color>命中目标时，进行协同攻击，打出{1}发<color=Highlight>加强音</color>；\n·每{2}秒可进行1次协同攻击。\n<size=10> </size>\n<size=40><color=Title>加强音</color></size>\n造成<color=Fire>热熔伤害</color>。",
                 "Param": [
+                    "1",
+                    "2",
+                    "0.35"
+                ],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>，并为队伍中所有角色附加<color=Highlight>浮翼狂想</color>。\n<size=10></size>\n<size=40><color=Title>浮翼狂想</color></size>\n队伍中登场角色的<color=Highlight>普攻</color>、<color=Highlight>重击</color>命中目标时，进行协同攻击，打出<color=Highlight>加强音</color>。\n<size=10></size>\n<size=40><color=Title>加强音</color></size>\n造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [
                     "1",
                     "2",
                     "0.35"
@@ -2676,6 +2686,11 @@
                     "8",
                     "25%"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>激昂变奏</color>后{0}秒内，共鸣技能<color=Highlight>怒火赋格</color>的伤害提升{1}。",
+                "SimpleParam": [
+                    "8",
+                    "25%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMotefei/SP_IconMotefeiD1.SP_IconMotefeiD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2731,6 +2746,12 @@
                     "0.35",
                     "50"
                 ],
+                "SimpleDesc": "共鸣解放<color=Highlight>浮翼狂想</color>持续期间，每次共鸣解放<color=Highlight>加强音</color>命中后，都会使下次的共鸣解放<color=Highlight>加强音</color>伤害提升{0}，每{1}秒可触发1次，上限{2}层。\n共鸣解放<color=Highlight>浮翼狂想</color>结束后重置效果层数。",
+                "SimpleParam": [
+                    "1.5%",
+                    "0.35",
+                    "50"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMotefei/SP_IconMotefeiD2.SP_IconMotefeiD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2780,6 +2801,8 @@
                 "Name": "不协和音",
                 "Desc": "攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMotefei/SP_IconMotefeiQTE.SP_IconMotefeiQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3045,6 +3068,12 @@
                     "100",
                     "5"
                 ],
+                "SimpleDesc": "<size=40><color=Title>共鸣技能·怒火赋格</color></size>\n【怒气值】到达{0}时，<color=Highlight>共鸣技能</color>替换为<color=Highlight>怒火赋格</color>。\n施放怒火赋格时，消耗所有【怒气值】，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>怒气值获取规则</color></size>\n【怒气值】上限{1}点。\n【怒气值】的获取途径：\n<color=Highlight>常态攻击</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣技能</color>。",
+                "SimpleParam": [
+                    "100",
+                    "100",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMotefei/SP_IconMotefeiY.SP_IconMotefeiY",
                 "Type": "共鸣回路",
                 "Level": {
@@ -3306,6 +3335,11 @@
                 "Name": "怒意移调",
                 "Desc": "下一位登场角色重击伤害加深{0}，效果持续{1}秒，若切换至其他角色则该效果提前结束。",
                 "Param": [
+                    "38%",
+                    "14"
+                ],
+                "SimpleDesc": "下一位登场角色重击伤害加深{0}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
                     "38%",
                     "14"
                 ],
@@ -3743,5 +3777,20 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleMofeite.T_ActivityRoleMofeite",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "120401": {
+                "Desc": "怒火赋格：特殊能量达到100时，按{0}",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeMotefei.T_RoleSkillTreeMotefei",
+        "DescList": [
+            "常态攻击、共鸣技能和变奏技能命中目标时，回复特殊能量",
+            "特殊能量充满时，可施放强化共鸣技能"
+        ]
     }
 }

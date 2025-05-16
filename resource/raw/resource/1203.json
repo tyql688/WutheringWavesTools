@@ -1102,6 +1102,8 @@
                 "Name": "羊咩出击",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>普攻·咩咩</color></size>\n在<color=Highlight>普攻第4段</color>攻击后一定时间内短按普攻，将会攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>普攻·咩咩</color></size>\n在<color=Highlight>普攻第4段</color>攻击后一定时间内短按普攻，将会攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -1868,6 +1870,8 @@
                 "Name": "热力羊咩",
                 "Desc": "<size=40><color=Title>热力羊咩</color></size>\n召唤白咩与黑咩，以高温射线攻击目标，造成<color=Fire>热熔伤害</color>。\n<size=10> </size>\n<size=40><color=Title>热情欢迎式</color></size>\n在施放<color=Highlight>热力羊咩</color>后一定时间内，短按<color=Highlight>共鸣技能</color>，将会施放<color=Highlight>热情欢迎式</color>攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>热力羊咩</color></size>\n造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>热情欢迎式</color></size>\n在施放<color=Highlight>热力羊咩</color>后一定时间内，短按<color=Highlight>共鸣技能</color>，将会施放<color=Highlight>热情欢迎式</color>攻击目标，造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeB1.SP_IconAnkeB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2246,6 +2250,8 @@
                 "Name": "黑咩大暴走",
                 "Desc": "安可无力压制黑咩，暴走黑咩出现并开始攻击目标。\n<size=10> </size>\n<size=40><color=Title>普攻·黑咩·胡闹</color></size>\n黑咩大暴走期间，<color=Highlight>普攻</color>替换为<color=Highlight>黑咩·胡闹</color>，进行最多4段的连续攻击，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。\n<size=10> </size>\n<size=40><color=Title>黑咩·重击</color></size>\n黑咩大暴走期间，<color=Highlight>重击</color>替换为<color=Highlight>黑咩·重击</color>，消耗耐力攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>共鸣技能·黑咩·狂热</color></size>\n黑咩大暴走期间，<color=Highlight>热力羊咩</color>转换为<color=Highlight>黑咩·狂热</color>，以失控的火焰攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>黑咩·闪避反击</color></size>\n黑咩大暴走期间，成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Fire>热熔伤害</color>，此次伤害为普攻伤害。",
                 "Param": [],
+                "SimpleDesc": "进入黑咩大暴走状态，期间：\n<color=Highlight>普攻</color>替换为<color=Highlight>黑咩·胡闹</color>，造成<color=Fire>热熔伤害</color>。\n<color=Highlight>重击</color>替换为<color=Highlight>黑咩·重击</color>，消耗耐力，造成<color=Fire>热熔伤害</color>。\n<color=Highlight>热力羊咩</color>转换为<color=Highlight>黑咩·狂热</color>，造成<color=Fire>热熔伤害</color>。\n<color=Highlight>闪避反击</color>转换为<color=Highlight>黑咩·闪避反击</color>，造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeC1.SP_IconAnkeC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3383,6 +3389,11 @@
                     "70%",
                     "10%"
                 ],
+                "SimpleDesc": "共鸣解放<color=Highlight>黑咩大暴走</color>期间，安可的生命高于{0}时，伤害提升{1}。",
+                "SimpleParam": [
+                    "70%",
+                    "10%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeD1.SP_IconAnkeD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3437,6 +3448,11 @@
                     "10%",
                     "10"
                 ],
+                "SimpleDesc": "施放共鸣技能<color=Highlight>热力羊咩</color>或共鸣技能<color=Highlight>黑咩·狂热</color>时，安可的热熔伤害加成提升{0}，效果持续{1}秒。",
+                "SimpleParam": [
+                    "10%",
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeD2.SP_IconAnkeD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3486,6 +3502,8 @@
                 "Name": "咩咩帮手",
                 "Desc": "与黑咩一起从天而降，攻击目标，造成<color=Fire>热熔伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeQTE.SP_IconAnkeQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3749,6 +3767,12 @@
                 "Name": "黑白羊咩",
                 "Desc": "<size=40><color=Title>重击·白咩·失控之炎</color></size>\n施放<color=Highlight>重击</color>时，若安可攒满【失序值】，安可会消耗所有的【失序值】进入失序状态，处于失序状态时安可受到伤害降低{0}，切换角色不会中断失序状态。\n失序状态结束后，施放<color=Highlight>失控之炎</color>，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>重击·黑咩·暴走之炎</color></size>\n黑咩大暴走期间，施放<color=Highlight>重击</color>时，若安可攒满【失序值】，安可会消耗所有的【失序值】进入黑咩失序状态，处于黑咩失序状态时安可受到伤害降低{1}，切换角色不会中断黑咩失序状态。\n黑咩失序状态结束后，施放<color=Highlight>暴走之炎</color>，造成<color=Fire>热熔伤害</color>，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>失序值获取规则</color></size>\n【失序值】上限{2}点。\n常态攻击<color=Highlight>羊咩出击</color>命中目标时，回复【失序值】。\n共鸣技能<color=Highlight>热力羊咩</color>命中目标时，回复【失序值】。\n共鸣技能<color=Highlight>热情欢迎式</color>命中目标时，回复【失序值】。\n变奏技能<color=Highlight>咩咩帮手</color>命中目标时，回复【失序值】。\n共鸣解放<color=Highlight>黑咩大暴走</color>持续期间命中目标时，回复【失序值】。",
                 "Param": [
+                    "70%",
+                    "70%",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·白咩·失控之炎</color></size>\n施放<color=Highlight>重击</color>时，若安可攒满【失序值】，安可会消耗所有的【失序值】进入失序状态。\n失序状态结束后，施放<color=Highlight>失控之炎</color>，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·黑咩·暴走之炎</color></size>\n黑咩大暴走期间，施放<color=Highlight>重击</color>时，若安可攒满【失序值】，安可会消耗所有的【失序值】进入黑咩失序状态。\n黑咩失序状态结束后，施放<color=Highlight>暴走之炎</color>，造成<color=Fire>热熔伤害</color>。\n<size=10></size>\n<size=40><color=Title>失序值获取规则</color></size>\n【失序值】上限{2}点。\n【失序值】的获取途径：<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>、<color=Highlight>变奏技能</color>、<color=Highlight>共鸣解放</color>。",
+                "SimpleParam": [
                     "70%",
                     "70%",
                     "100"
@@ -4232,6 +4256,13 @@
                     "176.76%",
                     "6"
                 ],
+                "SimpleDesc": "生成地炎，每{1}秒后造成安可{2}攻击的<color=Fire>热熔伤害</color>。",
+                "SimpleParam": [
+                    "3",
+                    "1.5",
+                    "176.76%",
+                    "6"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconAnke/SP_IconAnkeT.SP_IconAnkeT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4670,5 +4701,38 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleAnke.T_ActivityRoleAnke",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "120301": {
+                "Desc": "白咩·失控之炎：特殊能量达到100时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "120302": {
+                "Desc": "普攻·咩咩：普攻第四段后，恰当时机{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "120303": {
+                "Desc": "热情欢迎式：施放热力羊咩后，恰当时机{0}",
+                "InputList": [
+                    "技能1"
+                ]
+            },
+            "120304": {
+                "Desc": "黑咩·暴走之炎：共鸣解放状态下，特殊能量达到100时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeAnke.T_RoleSkillTreeAnke",
+        "DescList": [
+            "常态下攒满特殊能量，可长按普攻施放强化重击",
+            "共鸣解放状态下攒满特殊能量，可长按普攻施放强化共鸣解放攻击"
+        ]
     }
 }

@@ -1114,6 +1114,8 @@
                 "Name": "悬丝华刃舞",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n控制人偶“悬丝”，进行最多4段的连续攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力操纵人偶“悬丝”攻击目标，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，操控人偶“悬丝”进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorMagic.SP_IconNorMagic",
                 "Type": "常态攻击",
                 "Level": {
@@ -2195,6 +2197,10 @@
                 "Param": [
                     "8"
                 ],
+                "SimpleDesc": "<size=40><color=Title>磁殛咆哮</color></size>\n造成<color=Thunder>导电伤害</color>，并使吟霖进入<color=Highlight>磁殛状态</color>。\n<size=10></size>\n<size=40><color=Title>磁殛状态</color></size>\n·<color=Highlight>普攻</color>和<color=Highlight>闪避反击</color>命中目标时，触发磁殛爆发；\n·磁殛爆发可触发4次。\n<size=10></size>\n<size=40><color=Title>磁殛爆发</color></size>\n对所有携带<color=Highlight>缚罪标记</color>的目标，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>召雷磁爆</color></size>\n施放共鸣技能<color=Highlight>磁殛咆哮</color>后一定时间内，短按共鸣技能，将会施放<color=Highlight>召雷磁爆</color>攻击目标，造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [
+                    "8"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYinlin/SP_IconYinlinB1.SP_IconYinlinB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2711,6 +2717,8 @@
                 "Name": "破天雷灭击",
                 "Desc": "指挥“悬丝”引下天雷，轰击敌人，造成大范围<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYinlin/SP_IconYinlinC1.SP_IconYinlinC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3031,6 +3039,11 @@
                     "15%",
                     "5"
                 ],
+                "SimpleDesc": "使用共鸣技能<color=Highlight>磁殛咆哮</color>后，暴击提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "15%",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYinlin/SP_IconYinlinD1.SP_IconYinlinD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3086,6 +3099,12 @@
                     "10%",
                     "4"
                 ],
+                "SimpleDesc": "共鸣技能<color=Highlight>召雷磁爆</color>命中带有<color=Highlight>缚罪标记</color>的目标伤害提升{0}，并且触发该效果时攻击提升{1}，持续{2}秒。",
+                "SimpleParam": [
+                    "10%",
+                    "10%",
+                    "4"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYinlin/SP_IconYinlinD2.SP_IconYinlinD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -3135,6 +3154,8 @@
                 "Name": "狂雷飓风",
                 "Desc": "利用人偶“悬丝”进行攻击，造成大范围的<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYinlin/SP_IconYinlinQTE.SP_IconYinlinQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3427,6 +3448,11 @@
                 "Name": "千面魅影",
                 "Desc": "<size=40><color=Title>千面魅影</color></size>\n当吟霖【审判值】满时，<color=Highlight>重击</color>将替换为<color=Highlight>千面魅影</color>，消耗所有【审判值】攻击目标，造成<color=Thunder>导电伤害</color>，命中携带<color=Highlight>缚罪标记</color>的目标时，<color=Highlight>缚罪标记</color>被替换为<color=Highlight>惩罚印记</color>，持续{0}秒。<color=Highlight>千面魅影</color>造成的伤害为重击伤害。\n<size=10> </size>\n<size=40><color=Title>缚罪标记</color></size>\n常态攻击<color=Highlight>悬丝华刃舞</color>、共鸣解放<color=Highlight>破天雷灭击</color>或变奏技能<color=Highlight>狂雷飓风</color>命中目标时，附加<color=Highlight>缚罪标记</color>。\n吟霖离场时<color=Highlight>缚罪标记</color>消失。\n<size=10> </size>\n<size=40><color=Title>惩罚印记</color></size>\n携带<color=Highlight>惩罚印记</color>的目标受到伤害时会降下<color=Highlight>审判之雷</color>，对所有携带<color=Highlight>惩罚印记</color>的目标造成<color=Thunder>导电伤害</color>，每秒最多可触发1次。<color=Highlight>审判之雷</color>造成的伤害为共鸣技能伤害。\n<size=10> </size>\n<size=40><color=Title>审判值</color></size>\n【审判值】上限{1}点。\n施放变奏技能<color=Highlight>狂雷飓风</color>时，回复【审判值】。\n常态攻击<color=Highlight>悬丝华刃舞</color>命中目标时，回复【审判值】。\n施放共鸣技能<color=Highlight>磁殛咆哮</color>时，回复【审判值】。\n共鸣技能<color=Highlight>磁殛爆发</color>命中目标时，回复【审判值】。\n施放共鸣技能<color=Highlight>召雷磁爆</color>时，回复【审判值】。",
                 "Param": [
+                    "18",
+                    "100"
+                ],
+                "SimpleDesc": "<size=40><color=Title>千面魅影</color></size>\n【审判值】满时，<color=Highlight>重击</color>将替换为<color=Highlight>千面魅影</color>，消耗所有【审判值】攻击目标，造成<color=Thunder>导电伤害</color>，将命中目标的<color=Highlight>缚罪标记</color>替换为<color=Highlight>惩罚印记</color>。\n<size=10></size>\n<size=40><color=Title>缚罪标记</color></size>\n常态攻击<color=Highlight>悬丝华刃舞</color>、共鸣解放<color=Highlight>破天雷灭击</color>或变奏技能<color=Highlight>狂雷飓风</color>命中目标时，附加<color=Highlight>缚罪标记</color>。\n吟霖离场时<color=Highlight>缚罪标记</color>消失。\n<size=10></size>\n<size=40><color=Title>惩罚印记</color></size>\n携带<color=Highlight>惩罚印记</color>的目标受到伤害时会受到额外的<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>审判值的获取规则</color></size>\n【审判值】上限{1}点。\n【审判值】的获取途径：<color=Highlight>变奏技能</color>、<color=Highlight>常态攻击</color>、<color=Highlight>共鸣技能</color>。",
+                "SimpleParam": [
                     "18",
                     "100"
                 ],
@@ -3786,6 +3812,12 @@
                 "Name": "策电",
                 "Desc": "下一位登场角色导电伤害加深{0}，共鸣解放伤害加深{1}，效果持续{2}秒，若切换至其他角色则该效果提前结束。",
                 "Param": [
+                    "20%",
+                    "25%",
+                    "14"
+                ],
+                "SimpleDesc": "下一位登场角色导电伤害加深{0}，共鸣解放伤害加深{1}，若切换至其他角色则该效果提前结束。",
+                "SimpleParam": [
                     "20%",
                     "25%",
                     "14"
@@ -4224,5 +4256,20 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "130201": {
+                "Desc": "千面魅影：特殊能量充满时，长按{0}。",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYingling.T_RoleSkillTreeYingling",
+        "DescList": [
+            "普攻、重击或共鸣技能命中目标时，回复特殊能量",
+            "特殊能量充满时，长按普攻可施放强化攻击"
+        ]
     }
 }

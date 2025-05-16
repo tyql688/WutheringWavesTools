@@ -1084,6 +1084,8 @@
                 "Name": "雷煌拳",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多5段的连续攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorFist.SP_IconNorFist",
                 "Type": "常态攻击",
                 "Level": {
@@ -1976,6 +1978,12 @@
                     "1.2",
                     "1.5"
                 ],
+                "SimpleDesc": "<size=40><color=Title>雷之楔</color></size>\n召唤<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>，并形成<color=Highlight>雷池</color>。\n施放共鸣回路<color=Highlight>万壑雷</color>及共鸣解放<color=Highlight>寂土重明</color>时会立刻引爆场上的<color=Highlight>雷之楔</color>，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>雷池</color></size>\n登场角色处于<color=Highlight>雷池</color>内攻击命中目标时，<color=Highlight>雷之楔</color>会进行协同攻击，造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [
+                    "12",
+                    "1.2",
+                    "1.5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuB1.SP_IconYuanwuB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2496,6 +2504,10 @@
                 "Param": [
                     "10"
                 ],
+                "SimpleDesc": "为附近队伍中所有角色提供<color=Highlight>雷厉风行</color>状态，并对目标造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [
+                    "10"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuC1.SP_IconYuanwuC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -2846,6 +2858,10 @@
                 "Param": [
                     "40%"
                 ],
+                "SimpleDesc": "共鸣技能<color=Highlight>掀雷</color>的伤害倍率获得提升{0}，并且削减怪物共振度的能力提升。",
+                "SimpleParam": [
+                    "40%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuD1.SP_IconYuanwuD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -2899,6 +2915,10 @@
                 "Param": [
                     "1"
                 ],
+                "SimpleDesc": "共鸣技能<color=Highlight>雷池</color>及共鸣技能<color=Highlight>掀雷</color>的范围大幅扩大，战斗状态中离场时，若【锋芒】没有充满，渊武会自动在原地留下{0}个共鸣技能<color=Highlight>雷之楔</color>。",
+                "SimpleParam": [
+                    "1"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuD2.SP_IconYuanwuD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -2948,6 +2968,8 @@
                 "Name": "轰雷",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuQTE.SP_IconYuanwuQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -3209,6 +3231,13 @@
                 "Name": "沉雷藏锋",
                 "Desc": "<size=40><color=Title>万壑雷</color></size>\n 【锋芒】充满时，长按<color=Highlight>共鸣技能</color>，将会消耗所有【锋芒】，施放<color=Highlight>万壑雷</color>，造成<color=Thunder>导电伤害</color>，并使渊武进入<color=Highlight>雷厉风行</color>状态。\n<size=10> </size>\n<size=40><color=Title>掀雷</color></size>\n【锋芒】充满时，共鸣技能<color=Highlight>雷之楔</color>将会施放<color=Highlight>掀雷</color>，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n <size=40><color=Title>雷厉风行</color></size>\n 在<color=Highlight>雷厉风行</color>状态下的角色抗打断能力提升。\n 渊武处于该状态下时：\n ·<color=Highlight>普攻</color>的攻击范围扩大，削减怪物共振度的能力提升；\n ·<color=Highlight>重击</color>的攻击更为迅猛，削减怪物共振度的能力提升；\n ·<color=Highlight>闪避反击</color>的攻击更为迅猛，削减怪物共振度的能力提升；\n ·施放<color=Highlight>重击</color>或成功触发<color=Highlight>逆势回击</color>后{0}秒内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>蹑风追雷</color>攻击目标，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害；\n ·不会回复【锋芒】。\n <size=10> </size>\n <size=40><color=Title>锋芒获取规则</color></size>\n 【锋芒】上限{1}点。\n 场上存在共鸣技能<color=Highlight>雷之楔</color>时，每秒回复{2}点【锋芒】，渊武不在场时该效果依然生效。\n 共鸣技能<color=Highlight>雷之楔</color>协同攻击命中目标时，回复{3}点【锋芒】。",
                 "Param": [
+                    "3",
+                    "100",
+                    "6",
+                    "5"
+                ],
+                "SimpleDesc": "<size=40><color=Title>万壑雷</color></size>\n【锋芒】充满时，长按<color=Highlight>共鸣技能</color>，消耗所有【锋芒】，造成<color=Thunder>导电伤害</color>，并使渊武进入<color=Highlight>雷厉风行</color>状态。\n<size=10></size>\n<size=40><color=Title>掀雷</color></size>\n【锋芒】充满时，<color=Highlight>雷之楔</color>将会施放<color=Highlight>掀雷</color>，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>雷厉风行</color></size>\n在<color=Highlight>雷厉风行</color>状态下的角色抗打断能力提升。\n渊武处于该状态下时：\n·<color=Highlight>普攻</color>攻击范围扩大，削减怪物共振度的能力提升；\n·<color=Highlight>重击</color>削减怪物共振度的能力提升；\n·<color=Highlight>闪避反击</color>削减怪物共振度的能力提升；\n·施放<color=Highlight>重击</color>或成功触发<color=Highlight>逆势回击</color>后{0}秒内短按<color=Highlight>普攻</color>，将会施放<color=Highlight>蹑风追雷</color>攻击目标，造成<color=Thunder>导电伤害</color>。\n·不会回复【锋芒】\n<size=10></size>\n<size=40><color=Title>锋芒获取规则</color></size>\n【锋芒】上限{1}点。\n【锋芒】的获取途径：\n<color=Highlight>雷之楔</color>存在时，随时间逐渐获得。\n<color=Highlight>雷之楔</color>触发协同攻击。",
+                "SimpleParam": [
                     "3",
                     "100",
                     "6",
@@ -4408,6 +4437,8 @@
                 "Name": "驱雷",
                 "Desc": "以技能目标为中心，降落闪电，对命中的敌人造成大量共振值伤害。",
                 "Param": [],
+                "SimpleDesc": "对敌人造成大量共振值伤害。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconYuanwu/SP_IconYuanwuT.SP_IconYuanwuT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -4842,5 +4873,20 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "130301": {
+                "Desc": "万壑雷：特殊能量充满时，长按{0}",
+                "InputList": [
+                    "技能1"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeYuanwu.T_RoleSkillTreeYuanwu",
+        "DescList": [
+            "雷之楔在场、触发协同攻击时，可回复特殊能量",
+            "特殊能量达到上限时，长按共鸣技能可施放万壑雷，同时进入雷厉风行状态"
+        ]
     }
 }

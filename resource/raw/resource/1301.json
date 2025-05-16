@@ -1120,6 +1120,8 @@
                 "Name": "猎犬剑技·獠牙撕扯",
                 "Desc": "<size=40><color=Title>普攻</color></size>\n最多进行4段攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Thunder>导电伤害</color>。\n<size=10> </size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword",
                 "Type": "常态攻击",
                 "Level": {
@@ -2102,6 +2104,8 @@
                 "Name": "灭杀指令",
                 "Desc": "进行最多3段攻击，造成<color=Thunder>导电伤害</color>。\n若切换至其他角色或者一定时间内没有施放共鸣技能<color=Highlight>灭杀指令</color>，则技能进入冷却状态。 \n共鸣技能<color=Highlight>灭杀指令</color>不会打断普攻段数。",
                 "Param": [],
+                "SimpleDesc": "进行最多3段攻击，造成<color=Thunder>导电伤害</color>。\n若切换至其他角色或者一定时间内没有施放共鸣技能<color=Highlight>灭杀指令</color>，则技能进入冷却状态。\n共鸣技能<color=Highlight>灭杀指令</color>不会打断普攻段数。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoB1.SP_IconKakaluoB1",
                 "Type": "共鸣技能",
                 "Level": {
@@ -2662,6 +2666,8 @@
                 "Name": "幻影蚀刻",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>杀戮武装</color>状态。状态结束后，卡卡罗下次<color=Highlight>变奏技能</color>替换为变奏技能<color=Highlight>「必要的手段」</color>，造成<color=Thunder>导电伤害</color>，此次伤害为变奏技能伤害。\n<size=10> </size>\n<size=40><color=Title>杀戮武装</color></size>\n·<color=Highlight>普攻</color>将变为普攻<color=Highlight>猎犬剑技·狂噬影狱</color>；\n·<color=Highlight>重击</color>的伤害提升，此次伤害为共鸣解放伤害；\n·<color=Highlight>闪避反击</color>的伤害提升，此次伤害为共鸣解放伤害。\n<size=10> </size>\n<size=40><color=Title>普攻·猎犬剑技·狂噬影狱</color></size>\n进行最多5段的连续攻击，造成<color=Thunder>导电伤害</color>，此次伤害为普攻伤害。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>，并进入<color=Highlight>杀戮武装</color>状态。状态结束后，卡卡罗下次<color=Highlight>变奏技能</color>替换为变奏技能<color=Highlight>「必要的手段」</color>，造成<color=Thunder>导电伤害</color>。\n<size=10></size>\n<size=40><color=Title>杀戮武装</color></size>\n·<color=Highlight>普攻</color>将变为普攻<color=Highlight>猎犬剑技·狂噬影狱</color>\n·<color=Highlight>重击</color>、<color=Highlight>闪避反击</color>的伤害提升。\n<size=10></size>\n<size=40><color=Title>普攻·猎犬剑技·狂噬影狱</color></size>\n造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoC1.SP_IconKakaluoC1",
                 "Type": "共鸣解放",
                 "Level": {
@@ -3938,6 +3944,11 @@
                     "10%",
                     "15"
                 ],
+                "SimpleDesc": "施放重击<color=Highlight>「仁慈」</color>时，卡卡罗的共鸣解放伤害加成提升{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "10%",
+                    "15"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoD1.SP_IconKakaluoD1",
                 "Type": "固有技能",
                 "Level": {},
@@ -3992,6 +4003,11 @@
                     "15%",
                     "5"
                 ],
+                "SimpleDesc": "重击<color=Highlight>「死告」</color>命中目标时，卡卡罗受到伤害降低{0}，持续{1}秒。",
+                "SimpleParam": [
+                    "15%",
+                    "5"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoD2.SP_IconKakaluoD2",
                 "Type": "固有技能",
                 "Level": {},
@@ -4041,6 +4057,8 @@
                 "Name": "全境通缉",
                 "Desc": "攻击目标，造成<color=Thunder>导电伤害</color>。",
                 "Param": [],
+                "SimpleDesc": "造成<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoQTE.SP_IconKakaluoQTE",
                 "Type": "变奏技能",
                 "Level": {
@@ -4395,6 +4413,16 @@
                 "Name": "猎杀使命",
                 "Desc": "<size=40><color=Title>重击·「仁慈」</color></size>\n持有{0}点【残忍】时，<color=Highlight>重击</color>替换为重击<color=Highlight>「仁慈」</color>。\n施放重击<color=Highlight>「仁慈」</color>时，消耗{1}点【残忍】，造成<color=Thunder>导电伤害</color>，此次伤害为重击伤害，并额外回复共鸣能量和协奏能量。\n<size=10> </size>\n<size=40><color=Title>残忍的获取规则</color></size>\n【残忍】上限{2}点。\n共鸣解放<color=Highlight>杀戮武装</color>状态下，无法获得【残忍】。\n共鸣技能<color=Highlight>灭杀指令</color>命中目标时，获得{3}点【残忍】。\n<size=10> </size>\n<color=Title>重击·「死告」</color>\n持有{4}点【杀意】时，<color=Highlight>普攻</color>替换为重击<color=Highlight>「死告」</color>。\n施放重击<color=Highlight>「死告」</color>时，消耗{5}点【杀意】，造成<color=Thunder>导电伤害</color>，此次伤害为共鸣解放伤害，并额外回复共鸣能量和协奏能量。\n<size=10> </size>\n<size=40><color=Title>【杀意】的获取规则</color></size>\n共鸣解放<color=Highlight>杀戮武装</color>状态下，特殊能量替换为【杀意】。\n【杀意】上限{6}点。\n普攻<color=Highlight>猎犬剑技·狂噬影狱</color>命中目标时，回复1点【杀意】。",
                 "Param": [
+                    "3",
+                    "3",
+                    "3",
+                    "1",
+                    "5",
+                    "5",
+                    "5"
+                ],
+                "SimpleDesc": "<size=40><color=Title>重击·「仁慈」</color></size>\n持有{0}点【残忍】时，<color=Highlight>重击</color>替换为重击<color=Highlight>「仁慈」</color>。\n施放重击<color=Highlight>「仁慈」</color>时，消耗{1}点【残忍】，造成<color=Thunder>导电伤害</color>，并额外回复共鸣能量和协奏能量。\n<size=10></size>\n<size=40><color=Title>残忍的获取规则</color></size>\n【残忍】上限{2}点。\n共鸣解放<color=Highlight>杀戮武装</color>状态下，无法获得【残忍】。\n【残忍】的获取途径：<color=Highlight>共鸣技能</color>。\n<size=10></size>\n<color=Title>重击·「死告」</color>\n持有{4}点【杀意】时，<color=Highlight>普攻</color>替换为重击<color=Highlight>「死告」</color>。\n施放重击<color=Highlight>「死告」</color>时，消耗{5}点【杀意】，造成<color=Thunder>导电伤害</color>，并额外回复共鸣能量和协奏能量。\n<size=10></size>\n<size=40><color=Title>【杀意】的获取规则</color></size>\n<color=Highlight>杀戮武装</color>状态下，特殊能量替换为【杀意】。\n【杀意】上限{6}点。\n【杀意】获取途径：普攻<color=Highlight>猎犬剑技·狂噬影狱</color>。",
+                "SimpleParam": [
                     "3",
                     "3",
                     "3",
@@ -5299,6 +5327,10 @@
                 "Param": [
                     "195.98%+391.96%"
                 ],
+                "SimpleDesc": "召唤<color=Highlight>猎杀影</color>，造成卡卡罗{0}攻击的<color=Thunder>导电伤害</color>。",
+                "SimpleParam": [
+                    "195.98%+391.96%"
+                ],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/SP_IconKakaluoT.SP_IconKakaluoT",
                 "Type": "延奏技能",
                 "Level": {},
@@ -5734,5 +5766,26 @@
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleKakaluo.T_ActivityRoleKakaluo",
             "SortIndex": 0
         }
+    },
+    "Forte": {
+        "SkillInputList": {
+            "130101": {
+                "Desc": "「仁慈」：特殊能量达到3点时，长按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            },
+            "130102": {
+                "Desc": "「死告」：共鸣解放状态下，特殊能量达到5点时，点按{0}",
+                "InputList": [
+                    "攻击"
+                ]
+            }
+        },
+        "Icon": "/Game/Aki/UI/UIResources/UiRole/Image/T_RoleSkillTreeKakaluo.T_RoleSkillTreeKakaluo",
+        "DescList": [
+            "常态下共鸣技能命中目标时回复特殊能量，攒满时可施放强化重击",
+            "共鸣解放状态下普攻命中目标回复特殊能量，攒满时可施放共鸣解放攻击"
+        ]
     }
 }
