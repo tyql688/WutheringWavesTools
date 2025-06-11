@@ -24,6 +24,7 @@ url_attr = {
     "attr_高天共奏之曲.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCooperate.webp",
     "attr_流云逝尽之空.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.webp",
     "attr_奔狼燎原之焰.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFireUltimateSkill.webp",
+    "attr_愿戴荣光之旅.png": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindErrorA.webp",
 }
 
 
