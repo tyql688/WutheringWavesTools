@@ -89,5 +89,8 @@
     ],
     "IntensityCode": 2,
     "MonsterInfo": 340000080,
-    "Child": 391080003
+    "Phantom": {
+        "Name": "异相·云闪之鳞",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1008_UI.T_IconMonsterHead_1008_UI"
+    }
 }

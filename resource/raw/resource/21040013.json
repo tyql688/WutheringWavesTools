@@ -5,6 +5,7 @@
     "Name": "暗夜臂铠·夜芒",
     "Desc": "夜归常用臂铠，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040013_UI.T_IconWeapon21040013_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R3Knuckles003/R3Knuckles003Md20001_L/Model/R3Knuckles003Md20001_L.R3Knuckles003Md20001_L",
     "Stats": {
         "0": {
             "1": [

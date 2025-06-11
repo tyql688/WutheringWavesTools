@@ -1,0 +1,16 @@
+{
+    "Id": 71250003,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "她的誓言",
+    "Desc": "记忆中的一瞬，属于七丘城中的露帕。",
+    "Bg": "故事中的旅途尘埃落定，她的誓言坚定真诚。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_154_UI.T_IconTask_Task_154_UI",
+    "Source": []
+}

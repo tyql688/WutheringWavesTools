@@ -5,6 +5,7 @@
     "Name": "裁春",
     "Desc": "静寂抽枝的椿花之种。她将如约绽放的无限世界盛在掌心，让细小的赤色藤蔓与指尖缠绕相连。\n恰似沙砾厮磨心脏的隐约痛楚，即是彼此相遇的证明。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020017_UI.T_IconWeapon21020017_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R5Sword502/R5Sword502Md20001/Model/R5Sword502Md20001.R5Sword502Md20001",
     "Stats": {
         "0": {
             "1": [

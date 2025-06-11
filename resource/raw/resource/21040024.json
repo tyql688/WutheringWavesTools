@@ -5,6 +5,7 @@
     "Name": "呼啸重音",
     "Desc": "以乐谱频率为灵感创作的臂铠。音阶下行，臂有此铠，以巨浪之音呼啸狂怒，锻造高昂交响。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040024_UI.T_IconWeapon21040024_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles002/R4Knuckles002Md20001_L/Model/R4Knuckles002Md20001_L.R4Knuckles002Md20001_L",
     "Stats": {
         "0": {
             "1": [

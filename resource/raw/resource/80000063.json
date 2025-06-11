@@ -1,0 +1,18 @@
+{
+    "Id": 80000063,
+    "Rarity": 4,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "盐海爆爆康",
+    "Desc": "提高队伍中所有共鸣者10%治疗效果加成和20%生命上限，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "来一桶盐海爆爆康，让它成为你观赛时不可或缺的伙伴。盐分、快乐、健康！每一粒都能让人感到大海的味道！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_085_UI.T_IconCook_085_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

@@ -5,6 +5,7 @@
     "Name": "原初长刃·朴石",
     "Desc": "专为新手共鸣者特制的长刃，低调朴实的外表下，蕴含着不容小觑的战斗力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010012_UI.T_IconWeapon21010012_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R3Knife001/R3Knife001Md20001/Model/R3Knife001Md20001.R3Knife001Md20001",
     "Stats": {
         "0": {
             "1": [

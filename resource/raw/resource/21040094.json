@@ -5,6 +5,7 @@
     "Name": "酩酊的英雄志",
     "Desc": "武器的设计灵感取材自剧目——《酩酊的英雄志》。\n那杯中之物，鼓舞灵魂，赐予勇气，以臂铠之膂力逆转命运与战局；或是那同样的祸酿——醉意迷离之时，英雄失去警惕，敌人则趁虚而入。如此，胜利与毁灭常被书写在那酒渍斑驳的传奇篇章中。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040094_UI.T_IconWeapon21040094_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles009/R4Knuckles009Md20001_L/Model/R4Knuckles009Md20001_L.R4Knuckles009Md20001_L",
     "Stats": {
         "0": {
             "1": [

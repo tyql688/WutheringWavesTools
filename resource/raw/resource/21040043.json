@@ -5,6 +5,7 @@
     "Name": "远行者臂铠·破障",
     "Desc": "先行公约为远行者提供的臂铠，色泽鲜明，不易丢失，质地坚硬，能长期应对多种极端环境，在探险家群体中极受欢迎。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040043_UI.T_IconWeapon21040043_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R3Knuckles004/R3Knuckles004_L/Model/R3Knuckles004Md20001_L.R3Knuckles004Md20001_L",
     "Stats": {
         "0": {
             "1": [

@@ -1,0 +1,16 @@
+{
+    "Id": 71250002,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「冠军」勋章",
+    "Desc": "颁发给七丘角斗冠军赛胜利者的勋章。",
+    "Bg": "被一分为二的勋章，另一半正佩戴在露帕胸前。\n它是你此刻正沐浴着荣光之都赞美的证明，也是你与她一路并肩而战的胜果。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_Badge_UI.T_IconA_Act_Badge_UI",
+    "Source": []
+}

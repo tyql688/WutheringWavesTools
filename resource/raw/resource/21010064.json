@@ -5,6 +5,7 @@
     "Name": "东落",
     "Desc": "因空中奇象而生的长刃。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却能发挥出星陨时那般无敌重力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010064_UI.T_IconWeapon21010064_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife006/R4Knife006Md20001/Model/R4Knife006Md20001.R4Knife006Md20001",
     "Stats": {
         "0": {
             "1": [

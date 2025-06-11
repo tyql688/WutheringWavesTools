@@ -94,5 +94,8 @@
     ],
     "IntensityCode": 1,
     "MonsterInfo": 320000060,
-    "Child": 391077024
+    "Phantom": {
+        "Name": "异相·磐石守卫",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1007_UI.T_IconMonsterHead_1007_UI"
+    }
 }

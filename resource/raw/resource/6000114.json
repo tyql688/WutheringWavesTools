@@ -1,0 +1,83 @@
+{
+    "Id": 6000114,
+    "Code": "W85-",
+    "Name": "荣耀狮像",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33022_UI.T_IconMonsterHead_33022_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤【荣光之戟】，对周围敌人造成{0}的热熔伤害，一定时间后再造成{1}的热熔伤害。\n在首位装配该声骸技能时，自身热熔伤害加成提升{2}，共鸣解放伤害加成提升{3}。\n技能冷却：{4}秒",
+        "SimpleDesc": "使用声骸技能，召唤【荣光之戟】，对周围敌人造成热熔伤害。\n在首位装配时，提高自身热熔和共鸣解放伤害。",
+        "Param": [
+            [
+                "45.60%",
+                "106.40%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "54.72%",
+                "127.68%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "63.84%",
+                "148.96%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "72.96%",
+                "170.24%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "82.08%",
+                "191.52%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_33022_UI.T_MstSkil_33022_UI"
+    },
+    "Group": {
+        "18": {
+            "Id": 18,
+            "Name": "奔狼燎原之焰",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFireUltimateSkill.T_IconElementAttriFireUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "热熔伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣解放时，队伍中角色热熔伤害提升{0}，自身共鸣解放伤害提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "20%",
+                        "35"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 340000140
+}

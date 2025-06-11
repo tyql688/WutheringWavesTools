@@ -5,6 +5,7 @@
     "Name": "不灭航路",
     "Desc": "狂风呼啸，浪涛汹涌。大海将一切吞没其中，唯有船灯大笑！\n前进吧，前进吧！一直航行到世界尽头！",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020025_UI.T_IconWeapon21020025_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R5Sword503/R5Sword503Md20001/Model/R5Sword503Md20001.R5Sword503Md20001",
     "Stats": {
         "0": {
             "1": [

@@ -5,6 +5,7 @@
     "Name": "纹秋",
     "Desc": "此长刃是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010074_UI.T_IconWeapon21010074_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife007/R4Knife007Md20001/Model/R4Knife007Md20001.R4Knife007Md20001",
     "Stats": {
         "0": {
             "1": [

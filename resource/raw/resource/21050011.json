@@ -5,6 +5,7 @@
     "Name": "教学音感仪",
     "Desc": "用于训练与教学的音感仪，只具备基础的功能。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050011_UI.T_IconWeapon21050011_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R2Device001/R2Device001Md20001/Model/R2Device001Md20001.R2Device001Md20001",
     "Stats": {
         "0": {
             "1": [

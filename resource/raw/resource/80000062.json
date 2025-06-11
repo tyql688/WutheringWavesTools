@@ -1,0 +1,18 @@
+{
+    "Id": 80000062,
+    "Rarity": 3,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "扁竹花花片",
+    "Desc": "提高队伍中所有共鸣者25%攻击，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "七丘民间小食，精选扁竹花油炸而成，口感酥脆。小小一包里装有少量扁竹花花片和多量扁竹花香味空气，让人停不下拆包的手。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_079_UI.T_IconCook_079_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

@@ -5,6 +5,7 @@
     "Name": "暗夜佩枪·暗星",
     "Desc": "夜归常用佩枪，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030013_UI.T_IconWeapon21030013_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R3Gun003/R3Gun003Md20001/Model/R3Gun003Md20001.R3Gun003Md20001",
     "Stats": {
         "0": {
             "1": [

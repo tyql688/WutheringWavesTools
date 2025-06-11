@@ -73,5 +73,8 @@
     ],
     "IntensityCode": 1,
     "MonsterInfo": 320000210,
-    "Child": 6010058
+    "Phantom": {
+        "Name": "异相·踏光兽",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1016_UI.T_IconMonsterHead_1016_UI"
+    }
 }

@@ -5,6 +5,7 @@
     "Name": "永续坍缩",
     "Desc": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的心脏为名的迅刀。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020084_UI.T_IconWeapon21020084_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R4Sword008/R4Sword008Md20001/Model/R4Sword008Md20001.R4Sword008Md20001",
     "Stats": {
         "0": {
             "1": [

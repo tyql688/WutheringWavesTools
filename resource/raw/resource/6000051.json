@@ -84,5 +84,8 @@
     ],
     "IntensityCode": 0,
     "MonsterInfo": 310000340,
-    "Child": 6010051
+    "Phantom": {
+        "Name": "异相·叮咚咚",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1015_UI.T_IconMonsterHead_1015_UI"
+    }
 }

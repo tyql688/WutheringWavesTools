@@ -1,0 +1,18 @@
+{
+    "Id": 42601200,
+    "Rarity": 1,
+    "Type": 5,
+    "Tag": [
+        "食材"
+    ],
+    "TagNum": [
+        26
+    ],
+    "Name": "栎木果",
+    "Desc": "用于烹饪的材料。",
+    "Bg": "七丘高大的常绿乔木结出的坚果，成熟后会掉落地上，等待被其他的动物捡起，当做一年的贮存。\n尾狐所在之地通常能找到成堆的栎木果。这种狐狸尾巴上覆盖着栎木的树叶。他们也会把栎木果收集起来，引诱猎物上门。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_limuguo_UI.T_IconC_limuguo_UI",
+    "Source": [
+        "野外采集获得"
+    ]
+}

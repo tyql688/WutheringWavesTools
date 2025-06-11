@@ -5,6 +5,7 @@
     "Name": "奇幻变奏",
     "Desc": "以乐谱频率为灵感创作的音感仪。音阶下行，手持此器，将以洞悉之态寻觅战策，协奏就此变调。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050024_UI.T_IconWeapon21050024_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device002/R4Device002Md20001/Model/R4Device002Md20001.R4Device002Md20001",
     "Stats": {
         "0": {
             "1": [

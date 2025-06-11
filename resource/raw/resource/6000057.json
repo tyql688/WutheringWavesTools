@@ -90,5 +90,8 @@
     ],
     "IntensityCode": 1,
     "MonsterInfo": 320000200,
-    "Child": 6010057
+    "Phantom": {
+        "Name": "异相·游鳞机枢",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_329_1_UI.T_IconMonsterHead_329_1_UI"
+    }
 }

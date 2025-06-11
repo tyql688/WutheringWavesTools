@@ -5,6 +5,7 @@
     "Name": "教学长刃",
     "Desc": "用于训练与教学的长刃，只具备基础的功能。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010011_UI.T_IconWeapon21010011_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R2Knife001/R2Knife001Md20001/Model/R2Knife001Md20001.R2Knife001Md20001",
     "Stats": {
         "0": {
             "1": [

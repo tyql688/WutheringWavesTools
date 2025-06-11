@@ -5,6 +5,7 @@
     "Name": "钧天正音",
     "Desc": "据说是由角褪下的龙鳞打造而成的礼器，比起刀剑，更像是一把乐器。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010063_UI.T_IconWeapon21010063_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R3Knife501Md20001/Model/R3Knife501Md20001.R3Knife501Md20001",
     "Stats": {
         "0": {
             "1": [

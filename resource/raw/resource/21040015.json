@@ -5,6 +5,7 @@
     "Name": "擎渊怒涛",
     "Desc": "感受它——在暴烈的臂铠之上，仿佛能感受到来自湖底未知深潭的翻涌怒涛，不可名状，不可消解。咆哮着戴上此臂铠，向敌人宣泄无处可去的愤怒。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040015_UI.T_IconWeapon21040015_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R5Knuckles004/R5Knuckles004Md20001_L/Model/R5Knuckles004Md20001_L.R5Knuckles004Md20001_L",
     "Stats": {
         "0": {
             "1": [

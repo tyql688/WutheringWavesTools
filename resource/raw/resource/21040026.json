@@ -5,6 +5,7 @@
     "Name": "悲喜剧",
     "Desc": "人世间的哀乐变幻无端， 痛苦转瞬就变成了狂欢。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040018_UI.T_IconWeapon21040018_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R5Knuckles502/R5Knuckles502Md20001_L/Model/R5Knuckles502Md20001_L.R5Knuckles502Md20001_L",
     "Stats": {
         "0": {
             "1": [

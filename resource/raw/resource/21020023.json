@@ -5,6 +5,7 @@
     "Name": "源能迅刀·测贰",
     "Desc": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型迅刀，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020023_UI.T_IconWeapon21020023_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/R3Sword002Md20001.R3Sword002Md20001",
     "Stats": {
         "0": {
             "1": [

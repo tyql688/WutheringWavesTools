@@ -5,6 +5,7 @@
     "Name": "不归孤军",
     "Desc": "为纪念夜归战士的一往无前而打造的迅刀。有诗赞曰：“千音万阙传惊鼓，百兵一心出云陵。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020044_UI.T_IconWeapon21020044_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R4Sword004/R4Sword004Md20001/Model/R4Sword004Md20001.R4Sword004Md20001",
     "Stats": {
         "0": {
             "1": [

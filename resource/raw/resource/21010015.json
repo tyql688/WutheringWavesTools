@@ -5,6 +5,7 @@
     "Name": "浩境粼光",
     "Desc": "凝视它——在凛冽的刃锋之中，仿佛能看到微风骤起，那片无止尽的湖水泛起阵阵冰寒粼光。忘我地挥舞这把长刃，便能感觉到如水般清澈的刀身中积蓄的能量。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010015_UI.T_IconWeapon21010015_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R5Knife004/R5Knife004Md20001/Model/R5Knife004Md20001.R5Knife004Md20001",
     "Stats": {
         "0": {
             "1": [

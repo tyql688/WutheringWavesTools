@@ -82,5 +82,8 @@
     ],
     "IntensityCode": 2,
     "MonsterInfo": 330000120,
-    "Child": 6010083
+    "Phantom": {
+        "Name": "异相·异构武装",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33009_UI.T_IconMonsterGoods_SG_33009_UI"
+    }
 }

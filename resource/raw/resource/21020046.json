@@ -5,6 +5,7 @@
     "Name": "血誓盟约",
     "Desc": "此即为血盟之证——永不背叛，永不放弃，直至最后一滴血流尽。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020026_UI.T_IconWeapon21020026_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R5Sword504/R5Sword504Md20001/Model/R5Sword504Md20001.R5Sword504Md20001",
     "Stats": {
         "0": {
             "1": [

@@ -1,0 +1,16 @@
+{
+    "Id": 80130041,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "逆潮告死者",
+    "Desc": "神明在她耳边低语，她向神明挥出利剑。命运为她写好剧本，她将剧本统统撕碎。\n她为自己选择道路，她要走入风暴之中。",
+    "Bg": "激活卡提希娅的全部共鸣链",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_04_UI.T_IconA_Title_04_UI",
+    "Source": []
+}

@@ -1,0 +1,19 @@
+{
+    "Id": 41400214,
+    "Rarity": 4,
+    "Type": 4,
+    "Tag": [
+        "共鸣者突破材料"
+    ],
+    "TagNum": [
+        7
+    ],
+    "Name": "不朽荣耀",
+    "Desc": "荣耀狮像的掉落物，用于共鸣者突破。",
+    "Bg": "当英雄的旌旗刺破天幕，七丘群山便托起这顶胜者的冠冕。它不如黄金璀璨，不如珠宝华丽，而是以非凡的力量与勇气淬火而成。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_018_UI.T_IconMout_L_018_UI",
+    "Source": [
+        "荣耀狮像挑战获得",
+        "荣耀狮像-提前开放"
+    ]
+}

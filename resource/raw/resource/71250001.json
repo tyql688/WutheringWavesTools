@@ -1,0 +1,16 @@
+{
+    "Id": 71250001,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "「剧本」",
+    "Desc": "弗洛洛交予你的剧本。",
+    "Bg": "编织了某个故事的剧本，书页中的内容正随着情节的变化而逐渐被填充。\n每个人都是剧本中的角色，每个人都按照剧本演绎自己的故事。除非.......",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_156_UI.T_IconTask_Task_156_UI",
+    "Source": []
+}

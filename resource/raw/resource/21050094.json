@@ -5,6 +5,7 @@
     "Name": "虚饰的华尔兹",
     "Desc": "武器的设计灵感取材自剧目——《虚饰的华尔兹》。\n华尔兹，形式而非实质之舞，恢弘的交响掩盖了耳鬓的密谋和私语，飞旋的衣摆遮蔽了悄然交换的字据与书信——心照不宣，如同脚下的舞步般默契，一切悄然流转，犹如音感仪的无声协音。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050094_UI.T_IconWeapon21050094_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device009/R4Device009Md20001/Model/R4Device009Md20001.R4Device009Md20001",
     "Stats": {
         "0": {
             "1": [

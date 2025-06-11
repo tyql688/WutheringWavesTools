@@ -1,0 +1,16 @@
+{
+    "Id": 51,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "活动道具"
+    ],
+    "TagNum": [
+        48
+    ],
+    "Name": "庆典热度",
+    "Desc": "索拉新旅庆典上积攒的人气值，可凭此在庆典赠礼中积攒进度。",
+    "Bg": "庆典当然是越热闹越好！叫上更多的朋友，体验更多的乐趣，让气氛也再热烈一些！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_PlayerCelebration01_UI.T_IconA_Act_PlayerCelebration01_UI",
+    "Source": []
+}

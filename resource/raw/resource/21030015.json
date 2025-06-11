@@ -5,6 +5,7 @@
     "Name": "停驻之烟",
     "Desc": "抓住它——在凄清的枪身之中，仿佛能抓住那宛若静止的万里湖烟，瞬间冻结的冰砾停于指缝。握住这佩枪的扳机，让喷吐出的浓厚湖烟，蔓延在战场的每一个角落。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030015_UI.T_IconWeapon21030015_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R5Gun004/R5Gun004Md20001/Model/R5Gun004Md20001.R5Gun004Md20001",
     "Stats": {
         "0": {
             "1": [

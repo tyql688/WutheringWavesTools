@@ -5,6 +5,7 @@
     "Name": "行进序曲",
     "Desc": "以乐谱频率为灵感创作的迅刀。音阶上行，手持此刃，以悦耳之鸣，谱写华丽序曲。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020024_UI.T_IconWeapon21020024_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R4Sword002/R4Sword002Md20001/Model/R4Sword002Md20001.R4Sword002Md20001",
     "Stats": {
         "0": {
             "1": [

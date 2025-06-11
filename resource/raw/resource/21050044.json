@@ -5,6 +5,7 @@
     "Name": "今州守望",
     "Desc": "为纪念夜归战士对今州的守护而打造的音感仪。有诗赞曰：“湖城北望荒石岭，氤氲暗雨遮朔关。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050044_UI.T_IconWeapon21050044_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device004/R4Device004Md20001/Model/R4Device004Md20001.R4Device004Md20001",
     "Stats": {
         "0": {
             "1": [

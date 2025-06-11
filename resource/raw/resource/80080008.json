@@ -5,5 +5,6 @@
     "Name": "投影·大海的馈赠",
     "Desc": "大海是渔民的麦田，收获和希望等同。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050036_UI.T_IconWeapon21050036_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device502/R4Device502Md20001/Model/R4Device502Md20001.R4Device502Md20001",
     "Skin": true
 }

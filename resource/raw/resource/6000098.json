@@ -92,6 +92,28 @@
                     ]
                 }
             }
+        },
+        "18": {
+            "Id": 18,
+            "Name": "奔狼燎原之焰",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFireUltimateSkill.T_IconElementAttriFireUltimateSkill",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "热熔伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "施放共鸣解放时，队伍中角色热熔伤害提升{0}，自身共鸣解放伤害提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "20%",
+                        "35"
+                    ]
+                }
+            }
         }
     },
     "Rarity": [

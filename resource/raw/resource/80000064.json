@@ -1,0 +1,18 @@
+{
+    "Id": 80000064,
+    "Rarity": 3,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "快乐伙伴",
+    "Desc": "提高队伍中所有共鸣者30%重击伤害加成，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "无论是观看比赛还是欣赏决斗，你都可以带上它。零糖、零卡，加入精选血叶荚蒾，点燃你的快乐赛场！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_080_UI.T_IconCook_080_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

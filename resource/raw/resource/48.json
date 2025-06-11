@@ -1,0 +1,16 @@
+{
+    "Id": 48,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "消耗品"
+    ],
+    "TagNum": [
+        10
+    ],
+    "Name": "",
+    "Desc": "",
+    "Bg": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_BabelTower_UI.T_IconA_Act_BabelTower_UI",
+    "Source": []
+}

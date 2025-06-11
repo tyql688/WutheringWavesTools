@@ -87,5 +87,8 @@
     ],
     "IntensityCode": 0,
     "MonsterInfo": 310000440,
-    "Child": 6010068
+    "Phantom": {
+        "Name": "异相·云海妖精",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31044_UI.T_IconMonsterGoods_SG_31044_UI"
+    }
 }

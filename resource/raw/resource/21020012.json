@@ -5,6 +5,7 @@
     "Name": "原初迅刀·鸣雨",
     "Desc": "专为新手共鸣者特制的迅刀，低调朴实的外表下，蕴含着不容小觑的战斗力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020012_UI.T_IconWeapon21020012_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R3Sword001/R3Sword001Md20001/Model/R3Sword001Md20001.R3Sword001Md20001",
     "Stats": {
         "0": {
             "1": [

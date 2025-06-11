@@ -162,7 +162,8 @@
             5
         ],
         "group": [
-            16
+            16,
+            17
         ],
         "en": "Sacerdos",
         "intensity": 0,
@@ -265,6 +266,25 @@
         "zh-Hans": "绿熔蜥",
         "ja": "熔解トカゲ"
     },
+    "6000109": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31060_UI.T_IconMonsterHead_31060_UI",
+        "code": "H31-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            17,
+            18
+        ],
+        "en": "Havoc Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 인멸",
+        "zh-Hans": "小翼龙·湮灭",
+        "ja": "ドレイクの幼体・消滅"
+    },
     "6000056": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_985_UI.T_IconMonsterHead_985_UI",
         "code": "H53-",
@@ -284,6 +304,26 @@
         "zh-Hans": "雪鬃狼",
         "ja": "雪鬣狼"
     },
+    "6000110": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31061_UI.T_IconMonsterHead_31061_UI",
+        "code": "W35-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            16,
+            17,
+            18
+        ],
+        "en": "Devotee's Flesh",
+        "intensity": 0,
+        "ko": "고행자의 인형",
+        "zh-Hans": "苦信者的作俑",
+        "ja": "狂信者の血肉"
+    },
     "6000081": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32030_UI.T_IconMonsterHead_32030_UI",
         "code": "R42-",
@@ -291,8 +331,7 @@
             2,
             3,
             4,
-            5,
-            2
+            5
         ],
         "group": [
             2,
@@ -302,6 +341,7 @@
         ],
         "en": "Cuddle Wuddle",
         "intensity": 1,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32030_UI.T_IconMonsterGoods_SG_32030_UI",
         "ko": "거대 인형",
         "zh-Hans": "巨布偶",
         "ja": "ビッグベア"
@@ -473,7 +513,7 @@
         ],
         "en": "Dreamless",
         "intensity": 3,
-        "child": 6010053,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_1_UI.T_IconMonsterHead_998_1_UI",
         "ko": "무망자",
         "zh-Hans": "无妄者",
         "ja": "無妄者"
@@ -489,7 +529,8 @@
         ],
         "group": [
             14,
-            16
+            16,
+            18
         ],
         "en": "Aero Drake",
         "intensity": 0,
@@ -531,7 +572,7 @@
         ],
         "en": "Gulpuff",
         "intensity": 0,
-        "child": 391070076,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_115_1_UI.T_IconMonsterHead_115_1_UI",
         "ko": "꾹꾹복어",
         "zh-Hans": "咕咕河豚",
         "ja": "グルッポ"
@@ -551,7 +592,7 @@
         ],
         "en": "Questless Knight",
         "intensity": 1,
-        "child": 6010073,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32022_UI.T_IconMonsterGoods_SG_32022_UI",
         "ko": "방랑 기사",
         "zh-Hans": "巡游骑士",
         "ja": "回歴の騎士"
@@ -570,7 +611,7 @@
         ],
         "en": "Nightmare: Crownless",
         "intensity": 2,
-        "child": 6010090,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33018_UI.T_IconMonsterGoods_SG_33018_UI",
         "ko": "악몽 · 크라운리스",
         "zh-Hans": "梦魇·无冠者",
         "ja": "ナイトメア・無冠者"
@@ -608,7 +649,7 @@
         ],
         "en": "Lorelei",
         "intensity": 2,
-        "child": 6010082,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33011_UI.T_IconMonsterGoods_SG_33011_UI",
         "ko": "로렐라이",
         "zh-Hans": "罗蕾莱",
         "ja": "ローレライ"
@@ -658,8 +699,7 @@
             2,
             3,
             4,
-            5,
-            2
+            5
         ],
         "group": [
             5,
@@ -673,6 +713,25 @@
         "ko": "쓸쓸한 아가씨",
         "zh-Hans": "寂寞小姐",
         "ja": "ミス・ロンリー"
+    },
+    "6000113": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33021_UI.T_IconMonsterHead_33021_UI",
+        "code": "W86-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            16,
+            17
+        ],
+        "en": "Nightmare: Kelpie",
+        "intensity": 2,
+        "ko": "악몽 · 켈피",
+        "zh-Hans": "梦魇·凯尔匹",
+        "ja": "ナイトメア・ケルピー"
     },
     "390077004": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_121_UI.T_IconMonsterGoods_121_UI",
@@ -727,7 +786,7 @@
         ],
         "en": "Feilian Beringal",
         "intensity": 2,
-        "child": 390180010,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1009_UI.T_IconMonsterHead_1009_UI",
         "ko": "폭주의 고릴라",
         "zh-Hans": "飞廉之猩",
         "ja": "飛廉の大猿"
@@ -790,23 +849,6 @@
         "zh-Hans": "游弋蝶",
         "ja": "遊弋蝶"
     },
-    "391070105": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1010_UI.T_IconMonsterHead_1010_UI",
-        "code": "H15-",
-        "rank": [
-            5
-        ],
-        "group": [
-            1,
-            5
-        ],
-        "en": "Phantom: Hoartoise",
-        "intensity": 0,
-        "parent": 390070105,
-        "ko": "이상 · 서릿땅거북",
-        "zh-Hans": "异相·寒霜陆龟",
-        "ja": "異相・寒霜亀"
-    },
     "6000038": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_988_UI.T_IconMonsterGoods_988_UI",
         "code": "H19-",
@@ -856,14 +898,33 @@
         ],
         "group": [
             11,
-            16
+            16,
+            17
         ],
         "en": "Capitaneus",
         "intensity": 1,
-        "child": 6010104,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_32033_1_UI.T_IconMonsterGoods_32033_1_UI",
         "ko": "카피타네우스",
         "zh-Hans": "荣光节使",
         "ja": "カピタネウス"
+    },
+    "6000114": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33022_UI.T_IconMonsterHead_33022_UI",
+        "code": "W85-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            18
+        ],
+        "en": "Lioness of Glory",
+        "intensity": 2,
+        "ko": "영광의 사자",
+        "zh-Hans": "荣耀狮像",
+        "ja": "誉れのライオネス"
     },
     "6000044": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_994_UI.T_IconMonsterGoods_994_UI",
@@ -917,59 +978,10 @@
         ],
         "en": "Rocksteady Guardian",
         "intensity": 1,
-        "child": 391077024,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1007_UI.T_IconMonsterHead_1007_UI",
         "ko": "불굴의 호위",
         "zh-Hans": "磐石守卫",
         "ja": "磐石の守り手"
-    },
-    "391077024": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1007_UI.T_IconMonsterHead_1007_UI",
-        "code": "W63-",
-        "rank": [
-            5
-        ],
-        "group": [
-            5,
-            7
-        ],
-        "en": "Phantom: Rocksteady Guardian",
-        "intensity": 1,
-        "parent": 390077024,
-        "ko": "이상 · 불굴의 호위",
-        "zh-Hans": "异相·磐石守卫",
-        "ja": "異相・磐石の守り手"
-    },
-    "391080003": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1008_UI.T_IconMonsterHead_1008_UI",
-        "code": "W76-",
-        "rank": [
-            5
-        ],
-        "group": [
-            3
-        ],
-        "en": "Phantom: Thundering Mephis",
-        "intensity": 2,
-        "parent": 390080003,
-        "ko": "이상 · 뇌운의 비늘",
-        "zh-Hans": "异相·云闪之鳞",
-        "ja": "異相・雲閃のウロコ"
-    },
-    "6000145": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1006_UI.T_IconMonsterHead_1006_UI",
-        "code": "H73-",
-        "rank": [
-            5
-        ],
-        "group": [
-            5
-        ],
-        "en": "Phantom: Mourning Aix",
-        "intensity": 2,
-        "parent": 6000045,
-        "ko": "이상 · 애곡하는 아익스",
-        "zh-Hans": "异相·哀声鸷",
-        "ja": "異相・哀切の凶鳥"
     },
     "6000106": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34012_1_UI.T_IconMonsterHead_34012_1_UI",
@@ -981,7 +993,8 @@
             5
         ],
         "group": [
-            16
+            16,
+            17
         ],
         "en": "Reminiscence: Fleurdelys",
         "intensity": 3,
@@ -1000,7 +1013,8 @@
         ],
         "group": [
             11,
-            16
+            16,
+            18
         ],
         "en": "Sagittario",
         "intensity": 0,
@@ -1018,7 +1032,8 @@
             5
         ],
         "group": [
-            16
+            16,
+            17
         ],
         "en": "Glacio Drake",
         "intensity": 0,
@@ -1080,6 +1095,25 @@
         "zh-Hans": "聚械机偶",
         "ja": "機械アボミネーション"
     },
+    "6000108": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31059_UI.T_IconMonsterHead_31059_UI",
+        "code": "H30-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            17,
+            18
+        ],
+        "en": "Spectro Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 회절",
+        "zh-Hans": "小翼龙·衍射",
+        "ja": "ドレイクの幼体・回折"
+    },
     "6000052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
         "code": "H72-",
@@ -1094,7 +1128,7 @@
         ],
         "en": "Impermanence Heron",
         "intensity": 2,
-        "child": 6010052,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1014_UI.T_IconMonsterHead_1014_UI",
         "ko": "음험한 백로",
         "zh-Hans": "无常凶鹭",
         "ja": "無情のサギ"
@@ -1189,7 +1223,7 @@
         ],
         "en": "Lightcrusher",
         "intensity": 1,
-        "child": 6010058,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1016_UI.T_IconMonsterHead_1016_UI",
         "ko": "흑월의 야수",
         "zh-Hans": "踏光兽",
         "ja": "光踏獣（こうとうじゅう）"
@@ -1209,7 +1243,7 @@
         ],
         "en": "Vitreum Dancer",
         "intensity": 1,
-        "child": 6010080,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32029_UI.T_IconMonsterGoods_SG_32029_UI",
         "ko": "블레이드 댄서",
         "zh-Hans": "琉璃刀伶",
         "ja": "ヴィトルムダンサー"
@@ -1232,22 +1266,6 @@
         "ko": "결정화 전갈",
         "zh-Hans": "晶螯蝎",
         "ja": "結晶化サソリ"
-    },
-    "6010052": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1014_UI.T_IconMonsterHead_1014_UI",
-        "code": "H72-",
-        "rank": [
-            5
-        ],
-        "group": [
-            8
-        ],
-        "en": "Phantom: Impermanence Heron",
-        "intensity": 2,
-        "parent": 6000052,
-        "ko": "이상 · 음험한 백로",
-        "zh-Hans": "异相·无常凶鹭",
-        "ja": "異相・無情のサギ"
     },
     "6000055": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_330_UI.T_IconMonsterHead_330_UI",
@@ -1283,7 +1301,7 @@
         ],
         "en": "Clang Bang",
         "intensity": 0,
-        "child": 6010051,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1015_UI.T_IconMonsterHead_1015_UI",
         "ko": "딩동동",
         "zh-Hans": "叮咚咚",
         "ja": "チリン"
@@ -1398,6 +1416,7 @@
         ],
         "en": "Fae Ignis",
         "intensity": 0,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31043_UI.T_IconMonsterGoods_SG_31043_UI",
         "ko": "페이 이그니스",
         "zh-Hans": "幽翎火",
         "ja": "フェイイグニス"
@@ -1416,7 +1435,7 @@
         ],
         "en": "Inferno Rider",
         "intensity": 2,
-        "child": 391080007,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_1_UI.T_IconMonsterHead_325_1_UI",
         "ko": "지옥불 기사",
         "zh-Hans": "燎照之骑",
         "ja": "燎原の炎騎"
@@ -1432,13 +1451,33 @@
         ],
         "group": [
             12,
-            16
+            16,
+            18
         ],
         "en": "La Guardia",
         "intensity": 0,
         "ko": "라 과디어",
         "zh-Hans": "卫冕节使",
         "ja": "ガルディア"
+    },
+    "6000107": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31058_UI.T_IconMonsterHead_31058_UI",
+        "code": "H29-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            17,
+            18
+        ],
+        "en": "Fusion Drake",
+        "intensity": 0,
+        "ko": "드레이크 · 용융",
+        "zh-Hans": "小翼龙·热熔",
+        "ja": "ドレイクの幼体・焦熱"
     },
     "6000083": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33012_UI.T_IconMonsterHead_33012_UI",
@@ -1454,7 +1493,7 @@
         ],
         "en": "Sentry Construct",
         "intensity": 2,
-        "child": 6010083,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33009_UI.T_IconMonsterGoods_SG_33009_UI",
         "ko": "이성(異性) 무장",
         "zh-Hans": "异构武装",
         "ja": "ゼノコロッサス"
@@ -1568,7 +1607,7 @@
         ],
         "en": "Crownless",
         "intensity": 2,
-        "child": 6010042,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_9991_UI.T_IconMonsterGoods_SG_9991_UI",
         "ko": "크라운리스",
         "zh-Hans": "无冠者",
         "ja": "無冠者"
@@ -1666,7 +1705,7 @@
         ],
         "en": "Diggy Duggy",
         "intensity": 0,
-        "child": 6010071,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31047_UI.T_IconMonsterGoods_SG_31047_UI",
         "ko": "근무 인형",
         "zh-Hans": "工头布偶",
         "ja": "サクサクベア"
@@ -1704,7 +1743,7 @@
         ],
         "en": "Thundering Mephis",
         "intensity": 2,
-        "child": 391080003,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1008_UI.T_IconMonsterHead_1008_UI",
         "ko": "뇌운의 비늘",
         "zh-Hans": "云闪之鳞",
         "ja": "雲閃のウロコ"
@@ -1743,7 +1782,7 @@
         ],
         "en": "Nimbus Wraith",
         "intensity": 0,
-        "child": 6010068,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31044_UI.T_IconMonsterGoods_SG_31044_UI",
         "ko": "구름 바다 요정",
         "zh-Hans": "云海妖精",
         "ja": "雲の妖精"
@@ -1820,7 +1859,7 @@
         ],
         "en": "Hoartoise",
         "intensity": 0,
-        "child": 391070105,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1010_UI.T_IconMonsterHead_1010_UI",
         "ko": "서릿땅거북",
         "zh-Hans": "寒霜陆龟",
         "ja": "寒霜亀"
@@ -1840,7 +1879,7 @@
         ],
         "en": "Lumiscale Construct",
         "intensity": 1,
-        "child": 6010057,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_329_1_UI.T_IconMonsterHead_329_1_UI",
         "ko": "용비늘의 기축",
         "zh-Hans": "游鳞机枢",
         "ja": "浮遊鱗機（ふゆうりんき）"
@@ -1952,7 +1991,8 @@
         ],
         "group": [
             12,
-            16
+            16,
+            18
         ],
         "en": "Electro Drake",
         "intensity": 0,
@@ -2014,7 +2054,7 @@
         ],
         "en": "Chest Mimic",
         "intensity": 0,
-        "child": 6010072,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31048_UI.T_IconMonsterGoods_SG_31048_UI",
         "ko": "미믹",
         "zh-Hans": "欺诈奇藏",
         "ja": "秘蔵ミミック"
@@ -2037,6 +2077,25 @@
         "zh-Hans": "角",
         "ja": "角"
     },
+    "6000112": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31062_UI.T_IconMonsterHead_31062_UI",
+        "code": "H55-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            17,
+            18
+        ],
+        "en": "Kerasaur",
+        "intensity": 1,
+        "ko": "케라사우르스",
+        "zh-Hans": "角鳄",
+        "ja": "クラトスクス"
+    },
     "6000045": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_997_UI.T_IconMonsterGoods_997_UI",
         "code": "H73-",
@@ -2051,26 +2110,29 @@
         ],
         "en": "Mourning Aix",
         "intensity": 2,
-        "child": 6000145,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1006_UI.T_IconMonsterHead_1006_UI",
         "ko": "애곡하는 아익스",
         "zh-Hans": "哀声鸷",
         "ja": "哀切の凶鳥"
     },
-    "390180010": {
-        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1009_UI.T_IconMonsterHead_1009_UI",
-        "code": "H71-",
+    "6000111": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32034_UI.T_IconMonsterHead_32034_UI",
+        "code": "W72-",
         "rank": [
+            2,
+            3,
+            4,
             5
         ],
         "group": [
-            4
+            17,
+            18
         ],
-        "en": "Phantom: Feilian Beringal",
-        "intensity": 2,
-        "parent": 6000043,
-        "ko": "이상 · 폭주의 고릴라",
-        "zh-Hans": "异相·飞廉之猩",
-        "ja": "異相・飛廉の大猿"
+        "en": "Pilgrim's Shell",
+        "intensity": 1,
+        "ko": "전도사의 경지",
+        "zh-Hans": "传道者的遗形",
+        "ja": "伝道師の空殻"
     },
     "6000050": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1000_UI.T_IconMonsterHead_1000_UI",

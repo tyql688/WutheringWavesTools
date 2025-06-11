@@ -16,7 +16,7 @@ def lower_first_letter(data):
 
 def remove_text_inside_brackets(text: str) -> str:
     # 移除尖括号及其内容
-    text = re.sub(r'<[^>]*>', '', text)
+    text = re.sub(r"<[^>]*>", "", text)
     # 移除所有换行符
-    text = text.replace(' ', '')
+    text = text.replace(" ", "").replace("test/", "")
     return text

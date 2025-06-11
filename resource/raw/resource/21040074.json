@@ -5,6 +5,7 @@
     "Name": "金掌",
     "Desc": "此臂铠是瑝珑一州令尹就任仪式上使用的典礼武器，黄金银杏叶花纹代表了瑝珑应如银杏一般，虽孑遗世上，却依旧繁荣长存。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040074_UI.T_IconWeapon21040074_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles007/R4Knuckles007Md20001_L/Model/R4Knuckles007Md20001_L.R4Knuckles007Md20001_L",
     "Stats": {
         "0": {
             "1": [

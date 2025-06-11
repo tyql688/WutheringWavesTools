@@ -1,0 +1,16 @@
+{
+    "Id": 54001,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "荆辉黎明套装",
+    "Desc": "获得后可以解锁对应的声骸换影套装",
+    "Bg": "缠绕荆棘的羽翼挣开桎梏，奔向浩瀚云海的怀中。\n无需再在意繁琐纲常，它会带你去最自由的远方。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_a_UI.T_IconRoleHead256_7_a_UI",
+    "Source": []
+}

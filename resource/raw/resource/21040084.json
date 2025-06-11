@@ -5,6 +5,7 @@
     "Name": "尘云旋臂",
     "Desc": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的悲悯为名的臂铠。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040084_UI.T_IconWeapon21040084_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles008/R4Knuckles008Md20001_L/Model/R4Knuckles008Md20001_L.R4Knuckles008Md20001_L",
     "Stats": {
         "0": {
             "1": [

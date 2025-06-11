@@ -89,5 +89,8 @@
     ],
     "IntensityCode": 1,
     "MonsterInfo": 320000220,
-    "Child": 6010073
+    "Phantom": {
+        "Name": "异相·巡游骑士",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32022_UI.T_IconMonsterGoods_SG_32022_UI"
+    }
 }

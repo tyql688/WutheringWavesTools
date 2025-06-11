@@ -5,6 +5,7 @@
     "Name": "教学佩枪",
     "Desc": "用于训练与教学的佩枪，只具备基础的功能。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030011_UI.T_IconWeapon21030011_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R2Gun001/R2Gun001Md20001/Model/R2Gun001Md20001.R2Gun001Md20001",
     "Stats": {
         "0": {
             "1": [

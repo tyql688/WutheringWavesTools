@@ -5,6 +5,7 @@
     "Name": "星序协响",
     "Desc": "载有能量的核心，拟造着群星演化的循环。无限以奇点为源，将牵引的星团抛散，但寂灭流转，末陨尽头处又总传来不息的回声——那是新星诞生时的问候。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050027_UI.T_IconWeapon21050027_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device503/R5Device503Md20001/Model/R5Device503Md20001.R5Device503Md20001",
     "Stats": {
         "0": {
             "1": [

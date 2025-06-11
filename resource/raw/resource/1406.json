@@ -37,10 +37,10 @@
         "TalentName": "未知",
         "TalentDoc": "未知",
         "TalentCertification": "未知",
-        "CVNameCn": "CV：马洋",
-        "CVNameJp": "CV：増田俊树",
-        "CVNameKo": "CV：Kim Sin Woo",
-        "CVNameEn": "CV：Chase Brown"
+        "CVNameCn": "马洋",
+        "CVNameJp": "増田俊树",
+        "CVNameKo": "Kim Sin Woo",
+        "CVNameEn": "Chase Brown"
     },
     "Stories": [],
     "Voices": [
@@ -925,7 +925,7 @@
             ],
             "Skill": {
                 "Name": "刻雾裁风",
-                "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Wind>气动伤害</color>。\n·施放后短时间内短按<color=Highlight>普攻</color>，可直接施放<color=Highlight>普攻第3段</color>。\n<size=10></size>\n<size=40><color=Title>重击·绞息</color></size>\n施放<color=Highlight>普攻第3段</color>、<color=Highlight>闪避反击</color>或<color=Highlight>重击</color>后一定时间内长按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>绞息</color>攻击目标，消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Wind>气动伤害</color>。\n·落地后一段时间内短按<color=Highlight>普攻</color>，会施放<color=Highlight>普攻第4段</color>。\n·【弦风息】达到上限时，落地后一段时间内短按<color=Highlight>普攻</color>，会施放共鸣技能<color=Highlight>缥缈无相</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
+                "Desc": "<size=40><color=Title>普攻</color></size>\n进行最多4段的连续攻击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力攻击目标，造成<color=Wind>气动伤害</color>。\n·施放后短时间内短按<color=Highlight>普攻</color>，可直接施放<color=Highlight>普攻第3段</color>。\n<size=10></size>\n<size=40><color=Title>重击·绞息</color></size>\n施放<color=Highlight>普攻第3段</color>、<color=Highlight>闪避反击</color>或<color=Highlight>重击</color>后一定时间内长按<color=Highlight>普攻</color>，将会施放重击<color=Highlight>绞息</color>攻击目标，消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力进行空中下落攻击，造成<color=Wind>气动伤害</color>。\n·落地后一段时间内短按<color=Highlight>普攻</color>，会施放<color=Highlight>普攻第4段</color>。\n·【<a href=850056>弦风息</a>】达到上限时，落地后一段时间内短按<color=Highlight>普攻</color>，会施放共鸣技能<color=Highlight>缥缈无相</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n成功<color=Highlight>闪避</color>后一定时间内短按<color=Highlight>普攻</color>，将会攻击目标，造成<color=Wind>气动伤害</color>。",
                 "Param": [],
                 "SimpleDesc": "<size=40><color=Title>普攻</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>重击·绞息</color></size>\n施放<color=Highlight>普攻第3段</color>、<color=Highlight>闪避反击</color>或<color=Highlight>重击</color>后一定时间内长按<color=Highlight>普攻</color>，消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>空中攻击</color></size>\n消耗耐力，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>闪避反击</color></size>\n造成<color=Wind>气动伤害</color>。",
                 "SimpleParam": [],
@@ -1755,7 +1755,7 @@
             ],
             "Skill": {
                 "Name": "裂象",
-                "Desc": "<size=40><color=Title>苍息破象</color></size>\n腾空进行斩击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>碧霄断行</color></size>\n处于空中时，短按<color=Highlight>共鸣技能</color>，造成<color=Wind>气动伤害</color>。命中目标后，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。",
+                "Desc": "<size=40><color=Title>苍息破象</color></size>\n腾空进行斩击，造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>碧霄断行</color></size>\n处于空中时，短按<color=Highlight>共鸣技能</color>，造成<color=Wind>气动伤害</color>。命中目标后，移除目标全部【<a href=850008>光噪效应</a>】、【<a href=850012>虚湮效应</a>】、【<a href=850011>聚爆效应</a>】、【<a href=850010>霜渐效应</a>】、【<a href=850013>电磁效应</a>】，每移除1层对应状态，便为目标附加1层【<a href=850009>风蚀效应</a>】。",
                 "Param": [],
                 "SimpleDesc": "<size=40><color=Title>苍息破象</color></size>\n造成<color=Wind>气动伤害</color>。\n<size=10></size>\n<size=40><color=Title>碧霄断行</color></size>\n处于空中时，短按<color=Highlight>共鸣技能</color>，造成<color=Wind>气动伤害</color>。命中目标后，移除目标全部【光噪效应】、【虚湮效应】、【聚爆效应】、【霜渐效应】、【电磁效应】，每移除1层对应状态，便为目标附加1层【风蚀效应】。",
                 "SimpleParam": [],
@@ -4367,5 +4367,6 @@
             "强化空中攻击、变奏技能、普攻回复特殊能量。",
             "特殊能量充满时，可以施放强化共鸣技能。"
         ]
-    }
+    },
+    "Live2d": ""
 }

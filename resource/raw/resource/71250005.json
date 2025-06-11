@@ -1,0 +1,16 @@
+{
+    "Id": 71250005,
+    "Rarity": 5,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "妙眼铜镜",
+    "Desc": "卜灵交给你的铜镜。",
+    "Bg": "样式古朴，尾部缀着狐狸模样穗子的铜镜。\n在瑝珑的传说中，镜子往往能映照出某些本不可见的真实之物。而在某些人手中，传说有时候也是真实的映照。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_BronzeMirror_UI.T_IconA_Act_BronzeMirror_UI",
+    "Source": []
+}

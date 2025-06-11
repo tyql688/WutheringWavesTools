@@ -1,0 +1,16 @@
+{
+    "Id": 55,
+    "Rarity": 4,
+    "Type": 0,
+    "Tag": [
+        "活动道具"
+    ],
+    "TagNum": [
+        48
+    ],
+    "Name": "荣光勋章",
+    "Desc": "勋章形制的七丘旅行纪念徽章，可凭此在荣光赠礼中积攒进度。",
+    "Bg": "角斗赛勋章彰显着七丘人的荣耀，也逐渐成为了七丘代表性的物品之一，以它为原型制作出的旅行纪念徽章让各国旅者有机会亲手掌握这份炙热，即便身处异地，依旧能感受到那片土地上战斗的呼啸。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Morale_01_UI.T_IconA_Morale_01_UI",
+    "Source": []
+}

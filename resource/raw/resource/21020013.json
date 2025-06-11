@@ -5,6 +5,7 @@
     "Name": "暗夜迅刀·黑闪",
     "Desc": "夜归常用迅刀，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020013_UI.T_IconWeapon21020013_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R3Sword003/R3Sword003Md20001/Model/R3Sword003Md20001.R3Sword003Md20001",
     "Stats": {
         "0": {
             "1": [

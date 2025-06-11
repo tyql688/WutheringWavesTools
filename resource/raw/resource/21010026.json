@@ -5,6 +5,7 @@
     "Name": "时和岁稔",
     "Desc": "剑刃挥斩之间，得以窥见日月流转、物换星移。剑中似有万象，而万象归于其一。温润的剑气仿佛能化解这世上一切坚不可摧之物，不论是凝结千年的寒冰，还是停滞不前的时光。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010026_UI.T_IconWeapon21010026_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R5Knife502/R5Knife502Md20001/Model/R5Knife502Md20001.R5Knife502Md20001",
     "Stats": {
         "0": {
             "1": [

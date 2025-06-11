@@ -56,6 +56,12 @@ class Weapon_21010034(WeaponAbstract):
     name = "重破刃-41型"
     
 
+class Weapon_21010036(WeaponAbstract):
+    id = 21010036
+    type = 1
+    name = "焰痕"
+    
+
 class Weapon_21010043(WeaponAbstract):
     id = 21010043
     type = 1
@@ -192,6 +198,12 @@ class Weapon_21020053(WeaponAbstract):
     id = 21020053
     type = 2
     name = "戍关迅刀·镇海"
+    
+
+class Weapon_21020056(WeaponAbstract):
+    id = 21020056
+    type = 2
+    name = "不屈命定之冠"
     
 
 class Weapon_21020064(WeaponAbstract):
@@ -551,6 +563,7 @@ WavesWeaponRegister.register_class(Weapon_21010023.id, Weapon_21010023)
 WavesWeaponRegister.register_class(Weapon_21010024.id, Weapon_21010024)
 WavesWeaponRegister.register_class(Weapon_21010026.id, Weapon_21010026)
 WavesWeaponRegister.register_class(Weapon_21010034.id, Weapon_21010034)
+WavesWeaponRegister.register_class(Weapon_21010036.id, Weapon_21010036)
 WavesWeaponRegister.register_class(Weapon_21010043.id, Weapon_21010043)
 WavesWeaponRegister.register_class(Weapon_21010044.id, Weapon_21010044)
 WavesWeaponRegister.register_class(Weapon_21010053.id, Weapon_21010053)
@@ -574,6 +587,7 @@ WavesWeaponRegister.register_class(Weapon_21020043.id, Weapon_21020043)
 WavesWeaponRegister.register_class(Weapon_21020044.id, Weapon_21020044)
 WavesWeaponRegister.register_class(Weapon_21020046.id, Weapon_21020046)
 WavesWeaponRegister.register_class(Weapon_21020053.id, Weapon_21020053)
+WavesWeaponRegister.register_class(Weapon_21020056.id, Weapon_21020056)
 WavesWeaponRegister.register_class(Weapon_21020064.id, Weapon_21020064)
 WavesWeaponRegister.register_class(Weapon_21020074.id, Weapon_21020074)
 WavesWeaponRegister.register_class(Weapon_21020084.id, Weapon_21020084)

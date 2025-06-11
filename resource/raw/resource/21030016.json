@@ -5,6 +5,7 @@
     "Name": "死与舞",
     "Desc": "溢彩的晶质，暗藏解构与重塑的诡计，它邀你同舞，共赴以生命为筹码的宴请。切步、再切步……无礼的迫近唤起最原始的渴求，直至距离归零，只余战栗颤音……用璀璨的殷红来殉葬吧，请勿忘记，我们终有一死。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030017_UI.T_IconWeapon21030017_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R5Gun501/R5Gun501Md20001/Model/R5Gun501Md20001.R5Gun501Md20001",
     "Stats": {
         "0": {
             "1": [

@@ -5,6 +5,7 @@
     "Name": "原初音感仪·听浪",
     "Desc": "专为新手共鸣者特制的音感仪，低调朴实的外表下，蕴含着不容小觑的战斗力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050012_UI.T_IconWeapon21050012_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R3Device001/R3Device001Md20001/Model/R3Device001Md20001.R3Device001Md20001",
     "Stats": {
         "0": {
             "1": [

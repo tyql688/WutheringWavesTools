@@ -5,6 +5,7 @@
     "Name": "无眠烈火",
     "Desc": "为纪念夜归战士的舍生忘死而打造的佩枪。有诗赞曰：“会燃残躯成烈火，焚焰灼尽天下安。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030044_UI.T_IconWeapon21030044_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R4Gun004/R4Gun004Md20001/Model/R4Gun004Md20001.R4Gun004Md20001",
     "Stats": {
         "0": {
             "1": [

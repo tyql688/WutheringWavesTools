@@ -5,6 +5,7 @@
     "Name": "袍泽之固",
     "Desc": "为纪念夜归战士的同袍之义而打造的臂铠。有诗赞曰“薄衣难抵霜晨月，铁甲能断星垂寒。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040044_UI.T_IconWeapon21040044_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles004/R4Knuckles004Md20001_L/Model/R4Knuckles004Md20001_L.R4Knuckles004Md20001_L",
     "Stats": {
         "0": {
             "1": [

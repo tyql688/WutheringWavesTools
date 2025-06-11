@@ -1,0 +1,18 @@
+{
+    "Id": 42601210,
+    "Rarity": 1,
+    "Type": 5,
+    "Tag": [
+        "食材"
+    ],
+    "TagNum": [
+        26
+    ],
+    "Name": "盐海珀",
+    "Desc": "用于合成的材料。",
+    "Bg": "于七丘海岸带或海浸谷底分布生长的盐矿石，为立方晶系晶体，通透性较高，矿面上生有独特的漩涡状纹路。\n七丘人会将这些矿石研磨成嗅盐，也会用它们打磨成珠宝。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_yanhaipo_UI.T_IconC_yanhaipo_UI",
+    "Source": [
+        "野外采集获得"
+    ]
+}

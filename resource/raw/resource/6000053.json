@@ -80,5 +80,8 @@
     ],
     "IntensityCode": 3,
     "MonsterInfo": 340000070,
-    "Child": 6010053
+    "Phantom": {
+        "Name": "异相·无妄者",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_1_UI.T_IconMonsterHead_998_1_UI"
+    }
 }

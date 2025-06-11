@@ -1,0 +1,15 @@
+{
+  "python.languageServer": "None",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+      "source.fixAll": "explicit"
+    }
+  },
+  "basedpyright.analysis.typeCheckingMode": "basic",
+  "python.analysis.typeCheckingMode": "off",
+  "cursorpyright.analysis.typeCheckingMode": "off"
+}

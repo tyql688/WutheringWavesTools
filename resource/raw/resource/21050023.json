@@ -5,6 +5,7 @@
     "Name": "源能音感仪·测五",
     "Desc": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型音感仪，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050023_UI.T_IconWeapon21050023_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R3Device002/R3Device002Md20001/Model/R3Device002Md20001.R3Device002Md20001",
     "Stats": {
         "0": {
             "1": [

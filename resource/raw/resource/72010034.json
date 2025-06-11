@@ -1,0 +1,16 @@
+{
+    "Id": 72010034,
+    "Rarity": 3,
+    "Type": 6,
+    "Tag": [
+        "任务道具"
+    ],
+    "TagNum": [
+        21
+    ],
+    "Name": "扉页书馆回忆录",
+    "Desc": "于阿维纽林收集到的书籍。",
+    "Bg": "“岁主教导我们成为照亮世间的灯塔，但并没有让我们忘记照亮身边的人。”",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_003_1_UI.T_IconTask_Level_003_1_UI",
+    "Source": []
+}

@@ -131,9 +131,12 @@
         2,
         3,
         4,
-        5,
-        2
+        5
     ],
     "IntensityCode": 1,
-    "MonsterInfo": 320000300
+    "MonsterInfo": 320000300,
+    "Phantom": {
+        "Name": "异相·巨布偶",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32030_UI.T_IconMonsterGoods_SG_32030_UI"
+    }
 }

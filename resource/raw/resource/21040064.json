@@ -5,6 +5,7 @@
     "Name": "骇行",
     "Desc": "因空中奇象而生的臂铠。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却能在保护使用者的同时挥出万钧气势。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040064_UI.T_IconWeapon21040064_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles006/R4Knuckles006Md20001_L/Model/R4Knuckles006Md20001_L.R4Knuckles006Md20001_L",
     "Stats": {
         "0": {
             "1": [

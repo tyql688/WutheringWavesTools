@@ -89,5 +89,8 @@
     ],
     "IntensityCode": 0,
     "MonsterInfo": 310000470,
-    "Child": 6010071
+    "Phantom": {
+        "Name": "异相·工头布偶",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31047_UI.T_IconMonsterGoods_SG_31047_UI"
+    }
 }

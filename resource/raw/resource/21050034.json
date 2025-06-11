@@ -5,6 +5,7 @@
     "Name": "鸣动仪-25型",
     "Desc": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一个极具实用性的高性能音感仪，代表着研究院的多元与创新，瞬息万状。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050034_UI.T_IconWeapon21050034_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device003/R4Device003Md20001/Model/R4Device003Md20001.R4Device003Md20001",
     "Stats": {
         "0": {
             "1": [

@@ -5,6 +5,7 @@
     "Name": "华彩乐段",
     "Desc": "以乐谱频率为灵感创作的佩枪。音阶上行，手持此枪，将以破空之势贯穿雷霆，演绎绝妙乐章。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030024_UI.T_IconWeapon21030024_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/R4Gun002Md20001.R4Gun002Md20001",
     "Stats": {
         "0": {
             "1": [

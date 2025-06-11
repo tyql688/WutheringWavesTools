@@ -5,6 +5,7 @@
     "Name": "悖论喷流",
     "Desc": "黑海岸为资深战斗人员研发的实验型武器，以耀变体的偏执为名的佩枪。“耀变”是特殊类星体的名字，它们迸发的光辉仅仅投向此处——即使相隔百亿光年，也能观测到它们的痕迹。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030084_UI.T_IconWeapon21030084_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R4Gun008/R4Gun008Md20001/Model/R4Gun008Md20001.R4Gun008Md20001",
     "Stats": {
         "0": {
             "1": [

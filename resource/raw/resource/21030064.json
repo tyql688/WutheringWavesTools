@@ -5,6 +5,7 @@
     "Name": "飞逝",
     "Desc": "因空中奇象而生的佩枪。锻造者将目睹异星的感受融于武器之中，使它看起来镂空轻盈、却稳定性极强，出枪弹雨有雷霆威力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030064_UI.T_IconWeapon21030064_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R4Gun006/R4Gun006Md20001/Model/R4Gun006Md20001.R4Gun006Md20001",
     "Stats": {
         "0": {
             "1": [

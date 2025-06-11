@@ -1,9 +1,9 @@
 import json
 
-from .RESOURCE_PATH import *
 from .char_model import CharModel
 from .echo_model import EchoModel
 from .material_model import MaterialItem
+from .RESOURCE_PATH import *
 from .utils import lower_first_letter
 from .weapon_model import WeaponModel
 
@@ -12,6 +12,8 @@ special_character = {
     "1605": "漂泊者·湮灭·男",
     "1502": "漂泊者·衍射·女",
     "1501": "漂泊者·衍射·男",
+    "1408": "漂泊者·气动·女",
+    "1406": "漂泊者·气动·男",
 }
 
 special_character2 = {
@@ -19,6 +21,8 @@ special_character2 = {
     "1605": "漂泊者·湮灭",
     "1502": "漂泊者·衍射",
     "1501": "漂泊者·衍射",
+    "1406": "漂泊者·气动",
+    "1408": "漂泊者·气动",
 }
 
 
@@ -94,7 +98,7 @@ def enhance_role_skill():
 
     with open(RAW_CHARACTER_PATH, "r", encoding="utf-8") as f:
         all_character = json.load(f)
-    api.download_skill_pic(all_character)
+    api.download_skill_pic(all_character, is_force=False)
 
 
 def enhance_role_chain():
@@ -102,7 +106,7 @@ def enhance_role_chain():
 
     with open(RAW_CHARACTER_PATH, "r", encoding="utf-8") as f:
         all_character = json.load(f)
-    api.download_chain_pic(all_character)
+    api.download_chain_pic(all_character, is_force=False)
 
 
 def enhance_weapon():

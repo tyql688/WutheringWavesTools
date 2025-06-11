@@ -5,6 +5,7 @@
     "Name": "容赦的沉思录",
     "Desc": "武器的设计灵感取材自剧目——《容赦的沉思录》。\n武夫挥击长刃的间隙，思忖着沉重的宽恕之责——是终结他人罪恶的命运，抑或施予怜悯，将灵魂从深渊中解救？每一次挥剑的背后，皆隐藏着审判的痛苦，是愤怒与宽恕的搏斗。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010094_UI.T_IconWeapon21010094_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife009/R4Knife009Md20001/Model/R4Knife009Md20001.R4Knife009Md20001",
     "Stats": {
         "0": {
             "1": [

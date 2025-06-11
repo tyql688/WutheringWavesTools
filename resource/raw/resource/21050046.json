@@ -5,6 +5,7 @@
     "Name": "和光回唱",
     "Desc": "「岁主恩典，何等甘甜，家园今得寻见；衔枝踏浪，以爱相连，圣辉化作冠冕。」",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050029_UI.T_IconWeapon21050029_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device504/R5Device504Md20001/Model/R5Device504Md20001.R5Device504Md20001",
     "Stats": {
         "0": {
             "1": [

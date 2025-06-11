@@ -5,6 +5,7 @@
     "Name": "重破刃-41型",
     "Desc": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一把极具实用性的高性能长刃，代表着研究院的理性与开放，坚不可摧。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010034_UI.T_IconWeapon21010034_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife003/R4Knife003Md20001/Model/R4Knife003Md20001.R4Knife003Md20001",
     "Stats": {
         "0": {
             "1": [

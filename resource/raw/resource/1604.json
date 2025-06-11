@@ -25,10 +25,10 @@
         "TalentName": "未知",
         "TalentDoc": "未知",
         "TalentCertification": "未知",
-        "CVNameCn": "CV：龟娘",
-        "CVNameJp": "CV：田中美海",
-        "CVNameKo": "CV：Song Ha Rim",
-        "CVNameEn": "CV：Jane Jackson"
+        "CVNameCn": "龟娘",
+        "CVNameJp": "田中美海",
+        "CVNameKo": "Song Ha Rim",
+        "CVNameEn": "Jane Jackson"
     },
     "Stories": [],
     "Voices": [
@@ -2430,7 +2430,7 @@
             ],
             "Skill": {
                 "Name": "变格",
-                "Desc": "处于<color=Highlight>暗涌</color>状态时，湮灭伤害加成提升{0}。",
+                "Desc": "处于<color=Highlight><a href=850034>暗涌</a></color>状态时，湮灭伤害加成提升{0}。",
                 "Param": [
                     "20%"
                 ],
@@ -2487,7 +2487,7 @@
             ],
             "Skill": {
                 "Name": "拢音",
-                "Desc": "处于<color=Highlight>暗涌</color>状态时，<color=Highlight>普攻</color>命中目标时额外回复{0}点共鸣能量，该效果每秒可触发1次。",
+                "Desc": "处于<color=Highlight><a href=850034>暗涌</a></color>状态时，<color=Highlight>普攻</color>命中目标时额外回复{0}点共鸣能量，该效果每秒可触发1次。",
                 "Param": [
                     "1"
                 ],
@@ -4273,13 +4273,13 @@
         },
         "2": {
             "Name": "晦明如朔",
-            "Desc": "施放重击<color=Highlight>灭音</color>进入<color=Highlight>暗涌</color>状态时，重置共鸣技能的冷却时间。",
+            "Desc": "施放重击<color=Highlight>灭音</color>进入<color=Highlight><a href=850034>暗涌</a></color>状态时，重置共鸣技能的冷却时间。",
             "Param": [],
             "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM2_UI.T_IconDevice_ZhujueDarkM2_UI"
         },
         "3": {
             "Name": "声息涌动",
-            "Desc": "处于<color=Highlight>暗涌</color>状态时，<color=Highlight>第5段普攻</color>命中敌人时，可回复已损失生命值{0}的生命值。",
+            "Desc": "处于<color=Highlight><a href=850034>暗涌</a></color>状态时，<color=Highlight>第5段普攻</color>命中敌人时，可回复已损失生命值{0}的生命值。",
             "Param": [
                 "10%"
             ],
@@ -4296,7 +4296,7 @@
         },
         "5": {
             "Name": "万物寂听",
-            "Desc": "处于<color=Highlight>暗涌</color>状态时<color=Highlight>第5段普攻</color>可额外造成一次<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>第5段普攻</color>伤害的{0}。",
+            "Desc": "处于<color=Highlight><a href=850034>暗涌</a></color>状态时<color=Highlight>第5段普攻</color>可额外造成一次<color=Dark>湮灭伤害</color>，此次伤害为<color=Highlight>第5段普攻</color>伤害的{0}。",
             "Param": [
                 "50%"
             ],
@@ -4304,7 +4304,7 @@
         },
         "6": {
             "Name": "暗涌潮升",
-            "Desc": "处于<color=Highlight>暗涌</color>状态时，漂泊者的暴击提升{0}。",
+            "Desc": "处于<color=Highlight><a href=850034>暗涌</a></color>状态时，漂泊者的暴击提升{0}。",
             "Param": [
                 "25%"
             ],
@@ -4453,5 +4453,6 @@
             "普攻命中目标或施放变奏技能、共鸣技能时，回复特殊能量",
             "特殊能量充满时，长按普攻施放重击，可进入强化状态"
         ]
-    }
+    },
+    "Live2d": ""
 }

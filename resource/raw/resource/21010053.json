@@ -5,6 +5,7 @@
     "Name": "戍关长刃·定军",
     "Desc": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010053_UI.T_IconWeapon21010053_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R3Knife005/R3Knife005Md20001/Model/R3Knife005Md20001.R3Knife005Md20001",
     "Stats": {
         "0": {
             "1": [

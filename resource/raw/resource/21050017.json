@@ -5,6 +5,7 @@
     "Name": "渊海回声",
     "Desc": "用于奴役宏伟造物的权柄，而看护它的人也曾手捧王冠，指点星河。\n在黎那汐塔洋溢着管风琴声的漫长时光中，它早已遗失了原本的形貌。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050017_UI.T_IconWeapon21050017_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device501/R4Device501Md20001/Model/R4Device501Md20001.R4Device501Md20001",
     "Stats": {
         "0": {
             "1": [

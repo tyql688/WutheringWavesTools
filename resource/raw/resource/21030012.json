@@ -5,6 +5,7 @@
     "Name": "原初佩枪·穿林",
     "Desc": "专为新手共鸣者特制的佩枪，低调朴实的外表下，蕴含着不容小觑的战斗力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030012_UI.T_IconWeapon21030012_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R3Gun001/R3Gun001Md20001/Model/R3Gun001Md20001.R3Gun001Md20001",
     "Stats": {
         "0": {
             "1": [

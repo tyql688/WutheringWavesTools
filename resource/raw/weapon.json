@@ -319,6 +319,16 @@
         "zh-Hans": "酩酊的英雄志",
         "ja": "酩酊のエポス"
     },
+    "21020056": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020056_UI.T_IconWeapon21020056_UI",
+        "rank": 5,
+        "type": 2,
+        "en": "Defier's Thorn",
+        "desc": "The surging tides force the crown of thorns upon the knight, out of which the knight forges this sword.\nUnburdened by the crown, the knight waded through the roaring waves unwaveringly.",
+        "ko": "숙명에 맞서는 관",
+        "zh-Hans": "不屈命定之冠",
+        "ja": "定めを覆す荊冠"
+    },
     "21030053": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030053_UI.T_IconWeapon21030053_UI",
         "rank": 3,
@@ -668,6 +678,16 @@
         "ko": "불빛의 심판",
         "zh-Hans": "焰光裁定",
         "ja": "焔光の裁き"
+    },
+    "21010036": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010036_UI.T_IconWeapon21010036_UI",
+        "rank": 5,
+        "type": 1,
+        "en": "Wildfire Mark",
+        "desc": "The young wolf races through the wilds, shedding every shadow that once held her back.\nThe lone wolf strides into the arena, cutting down each obstacle in her path.\nShe seizes victory. She claims glory. She raises everything she has high above. She belongs to the arena, but even more, she belongs to herself.",
+        "ko": "불길",
+        "zh-Hans": "焰痕",
+        "ja": "闘炎の爪痕"
     },
     "21020026": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020017_UI.T_IconWeapon21020017_UI",

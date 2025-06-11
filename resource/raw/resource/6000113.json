@@ -1,0 +1,105 @@
+{
+    "Id": 6000113,
+    "Code": "W86-",
+    "Name": "梦魇·凯尔匹",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33021_UI.T_IconMonsterHead_33021_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为梦魇·凯尔匹，对周围敌人造成{0}的冷凝伤害。\n在首位装配该声骸技能时，自身冷凝伤害加成提升{2}，气动伤害加成提升{3}；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成{1}的气动伤害。\n技能冷却：{4}秒",
+        "SimpleDesc": "幻形为梦魇·凯尔匹，对周围敌人造成冷凝伤害。\n在首位装配时，提高自身冷凝和气动伤害；使用延奏技能离场时可召唤梦魇·凯尔匹，对敌人造成气动伤害。",
+        "Param": [
+            [
+                "225.00%",
+                "225.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "270.00%",
+                "270.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "315.00%",
+                "315.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "360.00%",
+                "360.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ],
+            [
+                "405.00%",
+                "405.00%",
+                "12.00%",
+                "12.00%",
+                "25"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_33021_UI.T_MstSkil_33021_UI"
+    },
+    "Group": {
+        "16": {
+            "Id": 16,
+            "Name": "流云逝尽之空",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindError.T_IconElementAttriWindError",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "角色为敌人添加【风蚀效应】时，队伍中角色气动伤害提升{0}，自身气动伤害额外提升{1}，持续{2}秒。",
+                    "Param": [
+                        "15%",
+                        "15%",
+                        "20"
+                    ]
+                }
+            }
+        },
+        "17": {
+            "Id": 17,
+            "Name": "愿戴荣光之旅",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriWindErrorA.T_IconElementAttriWindErrorA",
+            "Color": "FFFFFF00",
+            "Set": {
+                "2": {
+                    "Desc": "气动伤害提升{0}",
+                    "Param": [
+                        "10%"
+                    ]
+                },
+                "5": {
+                    "Desc": "攻击命中存在【风蚀效应】的敌人时，自身暴击提升{0}，气动伤害提升{1}，持续{2}秒。",
+                    "Param": [
+                        "10%",
+                        "30%",
+                        "10"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 340000110
+}

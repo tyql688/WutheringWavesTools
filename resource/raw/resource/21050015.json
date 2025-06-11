@@ -5,6 +5,7 @@
     "Name": "漪澜浮录",
     "Desc": "触碰它——在冰寒的矩阵之间，仿佛能触碰到围绕在天地之间的那片湖，它将指引你找到一切答案。怀抱此音感仪，消灭所有阻挡在你与真理之间的敌人。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050015_UI.T_IconWeapon21050015_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device004/R5Device004Md20001/Model/R5Device004Md20001.R5Device004Md20001",
     "Stats": {
         "0": {
             "1": [

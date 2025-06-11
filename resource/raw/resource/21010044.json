@@ -5,6 +5,7 @@
     "Name": "永夜长明",
     "Desc": "为纪念夜归战士的常备不懈而打造的长刃。有诗赞曰：“漫漫长夜秋萧瑟，点点星光负长缨。”",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010044_UI.T_IconWeapon21010044_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife004/R4Knife004Md20001/Model/R4Knife004Md20001.R4Knife004Md20001",
     "Stats": {
         "0": {
             "1": [

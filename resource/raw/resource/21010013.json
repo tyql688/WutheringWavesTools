@@ -5,6 +5,7 @@
     "Name": "暗夜长刃·玄明",
     "Desc": "夜归常用长刃，经过历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010013_UI.T_IconWeapon21010013_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R3Knife003/R3Knife003Md20001/Model/R3Knife003Md20001.R3Knife003Md20001",
     "Stats": {
         "0": {
             "1": [

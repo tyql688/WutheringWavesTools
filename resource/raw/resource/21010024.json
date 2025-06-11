@@ -5,6 +5,7 @@
     "Name": "异响空灵",
     "Desc": "以乐谱频率为灵感创作的长刃。音阶下行，手持此刃，将以异响之力引领战局，佳作永不落幕。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010024_UI.T_IconWeapon21010024_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R4Knife002/R4Knife002Md20001/Model/R4Knife002Md20001.R4Knife002Md20001",
     "Stats": {
         "0": {
             "1": [

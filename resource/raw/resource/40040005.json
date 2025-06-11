@@ -1,0 +1,16 @@
+{
+    "Id": 40040005,
+    "Rarity": 5,
+    "Type": 5,
+    "Tag": [
+        "材料"
+    ],
+    "TagNum": [
+        9
+    ],
+    "Name": "声匣·七丘",
+    "Desc": "七丘的声匣多分布于地势险要处，但可以借助钩索快速锚定、靠近。",
+    "Bg": "声之领域崩解、坍缩后的产物，遍布在世界的各个角落，记录着未失实的过去。\n失乐园的布偶们似乎对这种声匣很感兴趣，或许可以换得一些好东西。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMst/T_IconMst_008_UI.T_IconMst_008_UI",
+    "Source": []
+}

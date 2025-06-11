@@ -1,0 +1,16 @@
+{
+    "Id": 80130043,
+    "Rarity": 5,
+    "Type": 0,
+    "Tag": [
+        "称号"
+    ],
+    "TagNum": [
+        51
+    ],
+    "Name": "虚域的临界点",
+    "Desc": "在「虚域危局·维度超验」中所获得的特殊奖励，记录着曾在挑战中达成的最高总负荷等级。",
+    "Bg": "泰缇斯系统构建越过既定界线的危局，而你超越极限，在危机前立起破局的信标。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Title_03_UI.T_IconA_Title_03_UI",
+    "Source": []
+}

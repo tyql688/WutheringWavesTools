@@ -5,6 +5,7 @@
     "Name": "诸方玄枢",
     "Desc": "以稷廷孤学为锻制要理，虽是轻械相衔，却密无罅缝，坚如金石。铸成之器，不为耀武、侵伐，但为破坼万难、钩深索隐。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040016_UI.T_IconWeapon21040016_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R5Knuckles501/R5Knuckles501Md20001_L/Model/R5Knuckles501Md20001_L.R5Knuckles501Md20001_L",
     "Stats": {
         "0": {
             "1": [

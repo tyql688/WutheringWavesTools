@@ -5,6 +5,7 @@
     "Name": "异度",
     "Desc": "因空中奇象而生的音感仪。锻造者将目睹异星的感受融于武器之中，使它看起来纤巧轻盈、却能沉稳恒定、应变有方。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050064_UI.T_IconWeapon21050064_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R4Device006/R4Device006Md20001/Model/R4Device006Md20001.R4Device006Md20001",
     "Stats": {
         "0": {
             "1": [

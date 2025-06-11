@@ -1,0 +1,20 @@
+{
+    "Id": 42601220,
+    "Rarity": 1,
+    "Type": 5,
+    "Tag": [
+        "突破材料"
+    ],
+    "TagNum": [
+        45
+    ],
+    "Name": "扁竹花",
+    "Desc": "用于角色突破的材料。",
+    "Bg": "于七丘平原生长的紫色花种。这种紫色的花随处可见，七丘人常用其制作香料，也常将其插放到家中的花瓶中。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_bianzhuhua_UI.T_IconC_bianzhuhua_UI",
+    "Source": [
+        "富集区采集获得",
+        "野外采集获得",
+        "银盔杂货铺购买"
+    ]
+}

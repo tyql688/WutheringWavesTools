@@ -5,6 +5,7 @@
     "Name": "暗夜矩阵·暝光",
     "Desc": "夜归常用音感仪，经历代军士改进，如今是战场上最常见的武器。“穿越长夜，胜利归来”不仅是必胜的决心，更是守护的誓言。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050013_UI.T_IconWeapon21050013_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R3Device003/R3Device003Md20001/Model/R3Device003Md20001.R3Device003Md20001",
     "Stats": {
         "0": {
             "1": [

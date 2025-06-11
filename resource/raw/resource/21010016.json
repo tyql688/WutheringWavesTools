@@ -5,6 +5,7 @@
     "Name": "苍鳞千嶂",
     "Desc": "千年高山为脊，万载江水为刃，天地自化，凝成此器。利刃出鞘，龙吟破空，顷刻间白波若山，海水震荡，声侔鬼神，惮赫千里。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21010016_UI.T_IconWeapon21010016_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knife/R5Knife501/R5Knife501Md20001/Model/R5Knife501Md20001.R5Knife501Md20001",
     "Stats": {
         "0": {
             "1": [

@@ -88,5 +88,9 @@
         5
     ],
     "IntensityCode": 0,
-    "MonsterInfo": 310000430
+    "MonsterInfo": 310000430,
+    "Phantom": {
+        "Name": "异相·幽翎火",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31043_UI.T_IconMonsterGoods_SG_31043_UI"
+    }
 }

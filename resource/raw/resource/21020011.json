@@ -5,6 +5,7 @@
     "Name": "教学迅刀",
     "Desc": "用于训练与教学的迅刀，只具备基础的功能。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020011_UI.T_IconWeapon21020011_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R2Sword001/R2Sword001Md20001/Model/R2Sword001Md20001.R2Sword001Md20001",
     "Stats": {
         "0": {
             "1": [

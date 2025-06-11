@@ -5,6 +5,7 @@
     "Name": "海的呢喃",
     "Desc": "在海中，有人看到星星，有人捞到月亮，也有人听到无数细语和呢喃。\n那些呢喃沁入她的毒里，流淌过每一条蜿蜒的河流。\n最后，那些呢喃将她包裹，像水母的伞，像海。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050030_UI.T_IconWeapon21050030_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device505/R5Device505Md20001/Model/R5Device505Md20001.R5Device505Md20001",
     "Stats": {
         "0": {
             "1": [

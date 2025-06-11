@@ -1,0 +1,16 @@
+{
+    "Id": 53003,
+    "Rarity": 5,
+    "Type": 7,
+    "Tag": [
+        "物资箱"
+    ],
+    "TagNum": [
+        16
+    ],
+    "Name": "桂枝宁芙",
+    "Desc": "获得后可以解锁对应角色的服饰，使角色获得不同的外观。",
+    "Bg": "室内温泉热气氤氲，纱帐后、池水中，戴着桂枝的宁芙向你投来柔和的目光——她想邀你一起度过，这来之不易的悠闲假期。",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_a_UI.T_IconRoleHead256_24_a_UI",
+    "Source": []
+}

@@ -5,6 +5,7 @@
     "Name": "戍关臂铠·拔山",
     "Desc": "初代今州令尹为纪念守住边关、帮助建城的神秘人，根据其指导打造出戍关系列。如今，它已成为新型武器研发绕不开的基石。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040053_UI.T_IconWeapon21040053_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R3Knuckles005/R3Knuckles005Md20001_L/Model/R3Knuckles005Md20001_L.R3Knuckles005Md20001_L",
     "Stats": {
         "0": {
             "1": [

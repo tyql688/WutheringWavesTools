@@ -1,0 +1,18 @@
+{
+    "Id": 80000061,
+    "Rarity": 4,
+    "Type": 1,
+    "Tag": [
+        "菜肴"
+    ],
+    "TagNum": [
+        23
+    ],
+    "Name": "「烈日」",
+    "Desc": "提高队伍中所有共鸣者30%共鸣效率，持续时间30分钟，在多人游戏中仅对自己的角色生效。",
+    "Bg": "七丘角斗士间盛行的运动功能饮料。\n喝了这杯「烈日」，一起战到最后！",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_086_UI.T_IconCook_086_UI",
+    "Source": [
+        "烹饪获得"
+    ]
+}

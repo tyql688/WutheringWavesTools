@@ -111,5 +111,8 @@
     ],
     "IntensityCode": 0,
     "MonsterInfo": 310000480,
-    "Child": 6010072
+    "Phantom": {
+        "Name": "异相·欺诈奇藏",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_31048_UI.T_IconMonsterGoods_SG_31048_UI"
+    }
 }

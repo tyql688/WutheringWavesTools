@@ -5,6 +5,7 @@
     "Name": "教学臂铠",
     "Desc": "用于训练与教学的臂铠，只具备基础的功能。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040011_UI.T_IconWeapon21040011_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R2Knuckles001/R2Knuckles001Md20001_L/Model/R2Knuckles001Md20001_L.R2Knuckles001Md20001_L",
     "Stats": {
         "0": {
             "1": [

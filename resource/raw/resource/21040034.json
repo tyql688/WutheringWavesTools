@@ -5,6 +5,7 @@
     "Name": "钢影拳-21丁型",
     "Desc": "华胥研究院在此前源能武器的基础上进行自主改进、研发的第一套极具实用性的高性能臂铠，代表着研究院的关怀与温情，稳固持久。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040034_UI.T_IconWeapon21040034_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R4Knuckles003/R4Knuckles003Md20001_L/Model/R4Knuckles003Md20001_L.R4Knuckles003Md20001_L",
     "Stats": {
         "0": {
             "1": [

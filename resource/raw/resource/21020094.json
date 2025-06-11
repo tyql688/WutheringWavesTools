@@ -5,6 +5,7 @@
     "Name": "风流的寓言诗",
     "Desc": "武器的设计灵感取材自剧目——《风流的寓言诗》。\n以浪客之风流，携笑语之巧妙，携此迅刀讲述寓言之诗——言辞风趣，却蕴藏着真理的暗喻。对明智之人而言，寓言的真谛显而易见；对那些不解之人而言，这不过是一笑置之的玩笑罢了。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020094_UI.T_IconWeapon21020094_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R4Sword009/R4Sword009Md20001/Model/R4Sword009Md20001.R4Sword009Md20001",
     "Stats": {
         "0": {
             "1": [

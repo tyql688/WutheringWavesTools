@@ -5,6 +5,7 @@
     "Name": "源能臂铠·测肆",
     "Desc": "为开发新型黑石武器，华胥研究院以技术验证为目的打造的测试型臂铠，除了不俗的武器性能，最大的特点是能通过攻击提高共鸣者身体活性治愈伤口。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040023_UI.T_IconWeapon21040023_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R3Knuckles002/R3Knuckles002Md20001_L/Model/R3Knuckles002Md20001_L.R3Knuckles002Md20001_L",
     "Stats": {
         "0": {
             "1": [

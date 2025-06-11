@@ -5,6 +5,7 @@
     "Name": "掣傀之手",
     "Desc": "金掌张开，绳索引动，凌空天象凝集其中，所向之敌会被无形的气势所压迫而无法动作，千束疾电造成的伤痕将永远无法愈合。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050016_UI.T_IconWeapon21050016_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device501/R5Device501Md20001/Model/R5Device501Md20001.R5Device501Md20001",
     "Stats": {
         "0": {
             "1": [

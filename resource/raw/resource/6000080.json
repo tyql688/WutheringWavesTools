@@ -94,5 +94,8 @@
     ],
     "IntensityCode": 1,
     "MonsterInfo": 320000290,
-    "Child": 6010080
+    "Phantom": {
+        "Name": "异相·琉璃刀伶",
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_32029_UI.T_IconMonsterGoods_SG_32029_UI"
+    }
 }

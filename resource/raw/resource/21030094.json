@@ -5,6 +5,7 @@
     "Name": "叙别的罗曼史",
     "Desc": "武器的设计灵感取材自剧目——《叙别的罗曼史》。\n手中紧握的佩枪，是争夺名利的承诺，是不得之爱的沉重，是未言的词句，颤抖中的沉默，更是永远无法实现的爱的阴影。终幕，它竟成了那最后的告别——扳机声扣响，幕布落下时的轰然震动，徒留一片无法言说的哀伤，回荡在未亡人的心头。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030094_UI.T_IconWeapon21030094_UI",
+    "Model": "/Game/Aki/Character/Weapon/Gun/R4Gun009/R4Gun009Md20001/Model/R4Gun009Md20001.R4Gun009Md20001",
     "Stats": {
         "0": {
             "1": [

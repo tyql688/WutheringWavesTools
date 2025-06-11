@@ -5,6 +5,7 @@
     "Name": "千古洑流",
     "Desc": "倾听它——在冷峭的刀刃之下，仿佛能听见极寒冰流暗涌的声音，思想渐渐如水般聚流成涡。跟随此流向翻飞，手中的迅刀将吞噬一切落入其中的敌人。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020015_UI.T_IconWeapon21020015_UI",
+    "Model": "/Game/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/R5Sword004Md20001.R5Sword004Md20001",
     "Stats": {
         "0": {
             "1": [

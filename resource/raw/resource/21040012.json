@@ -5,6 +5,7 @@
     "Name": "原初臂铠·磐岩",
     "Desc": "专为新手共鸣者特制的臂铠，低调朴实的外表下，蕴含着不容小觑的战斗力。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21040012_UI.T_IconWeapon21040012_UI",
+    "Model": "/Game/Aki/Character/Weapon/Knuckles/R3Knuckles001/R3Knuckles001Md20001_L/Model/R3Knuckles001Md20001_L.R3Knuckles001Md20001_L",
     "Stats": {
         "0": {
             "1": [

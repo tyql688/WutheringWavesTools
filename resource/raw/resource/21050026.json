@@ -5,6 +5,7 @@
     "Name": "琼枝冰绡",
     "Desc": "奇峰搜尽，遍览山林，玉印见证了无数胜景离跃纸上的生机，攀援而出的花枝指向即将新生的又一处深远画境。",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050026_UI.T_IconWeapon21050026_UI",
+    "Model": "/Game/Aki/Character/Weapon/Device/R5Device502/R5Device502Md20001/Model/R5Device502Md20001.R5Device502Md20001",
     "Stats": {
         "0": {
             "1": [
