@@ -3723,7 +3723,7 @@
                     "3",
                     "6%"
                 ],
-                "SimpleDesc": "露帕击杀<color=Highlight>标记</color>的目标时，重置<color=Highlight>共鸣技能</color>冷却时间。\n施放<color=Highlight>共鸣解放</color>时，队伍中角色获得<color=Highlight>荣光</color>：\n攻击时无视目标一定的热熔抗性，队伍中热熔属性角色角色越多，该效果越强。",
+                "SimpleDesc": "露帕击杀<color=Highlight>标记</color>的目标时，重置<color=Highlight>共鸣技能</color>冷却时间。\n施放<color=Highlight>共鸣解放</color>时，队伍中角色获得<color=Highlight>荣光</color>：\n攻击时无视目标一定的热熔抗性，队伍中热熔属性角色越多，该效果越强。",
                 "SimpleParam": [],
                 "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconLupa/SP_IconLupaD2.SP_IconLupaD2",
                 "Type": "固有技能",

@@ -60,6 +60,8 @@ def init_dir():
         PIC,
         WEAPON,
         PHANTOM,
+        ITEM,
+        MATERIAL,
         AVATAR,
         ROLE_PILE,
         RAW_DATA_PATH,

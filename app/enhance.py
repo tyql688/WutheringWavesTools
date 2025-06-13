@@ -3,7 +3,24 @@ import json
 from .char_model import CharModel
 from .echo_model import EchoModel
 from .material_model import MaterialItem
-from .RESOURCE_PATH import *
+from .RESOURCE_PATH import (
+    CHAR_ALIAS_PATH,
+    CHAR_ID_PATH,
+    CHAR_PATH,
+    ECHO_ALIAS_PATH,
+    ECHO_PATH,
+    ID_NAME_PATH,
+    INTENSITY_PATH,
+    MATERIAL_PATH,
+    MATERIAL_TAG,
+    RAW_CHARACTER_PATH,
+    RAW_ECHO_PATH,
+    RAW_ITEM_PATH,
+    RAW_RESOURCE_PATH,
+    RAW_WEAPON_PATH,
+    WEAPON_ALIAS_PATH,
+    WEAPON_PATH,
+)
 from .utils import lower_first_letter
 from .weapon_model import WeaponModel
 
@@ -91,22 +108,6 @@ def enhance():
 
     with open(ECHO_ALIAS_PATH, "w", encoding="utf-8") as f:
         json.dump(old_echo, f, ensure_ascii=False, indent=2)
-
-
-def enhance_role_skill():
-    from . import api
-
-    with open(RAW_CHARACTER_PATH, "r", encoding="utf-8") as f:
-        all_character = json.load(f)
-    api.download_skill_pic(all_character, is_force=False)
-
-
-def enhance_role_chain():
-    from . import api
-
-    with open(RAW_CHARACTER_PATH, "r", encoding="utf-8") as f:
-        all_character = json.load(f)
-    api.download_chain_pic(all_character, is_force=False)
 
 
 def enhance_weapon():

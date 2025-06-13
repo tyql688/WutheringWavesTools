@@ -1,3 +1,5 @@
+import asyncio
+
 import app.api
 import app.enhance
 
@@ -31,18 +33,16 @@ url_attr = {
 def download_url_attr():
     from app.RESOURCE_PATH import ATTRIBUTE_EFFECT_PATH
 
-    app.api.download_url(url_attr, ATTRIBUTE_EFFECT_PATH)
+    asyncio.run(app.api.async_download_url(url_attr, ATTRIBUTE_EFFECT_PATH))
 
 
 def new_version():
-    app.api.download()
+    asyncio.run(app.api.async_download())
     app.enhance.enhance()
     app.enhance.enhance_weapon()
     app.enhance.enhance_char()
     app.enhance.enhance_echo()
     app.enhance.enhance_material()
-    app.enhance.enhance_role_chain()
-    app.enhance.enhance_role_skill()
 
 
 def generate():

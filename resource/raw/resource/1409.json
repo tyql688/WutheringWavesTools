@@ -16,10 +16,10 @@
             "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC1.SP_RoleLabelC1",
             "Color": "77adff"
         },
-        "13": {
-            "Name": "伤害加深",
-            "Desc": "可以使队伍中特定角色伤害加深",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelC7.SP_RoleLabelC7",
+        "15": {
+            "Name": "气动伤害加深",
+            "Desc": "可以使队伍中特定角色气动伤害加深",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/RoleLabel/SP_RoleLabelD1.SP_RoleLabelD1",
             "Color": "ff7777"
         },
         "24": {
@@ -7303,7 +7303,7 @@
         },
         "2": {
             "Name": "听风潮斩断利刃",
-            "Desc": "施放<color=Highlight>共鸣解放·听骑士从心祈愿</color>后，使自身一定范围内的目标<color=Wind>【<a href=850009>风蚀效应</a>】</color>层数上限提升{0}层，自身下一次技能直接造成伤害后，对自身一定范围内的目标附加{1}层<color=Wind>【<a href=850009>风蚀效应</a>】</color>，并立刻结算1次目标身上的<color=Wind>【<a href=850009>风蚀效应</a>】</color>效果，此次结算不消耗<color=Wind>【<a href=850009>风蚀效应</a>】</color>层数。\n<color=Highlight>【卡提希娅】</color>普攻、重击、闪避反击、变奏技能倍率提升{2}，空中攻击倍率提升{3}。\n施放<color=Highlight>空中攻击·卡提希娅</color>后，每回收1种【剑之影】使<color=Highlight>共鸣技能·卡提希娅</color>的冷却时间减少1秒。",
+            "Desc": "施放<color=Highlight>共鸣解放·听骑士从心祈愿</color>后，使自身一定范围内的目标<color=Wind>【<a href=850009>风蚀效应</a>】</color>层数上限提升{0}层，自身技能下一次直接造成伤害后，对自身一定范围内的目标附加{1}层<color=Wind>【<a href=850009>风蚀效应</a>】</color>，并立刻结算1次目标身上的<color=Wind>【<a href=850009>风蚀效应</a>】</color>效果，此次结算不消耗<color=Wind>【<a href=850009>风蚀效应</a>】</color>层数。\n<color=Highlight>【卡提希娅】</color>普攻、重击、闪避反击、变奏技能倍率提升{2}，空中攻击倍率提升{3}。\n施放<color=Highlight>空中攻击·卡提希娅</color>后，每回收1种【剑之影】使<color=Highlight>共鸣技能·卡提希娅</color>的冷却时间减少1秒。",
             "Param": [
                 "3",
                 "3",
