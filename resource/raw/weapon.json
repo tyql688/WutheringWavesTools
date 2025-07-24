@@ -109,6 +109,16 @@
         "zh-Hans": "原初迅刀·鸣雨",
         "ja": "原初の迅刀・雨鳴"
     },
+    "21050066": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21050066_UI.T_IconWeapon21050066_UI",
+        "rank": 5,
+        "type": 5,
+        "en": "Lethean Elegy",
+        "desc": "I am not there. I do not die.\nI shall be death's companion—with euphoric delights I drown my fear, with the coming days I trade for the past.",
+        "ko": "잊혀진 피안의 슬픈 악장",
+        "zh-Hans": "幽冥的忘忧章",
+        "ja": "幽冥の忘憂曲"
+    },
     "21030015": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21030015_UI.T_IconWeapon21030015_UI",
         "rank": 5,

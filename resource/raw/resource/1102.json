@@ -3856,7 +3856,9 @@
             "BgDescription": "鹤发赤目，雪衣玄裳，面魌而执寒刃，持念咒诰，喑呜叱咤，惊驱疫厉，诸恶皆除。",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua2_UI.T_IconRole_Pile_shanhua2_UI",
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleSanhua2.T_ActivityRoleSanhua2",
-            "SortIndex": 10
+            "SortIndex": 10,
+            "Skeleton": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Sanhua/c_sanhua_2.c_sanhua_0-data",
+            "Atlas": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Sanhua/c_sanhua_2.c_sanhua_2-atlas"
         }
     },
     "Forte": {
@@ -3889,5 +3891,6 @@
             "长按普攻时，特殊能量上的光标将会移动"
         ]
     },
-    "Live2d": ""
+    "Live2d": "",
+    "Audio": "sanhua"
 }

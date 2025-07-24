@@ -4169,5 +4169,6 @@
             "施放第4段普攻和变奏技能时，可获得1格特殊能量。\n特殊能量满时，可施放强化重击"
         ]
     },
-    "Live2d": "XiaKong"
+    "Live2d": "XiaKong",
+    "Audio": "xiakong"
 }

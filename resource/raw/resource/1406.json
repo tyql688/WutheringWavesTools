@@ -989,6 +989,34 @@
                         "Format": null
                     },
                     "3": {
+                        "Name": "第三段伤害",
+                        "Param": [
+                            [
+                                "27.69%+1.00%*25",
+                                "29.96%+1.09%*25",
+                                "32.23%+1.17%*25",
+                                "35.41%+1.28%*25",
+                                "37.68%+1.37%*25",
+                                "40.29%+1.46%*25",
+                                "43.92%+1.59%*25",
+                                "47.56%+1.72%*25",
+                                "51.19%+1.85%*25",
+                                "55.05%+1.99%*25",
+                                "59.59%+2.16%*25",
+                                "64.13%+2.32%*25",
+                                "68.67%+2.49%*25",
+                                "73.21%+2.65%*25",
+                                "77.75%+2.81%*25",
+                                "82.29%+2.98%*25",
+                                "86.83%+3.14%*25",
+                                "91.37%+3.31%*25",
+                                "95.92%+3.47%*25",
+                                "100.46%+3.63%*25"
+                            ]
+                        ],
+                        "Format": null
+                    },
+                    "3-2": {
                         "Name": "第四段伤害",
                         "Param": [
                             [
@@ -4336,7 +4364,7 @@
             "SubDecName": "漂泊者-初始服饰",
             "BgDescription": "漂泊者常见的装束。这是他的起点，也将陪伴他至终点。",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
-            "Portrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+            "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
             "SortIndex": 0
         }
     },
@@ -4368,5 +4396,6 @@
             "特殊能量充满时，可以施放强化共鸣技能。"
         ]
     },
-    "Live2d": ""
+    "Live2d": "",
+    "Audio": "nanzhu"
 }

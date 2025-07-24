@@ -536,6 +536,12 @@ class Weapon_21050064(WeaponAbstract):
     name = "异度"
     
 
+class Weapon_21050066(WeaponAbstract):
+    id = 21050066
+    type = 5
+    name = "幽冥的忘忧章"
+    
+
 class Weapon_21050074(WeaponAbstract):
     id = 21050074
     type = 5
@@ -643,6 +649,7 @@ WavesWeaponRegister.register_class(Weapon_21050046.id, Weapon_21050046)
 WavesWeaponRegister.register_class(Weapon_21050053.id, Weapon_21050053)
 WavesWeaponRegister.register_class(Weapon_21050056.id, Weapon_21050056)
 WavesWeaponRegister.register_class(Weapon_21050064.id, Weapon_21050064)
+WavesWeaponRegister.register_class(Weapon_21050066.id, Weapon_21050066)
 WavesWeaponRegister.register_class(Weapon_21050074.id, Weapon_21050074)
 WavesWeaponRegister.register_class(Weapon_21050084.id, Weapon_21050084)
 WavesWeaponRegister.register_class(Weapon_21050094.id, Weapon_21050094)

@@ -5491,7 +5491,9 @@
             "BgDescription": "轻柔的织纱勾勒出曼妙的身姿，闪烁的水滴凝聚成华丽的宝石，落进泳池中，落进少女心里，泛起阵阵涟漪。",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Kelaita2_UI.T_IconRole_Pile_Kelaita2_UI",
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleKelaita.T_ActivityRoleKelaita",
-            "SortIndex": 10
+            "SortIndex": 10,
+            "Skeleton": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Kelaita1/c_kelaita_2.c_kelaita_2-data",
+            "Atlas": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Kelaita1/c_kelaita_2.c_kelaita_2-atlas"
         }
     },
     "Forte": {
@@ -5522,5 +5524,6 @@
             "【灵萃】用于提升共鸣解放倍率、施放重击·末路见行、缩短共鸣技能冷却时间。\n共鸣解放状态下进行特殊射击可获得【镜向箔】，充满后可释放致死以终。"
         ]
     },
-    "Live2d": "KeLaiTa"
+    "Live2d": "KeLaiTa",
+    "Audio": "kelaita"
 }

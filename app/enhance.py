@@ -1,8 +1,6 @@
 import json
+import os
 
-from .char_model import CharModel
-from .echo_model import EchoModel
-from .material_model import MaterialItem
 from .RESOURCE_PATH import (
     CHAR_ALIAS_PATH,
     CHAR_ID_PATH,
@@ -21,6 +19,9 @@ from .RESOURCE_PATH import (
     WEAPON_ALIAS_PATH,
     WEAPON_PATH,
 )
+from .char_model import CharModel
+from .echo_model import EchoModel
+from .material_model import MaterialItem
 from .utils import lower_first_letter
 from .weapon_model import WeaponModel
 
@@ -193,7 +194,10 @@ def enhance_material():
 
     _map = {}
     for _id in all_items.keys():
-        with open(f"{RAW_RESOURCE_PATH}/{_id}.json", "r", encoding="utf-8") as f:
+        _path = f"{RAW_RESOURCE_PATH}/{_id}.json"
+        if not os.path.exists(_path):
+            continue
+        with open(_path, "r", encoding="utf-8") as f:
             _detail = json.load(f)
         if _detail["Tag"][0] not in MATERIAL_TAG:
             continue

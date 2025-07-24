@@ -79,6 +79,22 @@
                     ]
                 }
             }
+        },
+        "19": {
+            "Id": 19,
+            "Name": "失序彼岸之梦",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.T_IconElementAttriDarkVision",
+            "Color": "FFFFFF00",
+            "Set": {
+                "3": {
+                    "Desc": "角色共鸣能量为{0}时，自身暴击率提升{1}，声骸技能伤害加成提升{2}。",
+                    "Param": [
+                        "0",
+                        "20%",
+                        "35%"
+                    ]
+                }
+            }
         }
     },
     "Rarity": [

@@ -236,6 +236,12 @@ class Char_1607(CharAbstract):
     starLevel = 5
     
 
+class Char_1608(CharAbstract):
+    id = 1608
+    name = "弗洛洛"
+    starLevel = 5
+    
+
 WavesCharRegister.register_class(Char_1102.id, Char_1102)
 WavesCharRegister.register_class(Char_1103.id, Char_1103)
 WavesCharRegister.register_class(Char_1104.id, Char_1104)
@@ -275,3 +281,4 @@ WavesCharRegister.register_class(Char_1604.id, Char_1604)
 WavesCharRegister.register_class(Char_1605.id, Char_1605)
 WavesCharRegister.register_class(Char_1606.id, Char_1606)
 WavesCharRegister.register_class(Char_1607.id, Char_1607)
+WavesCharRegister.register_class(Char_1608.id, Char_1608)

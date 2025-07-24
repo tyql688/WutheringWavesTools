@@ -1,0 +1,72 @@
+{
+    "Id": 6000116,
+    "Code": "X79-",
+    "Name": "共鸣回响·芬莱克",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34015_2_UI.T_IconMonsterHead_34015_2_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤【教律龙爪】，对周围敌人造成{0}的气动伤害。\n在首位装配该声骸技能时，自身气动伤害加成提升{1}，重击伤害加成提升{2}。\n技能冷却：{3}秒",
+        "SimpleDesc": "召唤【教律龙爪】，对周围敌人造成气动伤害。\n在首位装配时，提高自身气动和重击伤害。",
+        "Param": [
+            [
+                "152.00%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "182.40%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "212.80%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "243.20%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ],
+            [
+                "273.60%",
+                "12.00%",
+                "12.00%",
+                "20"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_Mstskil_34015_UI.T_Mstskil_34015_UI"
+    },
+    "Group": {
+        "19": {
+            "Id": 19,
+            "Name": "失序彼岸之梦",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.T_IconElementAttriDarkVision",
+            "Color": "FFFFFF00",
+            "Set": {
+                "3": {
+                    "Desc": "角色共鸣能量为{0}时，自身暴击率提升{1}，声骸技能伤害加成提升{2}。",
+                    "Param": [
+                        "0",
+                        "20%",
+                        "35%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 2,
+    "MonsterInfo": 340000151
+}

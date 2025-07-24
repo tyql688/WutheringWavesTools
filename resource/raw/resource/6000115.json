@@ -1,0 +1,72 @@
+{
+    "Id": 6000115,
+    "Code": "W93-",
+    "Name": "梦魇·赫卡忒",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34016_UI.T_IconMonsterHead_34016_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为梦魇·赫卡忒，向上跃起后下砸造成三段每段{0}的湮灭伤害。\n在首位装配该声骸技能时，自身湮灭伤害加成提升{1}，声骸技能伤害加成提升{2}。\n技能冷却：{3}秒",
+        "SimpleDesc": "幻形为梦魇·赫卡忒，向上跃起后下砸造成三段湮灭伤害。\n在首位装配时，提高自身湮灭和声骸技能伤害。",
+        "Param": [
+            [
+                "84.66%",
+                "12.00%",
+                "20.00%",
+                "25"
+            ],
+            [
+                "101.59%",
+                "12.00%",
+                "20.00%",
+                "25"
+            ],
+            [
+                "118.52%",
+                "12.00%",
+                "20.00%",
+                "25"
+            ],
+            [
+                "135.46%",
+                "12.00%",
+                "20.00%",
+                "25"
+            ],
+            [
+                "152.39%",
+                "12.00%",
+                "20.00%",
+                "25"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_34010_UI.MstSkil_34010_UI"
+    },
+    "Group": {
+        "19": {
+            "Id": 19,
+            "Name": "失序彼岸之梦",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.T_IconElementAttriDarkVision",
+            "Color": "FFFFFF00",
+            "Set": {
+                "3": {
+                    "Desc": "角色共鸣能量为{0}时，自身暴击率提升{1}，声骸技能伤害加成提升{2}。",
+                    "Param": [
+                        "0",
+                        "20%",
+                        "35%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 3,
+    "MonsterInfo": 340000160
+}

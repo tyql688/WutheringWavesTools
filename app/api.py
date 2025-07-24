@@ -77,7 +77,7 @@ async def async_download_all_detail(
 
     # 使用asyncio.gather并发下载所有资源
     await asyncio.gather(
-        *[download_one(resource_id) for resource_id in resource_id_list]
+        *[download_one(resource_id) for resource_id in resource_id_list], return_exceptions=True
     )
 
 
@@ -117,7 +117,8 @@ async def async_download_all_avatar_pic(
         *[
             download_one(resource_id, temp)
             for resource_id, temp in all_character.items()
-        ]
+        ],
+        return_exceptions=True,
     )
     print(f"{len(all_character)} avatars downloaded")
 
@@ -149,7 +150,7 @@ async def async_download_all_pile_pic(
 
     # 使用asyncio.gather并发下载所有立绘
     await asyncio.gather(
-        *[download_one(resource_id) for resource_id in all_character.keys()]
+        *[download_one(resource_id) for resource_id in all_character.keys()], return_exceptions=True
     )
     print(f"{len(all_character)} pile downloaded")
 
@@ -177,7 +178,7 @@ async def async_download_all_weapon_pic(
 
     # 使用asyncio.gather并发下载所有武器图片
     await asyncio.gather(
-        *[download_one(resource_id, temp) for resource_id, temp in all_weapon.items()]
+        *[download_one(resource_id, temp) for resource_id, temp in all_weapon.items()], return_exceptions=True,
     )
     print(f"{len(all_weapon)} weapons downloaded")
 
@@ -205,7 +206,7 @@ async def async_download_all_phantom_pic(
 
     # 使用asyncio.gather并发下载所有声骸图片
     await asyncio.gather(
-        *[download_one(resource_id, temp) for resource_id, temp in all_echo.items()]
+        *[download_one(resource_id, temp) for resource_id, temp in all_echo.items()], return_exceptions=True,
     )
     print(f"{len(all_echo)} echoes downloaded")
 
@@ -236,7 +237,7 @@ async def async_download_all_item_pic(
 
     # 使用asyncio.gather并发下载所有物品图片
     await asyncio.gather(
-        *[download_one(resource_id, temp) for resource_id, temp in all_items.items()]
+        *[download_one(resource_id, temp) for resource_id, temp in all_items.items()], return_exceptions=True,
     )
     print(f"{len(all_items)} items downloaded")
 
@@ -276,7 +277,7 @@ async def async_download_all_material_pic(
 
     # 使用asyncio.gather并发下载所有材料图片
     await asyncio.gather(
-        *[download_one(resource_id, temp) for resource_id, temp in all_items.items()]
+        *[download_one(resource_id, temp) for resource_id, temp in all_items.items()], return_exceptions=True,
     )
     print(f"{count} 突破材料 downloaded")
 
@@ -309,7 +310,7 @@ async def async_download_skill_pic(
 
                 download_tasks.append(download_one_skill(skill_id, skill, path))
 
-            await asyncio.gather(*download_tasks)
+            await asyncio.gather(*download_tasks, return_exceptions=True)
         except Exception as e:
             print(f"Error processing character {resource_id}: {e}")
 
@@ -333,7 +334,8 @@ async def async_download_skill_pic(
         *[
             download_character_skills(resource_id)
             for resource_id in all_character.keys()
-        ]
+        ],
+        return_exceptions=True,
     )
     print(f"{len(all_character)} skill downloaded")
 
@@ -366,7 +368,7 @@ async def async_download_chain_pic(
 
                 download_tasks.append(download_one_chain(chain_id, chain, path))
 
-            await asyncio.gather(*download_tasks)
+            await asyncio.gather(*download_tasks, return_exceptions=True)
         except Exception as e:
             print(f"Error processing character {resource_id}: {e}")
 
@@ -388,7 +390,8 @@ async def async_download_chain_pic(
         *[
             download_character_chains(resource_id)
             for resource_id in all_character.keys()
-        ]
+        ],
+        return_exceptions=True,
     )
     print(f"{len(all_character)} chain downloaded")
 
@@ -412,7 +415,8 @@ async def async_download_url(url_list, self_path=SELF_PATH):
 
         # 使用asyncio.gather并发下载所有URL
         await asyncio.gather(
-            *[download_one(name, url) for name, url in url_list.items()]
+            *[download_one(name, url) for name, url in url_list.items()],
+            return_exceptions=True,
         )
         print(f"{len(url_list)} urls downloaded")
 

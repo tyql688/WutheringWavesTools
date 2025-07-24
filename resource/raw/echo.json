@@ -304,6 +304,24 @@
         "zh-Hans": "雪鬃狼",
         "ja": "雪鬣狼"
     },
+    "6000115": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34016_UI.T_IconMonsterHead_34016_UI",
+        "code": "W93-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            19
+        ],
+        "en": "Nightmare: Hecate",
+        "intensity": 3,
+        "ko": "악몽 · 헤카테",
+        "zh-Hans": "梦魇·赫卡忒",
+        "ja": "ナイトメア・ヘカテー"
+    },
     "6000110": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31061_UI.T_IconMonsterHead_31061_UI",
         "code": "W35-",
@@ -334,8 +352,6 @@
             5
         ],
         "group": [
-            2,
-            3,
             10,
             12
         ],
@@ -402,6 +418,24 @@
         "ko": "유약 암괴",
         "zh-Hans": "釉变幼岩",
         "ja": "ミカーレの岩塊"
+    },
+    "6000118": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31064_UI.T_IconMonsterHead_31064_UI",
+        "code": "W26-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            19
+        ],
+        "en": "Nightmare: Glacio Predator",
+        "intensity": 0,
+        "ko": "악몽 · 상강의 사냥꾼",
+        "zh-Hans": "梦魇·破霜猎手",
+        "ja": "ナイトメア・破霜の狩人"
     },
     "390070052": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_021_UI.T_IconMonsterGoods_021_UI",
@@ -702,9 +736,6 @@
             5
         ],
         "group": [
-            5,
-            8,
-            9,
             10,
             14
         ],
@@ -983,6 +1014,24 @@
         "zh-Hans": "磐石守卫",
         "ja": "磐石の守り手"
     },
+    "6000116": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34015_2_UI.T_IconMonsterHead_34015_2_UI",
+        "code": "X79-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            19
+        ],
+        "en": "Reminiscence: Fenrico",
+        "intensity": 2,
+        "ko": "공명의 메아리 · 펜리코",
+        "zh-Hans": "共鸣回响·芬莱克",
+        "ja": "響き渡る共鳴・フェンリコ"
+    },
     "6000106": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34012_1_UI.T_IconMonsterHead_34012_1_UI",
         "code": "Z02-",
@@ -1021,6 +1070,24 @@
         "ko": "사지타리오",
         "zh-Hans": "赦罪节使",
         "ja": "サジタリオ"
+    },
+    "6000117": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31063_UI.T_IconMonsterHead_31063_UI",
+        "code": "W31-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            19
+        ],
+        "en": "Nightmare: Havoc Warrior",
+        "intensity": 0,
+        "ko": "악몽 · 심판하는 전사",
+        "zh-Hans": "梦魇·审判战士",
+        "ja": "ナイトメア・審判の戦士"
     },
     "6000103": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31057_UI.T_IconMonsterHead_31057_UI",
@@ -1412,7 +1479,8 @@
         ],
         "group": [
             11,
-            12
+            12,
+            19
         ],
         "en": "Fae Ignis",
         "intensity": 0,
@@ -1570,6 +1638,7 @@
         ],
         "en": "Nightmare: Inferno Rider",
         "intensity": 2,
+        "phantom": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_SG_33019_UI.T_IconMonsterGoods_SG_33019_UI",
         "ko": "악몽 · 지옥불 기사",
         "zh-Hans": "梦魇·燎照之骑",
         "ja": "ナイトメア・燎原の炎騎"
@@ -2115,6 +2184,24 @@
         "zh-Hans": "哀声鸷",
         "ja": "哀切の凶鳥"
     },
+    "6000119": {
+        "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32043_UI.T_IconMonsterHead_32043_UI",
+        "code": "W60-",
+        "rank": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "group": [
+            19
+        ],
+        "en": "Nightmare: Tambourinist",
+        "intensity": 1,
+        "ko": "악몽 · 초혼의 악사",
+        "zh-Hans": "梦魇·振铎乐师",
+        "ja": "ナイトメア・金鈴の楽手"
+    },
     "6000111": {
         "icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32034_UI.T_IconMonsterHead_32034_UI",
         "code": "W72-",
@@ -2184,7 +2271,8 @@
         ],
         "group": [
             13,
-            14
+            14,
+            19
         ],
         "en": "Chop Chop",
         "intensity": 1,

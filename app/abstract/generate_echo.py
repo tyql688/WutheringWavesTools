@@ -572,6 +572,31 @@ class Echo_6000114(EchoAbstract):
     name = "荣耀狮像"
     
 
+class Echo_6000115(EchoAbstract):
+    id = 6000115
+    name = "梦魇·赫卡忒"
+    
+
+class Echo_6000116(EchoAbstract):
+    id = 6000116
+    name = "共鸣回响·芬莱克"
+    
+
+class Echo_6000117(EchoAbstract):
+    id = 6000117
+    name = "梦魇·审判战士"
+    
+
+class Echo_6000118(EchoAbstract):
+    id = 6000118
+    name = "梦魇·破霜猎手"
+    
+
+class Echo_6000119(EchoAbstract):
+    id = 6000119
+    name = "梦魇·振铎乐师"
+    
+
 WavesEchoRegister.register_class(Echo_390070051.id, Echo_390070051)
 WavesEchoRegister.register_class(Echo_390070052.id, Echo_390070052)
 WavesEchoRegister.register_class(Echo_390070053.id, Echo_390070053)
@@ -686,3 +711,8 @@ WavesEchoRegister.register_class(Echo_6000111.id, Echo_6000111)
 WavesEchoRegister.register_class(Echo_6000112.id, Echo_6000112)
 WavesEchoRegister.register_class(Echo_6000113.id, Echo_6000113)
 WavesEchoRegister.register_class(Echo_6000114.id, Echo_6000114)
+WavesEchoRegister.register_class(Echo_6000115.id, Echo_6000115)
+WavesEchoRegister.register_class(Echo_6000116.id, Echo_6000116)
+WavesEchoRegister.register_class(Echo_6000117.id, Echo_6000117)
+WavesEchoRegister.register_class(Echo_6000118.id, Echo_6000118)
+WavesEchoRegister.register_class(Echo_6000119.id, Echo_6000119)

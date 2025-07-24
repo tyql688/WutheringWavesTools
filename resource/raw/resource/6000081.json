@@ -39,47 +39,6 @@
         "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/MstSkil_32030_UI.MstSkil_32030_UI"
     },
     "Group": {
-        "2": {
-            "Id": 2,
-            "Name": "熔山裂谷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriFire.T_IconElementAttriFire",
-            "Color": "FFFFFF00",
-            "Set": {
-                "2": {
-                    "Desc": "热熔伤害提升10%",
-                    "Param": [
-                        "10%"
-                    ]
-                },
-                "5": {
-                    "Desc": "使用共鸣技能时，热熔伤害提升30%，持续15秒",
-                    "Param": [
-                        "30%"
-                    ]
-                }
-            }
-        },
-        "3": {
-            "Id": 3,
-            "Name": "彻空冥雷",
-            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriThunder.T_IconElementAttriThunder",
-            "Color": "FFFFFF00",
-            "Set": {
-                "2": {
-                    "Desc": "导电伤害提升10%",
-                    "Param": [
-                        "10%"
-                    ]
-                },
-                "5": {
-                    "Desc": "使用重击或共鸣技能时，各获得一层导电伤害提升15%的效果，该效果可叠加两层，每层各持续15秒",
-                    "Param": [
-                        "15%",
-                        "15"
-                    ]
-                }
-            }
-        },
         "10": {
             "Id": 10,
             "Name": "凌冽决断之心",

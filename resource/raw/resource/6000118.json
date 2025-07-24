@@ -1,0 +1,72 @@
+{
+    "Id": 6000118,
+    "Code": "W26-",
+    "Name": "梦魇·破霜猎手",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31064_UI.T_IconMonsterHead_31064_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，召唤破霜猎手投掷冰矛，直接命中时造成{0}冷凝伤害，聚能过程造成10次{1}冷凝伤害，爆炸造成{2}冷凝伤害。\n技能冷却：{3}秒",
+        "SimpleDesc": "召唤破霜猎手投掷冰枪造成冷凝伤害。",
+        "Param": [
+            [
+                "28.80%",
+                "2.88%",
+                "14.40%",
+                "8"
+            ],
+            [
+                "33.12%",
+                "3.31%",
+                "16.56%",
+                "8"
+            ],
+            [
+                "37.44%",
+                "3.74%",
+                "18.72%",
+                "8"
+            ],
+            [
+                "41.76%",
+                "4.18%",
+                "20.88%",
+                "8"
+            ],
+            [
+                "46.08%",
+                "4.61%",
+                "23.04%",
+                "8"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_Z_Z9_UI.T_MstSkil_Z_Z9_UI"
+    },
+    "Group": {
+        "19": {
+            "Id": 19,
+            "Name": "失序彼岸之梦",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.T_IconElementAttriDarkVision",
+            "Color": "FFFFFF00",
+            "Set": {
+                "3": {
+                    "Desc": "角色共鸣能量为{0}时，自身暴击率提升{1}，声骸技能伤害加成提升{2}。",
+                    "Param": [
+                        "0",
+                        "20%",
+                        "35%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000640
+}

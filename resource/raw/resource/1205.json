@@ -4583,7 +4583,9 @@
             "BgDescription": "室内温泉热气氤氲，纱帐后、池水中，戴着桂枝的宁芙向你投来柔和的目光——她想邀你一起度过，这来之不易的悠闲假期。",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Changli2_UI.T_IconRole_Pile_Changli2_UI",
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChangli.T_ActivityRoleChangli",
-            "SortIndex": 10
+            "SortIndex": 10,
+            "Skeleton": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Changli1/c_changli_2.c_changli_2-data",
+            "Atlas": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Changli1/c_changli_2.c_changli_2-atlas"
         }
     },
     "Forte": {
@@ -4613,5 +4615,6 @@
             "特殊能量充满时，长按普攻可施放强化重击"
         ]
     },
-    "Live2d": "ChangLi"
+    "Live2d": "ChangLi",
+    "Audio": "changli"
 }

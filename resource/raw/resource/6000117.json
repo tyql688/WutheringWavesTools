@@ -1,0 +1,62 @@
+{
+    "Id": 6000117,
+    "Code": "W31-",
+    "Name": "梦魇·审判战士",
+    "Type": "",
+    "Intensity": "",
+    "Place": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31063_UI.T_IconMonsterHead_31063_UI",
+    "Skill": {
+        "Desc": "使用声骸技能，幻形为审判战士进行攻击，可连续使用最多3次，每段造成{0}湮灭伤害。\n技能冷却：{1}秒",
+        "SimpleDesc": "幻形为审判战士，连续对敌人进行攻击造成湮灭伤害。",
+        "Param": [
+            [
+                "107.33%",
+                "15"
+            ],
+            [
+                "123.43%",
+                "15"
+            ],
+            [
+                "139.53%",
+                "15"
+            ],
+            [
+                "155.63%",
+                "15"
+            ],
+            [
+                "171.73%",
+                "15"
+            ]
+        ],
+        "Icon": "/Game/Aki/UI/UIResources/Common/Image/MstSkill/T_MstSkil_Z_Z8_UI.T_MstSkil_Z_Z8_UI"
+    },
+    "Group": {
+        "19": {
+            "Id": 19,
+            "Name": "失序彼岸之梦",
+            "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.T_IconElementAttriDarkVision",
+            "Color": "FFFFFF00",
+            "Set": {
+                "3": {
+                    "Desc": "角色共鸣能量为{0}时，自身暴击率提升{1}，声骸技能伤害加成提升{2}。",
+                    "Param": [
+                        "0",
+                        "20%",
+                        "35%"
+                    ]
+                }
+            }
+        }
+    },
+    "Rarity": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "IntensityCode": 0,
+    "MonsterInfo": 310000630
+}

@@ -4069,6 +4069,32 @@
                         "Format": null
                     },
                     "13": {
+                        "Name": "游龙廻光持续时间",
+                        "Param": [
+                            [
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5",
+                                "5"
+                            ]
+                        ],
+                        "Format": "{0}秒"
+                    },
+                    "13-2": {
                         "Name": "同奏持续时间",
                         "Param": [
                             [
@@ -5425,7 +5451,9 @@
             "BgDescription": "花前月下，清歌曼舞。为典仪，更为——\n纪念你们最初的相会，同途的相知，以及共济风雪的相伴。\n“春回岁往谁与共，桃夭灼灼牵丝动。”",
             "Background": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.T_IconRole_Pile_jinxi2_UI",
             "Portrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi2.T_ActivityRoleJinxi2",
-            "SortIndex": 10
+            "SortIndex": 10,
+            "Skeleton": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Jinxi/c_jinxi_2.c_jinxi_0-data",
+            "Atlas": "/Game/Aki/UI/UIResources/Common/Spine/Skin/Jinxi/c_jinxi_2.c_jinxi_2-atlas"
         }
     },
     "Forte": {
@@ -5455,5 +5483,6 @@
             "今汐施放特定技能时，消耗特殊能量，增加该技能伤害倍率"
         ]
     },
-    "Live2d": "JinXi"
+    "Live2d": "JinXi",
+    "Audio": "jinxi"
 }
